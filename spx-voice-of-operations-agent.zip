@@ -1,3 +1,0 @@
-   cd spx-voice-of-operations-agent
-   git remote add origin https://github.com/<username>/spx-voice-of-operations-agent.git
-   git push -u origin main
