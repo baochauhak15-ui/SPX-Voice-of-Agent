@@ -1,0 +1,264 @@
+# SPX controlled VOC taxonomy — shared by Customer, Seller and Rider.
+#
+# Edit this file to change classification: no code change is needed.
+#   keywords.any        -> matched for every stakeholder
+#   keywords.<stk>      -> matched only for that stakeholder (customer | seller | rider)
+#   keywords starting with "re:" are regular expressions on the normalised (accent-free) text
+#   severity            -> operational severity 1 (cosmetic) .. 5 (money / parcel loss)
+#   owner               -> default owning team
+#   stakeholder_meaning -> how the same issue reads for each stakeholder (context kept in insights)
+#   must_explain        -> concepts (regex on normalised text) a Help Center article should cover
+#   question_patterns   -> questions stakeholders ask in VOC that an article should answer
+#
+# All keywords are written WITHOUT accents; text is normalised before matching
+# (see config/normalization.yaml: "giao hang" -> "giao", "hub" -> "kho", "ko" -> "khong", ...).
+
+version: 1
+# Sentiment guard: a comment with rating >= 3 that only contains positive markers is not a complaint,
+# even if it mentions a topic keyword ("Đối soát nhanh, tốt" is praise about Settlement).
+sentiment:
+  positive: [nhanh, tot, hai long, cam on, than thien, dung hen, dung gio, on dinh, nhiet tinh, hop ly, can than, "on"]
+  negative: [cham, tre, chua, khong, loi, sai, lau, mat, te, kem, thieu, van, qua han, huy, that bai, doi, cho]
+groups:
+  Delivery:
+    sub_issues:
+      Late delivery:
+        owner: Operations
+        severity: 3
+        keywords:
+          any: [giao tre, giao cham, tre hen, qua han, cham giao, giao lau, "re:giao .{0,12}tre", chua thay giao, lau qua ma chua]
+          customer: [chua nhan duoc hang, cho gan 1 tuan, "re:cho .{0,10}(ngay|tuan) (moi|van)"]
+          seller: [khach huy don, danh gia 1 sao]
+        stakeholder_meaning:
+          customer: My parcel arrived later than promised
+          seller: My shop's orders are delivered late -> cancellations and bad ratings
+          rider: Downstream delay on my route
+        must_explain:
+          - {label: expected delivery time, pattern: "du kien"}
+          - {label: how to contact support, pattern: "lien he"}
+      Failed delivery:
+        owner: Operations
+        severity: 3
+        keywords:
+          any: [giao khong thanh cong, giao that bai, that bai lan, tu choi nhan, bao giao that bai]
+        stakeholder_meaning:
+          customer: The delivery was marked failed although I was available
+          seller: My order failed delivery; I do not know what happens next
+          rider: Delivery could not be completed
+        must_explain:
+          - {label: re-delivery rule after 2 failed attempts, pattern: "(sau|toi da) 2 lan|lan (thu )?3|giao lai"}
+          - {label: when the parcel is returned to the shop, pattern: "hoan (ve|hang)|chuyen hoan"}
+        question_patterns:
+          - {label: "what happens after 2 failed attempts?", pattern: "(that bai|khong thanh cong).{0,20}(2 lan|lan 2)|buoc tiep theo|hoan ve shop hay|giao lan 3"}
+      Delivery attempt:
+        owner: Operations
+        severity: 2
+        keywords:
+          any: [giao lai nhieu lan, khong nghe may, goi khong nghe, "re:giao lai \\d+ lan"]
+        stakeholder_meaning:
+          customer: Too many or badly timed delivery attempts
+          seller: Repeated attempts delay my order completion
+          rider: Buyer unreachable, I have to re-attempt
+      Return:
+        owner: Operations
+        severity: 2
+        keywords:
+          any: [hang hoan, don hoan, hoan ve, chuyen hoan, "re:hoan ca tuan"]
+        stakeholder_meaning:
+          customer: Return is slow
+          seller: Returned goods arrive late or incomplete
+          rider: Return handling
+      Tracking / status:
+        owner: Operations
+        severity: 2
+        keywords:
+          any: [khong cap nhat, ket o kho, nam o kho, dung im, khong nhuc nhich, trang thai khong doi, xu ly tai kho, theo doi don khong, khong biet khi nao giao, dang o dau]
+          seller: [khach hoi don, "re:khach hoi .{0,15}lien tuc"]
+        stakeholder_meaning:
+          customer: I cannot see where my parcel is
+          seller: Order status is stuck; I cannot answer my buyers
+          rider: Scan / status not updated
+        must_explain:
+          - {label: stuck-status threshold, pattern: "\\d+ gio"}
+          - {label: how to raise a ticket, pattern: "yeu cau ho tro|lien he"}
+
+  Pickup:
+    sub_issues:
+      Pickup delay:
+        owner: Operations
+        severity: 2
+        keywords:
+          any: [lay hang tre, lay hang cham, den lay tre, ton o shop, "re:hen .{0,10}ma .{0,10}moi toi"]
+        stakeholder_meaning:
+          seller: Pickup arrives later than booked
+          rider: Pickup schedule is too tight
+      Pickup failure:
+        owner: Operations
+        severity: 3
+        keywords:
+          any: [khong ai den lay, khong den lay, huy lay hang, "re:hen lay hang ma khong"]
+        stakeholder_meaning:
+          seller: Nobody came to collect my parcels
+          rider: Pickup could not be completed
+      Handover issue:
+        owner: Operations
+        severity: 2
+        keywords:
+          any: [ban giao, chua dong goi, cho dong goi]
+        stakeholder_meaning:
+          seller: Handover with driver is not smooth
+          rider: Shop not ready at handover, I wait
+
+  Hub / Operations:
+    sub_issues:
+      Hub processing delay:
+        owner: Operations
+        severity: 4
+        keywords:
+          any: [kho xu ly, xu ly don qua cham, chia hang cham, ra kho tre, cho o kho, o kho qua lau, "re:(phai )?(doi|cho) \\d+ gio", giao khong kip, cho ca buoi, dung cho]
+        stakeholder_meaning:
+          customer: Parcel stuck at the sorting hub
+          seller: My orders are stuck at the hub
+          rider: I wait at the hub before I can start my route
+        must_explain:
+          - {label: maximum waiting time at hub, pattern: "\\d+ phut"}
+          - {label: escalation contact at hub, pattern: "truong ca"}
+      Lost / damaged parcel:
+        owner: Operations
+        severity: 5
+        keywords:
+          any: [mop meo, vo do, bi vo, hu hong, mat hang, that lac, bao da giao ma, khong con nguyen ven, bi mat]
+        stakeholder_meaning:
+          customer: My parcel is damaged or missing
+          seller: My goods were lost / damaged in transit
+          rider: Parcel damaged in the hub or on route
+      Wrong routing:
+        owner: Operations
+        severity: 3
+        keywords:
+          any: [sai tuyen, chia sai, chay vong, sai kho, giao nham]
+        stakeholder_meaning:
+          customer: Parcel sent to the wrong place
+          seller: Order mis-routed
+          rider: Parcels assigned to the wrong route
+
+  Payment / Money:
+    sub_issues:
+      COD:
+        owner: Finance
+        severity: 4
+        keywords:
+          any: [cod, tien cod, cod chua]
+        stakeholder_meaning:
+          customer: COD collection problem
+          seller: COD money has not been reconciled / paid out
+          rider: COD cash handover problem
+        must_explain:
+          - {label: payout timeline, pattern: "\\d+ ngay|chu ky"}
+          - {label: what to do when payout is late, pattern: "cham|tre|chua nhan|lien he"}
+      Settlement:
+        owner: Finance
+        severity: 4
+        keywords:
+          any: [doi soat, thu nhap, tinh thieu, tien ban hang, chua ve tai khoan]
+        stakeholder_meaning:
+          seller: Payout / reconciliation is late or wrong
+          rider: My earnings are calculated wrongly or late
+      Fee:
+        owner: Finance
+        severity: 2
+        keywords:
+          any: [phi van chuyen, bang gia, tinh sai phi, "re:phi .{0,12}cao"]
+        stakeholder_meaning:
+          customer: Shipping fee is too high / unclear
+          seller: Fee charged differs from the rate card
+          rider: Deductions unclear
+      Compensation:
+        owner: CS
+        severity: 4
+        keywords:
+          any: [boi thuong, den bu]
+        stakeholder_meaning:
+          customer: Compensation is slow
+          seller: Claim / compensation is slow or rejected
+          rider: Penalty / compensation dispute
+
+  Support:
+    sub_issues:
+      Slow response:
+        owner: CS
+        severity: 2
+        keywords:
+          any: [phan hoi cham, tong dai, cho mai khong ai nghe, khong ai nghe may, tra loi cham]
+        stakeholder_meaning:
+          customer: Support takes too long to answer
+          seller: Seller support is slow
+          rider: Driver support is slow
+      No response:
+        owner: CS
+        severity: 3
+        keywords:
+          any: [chua duoc phan hoi, khong ai tra loi, khong phan hoi, khong ai ho tro]
+        stakeholder_meaning:
+          customer: Nobody answered my request
+          seller: My ticket has no answer
+          rider: Nobody answered my request
+      Incorrect information:
+        owner: CS
+        severity: 3
+        keywords:
+          any: [tu van sai, thong tin sai, bao sai, noi sai]
+        stakeholder_meaning:
+          customer: I was told something that turned out wrong
+          seller: Support gave wrong guidance
+          rider: Wrong instructions
+      Repeated contact:
+        owner: SS
+        severity: 3
+        keywords:
+          any: [goi di goi lai, lien he nhieu lan, chua ai giai quyet, van chua duoc xu ly, "re:lien he .{0,12}\\d+ lan"]
+        stakeholder_meaning:
+          customer: I had to contact support several times
+          seller: My shop has to chase support repeatedly
+          rider: I had to report the same issue several times
+
+  Account / System:
+    sub_issues:
+      App issue:
+        owner: Product
+        severity: 3
+        keywords:
+          any: [app bi loi, loi app, app loi, bi van, khong dang nhap, loi dang nhap, app bi van, "re:app .{0,20}(loi|khong)"]
+        stakeholder_meaning:
+          customer: The SPX app does not work for me
+          seller: Seller tools are broken
+          rider: Driver app blocks my work (login / status update)
+      Account issue:
+        owner: Product
+        severity: 3
+        keywords:
+          any: [khoa tai khoan, tai khoan bi khoa, doi so dien thoai, quen mat khau]
+        stakeholder_meaning:
+          customer: Account access problem
+          seller: Shop account problem
+          rider: Driver account problem
+      Feature issue:
+        owner: Product
+        severity: 1
+        keywords:
+          any: [khong co tinh nang, can them tinh nang, tinh nang]
+        stakeholder_meaning:
+          customer: Missing feature
+          seller: Missing seller feature
+          rider: Missing driver feature
+
+  Other:
+    sub_issues:
+      Unclear:
+        owner: CS
+        severity: 1
+        keywords: {any: []}
+      Non-actionable:
+        owner: CS
+        severity: 0
+        keywords: {any: []}

@@ -1,0 +1,4104 @@
+feedback_id,stakeholder_type,true_sub_issue,is_incident
+CV000001,Customer,Positive,0
+CV000002,Customer,No response,0
+CV000003,Customer,Positive,0
+CV000004,Customer,Positive,0
+CV000005,Customer,Positive,0
+CV000006,Customer,No response,0
+CV000007,Customer,Positive,0
+CV000008,Customer,Lost / damaged parcel,0
+CV000009,Customer,Positive,0
+CV000010,Customer,Positive,0
+CV000011,Customer,Late delivery,0
+CV000012,Customer,Positive,0
+CV000013,Customer,Positive,0
+CV000014,Customer,Positive,0
+CV000015,Customer,Positive,0
+CV000016,Customer,Positive,0
+CV000017,Customer,Positive,0
+CV000018,Customer,Positive,0
+CV000019,Customer,Positive,0
+CV000020,Customer,Positive,0
+CV000021,Customer,Positive,0
+CV000022,Customer,Positive,0
+CV000023,Customer,Positive,0
+CV000024,Customer,Fee,0
+CV000025,Customer,Slow response,0
+CV000026,Customer,Positive,0
+CV000027,Customer,Positive,0
+CV000028,Customer,Positive,0
+CV000029,Customer,Positive,0
+CV000030,Customer,Positive,0
+CV000031,Customer,Late delivery,0
+CV000032,Customer,Unclear,0
+CV000033,Customer,Positive,0
+CV000034,Customer,Late delivery,0
+CV000035,Customer,Positive,0
+CV000036,Customer,Positive,0
+CV000037,Customer,Positive,0
+CV000038,Customer,Positive,0
+CV000039,Customer,Positive,0
+CV000040,Customer,Positive,0
+CV000041,Customer,Positive,0
+CV000042,Customer,Slow response,0
+CV000043,Customer,Positive,0
+CV000044,Customer,Late delivery,0
+CV000045,Customer,Positive,0
+SV000001,Seller,Positive,0
+SV000002,Seller,Positive,0
+SV000003,Seller,COD,0
+SV000004,Seller,Fee,0
+SV000005,Seller,Positive,0
+SV000006,Seller,Positive,0
+SV000007,Seller,Positive,0
+SV000008,Seller,Positive,0
+SV000009,Seller,Positive,0
+SV000010,Seller,Pickup failure,0
+SV000011,Seller,Late delivery,0
+SV000012,Seller,Positive,0
+SV000013,Seller,Positive,0
+SV000014,Seller,Positive,0
+SV000015,Seller,Positive,0
+SV000016,Seller,Positive,0
+SV000017,Seller,Pickup delay,0
+SV000018,Seller,Late delivery,0
+SV000019,Seller,Pickup failure,0
+SV000020,Seller,Unclear,0
+SV000021,Seller,Positive,0
+RV000001,Rider,Hub processing delay,0
+RV000002,Rider,Hub processing delay,0
+RV000003,Rider,App issue,0
+RV000004,Rider,App issue,0
+RV000005,Rider,Positive,0
+RV000006,Rider,Positive,0
+RV000007,Rider,Hub processing delay,0
+RV000008,Rider,Positive,0
+RV000009,Rider,Unclear,0
+RV000010,Rider,Positive,0
+CV000046,Customer,Late delivery,0
+CV000047,Customer,Positive,0
+CV000048,Customer,Positive,0
+CV000049,Customer,Positive,0
+CV000050,Customer,Positive,0
+CV000051,Customer,Positive,0
+CV000052,Customer,Positive,0
+CV000053,Customer,App issue,0
+CV000054,Customer,Lost / damaged parcel,0
+CV000055,Customer,Positive,0
+CV000056,Customer,Positive,0
+CV000057,Customer,Positive,0
+CV000058,Customer,Positive,0
+CV000059,Customer,Positive,0
+CV000060,Customer,Positive,0
+CV000061,Customer,Positive,0
+CV000062,Customer,Positive,0
+CV000063,Customer,Positive,0
+CV000064,Customer,Positive,0
+CV000065,Customer,Positive,0
+CV000066,Customer,Positive,0
+CV000067,Customer,Positive,0
+CV000068,Customer,Positive,0
+CV000069,Customer,Positive,0
+CV000070,Customer,Positive,0
+CV000071,Customer,Positive,0
+CV000072,Customer,Positive,0
+CV000073,Customer,Fee,0
+CV000074,Customer,Positive,0
+CV000075,Customer,Tracking / status,0
+CV000076,Customer,Positive,0
+CV000077,Customer,Positive,0
+CV000078,Customer,Positive,0
+CV000079,Customer,Positive,0
+CV000080,Customer,Positive,0
+CV000081,Customer,Fee,0
+CV000082,Customer,Positive,0
+CV000083,Customer,Positive,0
+CV000084,Customer,Positive,0
+CV000085,Customer,Positive,0
+CV000086,Customer,Positive,0
+CV000087,Customer,Positive,0
+CV000088,Customer,Positive,0
+CV000089,Customer,Tracking / status,0
+CV000090,Customer,Positive,0
+SV000022,Seller,Return,0
+SV000023,Seller,Fee,0
+SV000024,Seller,Positive,0
+SV000025,Seller,Return,0
+SV000026,Seller,COD,0
+SV000027,Seller,Positive,0
+SV000028,Seller,Fee,0
+SV000029,Seller,Return,0
+SV000030,Seller,Positive,0
+SV000031,Seller,Positive,0
+SV000032,Seller,Positive,0
+SV000033,Seller,Positive,0
+SV000034,Seller,Failed delivery,0
+SV000035,Seller,Positive,0
+SV000036,Seller,Positive,0
+SV000037,Seller,Positive,0
+SV000038,Seller,Positive,0
+SV000039,Seller,Tracking / status,0
+SV000040,Seller,Positive,0
+SV000041,Seller,Positive,0
+SV000042,Seller,Positive,0
+SV000043,Seller,Positive,0
+RV000011,Rider,Positive,0
+RV000012,Rider,Positive,0
+RV000013,Rider,Handover issue,0
+RV000014,Rider,Positive,0
+RV000015,Rider,Handover issue,0
+RV000016,Rider,Positive,0
+RV000017,Rider,Positive,0
+RV000018,Rider,Unclear,0
+RV000019,Rider,Positive,0
+RV000020,Rider,Settlement,0
+RV000021,Rider,Positive,0
+CV000091,Customer,Positive,0
+CV000092,Customer,Positive,0
+CV000093,Customer,Late delivery,0
+CV000094,Customer,Positive,0
+CV000095,Customer,Positive,0
+CV000096,Customer,Positive,0
+CV000097,Customer,Positive,0
+CV000098,Customer,Positive,0
+CV000099,Customer,Failed delivery,0
+CV000100,Customer,Positive,0
+CV000101,Customer,Lost / damaged parcel,0
+CV000102,Customer,Incorrect information,0
+CV000103,Customer,Positive,0
+CV000104,Customer,Positive,0
+CV000105,Customer,Late delivery,0
+CV000106,Customer,App issue,0
+CV000107,Customer,Positive,0
+CV000108,Customer,Positive,0
+CV000109,Customer,Positive,0
+CV000110,Customer,Lost / damaged parcel,0
+CV000111,Customer,Positive,0
+CV000112,Customer,Positive,0
+CV000113,Customer,Late delivery,0
+CV000114,Customer,Positive,0
+CV000115,Customer,Positive,0
+CV000116,Customer,Positive,0
+CV000117,Customer,Positive,0
+CV000118,Customer,Positive,0
+CV000119,Customer,Positive,0
+CV000120,Customer,Positive,0
+CV000121,Customer,Positive,0
+CV000122,Customer,Positive,0
+CV000123,Customer,Unclear,0
+CV000124,Customer,No response,0
+CV000125,Customer,Positive,0
+CV000126,Customer,Tracking / status,0
+CV000127,Customer,Positive,0
+CV000128,Customer,Positive,0
+CV000129,Customer,Positive,0
+CV000130,Customer,Positive,0
+CV000131,Customer,Positive,0
+SV000044,Seller,Positive,0
+SV000045,Seller,Positive,0
+SV000046,Seller,Positive,0
+SV000047,Seller,Positive,0
+SV000048,Seller,Return,0
+SV000049,Seller,Unclear,0
+SV000050,Seller,Positive,0
+SV000051,Seller,Settlement,0
+SV000052,Seller,Positive,0
+SV000053,Seller,Positive,0
+SV000054,Seller,Positive,0
+SV000055,Seller,Late delivery,0
+SV000056,Seller,Late delivery,0
+SV000057,Seller,Positive,0
+SV000058,Seller,Positive,0
+SV000059,Seller,Positive,0
+SV000060,Seller,Positive,0
+SV000061,Seller,Failed delivery,0
+SV000062,Seller,Positive,0
+SV000063,Seller,Positive,0
+RV000022,Rider,App issue,0
+RV000023,Rider,Positive,0
+RV000024,Rider,Positive,0
+RV000025,Rider,App issue,0
+RV000026,Rider,Positive,0
+RV000027,Rider,Positive,0
+RV000028,Rider,Settlement,0
+RV000029,Rider,Positive,0
+RV000030,Rider,Delivery attempt,0
+CV000132,Customer,Positive,0
+CV000133,Customer,Late delivery,0
+CV000134,Customer,Positive,0
+CV000135,Customer,Positive,0
+CV000136,Customer,Positive,0
+CV000137,Customer,Positive,0
+CV000138,Customer,Positive,0
+CV000139,Customer,Positive,0
+CV000140,Customer,Positive,0
+CV000141,Customer,Positive,0
+CV000142,Customer,Positive,0
+CV000143,Customer,Lost / damaged parcel,0
+CV000144,Customer,Positive,0
+CV000145,Customer,Positive,0
+CV000146,Customer,Unclear,0
+CV000147,Customer,Failed delivery,0
+CV000148,Customer,Positive,0
+CV000149,Customer,Positive,0
+CV000150,Customer,Positive,0
+CV000151,Customer,Positive,0
+CV000152,Customer,Positive,0
+CV000153,Customer,Positive,0
+CV000154,Customer,Positive,0
+CV000155,Customer,Positive,0
+CV000156,Customer,Positive,0
+CV000157,Customer,Positive,0
+CV000158,Customer,Late delivery,0
+CV000159,Customer,Positive,0
+CV000160,Customer,Positive,0
+CV000161,Customer,Positive,0
+CV000162,Customer,Tracking / status,0
+CV000163,Customer,Positive,0
+CV000164,Customer,Positive,0
+CV000165,Customer,Positive,0
+CV000166,Customer,Positive,0
+CV000167,Customer,Positive,0
+CV000168,Customer,Positive,0
+CV000169,Customer,Positive,0
+SV000064,Seller,Return,0
+SV000065,Seller,COD,0
+SV000066,Seller,Positive,0
+SV000067,Seller,Pickup delay,0
+SV000068,Seller,Positive,0
+SV000069,Seller,Positive,0
+SV000070,Seller,Pickup failure,0
+SV000071,Seller,Positive,0
+SV000072,Seller,Positive,0
+SV000073,Seller,Positive,0
+SV000074,Seller,Late delivery,0
+SV000075,Seller,Return,0
+SV000076,Seller,Positive,0
+SV000077,Seller,Positive,0
+SV000078,Seller,Positive,0
+SV000079,Seller,Return,0
+SV000080,Seller,Return,0
+SV000081,Seller,Positive,0
+SV000082,Seller,Positive,0
+SV000083,Seller,Positive,0
+RV000031,Rider,Positive,0
+RV000032,Rider,Settlement,0
+RV000033,Rider,Positive,0
+RV000034,Rider,Positive,0
+RV000035,Rider,App issue,0
+RV000036,Rider,Handover issue,0
+RV000037,Rider,Positive,0
+RV000038,Rider,Settlement,0
+RV000039,Rider,Positive,0
+CV000170,Customer,Positive,0
+CV000171,Customer,Lost / damaged parcel,0
+CV000172,Customer,Tracking / status,0
+CV000173,Customer,Positive,0
+CV000174,Customer,Positive,0
+CV000175,Customer,Positive,0
+CV000176,Customer,Positive,0
+CV000177,Customer,Positive,0
+CV000178,Customer,Positive,0
+CV000179,Customer,Positive,0
+CV000180,Customer,Positive,0
+CV000181,Customer,Positive,0
+CV000182,Customer,Positive,0
+CV000183,Customer,Positive,0
+CV000184,Customer,Positive,0
+CV000185,Customer,Positive,0
+CV000186,Customer,Positive,0
+CV000187,Customer,Tracking / status,0
+CV000188,Customer,Positive,0
+CV000189,Customer,Lost / damaged parcel,0
+CV000190,Customer,Positive,0
+CV000191,Customer,Positive,0
+CV000192,Customer,Positive,0
+CV000193,Customer,Late delivery,0
+CV000194,Customer,Positive,0
+CV000195,Customer,Positive,0
+CV000196,Customer,Positive,0
+CV000197,Customer,Positive,0
+CV000198,Customer,Failed delivery,0
+CV000199,Customer,Positive,0
+CV000200,Customer,Failed delivery,0
+CV000201,Customer,Positive,0
+CV000202,Customer,Positive,0
+CV000203,Customer,Lost / damaged parcel,0
+CV000204,Customer,Positive,0
+CV000205,Customer,Positive,0
+CV000206,Customer,Positive,0
+CV000207,Customer,Positive,0
+CV000208,Customer,Positive,0
+CV000209,Customer,Unclear,0
+SV000084,Seller,Late delivery,0
+SV000085,Seller,Positive,0
+SV000086,Seller,Unclear,0
+SV000087,Seller,Failed delivery,0
+SV000088,Seller,Positive,0
+SV000089,Seller,Settlement,0
+SV000090,Seller,Unclear,0
+SV000091,Seller,Positive,0
+SV000092,Seller,Pickup delay,0
+SV000093,Seller,Positive,0
+SV000094,Seller,Pickup delay,0
+SV000095,Seller,Positive,0
+SV000096,Seller,Pickup delay,0
+SV000097,Seller,Pickup failure,0
+SV000098,Seller,Return,0
+SV000099,Seller,Fee,0
+SV000100,Seller,Positive,0
+SV000101,Seller,Positive,0
+SV000102,Seller,COD,0
+RV000040,Rider,Positive,0
+RV000041,Rider,Positive,0
+RV000042,Rider,Positive,0
+RV000043,Rider,Positive,0
+RV000044,Rider,Hub processing delay,0
+RV000045,Rider,Delivery attempt,0
+RV000046,Rider,App issue,0
+RV000047,Rider,Positive,0
+RV000048,Rider,Delivery attempt,0
+CV000210,Customer,Positive,0
+CV000211,Customer,Positive,0
+CV000212,Customer,Positive,0
+CV000213,Customer,Late delivery,0
+CV000214,Customer,Tracking / status,0
+CV000215,Customer,Positive,0
+CV000216,Customer,Lost / damaged parcel,0
+CV000217,Customer,Late delivery,0
+CV000218,Customer,Positive,0
+CV000219,Customer,Positive,0
+CV000220,Customer,Positive,0
+CV000221,Customer,Positive,0
+CV000222,Customer,Positive,0
+CV000223,Customer,Positive,0
+CV000224,Customer,Positive,0
+CV000225,Customer,Positive,0
+CV000226,Customer,Positive,0
+CV000227,Customer,Positive,0
+CV000228,Customer,Positive,0
+CV000229,Customer,Lost / damaged parcel,0
+CV000230,Customer,Late delivery,0
+CV000231,Customer,Positive,0
+CV000232,Customer,Positive,0
+CV000233,Customer,Positive,0
+CV000234,Customer,Positive,0
+CV000235,Customer,Positive,0
+CV000236,Customer,Positive,0
+CV000237,Customer,Positive,0
+CV000238,Customer,Positive,0
+CV000239,Customer,Positive,0
+CV000240,Customer,Positive,0
+CV000241,Customer,Positive,0
+CV000242,Customer,Positive,0
+CV000243,Customer,Positive,0
+CV000244,Customer,Late delivery,0
+CV000245,Customer,Positive,0
+CV000246,Customer,Lost / damaged parcel,0
+CV000247,Customer,Unclear,0
+CV000248,Customer,Positive,0
+CV000249,Customer,Positive,0
+CV000250,Customer,Positive,0
+SV000103,Seller,Return,0
+SV000104,Seller,Positive,0
+SV000105,Seller,Positive,0
+SV000106,Seller,Settlement,0
+SV000107,Seller,Late delivery,0
+SV000108,Seller,Pickup failure,0
+SV000109,Seller,Positive,0
+SV000110,Seller,Positive,0
+SV000111,Seller,Positive,0
+SV000112,Seller,Positive,0
+SV000113,Seller,Positive,0
+SV000114,Seller,Positive,0
+SV000115,Seller,Positive,0
+SV000116,Seller,Positive,0
+SV000117,Seller,Positive,0
+SV000118,Seller,Positive,0
+SV000119,Seller,Positive,0
+SV000120,Seller,Positive,0
+SV000121,Seller,Positive,0
+SV000122,Seller,Positive,0
+SV000123,Seller,Positive,0
+RV000049,Rider,Positive,0
+RV000050,Rider,Positive,0
+RV000051,Rider,Positive,0
+RV000052,Rider,App issue,0
+RV000053,Rider,Positive,0
+RV000054,Rider,Positive,0
+RV000055,Rider,Positive,0
+RV000056,Rider,Wrong routing,0
+RV000057,Rider,Positive,0
+CV000251,Customer,Positive,0
+CV000252,Customer,Positive,0
+CV000253,Customer,Positive,0
+CV000254,Customer,Positive,0
+CV000255,Customer,Positive,0
+CV000256,Customer,Unclear,0
+CV000257,Customer,Lost / damaged parcel,0
+CV000258,Customer,Positive,0
+CV000259,Customer,Positive,0
+CV000260,Customer,Positive,0
+CV000261,Customer,Positive,0
+CV000262,Customer,Unclear,0
+CV000263,Customer,Late delivery,0
+CV000264,Customer,Positive,0
+CV000265,Customer,Positive,0
+CV000266,Customer,Positive,0
+CV000267,Customer,Positive,0
+CV000268,Customer,Positive,0
+CV000269,Customer,Slow response,0
+CV000270,Customer,Positive,0
+CV000271,Customer,Positive,0
+CV000272,Customer,Positive,0
+CV000273,Customer,Lost / damaged parcel,0
+CV000274,Customer,Positive,0
+CV000275,Customer,Late delivery,0
+CV000276,Customer,Tracking / status,0
+CV000277,Customer,Positive,0
+CV000278,Customer,Positive,0
+CV000279,Customer,Positive,0
+CV000280,Customer,Tracking / status,0
+CV000281,Customer,Late delivery,0
+CV000282,Customer,Late delivery,0
+CV000283,Customer,Lost / damaged parcel,0
+CV000284,Customer,Positive,0
+CV000285,Customer,Tracking / status,0
+CV000286,Customer,Positive,0
+CV000287,Customer,Unclear,0
+CV000288,Customer,Positive,0
+SV000124,Seller,Late delivery,0
+SV000125,Seller,Tracking / status,0
+SV000126,Seller,Positive,0
+SV000127,Seller,Positive,0
+SV000128,Seller,Positive,0
+SV000129,Seller,Positive,0
+SV000130,Seller,Positive,0
+SV000131,Seller,Positive,0
+SV000132,Seller,Positive,0
+SV000133,Seller,Positive,0
+SV000134,Seller,Positive,0
+SV000135,Seller,Positive,0
+SV000136,Seller,Positive,0
+SV000137,Seller,Positive,0
+SV000138,Seller,Pickup delay,0
+SV000139,Seller,Positive,0
+SV000140,Seller,Fee,0
+SV000141,Seller,Positive,0
+SV000142,Seller,Late delivery,0
+RV000058,Rider,Positive,0
+RV000059,Rider,Positive,0
+RV000060,Rider,Positive,0
+RV000061,Rider,Positive,0
+RV000062,Rider,Delivery attempt,0
+RV000063,Rider,Delivery attempt,0
+RV000064,Rider,Positive,0
+RV000065,Rider,Positive,0
+RV000066,Rider,Positive,0
+RV000067,Rider,Positive,0
+CV000289,Customer,Positive,0
+CV000290,Customer,Positive,0
+CV000291,Customer,Positive,0
+CV000292,Customer,Positive,0
+CV000293,Customer,Positive,0
+CV000294,Customer,Late delivery,0
+CV000295,Customer,Lost / damaged parcel,0
+CV000296,Customer,Failed delivery,0
+CV000297,Customer,Late delivery,0
+CV000298,Customer,Positive,0
+CV000299,Customer,Late delivery,0
+CV000300,Customer,Lost / damaged parcel,0
+CV000301,Customer,Positive,0
+CV000302,Customer,Positive,0
+CV000303,Customer,Positive,0
+CV000304,Customer,Positive,0
+CV000305,Customer,Unclear,0
+CV000306,Customer,Positive,0
+CV000307,Customer,Positive,0
+CV000308,Customer,Positive,0
+CV000309,Customer,Positive,0
+CV000310,Customer,Positive,0
+CV000311,Customer,Positive,0
+CV000312,Customer,Late delivery,0
+CV000313,Customer,Positive,0
+CV000314,Customer,Positive,0
+CV000315,Customer,Positive,0
+CV000316,Customer,Positive,0
+CV000317,Customer,Lost / damaged parcel,0
+CV000318,Customer,Positive,0
+CV000319,Customer,Positive,0
+CV000320,Customer,App issue,0
+CV000321,Customer,Positive,0
+CV000322,Customer,Positive,0
+CV000323,Customer,Positive,0
+CV000324,Customer,Positive,0
+CV000325,Customer,App issue,0
+CV000326,Customer,Tracking / status,0
+CV000327,Customer,Positive,0
+CV000328,Customer,App issue,0
+CV000329,Customer,Positive,0
+CV000330,Customer,Positive,0
+CV000331,Customer,Tracking / status,0
+CV000332,Customer,Positive,0
+CV000333,Customer,Positive,0
+SV000143,Seller,Positive,0
+SV000144,Seller,Positive,0
+SV000145,Seller,Positive,0
+SV000146,Seller,Positive,0
+SV000147,Seller,Positive,0
+SV000148,Seller,Positive,0
+SV000149,Seller,Positive,0
+SV000150,Seller,Positive,0
+SV000151,Seller,Positive,0
+SV000152,Seller,Positive,0
+SV000153,Seller,Positive,0
+SV000154,Seller,Pickup delay,0
+SV000155,Seller,Positive,0
+SV000156,Seller,Unclear,0
+SV000157,Seller,Compensation,0
+SV000158,Seller,Positive,0
+SV000159,Seller,Positive,0
+SV000160,Seller,Pickup delay,0
+SV000161,Seller,Pickup delay,0
+SV000162,Seller,Failed delivery,0
+SV000163,Seller,Unclear,0
+RV000068,Rider,Positive,0
+RV000069,Rider,Positive,0
+RV000070,Rider,Delivery attempt,0
+RV000071,Rider,Settlement,0
+RV000072,Rider,Hub processing delay,0
+RV000073,Rider,Positive,0
+RV000074,Rider,Positive,0
+RV000075,Rider,Delivery attempt,0
+RV000076,Rider,Hub processing delay,0
+RV000077,Rider,Positive,0
+RV000078,Rider,Unclear,0
+CV000334,Customer,Late delivery,0
+CV000335,Customer,Positive,0
+CV000336,Customer,Positive,0
+CV000337,Customer,Positive,0
+CV000338,Customer,Positive,0
+CV000339,Customer,Failed delivery,0
+CV000340,Customer,Incorrect information,0
+CV000341,Customer,Late delivery,0
+CV000342,Customer,Positive,0
+CV000343,Customer,Positive,0
+CV000344,Customer,Lost / damaged parcel,0
+CV000345,Customer,Late delivery,0
+CV000346,Customer,Positive,0
+CV000347,Customer,Positive,0
+CV000348,Customer,Failed delivery,0
+CV000349,Customer,Positive,0
+CV000350,Customer,Late delivery,0
+CV000351,Customer,Positive,0
+CV000352,Customer,Positive,0
+CV000353,Customer,Positive,0
+CV000354,Customer,Lost / damaged parcel,0
+CV000355,Customer,Positive,0
+CV000356,Customer,Positive,0
+CV000357,Customer,Positive,0
+CV000358,Customer,Positive,0
+CV000359,Customer,Positive,0
+CV000360,Customer,Positive,0
+CV000361,Customer,Lost / damaged parcel,0
+CV000362,Customer,Positive,0
+CV000363,Customer,Positive,0
+CV000364,Customer,Positive,0
+CV000365,Customer,Failed delivery,0
+CV000366,Customer,Tracking / status,0
+CV000367,Customer,No response,0
+CV000368,Customer,Lost / damaged parcel,0
+CV000369,Customer,Failed delivery,0
+CV000370,Customer,Late delivery,0
+CV000371,Customer,Positive,0
+CV000372,Customer,Positive,0
+CV000373,Customer,Slow response,0
+CV000374,Customer,Positive,0
+SV000164,Seller,Positive,0
+SV000165,Seller,Unclear,0
+SV000166,Seller,Positive,0
+SV000167,Seller,Failed delivery,0
+SV000168,Seller,Compensation,0
+SV000169,Seller,Positive,0
+SV000170,Seller,Positive,0
+SV000171,Seller,Positive,0
+SV000172,Seller,Compensation,0
+SV000173,Seller,Positive,0
+SV000174,Seller,Unclear,0
+SV000175,Seller,Positive,0
+SV000176,Seller,Positive,0
+SV000177,Seller,Positive,0
+SV000178,Seller,Repeated contact,0
+SV000179,Seller,COD,0
+SV000180,Seller,Pickup failure,0
+SV000181,Seller,Failed delivery,0
+SV000182,Seller,Positive,0
+SV000183,Seller,Positive,0
+SV000184,Seller,Positive,0
+RV000079,Rider,Positive,0
+RV000080,Rider,Positive,0
+RV000081,Rider,Positive,0
+RV000082,Rider,Delivery attempt,0
+RV000083,Rider,Positive,0
+RV000084,Rider,Positive,0
+RV000085,Rider,Positive,0
+RV000086,Rider,Delivery attempt,0
+RV000087,Rider,Positive,0
+RV000088,Rider,Positive,0
+RV000089,Rider,Positive,0
+CV000375,Customer,Lost / damaged parcel,0
+CV000376,Customer,Unclear,0
+CV000377,Customer,Tracking / status,0
+CV000378,Customer,Failed delivery,0
+CV000379,Customer,Late delivery,0
+CV000380,Customer,Positive,0
+CV000381,Customer,Positive,0
+CV000382,Customer,Fee,0
+CV000383,Customer,Positive,0
+CV000384,Customer,Positive,0
+CV000385,Customer,Positive,0
+CV000386,Customer,Positive,0
+CV000387,Customer,No response,0
+CV000388,Customer,Positive,0
+CV000389,Customer,Positive,0
+CV000390,Customer,Positive,0
+CV000391,Customer,Positive,0
+CV000392,Customer,Positive,0
+CV000393,Customer,Positive,0
+CV000394,Customer,Positive,0
+CV000395,Customer,Positive,0
+CV000396,Customer,Positive,0
+CV000397,Customer,Positive,0
+CV000398,Customer,Positive,0
+CV000399,Customer,Positive,0
+CV000400,Customer,Lost / damaged parcel,0
+CV000401,Customer,Late delivery,0
+CV000402,Customer,Positive,0
+CV000403,Customer,Positive,0
+CV000404,Customer,Positive,0
+CV000405,Customer,Positive,0
+CV000406,Customer,Positive,0
+CV000407,Customer,Positive,0
+CV000408,Customer,Positive,0
+CV000409,Customer,Positive,0
+CV000410,Customer,Late delivery,0
+CV000411,Customer,Positive,0
+CV000412,Customer,Positive,0
+CV000413,Customer,Unclear,0
+CV000414,Customer,Positive,0
+CV000415,Customer,Positive,0
+SV000185,Seller,Positive,0
+SV000186,Seller,Positive,0
+SV000187,Seller,Positive,0
+SV000188,Seller,Positive,0
+SV000189,Seller,Positive,0
+SV000190,Seller,Positive,0
+SV000191,Seller,Tracking / status,0
+SV000192,Seller,Tracking / status,0
+SV000193,Seller,Positive,0
+SV000194,Seller,Positive,0
+SV000195,Seller,COD,0
+SV000196,Seller,Positive,0
+SV000197,Seller,Late delivery,0
+SV000198,Seller,Positive,0
+SV000199,Seller,COD,0
+SV000200,Seller,Positive,0
+SV000201,Seller,Compensation,0
+SV000202,Seller,Pickup delay,0
+SV000203,Seller,Failed delivery,0
+SV000204,Seller,COD,0
+SV000205,Seller,Positive,0
+RV000090,Rider,Handover issue,0
+RV000091,Rider,Positive,0
+RV000092,Rider,Hub processing delay,0
+RV000093,Rider,Settlement,0
+RV000094,Rider,Handover issue,0
+RV000095,Rider,Delivery attempt,0
+RV000096,Rider,Handover issue,0
+RV000097,Rider,Positive,0
+RV000098,Rider,Positive,0
+RV000099,Rider,Handover issue,0
+CV000416,Customer,Late delivery,0
+CV000417,Customer,Positive,0
+CV000418,Customer,Positive,0
+CV000419,Customer,Positive,0
+CV000420,Customer,Positive,0
+CV000421,Customer,Late delivery,0
+CV000422,Customer,Positive,0
+CV000423,Customer,Tracking / status,0
+CV000424,Customer,Positive,0
+CV000425,Customer,App issue,0
+CV000426,Customer,Unclear,0
+CV000427,Customer,Positive,0
+CV000428,Customer,Fee,0
+CV000429,Customer,Positive,0
+CV000430,Customer,Positive,0
+CV000431,Customer,Tracking / status,0
+CV000432,Customer,Positive,0
+CV000433,Customer,Positive,0
+CV000434,Customer,Positive,0
+CV000435,Customer,Positive,0
+CV000436,Customer,Positive,0
+CV000437,Customer,Positive,0
+CV000438,Customer,Unclear,0
+CV000439,Customer,Positive,0
+CV000440,Customer,Lost / damaged parcel,0
+CV000441,Customer,Tracking / status,0
+CV000442,Customer,Lost / damaged parcel,0
+CV000443,Customer,Positive,0
+CV000444,Customer,Unclear,0
+CV000445,Customer,Late delivery,0
+CV000446,Customer,Positive,0
+CV000447,Customer,Positive,0
+CV000448,Customer,Positive,0
+CV000449,Customer,Positive,0
+CV000450,Customer,Positive,0
+CV000451,Customer,Positive,0
+CV000452,Customer,Positive,0
+CV000453,Customer,Lost / damaged parcel,0
+CV000454,Customer,Positive,0
+CV000455,Customer,Positive,0
+CV000456,Customer,Positive,0
+CV000457,Customer,Positive,0
+CV000458,Customer,Positive,0
+CV000459,Customer,Positive,0
+CV000460,Customer,Positive,0
+CV000461,Customer,Positive,0
+CV000462,Customer,Positive,0
+CV000463,Customer,Positive,0
+CV000464,Customer,Late delivery,0
+SV000206,Seller,Positive,0
+SV000207,Seller,Return,0
+SV000208,Seller,Unclear,0
+SV000209,Seller,Positive,0
+SV000210,Seller,COD,0
+SV000211,Seller,Positive,0
+SV000212,Seller,Late delivery,0
+SV000213,Seller,COD,0
+SV000214,Seller,Unclear,0
+SV000215,Seller,Positive,0
+SV000216,Seller,Positive,0
+SV000217,Seller,Positive,0
+SV000218,Seller,Positive,0
+SV000219,Seller,Positive,0
+SV000220,Seller,Positive,0
+SV000221,Seller,COD,0
+SV000222,Seller,Positive,0
+SV000223,Seller,Positive,0
+RV000100,Rider,Settlement,0
+RV000101,Rider,Positive,0
+RV000102,Rider,Positive,0
+RV000103,Rider,Delivery attempt,0
+RV000104,Rider,Delivery attempt,0
+RV000105,Rider,Hub processing delay,0
+RV000106,Rider,Positive,0
+RV000107,Rider,Positive,0
+RV000108,Rider,Settlement,0
+RV000109,Rider,Positive,0
+CV000465,Customer,Positive,0
+CV000466,Customer,Late delivery,0
+CV000467,Customer,Positive,0
+CV000468,Customer,Positive,0
+CV000469,Customer,Lost / damaged parcel,0
+CV000470,Customer,Positive,0
+CV000471,Customer,Fee,0
+CV000472,Customer,Positive,0
+CV000473,Customer,Positive,0
+CV000474,Customer,Failed delivery,0
+CV000475,Customer,Positive,0
+CV000476,Customer,Positive,0
+CV000477,Customer,Positive,0
+CV000478,Customer,Positive,0
+CV000479,Customer,Positive,0
+CV000480,Customer,Positive,0
+CV000481,Customer,Positive,0
+CV000482,Customer,Tracking / status,0
+CV000483,Customer,Positive,0
+CV000484,Customer,Positive,0
+CV000485,Customer,Late delivery,0
+CV000486,Customer,Positive,0
+CV000487,Customer,Positive,0
+CV000488,Customer,Positive,0
+CV000489,Customer,Positive,0
+CV000490,Customer,Positive,0
+CV000491,Customer,Positive,0
+CV000492,Customer,Positive,0
+CV000493,Customer,Positive,0
+CV000494,Customer,Positive,0
+CV000495,Customer,Positive,0
+CV000496,Customer,Positive,0
+CV000497,Customer,Slow response,0
+CV000498,Customer,Positive,0
+CV000499,Customer,Positive,0
+CV000500,Customer,Positive,0
+CV000501,Customer,Positive,0
+CV000502,Customer,Positive,0
+CV000503,Customer,Positive,0
+CV000504,Customer,Positive,0
+CV000505,Customer,Positive,0
+CV000506,Customer,Positive,0
+SV000224,Seller,Positive,0
+SV000225,Seller,Return,0
+SV000226,Seller,Late delivery,0
+SV000227,Seller,Positive,0
+SV000228,Seller,Positive,0
+SV000229,Seller,Tracking / status,0
+SV000230,Seller,Positive,0
+SV000231,Seller,Positive,0
+SV000232,Seller,Late delivery,0
+SV000233,Seller,Unclear,0
+SV000234,Seller,Positive,0
+SV000235,Seller,Unclear,0
+SV000236,Seller,Tracking / status,0
+SV000237,Seller,Positive,0
+SV000238,Seller,Return,0
+SV000239,Seller,Positive,0
+SV000240,Seller,Positive,0
+SV000241,Seller,Positive,0
+SV000242,Seller,Positive,0
+RV000110,Rider,Positive,0
+RV000111,Rider,Hub processing delay,0
+RV000112,Rider,Positive,0
+RV000113,Rider,Settlement,0
+RV000114,Rider,Positive,0
+RV000115,Rider,Positive,0
+RV000116,Rider,Delivery attempt,0
+RV000117,Rider,Positive,0
+RV000118,Rider,Positive,0
+RV000119,Rider,Wrong routing,0
+CV000507,Customer,Positive,0
+CV000508,Customer,Positive,0
+CV000509,Customer,Positive,0
+CV000510,Customer,Positive,0
+CV000511,Customer,Positive,0
+CV000512,Customer,Positive,0
+CV000513,Customer,Unclear,0
+CV000514,Customer,Positive,0
+CV000515,Customer,Positive,0
+CV000516,Customer,Positive,0
+CV000517,Customer,Positive,0
+CV000518,Customer,Positive,0
+CV000519,Customer,Lost / damaged parcel,0
+CV000520,Customer,Positive,0
+CV000521,Customer,Positive,0
+CV000522,Customer,Positive,0
+CV000523,Customer,Lost / damaged parcel,0
+CV000524,Customer,Positive,0
+CV000525,Customer,Positive,0
+CV000526,Customer,Positive,0
+CV000527,Customer,Positive,0
+CV000528,Customer,Positive,0
+CV000529,Customer,Slow response,0
+CV000530,Customer,Late delivery,0
+CV000531,Customer,Positive,0
+CV000532,Customer,Tracking / status,0
+CV000533,Customer,Positive,0
+CV000534,Customer,Tracking / status,0
+CV000535,Customer,Late delivery,0
+CV000536,Customer,Positive,0
+CV000537,Customer,Positive,0
+CV000538,Customer,Positive,0
+CV000539,Customer,Lost / damaged parcel,0
+CV000540,Customer,Slow response,0
+CV000541,Customer,Positive,0
+CV000542,Customer,Positive,0
+CV000543,Customer,Positive,0
+CV000544,Customer,Positive,0
+CV000545,Customer,Positive,0
+CV000546,Customer,Positive,0
+CV000547,Customer,Positive,0
+CV000548,Customer,Positive,0
+SV000243,Seller,Positive,0
+SV000244,Seller,Positive,0
+SV000245,Seller,COD,0
+SV000246,Seller,Positive,0
+SV000247,Seller,Positive,0
+SV000248,Seller,Fee,0
+SV000249,Seller,Positive,0
+SV000250,Seller,Positive,0
+SV000251,Seller,Positive,0
+SV000252,Seller,Positive,0
+SV000253,Seller,Positive,0
+SV000254,Seller,Positive,0
+SV000255,Seller,Positive,0
+SV000256,Seller,Return,0
+SV000257,Seller,Positive,0
+SV000258,Seller,Positive,0
+SV000259,Seller,Positive,0
+SV000260,Seller,Positive,0
+SV000261,Seller,COD,0
+RV000120,Rider,Positive,0
+RV000121,Rider,Positive,0
+RV000122,Rider,Positive,0
+RV000123,Rider,Handover issue,0
+RV000124,Rider,Hub processing delay,0
+RV000125,Rider,Positive,0
+RV000126,Rider,Positive,0
+RV000127,Rider,Unclear,0
+RV000128,Rider,App issue,0
+CV000549,Customer,Late delivery,0
+CV000550,Customer,Positive,0
+CV000551,Customer,Positive,0
+CV000552,Customer,Positive,0
+CV000553,Customer,Positive,0
+CV000554,Customer,Late delivery,0
+CV000555,Customer,Late delivery,0
+CV000556,Customer,Slow response,0
+CV000557,Customer,Positive,0
+CV000558,Customer,Unclear,0
+CV000559,Customer,Positive,0
+CV000560,Customer,Late delivery,0
+CV000561,Customer,Positive,0
+CV000562,Customer,Positive,0
+CV000563,Customer,Positive,0
+CV000564,Customer,Positive,0
+CV000565,Customer,Positive,0
+CV000566,Customer,Positive,0
+CV000567,Customer,Positive,0
+CV000568,Customer,Late delivery,0
+CV000569,Customer,Positive,0
+CV000570,Customer,Positive,0
+CV000571,Customer,Positive,0
+CV000572,Customer,Positive,0
+CV000573,Customer,Positive,0
+CV000574,Customer,Positive,0
+CV000575,Customer,Positive,0
+CV000576,Customer,Positive,0
+CV000577,Customer,Unclear,0
+CV000578,Customer,Positive,0
+CV000579,Customer,Positive,0
+CV000580,Customer,Positive,0
+CV000581,Customer,Late delivery,0
+CV000582,Customer,Late delivery,0
+CV000583,Customer,Lost / damaged parcel,0
+CV000584,Customer,Positive,0
+CV000585,Customer,Positive,0
+CV000586,Customer,Lost / damaged parcel,0
+CV000587,Customer,Positive,0
+SV000262,Seller,Failed delivery,0
+SV000263,Seller,Positive,0
+SV000264,Seller,Return,0
+SV000265,Seller,Return,0
+SV000266,Seller,Positive,0
+SV000267,Seller,Failed delivery,0
+SV000268,Seller,Settlement,0
+SV000269,Seller,Settlement,0
+SV000270,Seller,Positive,0
+SV000271,Seller,Positive,0
+SV000272,Seller,Positive,0
+SV000273,Seller,Positive,0
+SV000274,Seller,Positive,0
+SV000275,Seller,Failed delivery,0
+SV000276,Seller,Positive,0
+SV000277,Seller,Positive,0
+SV000278,Seller,Positive,0
+SV000279,Seller,COD,0
+SV000280,Seller,Positive,0
+RV000129,Rider,Handover issue,0
+RV000130,Rider,Positive,0
+RV000131,Rider,Delivery attempt,0
+RV000132,Rider,Positive,0
+RV000133,Rider,Positive,0
+RV000134,Rider,Hub processing delay,0
+RV000135,Rider,Positive,0
+RV000136,Rider,Settlement,0
+RV000137,Rider,Positive,0
+RV000138,Rider,Positive,0
+CV000588,Customer,Fee,0
+CV000589,Customer,Positive,0
+CV000590,Customer,Positive,0
+CV000591,Customer,Lost / damaged parcel,0
+CV000592,Customer,Positive,0
+CV000593,Customer,Fee,0
+CV000594,Customer,Positive,0
+CV000595,Customer,Positive,0
+CV000596,Customer,Incorrect information,0
+CV000597,Customer,Failed delivery,0
+CV000598,Customer,Late delivery,0
+CV000599,Customer,Positive,0
+CV000600,Customer,Positive,0
+CV000601,Customer,Late delivery,0
+CV000602,Customer,Failed delivery,0
+CV000603,Customer,Positive,0
+CV000604,Customer,Positive,0
+CV000605,Customer,Positive,0
+CV000606,Customer,Positive,0
+CV000607,Customer,Positive,0
+CV000608,Customer,Positive,0
+CV000609,Customer,Positive,0
+CV000610,Customer,Positive,0
+CV000611,Customer,Positive,0
+CV000612,Customer,Positive,0
+CV000613,Customer,Positive,0
+CV000614,Customer,Fee,0
+CV000615,Customer,Fee,0
+CV000616,Customer,Positive,0
+CV000617,Customer,Positive,0
+CV000618,Customer,App issue,0
+CV000619,Customer,Positive,0
+CV000620,Customer,Positive,0
+CV000621,Customer,Positive,0
+CV000622,Customer,Positive,0
+CV000623,Customer,Positive,0
+CV000624,Customer,No response,0
+CV000625,Customer,Positive,0
+CV000626,Customer,Positive,0
+CV000627,Customer,Positive,0
+CV000628,Customer,Positive,0
+CV000629,Customer,Positive,0
+CV000630,Customer,Lost / damaged parcel,0
+CV000631,Customer,Positive,0
+CV000632,Customer,Positive,0
+CV000633,Customer,Unclear,0
+SV000281,Seller,Positive,0
+SV000282,Seller,Tracking / status,0
+SV000283,Seller,Compensation,0
+SV000284,Seller,Positive,0
+SV000285,Seller,Positive,0
+SV000286,Seller,Positive,0
+SV000287,Seller,Positive,0
+SV000288,Seller,Positive,0
+SV000289,Seller,Late delivery,0
+SV000290,Seller,Positive,0
+SV000291,Seller,Positive,0
+SV000292,Seller,Positive,0
+SV000293,Seller,Positive,0
+SV000294,Seller,Positive,0
+SV000295,Seller,Positive,0
+SV000296,Seller,Positive,0
+SV000297,Seller,Positive,0
+SV000298,Seller,Positive,0
+SV000299,Seller,Unclear,0
+SV000300,Seller,Positive,0
+RV000139,Rider,Handover issue,0
+RV000140,Rider,Handover issue,0
+RV000141,Rider,Positive,0
+RV000142,Rider,Positive,0
+RV000143,Rider,Settlement,0
+RV000144,Rider,Positive,0
+RV000145,Rider,Unclear,0
+RV000146,Rider,Positive,0
+RV000147,Rider,Delivery attempt,0
+RV000148,Rider,Positive,0
+RV000149,Rider,Delivery attempt,0
+CV000634,Customer,Positive,0
+CV000635,Customer,Positive,0
+CV000636,Customer,Positive,0
+CV000637,Customer,Positive,0
+CV000638,Customer,Positive,0
+CV000639,Customer,Unclear,0
+CV000640,Customer,Unclear,0
+CV000641,Customer,Positive,0
+CV000642,Customer,Lost / damaged parcel,0
+CV000643,Customer,Lost / damaged parcel,0
+CV000644,Customer,Tracking / status,0
+CV000645,Customer,Positive,0
+CV000646,Customer,Positive,0
+CV000647,Customer,Positive,0
+CV000648,Customer,Positive,0
+CV000649,Customer,Tracking / status,0
+CV000650,Customer,Slow response,0
+CV000651,Customer,Positive,0
+CV000652,Customer,Positive,0
+CV000653,Customer,No response,0
+CV000654,Customer,Late delivery,0
+CV000655,Customer,Positive,0
+CV000656,Customer,Tracking / status,0
+CV000657,Customer,No response,0
+CV000658,Customer,Failed delivery,0
+CV000659,Customer,Positive,0
+CV000660,Customer,Positive,0
+CV000661,Customer,Positive,0
+CV000662,Customer,Late delivery,0
+CV000663,Customer,Positive,0
+CV000664,Customer,Positive,0
+CV000665,Customer,Positive,0
+CV000666,Customer,Positive,0
+CV000667,Customer,Tracking / status,0
+CV000668,Customer,Positive,0
+CV000669,Customer,Positive,0
+CV000670,Customer,Positive,0
+CV000671,Customer,Positive,0
+CV000672,Customer,Unclear,0
+CV000673,Customer,Positive,0
+CV000674,Customer,Positive,0
+SV000301,Seller,Positive,0
+SV000302,Seller,Positive,0
+SV000303,Seller,Return,0
+SV000304,Seller,Positive,0
+SV000305,Seller,Positive,0
+SV000306,Seller,Positive,0
+SV000307,Seller,Positive,0
+SV000308,Seller,Late delivery,0
+SV000309,Seller,COD,0
+SV000310,Seller,Unclear,0
+SV000311,Seller,Positive,0
+SV000312,Seller,Late delivery,0
+SV000313,Seller,Pickup delay,0
+SV000314,Seller,Positive,0
+SV000315,Seller,Positive,0
+SV000316,Seller,Positive,0
+SV000317,Seller,Positive,0
+SV000318,Seller,Positive,0
+RV000150,Rider,Hub processing delay,0
+RV000151,Rider,Positive,0
+RV000152,Rider,Positive,0
+RV000153,Rider,Hub processing delay,0
+RV000154,Rider,Unclear,0
+RV000155,Rider,Positive,0
+RV000156,Rider,Delivery attempt,0
+RV000157,Rider,Positive,0
+RV000158,Rider,Positive,0
+RV000159,Rider,Hub processing delay,0
+RV000160,Rider,Positive,0
+CV000675,Customer,Positive,0
+CV000676,Customer,Positive,0
+CV000677,Customer,Positive,0
+CV000678,Customer,Positive,0
+CV000679,Customer,Positive,0
+CV000680,Customer,Positive,0
+CV000681,Customer,Late delivery,0
+CV000682,Customer,Unclear,0
+CV000683,Customer,Positive,0
+CV000684,Customer,Unclear,0
+CV000685,Customer,Positive,0
+CV000686,Customer,Positive,0
+CV000687,Customer,Positive,0
+CV000688,Customer,Positive,0
+CV000689,Customer,Positive,0
+CV000690,Customer,Positive,0
+CV000691,Customer,Positive,0
+CV000692,Customer,Positive,0
+CV000693,Customer,Tracking / status,0
+CV000694,Customer,Positive,0
+CV000695,Customer,Positive,0
+CV000696,Customer,Lost / damaged parcel,0
+CV000697,Customer,Positive,0
+CV000698,Customer,Late delivery,0
+CV000699,Customer,Positive,0
+CV000700,Customer,Positive,0
+CV000701,Customer,Late delivery,0
+CV000702,Customer,Positive,0
+CV000703,Customer,Lost / damaged parcel,0
+CV000704,Customer,Late delivery,0
+CV000705,Customer,Positive,0
+CV000706,Customer,Incorrect information,0
+CV000707,Customer,Slow response,0
+CV000708,Customer,Positive,0
+CV000709,Customer,Unclear,0
+CV000710,Customer,Positive,0
+CV000711,Customer,Positive,0
+CV000712,Customer,Positive,0
+CV000713,Customer,Positive,0
+SV000319,Seller,Compensation,0
+SV000320,Seller,Positive,0
+SV000321,Seller,Positive,0
+SV000322,Seller,Positive,0
+SV000323,Seller,Failed delivery,0
+SV000324,Seller,Positive,0
+SV000325,Seller,Pickup delay,0
+SV000326,Seller,COD,0
+SV000327,Seller,Positive,0
+SV000328,Seller,Positive,0
+SV000329,Seller,Positive,0
+SV000330,Seller,COD,0
+SV000331,Seller,COD,0
+SV000332,Seller,Positive,0
+SV000333,Seller,Positive,0
+SV000334,Seller,Failed delivery,0
+SV000335,Seller,Repeated contact,0
+RV000161,Rider,Positive,0
+RV000162,Rider,Hub processing delay,0
+RV000163,Rider,Delivery attempt,0
+RV000164,Rider,Positive,0
+RV000165,Rider,Settlement,0
+RV000166,Rider,Positive,0
+RV000167,Rider,Positive,0
+RV000168,Rider,Unclear,0
+RV000169,Rider,Positive,0
+CV000714,Customer,Lost / damaged parcel,0
+CV000715,Customer,Positive,0
+CV000716,Customer,Fee,0
+CV000717,Customer,Positive,0
+CV000718,Customer,Positive,0
+CV000719,Customer,Tracking / status,0
+CV000720,Customer,Positive,0
+CV000721,Customer,Incorrect information,0
+CV000722,Customer,Positive,0
+CV000723,Customer,Tracking / status,0
+CV000724,Customer,Positive,0
+CV000725,Customer,Failed delivery,0
+CV000726,Customer,No response,0
+CV000727,Customer,Positive,0
+CV000728,Customer,App issue,0
+CV000729,Customer,Positive,0
+CV000730,Customer,Late delivery,0
+CV000731,Customer,Positive,0
+CV000732,Customer,Late delivery,0
+CV000733,Customer,Slow response,0
+CV000734,Customer,Positive,0
+CV000735,Customer,Positive,0
+CV000736,Customer,Positive,0
+CV000737,Customer,Positive,0
+CV000738,Customer,Fee,0
+CV000739,Customer,Positive,0
+CV000740,Customer,Positive,0
+CV000741,Customer,Unclear,0
+CV000742,Customer,Positive,0
+CV000743,Customer,Positive,0
+CV000744,Customer,Positive,0
+CV000745,Customer,Positive,0
+CV000746,Customer,Positive,0
+CV000747,Customer,Positive,0
+CV000748,Customer,Positive,0
+CV000749,Customer,Positive,0
+CV000750,Customer,Positive,0
+CV000751,Customer,Positive,0
+CV000752,Customer,Positive,0
+CV000753,Customer,Positive,0
+CV000754,Customer,Positive,0
+CV000755,Customer,Positive,0
+CV000756,Customer,Positive,0
+CV000757,Customer,Slow response,0
+CV000758,Customer,Positive,0
+SV000336,Seller,Fee,0
+SV000337,Seller,Positive,0
+SV000338,Seller,Return,0
+SV000339,Seller,Return,0
+SV000340,Seller,Positive,0
+SV000341,Seller,Positive,0
+SV000342,Seller,Positive,0
+SV000343,Seller,Positive,0
+SV000344,Seller,Positive,0
+SV000345,Seller,Late delivery,0
+SV000346,Seller,Failed delivery,0
+SV000347,Seller,Positive,0
+SV000348,Seller,Late delivery,0
+SV000349,Seller,Pickup delay,0
+SV000350,Seller,Return,0
+SV000351,Seller,Positive,0
+SV000352,Seller,Late delivery,0
+SV000353,Seller,Positive,0
+SV000354,Seller,Positive,0
+RV000170,Rider,Wrong routing,0
+RV000171,Rider,Delivery attempt,0
+RV000172,Rider,Positive,0
+RV000173,Rider,Positive,0
+RV000174,Rider,Hub processing delay,0
+RV000175,Rider,Settlement,0
+RV000176,Rider,Delivery attempt,0
+RV000177,Rider,Positive,0
+RV000178,Rider,Positive,0
+CV000759,Customer,Positive,0
+CV000760,Customer,Positive,0
+CV000761,Customer,Positive,0
+CV000762,Customer,Positive,0
+CV000763,Customer,Positive,0
+CV000764,Customer,Slow response,0
+CV000765,Customer,Positive,0
+CV000766,Customer,Late delivery,0
+CV000767,Customer,Positive,0
+CV000768,Customer,Positive,0
+CV000769,Customer,Unclear,0
+CV000770,Customer,No response,0
+CV000771,Customer,Positive,0
+CV000772,Customer,Unclear,0
+CV000773,Customer,Failed delivery,0
+CV000774,Customer,Positive,0
+CV000775,Customer,Positive,0
+CV000776,Customer,Positive,0
+CV000777,Customer,Positive,0
+CV000778,Customer,Positive,0
+CV000779,Customer,Tracking / status,0
+CV000780,Customer,Slow response,0
+CV000781,Customer,Late delivery,0
+CV000782,Customer,Positive,0
+CV000783,Customer,Positive,0
+CV000784,Customer,Positive,0
+CV000785,Customer,Positive,0
+CV000786,Customer,Positive,0
+CV000787,Customer,Positive,0
+CV000788,Customer,Positive,0
+CV000789,Customer,Positive,0
+CV000790,Customer,Late delivery,0
+CV000791,Customer,Positive,0
+CV000792,Customer,Positive,0
+CV000793,Customer,Slow response,0
+CV000794,Customer,Positive,0
+CV000795,Customer,Positive,0
+CV000796,Customer,Positive,0
+CV000797,Customer,Positive,0
+CV000798,Customer,Positive,0
+SV000355,Seller,Return,0
+SV000356,Seller,Unclear,0
+SV000357,Seller,Positive,0
+SV000358,Seller,Positive,0
+SV000359,Seller,Positive,0
+SV000360,Seller,Late delivery,0
+SV000361,Seller,Late delivery,0
+SV000362,Seller,Pickup delay,0
+SV000363,Seller,Positive,0
+SV000364,Seller,Late delivery,0
+SV000365,Seller,Positive,0
+SV000366,Seller,Positive,0
+SV000367,Seller,Late delivery,0
+SV000368,Seller,Positive,0
+SV000369,Seller,Late delivery,0
+SV000370,Seller,Positive,0
+SV000371,Seller,Positive,0
+SV000372,Seller,Positive,0
+SV000373,Seller,Positive,0
+SV000374,Seller,Positive,0
+SV000375,Seller,Unclear,0
+SV000376,Seller,Unclear,0
+RV000179,Rider,Delivery attempt,0
+RV000180,Rider,Positive,0
+RV000181,Rider,Positive,0
+RV000182,Rider,Wrong routing,0
+RV000183,Rider,Positive,0
+RV000184,Rider,Settlement,0
+RV000185,Rider,Settlement,0
+RV000186,Rider,Positive,0
+RV000187,Rider,Delivery attempt,0
+RV000188,Rider,Positive,0
+RV000189,Rider,Positive,0
+RV000190,Rider,Positive,0
+CV000799,Customer,Positive,0
+CV000800,Customer,Unclear,0
+CV000801,Customer,Incorrect information,0
+CV000802,Customer,Tracking / status,0
+CV000803,Customer,Fee,0
+CV000804,Customer,Tracking / status,0
+CV000805,Customer,Positive,0
+CV000806,Customer,Positive,0
+CV000807,Customer,Positive,0
+CV000808,Customer,Positive,0
+CV000809,Customer,Positive,0
+CV000810,Customer,Positive,0
+CV000811,Customer,Lost / damaged parcel,0
+CV000812,Customer,Positive,0
+CV000813,Customer,Late delivery,0
+CV000814,Customer,Positive,0
+CV000815,Customer,Unclear,0
+CV000816,Customer,Positive,0
+CV000817,Customer,Positive,0
+CV000818,Customer,Late delivery,0
+CV000819,Customer,Positive,0
+CV000820,Customer,Late delivery,0
+CV000821,Customer,Lost / damaged parcel,0
+CV000822,Customer,Slow response,0
+CV000823,Customer,Positive,0
+CV000824,Customer,Late delivery,0
+CV000825,Customer,Positive,0
+CV000826,Customer,No response,0
+CV000827,Customer,Positive,0
+CV000828,Customer,Positive,0
+CV000829,Customer,Failed delivery,0
+CV000830,Customer,Positive,0
+CV000831,Customer,Late delivery,0
+CV000832,Customer,Positive,0
+CV000833,Customer,Positive,0
+CV000834,Customer,Positive,0
+CV000835,Customer,Lost / damaged parcel,0
+CV000836,Customer,Positive,0
+CV000837,Customer,Positive,0
+CV000838,Customer,Positive,0
+CV000839,Customer,Positive,0
+CV000840,Customer,Unclear,0
+CV000841,Customer,Positive,0
+CV000842,Customer,Positive,0
+CV000843,Customer,Positive,0
+CV000844,Customer,Positive,0
+SV000377,Seller,Positive,0
+SV000378,Seller,Failed delivery,0
+SV000379,Seller,Positive,0
+SV000380,Seller,Positive,0
+SV000381,Seller,Positive,0
+SV000382,Seller,Pickup delay,0
+SV000383,Seller,Positive,0
+SV000384,Seller,Positive,0
+SV000385,Seller,Unclear,0
+SV000386,Seller,Positive,0
+SV000387,Seller,Late delivery,0
+SV000388,Seller,Positive,0
+SV000389,Seller,Positive,0
+SV000390,Seller,Failed delivery,0
+SV000391,Seller,Positive,0
+SV000392,Seller,Late delivery,0
+SV000393,Seller,Failed delivery,0
+SV000394,Seller,Positive,0
+SV000395,Seller,Positive,0
+SV000396,Seller,Positive,0
+RV000191,Rider,Positive,0
+RV000192,Rider,Positive,0
+RV000193,Rider,Positive,0
+RV000194,Rider,Positive,0
+RV000195,Rider,Wrong routing,0
+RV000196,Rider,Unclear,0
+RV000197,Rider,Positive,0
+RV000198,Rider,Handover issue,0
+CV000845,Customer,Positive,0
+CV000846,Customer,Late delivery,0
+CV000847,Customer,Positive,0
+CV000848,Customer,Positive,0
+CV000849,Customer,Positive,0
+CV000850,Customer,Positive,0
+CV000851,Customer,Positive,0
+CV000852,Customer,Positive,0
+CV000853,Customer,Positive,0
+CV000854,Customer,Lost / damaged parcel,0
+CV000855,Customer,App issue,0
+CV000856,Customer,Late delivery,0
+CV000857,Customer,Positive,0
+CV000858,Customer,Positive,0
+CV000859,Customer,Positive,0
+CV000860,Customer,Positive,0
+CV000861,Customer,Slow response,0
+CV000862,Customer,Positive,0
+CV000863,Customer,Positive,0
+CV000864,Customer,Positive,0
+CV000865,Customer,Tracking / status,0
+CV000866,Customer,Positive,0
+CV000867,Customer,Positive,0
+CV000868,Customer,Positive,0
+CV000869,Customer,Positive,0
+CV000870,Customer,Positive,0
+CV000871,Customer,Incorrect information,0
+CV000872,Customer,Late delivery,0
+CV000873,Customer,Positive,0
+CV000874,Customer,Positive,0
+CV000875,Customer,Fee,0
+CV000876,Customer,Positive,0
+CV000877,Customer,Positive,0
+CV000878,Customer,Positive,0
+CV000879,Customer,Lost / damaged parcel,0
+CV000880,Customer,Positive,0
+CV000881,Customer,Positive,0
+CV000882,Customer,Positive,0
+CV000883,Customer,Positive,0
+CV000884,Customer,Unclear,0
+CV000885,Customer,Positive,0
+SV000397,Seller,Positive,0
+SV000398,Seller,Positive,0
+SV000399,Seller,Positive,0
+SV000400,Seller,Positive,0
+SV000401,Seller,Failed delivery,0
+SV000402,Seller,Positive,0
+SV000403,Seller,Unclear,0
+SV000404,Seller,Failed delivery,0
+SV000405,Seller,Late delivery,0
+SV000406,Seller,Pickup delay,0
+SV000407,Seller,Settlement,0
+SV000408,Seller,Unclear,0
+SV000409,Seller,Positive,0
+SV000410,Seller,Late delivery,0
+SV000411,Seller,Positive,0
+SV000412,Seller,Positive,0
+SV000413,Seller,Positive,0
+SV000414,Seller,Positive,0
+SV000415,Seller,Positive,0
+RV000199,Rider,Positive,0
+RV000200,Rider,Positive,0
+RV000201,Rider,Positive,0
+RV000202,Rider,Unclear,0
+RV000203,Rider,App issue,0
+RV000204,Rider,Positive,0
+RV000205,Rider,Positive,0
+RV000206,Rider,Positive,0
+RV000207,Rider,Positive,0
+RV000208,Rider,Positive,0
+CV000886,Customer,Positive,0
+CV000887,Customer,Failed delivery,0
+CV000888,Customer,Unclear,0
+CV000889,Customer,Positive,0
+CV000890,Customer,Positive,0
+CV000891,Customer,Late delivery,0
+CV000892,Customer,Positive,0
+CV000893,Customer,Positive,0
+CV000894,Customer,Positive,0
+CV000895,Customer,Positive,0
+CV000896,Customer,Positive,0
+CV000897,Customer,Positive,0
+CV000898,Customer,Positive,0
+CV000899,Customer,Positive,0
+CV000900,Customer,Lost / damaged parcel,0
+CV000901,Customer,Positive,0
+CV000902,Customer,Slow response,0
+CV000903,Customer,Incorrect information,0
+CV000904,Customer,Positive,0
+CV000905,Customer,App issue,0
+CV000906,Customer,Positive,0
+CV000907,Customer,Positive,0
+CV000908,Customer,Positive,0
+CV000909,Customer,Failed delivery,0
+CV000910,Customer,Unclear,0
+CV000911,Customer,Failed delivery,0
+CV000912,Customer,Positive,0
+CV000913,Customer,Positive,0
+CV000914,Customer,Positive,0
+CV000915,Customer,Positive,0
+CV000916,Customer,Unclear,0
+CV000917,Customer,Positive,0
+CV000918,Customer,Late delivery,0
+CV000919,Customer,Positive,0
+CV000920,Customer,Positive,0
+CV000921,Customer,Positive,0
+CV000922,Customer,Positive,0
+CV000923,Customer,Positive,0
+CV000924,Customer,Positive,0
+CV000925,Customer,Positive,0
+CV000926,Customer,App issue,0
+CV000927,Customer,Fee,0
+CV000928,Customer,App issue,0
+SV000416,Seller,Positive,0
+SV000417,Seller,Late delivery,0
+SV000418,Seller,Failed delivery,0
+SV000419,Seller,Positive,0
+SV000420,Seller,COD,0
+SV000421,Seller,Positive,0
+SV000422,Seller,Positive,0
+SV000423,Seller,Settlement,0
+SV000424,Seller,Positive,0
+SV000425,Seller,Positive,0
+SV000426,Seller,Positive,0
+SV000427,Seller,Positive,0
+SV000428,Seller,Positive,0
+SV000429,Seller,Positive,0
+SV000430,Seller,Positive,0
+SV000431,Seller,Positive,0
+SV000432,Seller,Positive,0
+SV000433,Seller,Positive,0
+SV000434,Seller,Positive,0
+SV000435,Seller,Unclear,0
+SV000436,Seller,Positive,0
+SV000437,Seller,Tracking / status,0
+RV000209,Rider,Hub processing delay,0
+RV000210,Rider,Positive,0
+RV000211,Rider,Positive,0
+RV000212,Rider,Positive,0
+RV000213,Rider,Positive,0
+RV000214,Rider,Positive,0
+RV000215,Rider,Positive,0
+RV000216,Rider,Positive,0
+RV000217,Rider,App issue,0
+RV000218,Rider,Positive,0
+RV000219,Rider,Hub processing delay,0
+CV000929,Customer,Late delivery,0
+CV000930,Customer,Positive,0
+CV000931,Customer,Late delivery,0
+CV000932,Customer,Positive,0
+CV000933,Customer,Positive,0
+CV000934,Customer,Positive,0
+CV000935,Customer,Late delivery,0
+CV000936,Customer,Late delivery,0
+CV000937,Customer,Late delivery,0
+CV000938,Customer,Positive,0
+CV000939,Customer,Positive,0
+CV000940,Customer,Positive,0
+CV000941,Customer,Positive,0
+CV000942,Customer,Positive,0
+CV000943,Customer,Positive,0
+CV000944,Customer,Late delivery,0
+CV000945,Customer,Positive,0
+CV000946,Customer,Positive,0
+CV000947,Customer,Positive,0
+CV000948,Customer,Lost / damaged parcel,0
+CV000949,Customer,Positive,0
+CV000950,Customer,Slow response,0
+CV000951,Customer,Positive,0
+CV000952,Customer,Positive,0
+CV000953,Customer,Positive,0
+CV000954,Customer,Positive,0
+CV000955,Customer,Positive,0
+CV000956,Customer,Unclear,0
+CV000957,Customer,Positive,0
+CV000958,Customer,Positive,0
+CV000959,Customer,Positive,0
+CV000960,Customer,Failed delivery,0
+CV000961,Customer,Late delivery,0
+CV000962,Customer,Positive,0
+CV000963,Customer,Unclear,0
+CV000964,Customer,Tracking / status,0
+CV000965,Customer,Fee,0
+CV000966,Customer,Failed delivery,0
+CV000967,Customer,Unclear,0
+CV000968,Customer,Unclear,0
+CV000969,Customer,Positive,0
+SV000438,Seller,Positive,0
+SV000439,Seller,Positive,0
+SV000440,Seller,Positive,0
+SV000441,Seller,Positive,0
+SV000442,Seller,Positive,0
+SV000443,Seller,Positive,0
+SV000444,Seller,COD,0
+SV000445,Seller,COD,0
+SV000446,Seller,Positive,0
+SV000447,Seller,Positive,0
+SV000448,Seller,Positive,0
+SV000449,Seller,Positive,0
+SV000450,Seller,COD,0
+SV000451,Seller,Positive,0
+SV000452,Seller,Return,0
+SV000453,Seller,COD,0
+SV000454,Seller,Positive,0
+SV000455,Seller,Positive,0
+SV000456,Seller,Positive,0
+SV000457,Seller,Positive,0
+SV000458,Seller,Positive,0
+RV000220,Rider,Settlement,0
+RV000221,Rider,Positive,0
+RV000222,Rider,Positive,0
+RV000223,Rider,Positive,0
+RV000224,Rider,Positive,0
+RV000225,Rider,Delivery attempt,0
+RV000226,Rider,Positive,0
+RV000227,Rider,Positive,0
+RV000228,Rider,Positive,0
+RV000229,Rider,Positive,0
+CV000970,Customer,Positive,0
+CV000971,Customer,Positive,0
+CV000972,Customer,Positive,0
+CV000973,Customer,Tracking / status,0
+CV000974,Customer,Positive,0
+CV000975,Customer,Positive,0
+CV000976,Customer,Positive,0
+CV000977,Customer,Positive,0
+CV000978,Customer,Positive,0
+CV000979,Customer,Positive,0
+CV000980,Customer,Positive,0
+CV000981,Customer,Positive,0
+CV000982,Customer,Unclear,0
+CV000983,Customer,Positive,0
+CV000984,Customer,Positive,0
+CV000985,Customer,Incorrect information,0
+CV000986,Customer,Positive,0
+CV000987,Customer,Positive,0
+CV000988,Customer,Positive,0
+CV000989,Customer,Positive,0
+CV000990,Customer,Unclear,0
+CV000991,Customer,Positive,0
+CV000992,Customer,Positive,0
+CV000993,Customer,Slow response,0
+CV000994,Customer,Tracking / status,0
+CV000995,Customer,Positive,0
+CV000996,Customer,Tracking / status,0
+CV000997,Customer,Positive,0
+CV000998,Customer,Unclear,0
+CV000999,Customer,Positive,0
+CV001000,Customer,Failed delivery,0
+CV001001,Customer,Positive,0
+CV001002,Customer,Positive,0
+CV001003,Customer,Positive,0
+CV001004,Customer,Positive,0
+CV001005,Customer,Positive,0
+CV001006,Customer,Positive,0
+CV001007,Customer,Slow response,0
+CV001008,Customer,Positive,0
+CV001009,Customer,Failed delivery,0
+CV001010,Customer,Positive,0
+CV001011,Customer,Positive,0
+CV001012,Customer,Positive,0
+SV000459,Seller,Positive,0
+SV000460,Seller,Pickup failure,0
+SV000461,Seller,COD,0
+SV000462,Seller,Late delivery,0
+SV000463,Seller,Positive,0
+SV000464,Seller,Positive,0
+SV000465,Seller,Positive,0
+SV000466,Seller,Positive,0
+SV000467,Seller,Positive,0
+SV000468,Seller,Positive,0
+SV000469,Seller,Repeated contact,0
+SV000470,Seller,Positive,0
+SV000471,Seller,Repeated contact,0
+SV000472,Seller,Positive,0
+SV000473,Seller,Unclear,0
+SV000474,Seller,Pickup delay,0
+SV000475,Seller,Positive,0
+SV000476,Seller,Positive,0
+RV000230,Rider,Wrong routing,0
+RV000231,Rider,Positive,0
+RV000232,Rider,Positive,0
+RV000233,Rider,Positive,0
+RV000234,Rider,Positive,0
+RV000235,Rider,Positive,0
+RV000236,Rider,Positive,0
+RV000237,Rider,Settlement,0
+CV001013,Customer,Positive,0
+CV001014,Customer,Positive,0
+CV001015,Customer,Positive,0
+CV001016,Customer,Positive,0
+CV001017,Customer,Positive,0
+CV001018,Customer,Positive,0
+CV001019,Customer,Positive,0
+CV001020,Customer,App issue,0
+CV001021,Customer,Slow response,0
+CV001022,Customer,Slow response,0
+CV001023,Customer,Positive,0
+CV001024,Customer,Lost / damaged parcel,0
+CV001025,Customer,Late delivery,0
+CV001026,Customer,Slow response,0
+CV001027,Customer,Positive,0
+CV001028,Customer,Unclear,0
+CV001029,Customer,Tracking / status,0
+CV001030,Customer,Positive,0
+CV001031,Customer,Positive,0
+CV001032,Customer,Positive,0
+CV001033,Customer,Late delivery,0
+CV001034,Customer,Positive,0
+CV001035,Customer,Positive,0
+CV001036,Customer,Positive,0
+CV001037,Customer,Lost / damaged parcel,0
+CV001038,Customer,Positive,0
+CV001039,Customer,No response,0
+CV001040,Customer,Positive,0
+CV001041,Customer,Late delivery,0
+CV001042,Customer,Positive,0
+CV001043,Customer,Positive,0
+CV001044,Customer,Positive,0
+CV001045,Customer,Positive,0
+CV001046,Customer,Positive,0
+CV001047,Customer,Positive,0
+CV001048,Customer,Positive,0
+CV001049,Customer,Positive,0
+CV001050,Customer,Lost / damaged parcel,0
+CV001051,Customer,Fee,0
+CV001052,Customer,Positive,0
+SV000477,Seller,Positive,0
+SV000478,Seller,Fee,0
+SV000479,Seller,Positive,0
+SV000480,Seller,Positive,0
+SV000481,Seller,Return,0
+SV000482,Seller,Compensation,0
+SV000483,Seller,Positive,0
+SV000484,Seller,Positive,0
+SV000485,Seller,Pickup delay,0
+SV000486,Seller,Positive,0
+SV000487,Seller,Fee,0
+SV000488,Seller,Tracking / status,0
+SV000489,Seller,Positive,0
+SV000490,Seller,Compensation,0
+SV000491,Seller,Positive,0
+SV000492,Seller,Positive,0
+SV000493,Seller,Positive,0
+SV000494,Seller,Unclear,0
+SV000495,Seller,Fee,0
+SV000496,Seller,Positive,0
+SV000497,Seller,Positive,0
+RV000238,Rider,Positive,0
+RV000239,Rider,Positive,0
+RV000240,Rider,Handover issue,0
+RV000241,Rider,Hub processing delay,0
+RV000242,Rider,Positive,0
+RV000243,Rider,Positive,0
+RV000244,Rider,Positive,0
+RV000245,Rider,Positive,0
+RV000246,Rider,Positive,0
+RV000247,Rider,Handover issue,0
+CV001053,Customer,Positive,0
+CV001054,Customer,Positive,0
+CV001055,Customer,Positive,0
+CV001056,Customer,Positive,0
+CV001057,Customer,Positive,0
+CV001058,Customer,Positive,0
+CV001059,Customer,Positive,0
+CV001060,Customer,Positive,0
+CV001061,Customer,Positive,0
+CV001062,Customer,Lost / damaged parcel,0
+CV001063,Customer,Positive,0
+CV001064,Customer,Late delivery,0
+CV001065,Customer,Positive,0
+CV001066,Customer,Positive,0
+CV001067,Customer,Slow response,0
+CV001068,Customer,Positive,0
+CV001069,Customer,Positive,0
+CV001070,Customer,Fee,0
+CV001071,Customer,Positive,0
+CV001072,Customer,Positive,0
+CV001073,Customer,Positive,0
+CV001074,Customer,Tracking / status,0
+CV001075,Customer,Late delivery,0
+CV001076,Customer,Positive,0
+CV001077,Customer,Positive,0
+CV001078,Customer,Positive,0
+CV001079,Customer,Positive,0
+CV001080,Customer,Late delivery,0
+CV001081,Customer,Positive,0
+CV001082,Customer,Positive,0
+CV001083,Customer,Positive,0
+CV001084,Customer,Positive,0
+CV001085,Customer,Positive,0
+CV001086,Customer,Positive,0
+CV001087,Customer,Positive,0
+CV001088,Customer,Tracking / status,0
+CV001089,Customer,Positive,0
+CV001090,Customer,Positive,0
+CV001091,Customer,Positive,0
+CV001092,Customer,Positive,0
+SV000498,Seller,Failed delivery,0
+SV000499,Seller,Positive,0
+SV000500,Seller,Settlement,0
+SV000501,Seller,Unclear,0
+SV000502,Seller,Pickup failure,0
+SV000503,Seller,Unclear,0
+SV000504,Seller,Pickup failure,0
+SV000505,Seller,Positive,0
+SV000506,Seller,Positive,0
+SV000507,Seller,Late delivery,0
+SV000508,Seller,Settlement,0
+SV000509,Seller,Late delivery,0
+SV000510,Seller,Positive,0
+SV000511,Seller,Positive,0
+SV000512,Seller,Positive,0
+SV000513,Seller,Compensation,0
+SV000514,Seller,Positive,0
+SV000515,Seller,COD,0
+SV000516,Seller,Settlement,0
+SV000517,Seller,Unclear,0
+RV000248,Rider,Positive,0
+RV000249,Rider,Positive,0
+RV000250,Rider,Settlement,0
+RV000251,Rider,Positive,0
+RV000252,Rider,Positive,0
+RV000253,Rider,Wrong routing,0
+RV000254,Rider,Positive,0
+RV000255,Rider,Settlement,0
+RV000256,Rider,Positive,0
+RV000257,Rider,App issue,0
+CV001093,Customer,Positive,0
+CV001094,Customer,Positive,0
+CV001095,Customer,Positive,0
+CV001096,Customer,No response,0
+CV001097,Customer,Positive,0
+CV001098,Customer,Positive,0
+CV001099,Customer,Positive,0
+CV001100,Customer,Late delivery,0
+CV001101,Customer,Positive,0
+CV001102,Customer,Failed delivery,0
+CV001103,Customer,Positive,0
+CV001104,Customer,Late delivery,0
+CV001105,Customer,Positive,0
+CV001106,Customer,Positive,0
+CV001107,Customer,Positive,0
+CV001108,Customer,Positive,0
+CV001109,Customer,Positive,0
+CV001110,Customer,Positive,0
+CV001111,Customer,Positive,0
+CV001112,Customer,Positive,0
+CV001113,Customer,Positive,0
+CV001114,Customer,Positive,0
+CV001115,Customer,Positive,0
+CV001116,Customer,Positive,0
+CV001117,Customer,Positive,0
+CV001118,Customer,Positive,0
+CV001119,Customer,Unclear,0
+CV001120,Customer,Lost / damaged parcel,0
+CV001121,Customer,Positive,0
+CV001122,Customer,Positive,0
+CV001123,Customer,Unclear,0
+CV001124,Customer,Positive,0
+CV001125,Customer,Positive,0
+CV001126,Customer,Positive,0
+CV001127,Customer,Tracking / status,0
+CV001128,Customer,Positive,0
+CV001129,Customer,Late delivery,0
+CV001130,Customer,Positive,0
+CV001131,Customer,Positive,0
+CV001132,Customer,Unclear,0
+CV001133,Customer,Positive,0
+CV001134,Customer,Positive,0
+CV001135,Customer,Positive,0
+CV001136,Customer,Unclear,0
+CV001137,Customer,Positive,0
+SV000518,Seller,Positive,0
+SV000519,Seller,Positive,0
+SV000520,Seller,Positive,0
+SV000521,Seller,Positive,0
+SV000522,Seller,Positive,0
+SV000523,Seller,COD,0
+SV000524,Seller,Unclear,0
+SV000525,Seller,Positive,0
+SV000526,Seller,Positive,0
+SV000527,Seller,Positive,0
+SV000528,Seller,Positive,0
+SV000529,Seller,Positive,0
+SV000530,Seller,Positive,0
+SV000531,Seller,Late delivery,0
+SV000532,Seller,Positive,0
+SV000533,Seller,COD,0
+SV000534,Seller,Positive,0
+SV000535,Seller,Positive,0
+SV000536,Seller,Positive,0
+SV000537,Seller,Positive,0
+RV000258,Rider,Wrong routing,0
+RV000259,Rider,Hub processing delay,0
+RV000260,Rider,Positive,0
+RV000261,Rider,Positive,0
+RV000262,Rider,Unclear,0
+RV000263,Rider,Delivery attempt,0
+RV000264,Rider,Positive,0
+RV000265,Rider,Positive,0
+RV000266,Rider,Settlement,0
+RV000267,Rider,Positive,0
+RV000268,Rider,Positive,0
+CV001138,Customer,Positive,0
+CV001139,Customer,Positive,0
+CV001140,Customer,Positive,0
+CV001141,Customer,Positive,0
+CV001142,Customer,Late delivery,0
+CV001143,Customer,Tracking / status,0
+CV001144,Customer,Positive,0
+CV001145,Customer,Positive,0
+CV001146,Customer,Positive,0
+CV001147,Customer,Positive,0
+CV001148,Customer,Positive,0
+CV001149,Customer,Positive,0
+CV001150,Customer,Positive,0
+CV001151,Customer,Positive,0
+CV001152,Customer,Late delivery,0
+CV001153,Customer,Late delivery,0
+CV001154,Customer,Positive,0
+CV001155,Customer,Positive,0
+CV001156,Customer,Positive,0
+CV001157,Customer,Positive,0
+CV001158,Customer,Positive,0
+CV001159,Customer,Positive,0
+CV001160,Customer,Positive,0
+CV001161,Customer,Positive,0
+CV001162,Customer,Positive,0
+CV001163,Customer,Lost / damaged parcel,0
+CV001164,Customer,Positive,0
+CV001165,Customer,Positive,0
+CV001166,Customer,Positive,0
+CV001167,Customer,Positive,0
+CV001168,Customer,Tracking / status,0
+CV001169,Customer,Positive,0
+CV001170,Customer,Positive,0
+CV001171,Customer,Positive,0
+CV001172,Customer,Positive,0
+CV001173,Customer,Positive,0
+SV000538,Seller,Positive,0
+SV000539,Seller,Positive,0
+SV000540,Seller,Positive,0
+SV000541,Seller,Late delivery,0
+SV000542,Seller,Unclear,0
+SV000543,Seller,Positive,0
+SV000544,Seller,Positive,0
+SV000545,Seller,COD,0
+SV000546,Seller,Positive,0
+SV000547,Seller,COD,0
+SV000548,Seller,Pickup delay,0
+SV000549,Seller,Positive,0
+SV000550,Seller,Failed delivery,0
+SV000551,Seller,Pickup delay,0
+SV000552,Seller,Positive,0
+SV000553,Seller,Positive,0
+SV000554,Seller,Positive,0
+SV000555,Seller,Late delivery,0
+SV000556,Seller,Positive,0
+RV000269,Rider,Positive,0
+RV000270,Rider,Hub processing delay,0
+RV000271,Rider,Delivery attempt,0
+RV000272,Rider,Positive,0
+RV000273,Rider,Positive,0
+RV000274,Rider,Positive,0
+RV000275,Rider,Wrong routing,0
+RV000276,Rider,Wrong routing,0
+RV000277,Rider,Delivery attempt,0
+RV000278,Rider,Delivery attempt,0
+CV001174,Customer,Positive,0
+CV001175,Customer,Positive,0
+CV001176,Customer,Positive,0
+CV001177,Customer,Unclear,0
+CV001178,Customer,Positive,0
+CV001179,Customer,Late delivery,0
+CV001180,Customer,Positive,0
+CV001181,Customer,App issue,0
+CV001182,Customer,Positive,0
+CV001183,Customer,Unclear,0
+CV001184,Customer,Positive,0
+CV001185,Customer,Failed delivery,0
+CV001186,Customer,Positive,0
+CV001187,Customer,Slow response,0
+CV001188,Customer,Positive,0
+CV001189,Customer,Positive,0
+CV001190,Customer,Incorrect information,0
+CV001191,Customer,Positive,0
+CV001192,Customer,Positive,0
+CV001193,Customer,Positive,0
+CV001194,Customer,Positive,0
+CV001195,Customer,Positive,0
+CV001196,Customer,Positive,0
+CV001197,Customer,Positive,0
+CV001198,Customer,Positive,0
+CV001199,Customer,Tracking / status,0
+CV001200,Customer,Positive,0
+CV001201,Customer,Positive,0
+CV001202,Customer,Positive,0
+CV001203,Customer,Positive,0
+CV001204,Customer,Positive,0
+CV001205,Customer,Positive,0
+CV001206,Customer,Positive,0
+CV001207,Customer,Positive,0
+CV001208,Customer,Lost / damaged parcel,0
+CV001209,Customer,Positive,0
+CV001210,Customer,Incorrect information,0
+CV001211,Customer,Positive,0
+CV001212,Customer,Positive,0
+CV001213,Customer,Positive,0
+CV001214,Customer,Positive,0
+CV001215,Customer,Positive,0
+CV001216,Customer,Positive,0
+CV001217,Customer,Positive,0
+CV001218,Customer,Positive,0
+SV000557,Seller,Positive,0
+SV000558,Seller,Positive,0
+SV000559,Seller,Positive,0
+SV000560,Seller,Positive,0
+SV000561,Seller,Settlement,0
+SV000562,Seller,Tracking / status,0
+SV000563,Seller,Tracking / status,0
+SV000564,Seller,Positive,0
+SV000565,Seller,Pickup failure,0
+SV000566,Seller,Late delivery,0
+SV000567,Seller,Positive,0
+SV000568,Seller,Positive,0
+SV000569,Seller,Positive,0
+SV000570,Seller,Late delivery,0
+SV000571,Seller,Positive,0
+SV000572,Seller,Pickup failure,0
+SV000573,Seller,Pickup delay,0
+SV000574,Seller,Positive,0
+SV000575,Seller,Unclear,0
+SV000576,Seller,Positive,0
+RV000279,Rider,Settlement,0
+RV000280,Rider,Positive,0
+RV000281,Rider,Positive,0
+RV000282,Rider,Positive,0
+RV000283,Rider,Wrong routing,0
+RV000284,Rider,Wrong routing,0
+RV000285,Rider,Positive,0
+RV000286,Rider,Positive,0
+RV000287,Rider,Positive,0
+RV000288,Rider,Hub processing delay,0
+RV000289,Rider,Positive,0
+CV001219,Customer,Unclear,0
+CV001220,Customer,Positive,0
+CV001221,Customer,App issue,0
+CV001222,Customer,Positive,0
+CV001223,Customer,Unclear,0
+CV001224,Customer,Positive,0
+CV001225,Customer,Positive,0
+CV001226,Customer,Positive,0
+CV001227,Customer,Unclear,0
+CV001228,Customer,Positive,0
+CV001229,Customer,Positive,0
+CV001230,Customer,Positive,0
+CV001231,Customer,Positive,0
+CV001232,Customer,Positive,0
+CV001233,Customer,Positive,0
+CV001234,Customer,Positive,0
+CV001235,Customer,Positive,0
+CV001236,Customer,Positive,0
+CV001237,Customer,Positive,0
+CV001238,Customer,Positive,0
+CV001239,Customer,Positive,0
+CV001240,Customer,No response,0
+CV001241,Customer,Positive,0
+CV001242,Customer,Positive,0
+CV001243,Customer,Positive,0
+CV001244,Customer,Late delivery,0
+CV001245,Customer,Positive,0
+CV001246,Customer,Unclear,0
+CV001247,Customer,Positive,0
+CV001248,Customer,Positive,0
+CV001249,Customer,Positive,0
+CV001250,Customer,Positive,0
+CV001251,Customer,Positive,0
+CV001252,Customer,Positive,0
+CV001253,Customer,Unclear,0
+CV001254,Customer,Positive,0
+CV001255,Customer,Slow response,0
+CV001256,Customer,Positive,0
+CV001257,Customer,Positive,0
+CV001258,Customer,Positive,0
+CV001259,Customer,Positive,0
+SV000577,Seller,Positive,0
+SV000578,Seller,Positive,0
+SV000579,Seller,Unclear,0
+SV000580,Seller,Positive,0
+SV000581,Seller,Positive,0
+SV000582,Seller,Positive,0
+SV000583,Seller,Positive,0
+SV000584,Seller,Settlement,0
+SV000585,Seller,Positive,0
+SV000586,Seller,Positive,0
+SV000587,Seller,Positive,0
+SV000588,Seller,COD,0
+SV000589,Seller,Unclear,0
+SV000590,Seller,COD,0
+SV000591,Seller,Positive,0
+SV000592,Seller,Positive,0
+SV000593,Seller,Positive,0
+SV000594,Seller,Positive,0
+SV000595,Seller,Positive,0
+SV000596,Seller,Positive,0
+RV000290,Rider,Positive,0
+RV000291,Rider,Settlement,0
+RV000292,Rider,Settlement,0
+RV000293,Rider,Settlement,0
+RV000294,Rider,Positive,0
+RV000295,Rider,Positive,0
+RV000296,Rider,Handover issue,0
+RV000297,Rider,Settlement,0
+RV000298,Rider,Positive,0
+RV000299,Rider,Positive,0
+CV001260,Customer,Positive,0
+CV001261,Customer,Lost / damaged parcel,0
+CV001262,Customer,Positive,0
+CV001263,Customer,Slow response,0
+CV001264,Customer,Failed delivery,0
+CV001265,Customer,Slow response,0
+CV001266,Customer,Positive,0
+CV001267,Customer,App issue,0
+CV001268,Customer,Positive,0
+CV001269,Customer,Positive,0
+CV001270,Customer,Positive,0
+CV001271,Customer,Positive,0
+CV001272,Customer,Positive,0
+CV001273,Customer,Positive,0
+CV001274,Customer,Late delivery,0
+CV001275,Customer,Slow response,0
+CV001276,Customer,Positive,0
+CV001277,Customer,Positive,0
+CV001278,Customer,Positive,0
+CV001279,Customer,Positive,0
+CV001280,Customer,Tracking / status,0
+CV001281,Customer,Positive,0
+CV001282,Customer,Lost / damaged parcel,0
+CV001283,Customer,Positive,0
+CV001284,Customer,Positive,0
+CV001285,Customer,Positive,0
+CV001286,Customer,Positive,0
+CV001287,Customer,Positive,0
+CV001288,Customer,Positive,0
+CV001289,Customer,Positive,0
+CV001290,Customer,Positive,0
+CV001291,Customer,Positive,0
+CV001292,Customer,Late delivery,0
+CV001293,Customer,Positive,0
+CV001294,Customer,Lost / damaged parcel,0
+CV001295,Customer,Fee,0
+CV001296,Customer,Incorrect information,0
+CV001297,Customer,Positive,0
+CV001298,Customer,Positive,0
+SV000597,Seller,Positive,0
+SV000598,Seller,Failed delivery,0
+SV000599,Seller,Positive,0
+SV000600,Seller,Positive,0
+SV000601,Seller,Positive,0
+SV000602,Seller,Pickup delay,0
+SV000603,Seller,Positive,0
+SV000604,Seller,Positive,0
+SV000605,Seller,Pickup delay,0
+SV000606,Seller,Pickup delay,0
+SV000607,Seller,Positive,0
+SV000608,Seller,Unclear,0
+SV000609,Seller,Return,0
+SV000610,Seller,Late delivery,0
+SV000611,Seller,Positive,0
+SV000612,Seller,Positive,0
+SV000613,Seller,Positive,0
+SV000614,Seller,Pickup delay,0
+RV000300,Rider,Positive,0
+RV000301,Rider,Positive,0
+RV000302,Rider,Positive,0
+RV000303,Rider,Positive,0
+RV000304,Rider,Positive,0
+RV000305,Rider,Positive,0
+RV000306,Rider,Hub processing delay,0
+RV000307,Rider,Handover issue,0
+RV000308,Rider,Handover issue,0
+RV000309,Rider,Delivery attempt,0
+CV001299,Customer,Positive,0
+CV001300,Customer,Positive,0
+CV001301,Customer,Positive,0
+CV001302,Customer,Positive,0
+CV001303,Customer,Positive,0
+CV001304,Customer,App issue,0
+CV001305,Customer,Unclear,0
+CV001306,Customer,Unclear,0
+CV001307,Customer,Failed delivery,0
+CV001308,Customer,Incorrect information,0
+CV001309,Customer,Positive,0
+CV001310,Customer,Tracking / status,0
+CV001311,Customer,Positive,0
+CV001312,Customer,Failed delivery,0
+CV001313,Customer,Positive,0
+CV001314,Customer,Unclear,0
+CV001315,Customer,Positive,0
+CV001316,Customer,Late delivery,0
+CV001317,Customer,Positive,0
+CV001318,Customer,Positive,0
+CV001319,Customer,Positive,0
+CV001320,Customer,Positive,0
+CV001321,Customer,Fee,0
+CV001322,Customer,Unclear,0
+CV001323,Customer,Positive,0
+CV001324,Customer,Positive,0
+CV001325,Customer,Unclear,0
+CV001326,Customer,Positive,0
+CV001327,Customer,Positive,0
+CV001328,Customer,Positive,0
+CV001329,Customer,Positive,0
+CV001330,Customer,Positive,0
+CV001331,Customer,Positive,0
+CV001332,Customer,Positive,0
+CV001333,Customer,Positive,0
+CV001334,Customer,Positive,0
+CV001335,Customer,Positive,0
+CV001336,Customer,Positive,0
+CV001337,Customer,Positive,0
+SV000615,Seller,Positive,0
+SV000616,Seller,Positive,0
+SV000617,Seller,Unclear,0
+SV000618,Seller,Positive,0
+SV000619,Seller,Positive,0
+SV000620,Seller,Positive,0
+SV000621,Seller,Positive,0
+SV000622,Seller,Compensation,0
+SV000623,Seller,Late delivery,0
+SV000624,Seller,Positive,0
+SV000625,Seller,Positive,0
+SV000626,Seller,Positive,0
+SV000627,Seller,Positive,0
+SV000628,Seller,Positive,0
+SV000629,Seller,Positive,0
+SV000630,Seller,Positive,0
+SV000631,Seller,Positive,0
+SV000632,Seller,Positive,0
+SV000633,Seller,Positive,0
+RV000310,Rider,Handover issue,0
+RV000311,Rider,Positive,0
+RV000312,Rider,App issue,0
+RV000313,Rider,Hub processing delay,0
+RV000314,Rider,Positive,0
+RV000315,Rider,Hub processing delay,0
+RV000316,Rider,Positive,0
+RV000317,Rider,Positive,0
+RV000318,Rider,Positive,0
+CV001338,Customer,Late delivery,0
+CV001339,Customer,Positive,0
+CV001340,Customer,Positive,0
+CV001341,Customer,Incorrect information,0
+CV001342,Customer,Positive,0
+CV001343,Customer,Positive,0
+CV001344,Customer,Failed delivery,0
+CV001345,Customer,Positive,0
+CV001346,Customer,Positive,0
+CV001347,Customer,Positive,0
+CV001348,Customer,Late delivery,0
+CV001349,Customer,Positive,0
+CV001350,Customer,Incorrect information,0
+CV001351,Customer,Late delivery,0
+CV001352,Customer,Unclear,0
+CV001353,Customer,Late delivery,0
+CV001354,Customer,Tracking / status,0
+CV001355,Customer,Failed delivery,0
+CV001356,Customer,Positive,0
+CV001357,Customer,Positive,0
+CV001358,Customer,Slow response,0
+CV001359,Customer,Positive,0
+CV001360,Customer,Positive,0
+CV001361,Customer,Positive,0
+CV001362,Customer,Positive,0
+CV001363,Customer,Lost / damaged parcel,0
+CV001364,Customer,Positive,0
+CV001365,Customer,Fee,0
+CV001366,Customer,Positive,0
+CV001367,Customer,Positive,0
+CV001368,Customer,Positive,0
+CV001369,Customer,Positive,0
+CV001370,Customer,Slow response,0
+CV001371,Customer,Positive,0
+CV001372,Customer,Positive,0
+CV001373,Customer,Positive,0
+CV001374,Customer,Positive,0
+CV001375,Customer,Tracking / status,0
+CV001376,Customer,Slow response,0
+CV001377,Customer,Positive,0
+CV001378,Customer,Positive,0
+CV001379,Customer,Positive,0
+CV001380,Customer,Positive,0
+SV000634,Seller,Positive,0
+SV000635,Seller,Positive,0
+SV000636,Seller,Positive,0
+SV000637,Seller,Positive,0
+SV000638,Seller,COD,0
+SV000639,Seller,Positive,0
+SV000640,Seller,Failed delivery,0
+SV000641,Seller,Failed delivery,0
+SV000642,Seller,Positive,0
+SV000643,Seller,Positive,0
+SV000644,Seller,Positive,0
+SV000645,Seller,Positive,0
+SV000646,Seller,Positive,0
+SV000647,Seller,Positive,0
+SV000648,Seller,Positive,0
+SV000649,Seller,Failed delivery,0
+SV000650,Seller,Failed delivery,0
+SV000651,Seller,Positive,0
+SV000652,Seller,Late delivery,0
+SV000653,Seller,Compensation,0
+RV000319,Rider,Positive,0
+RV000320,Rider,Handover issue,0
+RV000321,Rider,Wrong routing,0
+RV000322,Rider,Delivery attempt,0
+RV000323,Rider,Positive,0
+RV000324,Rider,Wrong routing,0
+RV000325,Rider,Hub processing delay,0
+RV000326,Rider,Positive,0
+RV000327,Rider,Positive,0
+RV000328,Rider,Positive,0
+CV001381,Customer,Positive,0
+CV001382,Customer,Positive,0
+CV001383,Customer,Positive,0
+CV001384,Customer,Positive,0
+CV001385,Customer,Positive,0
+CV001386,Customer,Positive,0
+CV001387,Customer,Slow response,0
+CV001388,Customer,Positive,0
+CV001389,Customer,Positive,0
+CV001390,Customer,Positive,0
+CV001391,Customer,Positive,0
+CV001392,Customer,Positive,0
+CV001393,Customer,Late delivery,0
+CV001394,Customer,Fee,0
+CV001395,Customer,Positive,0
+CV001396,Customer,Positive,0
+CV001397,Customer,Unclear,0
+CV001398,Customer,Failed delivery,0
+CV001399,Customer,Positive,0
+CV001400,Customer,Positive,0
+CV001401,Customer,Positive,0
+CV001402,Customer,Positive,0
+CV001403,Customer,Positive,0
+CV001404,Customer,Fee,0
+CV001405,Customer,Positive,0
+CV001406,Customer,Failed delivery,0
+CV001407,Customer,Unclear,0
+CV001408,Customer,Positive,0
+CV001409,Customer,Positive,0
+CV001410,Customer,Failed delivery,0
+CV001411,Customer,Positive,0
+CV001412,Customer,Positive,0
+CV001413,Customer,Positive,0
+CV001414,Customer,Positive,0
+CV001415,Customer,Positive,0
+CV001416,Customer,Positive,0
+SV000654,Seller,Unclear,0
+SV000655,Seller,Positive,0
+SV000656,Seller,Positive,0
+SV000657,Seller,Failed delivery,0
+SV000658,Seller,Unclear,0
+SV000659,Seller,Positive,0
+SV000660,Seller,Positive,0
+SV000661,Seller,Positive,0
+SV000662,Seller,Positive,0
+SV000663,Seller,Positive,0
+SV000664,Seller,Positive,0
+SV000665,Seller,Positive,0
+SV000666,Seller,Positive,0
+SV000667,Seller,Positive,0
+SV000668,Seller,Positive,0
+SV000669,Seller,Positive,0
+SV000670,Seller,Positive,0
+RV000329,Rider,Positive,0
+RV000330,Rider,Hub processing delay,0
+RV000331,Rider,Positive,0
+RV000332,Rider,Positive,0
+RV000333,Rider,Positive,0
+RV000334,Rider,Positive,0
+RV000335,Rider,Wrong routing,0
+RV000336,Rider,Wrong routing,0
+RV000337,Rider,Positive,0
+RV000338,Rider,Positive,0
+RV000339,Rider,Positive,0
+CV001417,Customer,Positive,0
+CV001418,Customer,Late delivery,0
+CV001419,Customer,Tracking / status,0
+CV001420,Customer,Positive,0
+CV001421,Customer,Positive,0
+CV001422,Customer,Lost / damaged parcel,0
+CV001423,Customer,Positive,0
+CV001424,Customer,Tracking / status,0
+CV001425,Customer,Slow response,0
+CV001426,Customer,Late delivery,0
+CV001427,Customer,Failed delivery,0
+CV001428,Customer,Positive,0
+CV001429,Customer,Late delivery,0
+CV001430,Customer,Positive,0
+CV001431,Customer,Positive,0
+CV001432,Customer,Late delivery,0
+CV001433,Customer,Positive,0
+CV001434,Customer,Positive,0
+CV001435,Customer,Positive,0
+CV001436,Customer,Positive,0
+CV001437,Customer,Positive,0
+CV001438,Customer,Positive,0
+CV001439,Customer,Positive,0
+CV001440,Customer,Late delivery,0
+CV001441,Customer,Positive,0
+CV001442,Customer,Positive,0
+CV001443,Customer,Positive,0
+CV001444,Customer,Positive,0
+CV001445,Customer,Positive,0
+CV001446,Customer,Positive,0
+CV001447,Customer,Positive,0
+CV001448,Customer,Positive,0
+CV001449,Customer,Positive,0
+CV001450,Customer,Positive,0
+CV001451,Customer,Slow response,0
+CV001452,Customer,Late delivery,0
+CV001453,Customer,Late delivery,0
+SV000671,Seller,Positive,0
+SV000672,Seller,Positive,0
+SV000673,Seller,Positive,0
+SV000674,Seller,Unclear,0
+SV000675,Seller,Unclear,0
+SV000676,Seller,Failed delivery,0
+SV000677,Seller,Positive,0
+SV000678,Seller,Positive,0
+SV000679,Seller,Positive,0
+SV000680,Seller,Tracking / status,0
+SV000681,Seller,Return,0
+SV000682,Seller,Positive,0
+SV000683,Seller,Failed delivery,0
+SV000684,Seller,Positive,0
+SV000685,Seller,Positive,0
+SV000686,Seller,Compensation,0
+SV000687,Seller,Positive,0
+SV000688,Seller,Tracking / status,0
+SV000689,Seller,Positive,0
+SV000690,Seller,Pickup delay,0
+SV000691,Seller,Positive,0
+RV000340,Rider,Positive,0
+RV000341,Rider,Positive,0
+RV000342,Rider,Positive,0
+RV000343,Rider,Positive,0
+RV000344,Rider,Positive,0
+RV000345,Rider,Positive,0
+RV000346,Rider,Positive,0
+RV000347,Rider,App issue,0
+CV001454,Customer,Unclear,0
+CV001455,Customer,Lost / damaged parcel,0
+CV001456,Customer,Positive,0
+CV001457,Customer,Positive,0
+CV001458,Customer,Positive,0
+CV001459,Customer,Positive,0
+CV001460,Customer,Positive,0
+CV001461,Customer,Positive,0
+CV001462,Customer,Positive,0
+CV001463,Customer,Lost / damaged parcel,0
+CV001464,Customer,Positive,0
+CV001465,Customer,Positive,0
+CV001466,Customer,Unclear,0
+CV001467,Customer,Positive,0
+CV001468,Customer,Unclear,0
+CV001469,Customer,Positive,0
+CV001470,Customer,Positive,0
+CV001471,Customer,Positive,0
+CV001472,Customer,Slow response,0
+CV001473,Customer,Positive,0
+CV001474,Customer,Tracking / status,0
+CV001475,Customer,Late delivery,0
+CV001476,Customer,Late delivery,0
+CV001477,Customer,Positive,0
+CV001478,Customer,Positive,0
+CV001479,Customer,Positive,0
+CV001480,Customer,Lost / damaged parcel,0
+CV001481,Customer,Positive,0
+CV001482,Customer,Positive,0
+CV001483,Customer,Failed delivery,0
+CV001484,Customer,Positive,0
+CV001485,Customer,Slow response,0
+CV001486,Customer,Slow response,0
+CV001487,Customer,Tracking / status,0
+CV001488,Customer,Tracking / status,0
+CV001489,Customer,Positive,0
+CV001490,Customer,Positive,0
+CV001491,Customer,Positive,0
+CV001492,Customer,Positive,0
+CV001493,Customer,Incorrect information,0
+CV001494,Customer,Unclear,0
+CV001495,Customer,Late delivery,0
+CV001496,Customer,Positive,0
+CV001497,Customer,Failed delivery,0
+CV001498,Customer,Late delivery,0
+CV001499,Customer,Positive,0
+CV001500,Customer,Positive,0
+CV001501,Customer,Positive,0
+SV000692,Seller,Unclear,0
+SV000693,Seller,Positive,0
+SV000694,Seller,Positive,0
+SV000695,Seller,Return,0
+SV000696,Seller,Positive,0
+SV000697,Seller,Positive,0
+SV000698,Seller,Positive,0
+SV000699,Seller,Positive,0
+SV000700,Seller,Positive,0
+SV000701,Seller,Unclear,0
+SV000702,Seller,Positive,0
+SV000703,Seller,Fee,0
+SV000704,Seller,Repeated contact,0
+SV000705,Seller,COD,0
+SV000706,Seller,Positive,0
+SV000707,Seller,Positive,0
+SV000708,Seller,Return,0
+SV000709,Seller,Positive,0
+SV000710,Seller,Positive,0
+SV000711,Seller,Unclear,0
+SV000712,Seller,Settlement,0
+SV000713,Seller,Positive,0
+RV000348,Rider,Handover issue,0
+RV000349,Rider,Positive,0
+RV000350,Rider,Positive,0
+RV000351,Rider,Hub processing delay,0
+RV000352,Rider,Positive,0
+RV000353,Rider,Hub processing delay,0
+RV000354,Rider,Positive,0
+RV000355,Rider,Settlement,0
+RV000356,Rider,Hub processing delay,0
+RV000357,Rider,Positive,0
+CV001502,Customer,Positive,0
+CV001503,Customer,Positive,0
+CV001504,Customer,Lost / damaged parcel,0
+CV001505,Customer,App issue,0
+CV001506,Customer,Positive,0
+CV001507,Customer,Positive,0
+CV001508,Customer,Positive,0
+CV001509,Customer,Positive,0
+CV001510,Customer,Positive,0
+CV001511,Customer,Positive,0
+CV001512,Customer,Positive,0
+CV001513,Customer,Positive,0
+CV001514,Customer,Slow response,0
+CV001515,Customer,Lost / damaged parcel,0
+CV001516,Customer,Positive,0
+CV001517,Customer,Positive,0
+CV001518,Customer,Positive,0
+CV001519,Customer,Positive,0
+CV001520,Customer,Positive,0
+CV001521,Customer,Positive,0
+CV001522,Customer,Positive,0
+CV001523,Customer,Positive,0
+CV001524,Customer,Incorrect information,0
+CV001525,Customer,Positive,0
+CV001526,Customer,Unclear,0
+CV001527,Customer,Positive,0
+CV001528,Customer,Lost / damaged parcel,0
+CV001529,Customer,Positive,0
+CV001530,Customer,Positive,0
+CV001531,Customer,Positive,0
+CV001532,Customer,Lost / damaged parcel,0
+CV001533,Customer,Lost / damaged parcel,0
+CV001534,Customer,Fee,0
+CV001535,Customer,Positive,0
+CV001536,Customer,Lost / damaged parcel,0
+CV001537,Customer,Positive,0
+CV001538,Customer,Lost / damaged parcel,0
+CV001539,Customer,Slow response,0
+CV001540,Customer,Positive,0
+CV001541,Customer,Positive,0
+CV001542,Customer,Positive,0
+CV001543,Customer,Late delivery,0
+CV001544,Customer,Unclear,0
+CV001545,Customer,Positive,0
+SV000714,Seller,Fee,0
+SV000715,Seller,Pickup delay,0
+SV000716,Seller,Positive,0
+SV000717,Seller,Return,0
+SV000718,Seller,COD,0
+SV000719,Seller,Positive,0
+SV000720,Seller,Positive,0
+SV000721,Seller,Positive,0
+SV000722,Seller,Positive,0
+SV000723,Seller,Return,0
+SV000724,Seller,Positive,0
+SV000725,Seller,Pickup failure,0
+SV000726,Seller,Positive,0
+SV000727,Seller,Pickup delay,0
+SV000728,Seller,Positive,0
+SV000729,Seller,Positive,0
+SV000730,Seller,Fee,0
+SV000731,Seller,Repeated contact,0
+SV000732,Seller,Positive,0
+SV000733,Seller,Tracking / status,0
+SV000734,Seller,Positive,0
+RV000358,Rider,Hub processing delay,0
+RV000359,Rider,Positive,0
+RV000360,Rider,Positive,0
+RV000361,Rider,Positive,0
+RV000362,Rider,Hub processing delay,0
+RV000363,Rider,Hub processing delay,0
+RV000364,Rider,Positive,0
+RV000365,Rider,Unclear,0
+RV000366,Rider,Positive,0
+RV000367,Rider,Positive,0
+RV000368,Rider,Positive,0
+CV001546,Customer,Failed delivery,0
+CV001547,Customer,Late delivery,0
+CV001548,Customer,Positive,0
+CV001549,Customer,Positive,0
+CV001550,Customer,Fee,0
+CV001551,Customer,Unclear,0
+CV001552,Customer,Positive,0
+CV001553,Customer,Positive,0
+CV001554,Customer,Positive,0
+CV001555,Customer,Fee,0
+CV001556,Customer,Positive,0
+CV001557,Customer,Positive,0
+CV001558,Customer,Slow response,0
+CV001559,Customer,Positive,0
+CV001560,Customer,Positive,0
+CV001561,Customer,Slow response,0
+CV001562,Customer,Positive,0
+CV001563,Customer,Positive,0
+CV001564,Customer,Positive,0
+CV001565,Customer,Positive,0
+CV001566,Customer,Positive,0
+CV001567,Customer,Positive,0
+CV001568,Customer,Late delivery,0
+CV001569,Customer,Tracking / status,0
+CV001570,Customer,Positive,0
+CV001571,Customer,Positive,0
+CV001572,Customer,Positive,0
+CV001573,Customer,No response,0
+CV001574,Customer,No response,0
+CV001575,Customer,Positive,0
+CV001576,Customer,Tracking / status,0
+CV001577,Customer,Positive,0
+CV001578,Customer,Positive,0
+CV001579,Customer,Positive,0
+CV001580,Customer,Positive,0
+CV001581,Customer,Tracking / status,0
+CV001582,Customer,Positive,0
+CV001583,Customer,Positive,0
+CV001584,Customer,No response,0
+CV001585,Customer,Failed delivery,0
+CV001586,Customer,Positive,0
+CV001587,Customer,Positive,0
+CV001588,Customer,Positive,0
+SV000735,Seller,Positive,0
+SV000736,Seller,Positive,0
+SV000737,Seller,Positive,0
+SV000738,Seller,Positive,0
+SV000739,Seller,Positive,0
+SV000740,Seller,Positive,0
+SV000741,Seller,Positive,0
+SV000742,Seller,Positive,0
+SV000743,Seller,Positive,0
+SV000744,Seller,Positive,0
+SV000745,Seller,Positive,0
+SV000746,Seller,Positive,0
+SV000747,Seller,Positive,0
+SV000748,Seller,Positive,0
+SV000749,Seller,Positive,0
+SV000750,Seller,Positive,0
+SV000751,Seller,Positive,0
+SV000752,Seller,Fee,0
+SV000753,Seller,Late delivery,0
+RV000369,Rider,Positive,0
+RV000370,Rider,Settlement,0
+RV000371,Rider,Positive,0
+RV000372,Rider,Positive,0
+RV000373,Rider,Wrong routing,0
+RV000374,Rider,Positive,0
+RV000375,Rider,Positive,0
+RV000376,Rider,Handover issue,0
+RV000377,Rider,Positive,0
+CV001589,Customer,Positive,0
+CV001590,Customer,Positive,0
+CV001591,Customer,Positive,0
+CV001592,Customer,Positive,0
+CV001593,Customer,Slow response,0
+CV001594,Customer,Positive,0
+CV001595,Customer,Positive,0
+CV001596,Customer,Slow response,0
+CV001597,Customer,Positive,0
+CV001598,Customer,Late delivery,0
+CV001599,Customer,Failed delivery,0
+CV001600,Customer,Late delivery,0
+CV001601,Customer,Incorrect information,0
+CV001602,Customer,Positive,0
+CV001603,Customer,Unclear,0
+CV001604,Customer,Late delivery,0
+CV001605,Customer,App issue,0
+CV001606,Customer,Positive,0
+CV001607,Customer,Positive,0
+CV001608,Customer,Positive,0
+CV001609,Customer,Positive,0
+CV001610,Customer,Positive,0
+CV001611,Customer,Positive,0
+CV001612,Customer,Positive,0
+CV001613,Customer,Positive,0
+CV001614,Customer,Positive,0
+CV001615,Customer,Positive,0
+CV001616,Customer,Positive,0
+CV001617,Customer,Lost / damaged parcel,0
+CV001618,Customer,Positive,0
+CV001619,Customer,Positive,0
+CV001620,Customer,Positive,0
+CV001621,Customer,Positive,0
+CV001622,Customer,Positive,0
+CV001623,Customer,Unclear,0
+CV001624,Customer,No response,0
+CV001625,Customer,Positive,0
+CV001626,Customer,Positive,0
+CV001627,Customer,Positive,0
+CV001628,Customer,Slow response,0
+SV000754,Seller,Settlement,0
+SV000755,Seller,Positive,0
+SV000756,Seller,Positive,0
+SV000757,Seller,Positive,0
+SV000758,Seller,Positive,0
+SV000759,Seller,Positive,0
+SV000760,Seller,Positive,0
+SV000761,Seller,Late delivery,0
+SV000762,Seller,Positive,0
+SV000763,Seller,Pickup delay,0
+SV000764,Seller,Positive,0
+SV000765,Seller,Settlement,0
+SV000766,Seller,Tracking / status,0
+SV000767,Seller,COD,0
+SV000768,Seller,Positive,0
+SV000769,Seller,Positive,0
+SV000770,Seller,Positive,0
+SV000771,Seller,Pickup delay,0
+RV000378,Rider,Settlement,0
+RV000379,Rider,Positive,0
+RV000380,Rider,Delivery attempt,0
+RV000381,Rider,Positive,0
+RV000382,Rider,Delivery attempt,0
+RV000383,Rider,Positive,0
+RV000384,Rider,Positive,0
+RV000385,Rider,Positive,0
+RV000386,Rider,Positive,0
+CV001629,Customer,Positive,0
+CV001630,Customer,Positive,0
+CV001631,Customer,Positive,0
+CV001632,Customer,Positive,0
+CV001633,Customer,No response,0
+CV001634,Customer,Incorrect information,0
+CV001635,Customer,Tracking / status,0
+CV001636,Customer,Positive,0
+CV001637,Customer,Slow response,0
+CV001638,Customer,Positive,0
+CV001639,Customer,Positive,0
+CV001640,Customer,Positive,0
+CV001641,Customer,Positive,0
+CV001642,Customer,Positive,0
+CV001643,Customer,Positive,0
+CV001644,Customer,Positive,0
+CV001645,Customer,Positive,0
+CV001646,Customer,Positive,0
+CV001647,Customer,Late delivery,0
+CV001648,Customer,Positive,0
+CV001649,Customer,Positive,0
+CV001650,Customer,Positive,0
+CV001651,Customer,Tracking / status,0
+CV001652,Customer,Fee,0
+CV001653,Customer,Failed delivery,0
+CV001654,Customer,Positive,0
+CV001655,Customer,App issue,0
+CV001656,Customer,Positive,0
+CV001657,Customer,Positive,0
+CV001658,Customer,Positive,0
+CV001659,Customer,Positive,0
+CV001660,Customer,Positive,0
+CV001661,Customer,Positive,0
+CV001662,Customer,Positive,0
+CV001663,Customer,Positive,0
+CV001664,Customer,Positive,0
+CV001665,Customer,Positive,0
+CV001666,Customer,Positive,0
+CV001667,Customer,Positive,0
+CV001668,Customer,Positive,0
+SV000772,Seller,Pickup failure,0
+SV000773,Seller,Positive,0
+SV000774,Seller,Late delivery,0
+SV000775,Seller,Positive,0
+SV000776,Seller,Positive,0
+SV000777,Seller,Compensation,0
+SV000778,Seller,Positive,0
+SV000779,Seller,Positive,0
+SV000780,Seller,Unclear,0
+SV000781,Seller,Positive,0
+SV000782,Seller,Positive,0
+SV000783,Seller,Late delivery,0
+SV000784,Seller,Positive,0
+SV000785,Seller,Pickup failure,0
+SV000786,Seller,Positive,0
+SV000787,Seller,Positive,0
+SV000788,Seller,Late delivery,0
+SV000789,Seller,Positive,0
+SV000790,Seller,Positive,0
+SV000791,Seller,Failed delivery,0
+RV000387,Rider,Positive,0
+RV000388,Rider,Positive,0
+RV000389,Rider,Positive,0
+RV000390,Rider,Positive,0
+RV000391,Rider,Positive,0
+RV000392,Rider,Settlement,0
+RV000393,Rider,App issue,0
+RV000394,Rider,Unclear,0
+RV000395,Rider,Settlement,0
+RV000396,Rider,Positive,0
+CV001669,Customer,Tracking / status,0
+CV001670,Customer,Failed delivery,0
+CV001671,Customer,Positive,0
+CV001672,Customer,Positive,0
+CV001673,Customer,Positive,0
+CV001674,Customer,Positive,0
+CV001675,Customer,Positive,0
+CV001676,Customer,Positive,0
+CV001677,Customer,No response,0
+CV001678,Customer,Lost / damaged parcel,0
+CV001679,Customer,Positive,0
+CV001680,Customer,Late delivery,0
+CV001681,Customer,Positive,0
+CV001682,Customer,Lost / damaged parcel,0
+CV001683,Customer,Positive,0
+CV001684,Customer,Positive,0
+CV001685,Customer,Positive,0
+CV001686,Customer,Positive,0
+CV001687,Customer,Positive,0
+CV001688,Customer,Late delivery,0
+CV001689,Customer,Positive,0
+CV001690,Customer,Late delivery,0
+CV001691,Customer,Positive,0
+CV001692,Customer,Late delivery,0
+CV001693,Customer,Positive,0
+CV001694,Customer,Positive,0
+CV001695,Customer,Positive,0
+CV001696,Customer,Positive,0
+CV001697,Customer,Positive,0
+CV001698,Customer,Slow response,0
+CV001699,Customer,Positive,0
+CV001700,Customer,Fee,0
+CV001701,Customer,Lost / damaged parcel,0
+CV001702,Customer,Positive,0
+CV001703,Customer,Positive,0
+CV001704,Customer,Slow response,0
+CV001705,Customer,Tracking / status,0
+CV001706,Customer,Positive,0
+CV001707,Customer,Positive,0
+CV001708,Customer,Unclear,0
+CV001709,Customer,Positive,0
+CV001710,Customer,Positive,0
+SV000792,Seller,Positive,0
+SV000793,Seller,Positive,0
+SV000794,Seller,Positive,0
+SV000795,Seller,Positive,0
+SV000796,Seller,Failed delivery,0
+SV000797,Seller,Positive,0
+SV000798,Seller,Settlement,0
+SV000799,Seller,Positive,0
+SV000800,Seller,COD,0
+SV000801,Seller,Pickup failure,0
+SV000802,Seller,Positive,0
+SV000803,Seller,Positive,0
+SV000804,Seller,Positive,0
+SV000805,Seller,Unclear,0
+SV000806,Seller,Late delivery,0
+SV000807,Seller,Repeated contact,0
+SV000808,Seller,Settlement,0
+SV000809,Seller,Unclear,0
+SV000810,Seller,Positive,0
+SV000811,Seller,Positive,0
+SV000812,Seller,Positive,0
+SV000813,Seller,Pickup failure,0
+RV000397,Rider,Positive,0
+RV000398,Rider,Unclear,0
+RV000399,Rider,Positive,0
+RV000400,Rider,Delivery attempt,0
+RV000401,Rider,Handover issue,0
+RV000402,Rider,Positive,0
+RV000403,Rider,Positive,0
+RV000404,Rider,Positive,0
+RV000405,Rider,Positive,0
+RV000406,Rider,Delivery attempt,0
+CV001711,Customer,Positive,0
+CV001712,Customer,Late delivery,0
+CV001713,Customer,Positive,0
+CV001714,Customer,Slow response,0
+CV001715,Customer,Positive,0
+CV001716,Customer,Positive,0
+CV001717,Customer,Positive,0
+CV001718,Customer,Positive,0
+CV001719,Customer,Late delivery,0
+CV001720,Customer,Positive,0
+CV001721,Customer,Unclear,0
+CV001722,Customer,Positive,0
+CV001723,Customer,App issue,0
+CV001724,Customer,Positive,0
+CV001725,Customer,Positive,0
+CV001726,Customer,Positive,0
+CV001727,Customer,Late delivery,0
+CV001728,Customer,Late delivery,0
+CV001729,Customer,Late delivery,0
+CV001730,Customer,No response,0
+CV001731,Customer,Positive,0
+CV001732,Customer,Positive,0
+CV001733,Customer,Positive,0
+CV001734,Customer,No response,0
+CV001735,Customer,Positive,0
+CV001736,Customer,No response,0
+CV001737,Customer,Tracking / status,0
+CV001738,Customer,Late delivery,0
+CV001739,Customer,Positive,0
+CV001740,Customer,Positive,0
+CV001741,Customer,Late delivery,0
+CV001742,Customer,Positive,0
+CV001743,Customer,Positive,0
+CV001744,Customer,Positive,0
+CV001745,Customer,Positive,0
+CV001746,Customer,Late delivery,0
+CV001747,Customer,Tracking / status,0
+CV001748,Customer,Late delivery,0
+CV001749,Customer,App issue,0
+CV001750,Customer,Positive,0
+CV001751,Customer,Failed delivery,0
+CV001752,Customer,Positive,0
+CV001753,Customer,Positive,0
+CV001754,Customer,App issue,0
+SV000814,Seller,Positive,0
+SV000815,Seller,Positive,0
+SV000816,Seller,Positive,0
+SV000817,Seller,Positive,0
+SV000818,Seller,Positive,0
+SV000819,Seller,Positive,0
+SV000820,Seller,Positive,0
+SV000821,Seller,Positive,0
+SV000822,Seller,Positive,0
+SV000823,Seller,Fee,0
+SV000824,Seller,Positive,0
+SV000825,Seller,Positive,0
+SV000826,Seller,Positive,0
+SV000827,Seller,Positive,0
+SV000828,Seller,Positive,0
+SV000829,Seller,Positive,0
+SV000830,Seller,Positive,0
+SV000831,Seller,Unclear,0
+SV000832,Seller,Positive,0
+RV000407,Rider,Unclear,0
+RV000408,Rider,Hub processing delay,0
+RV000409,Rider,Hub processing delay,0
+RV000410,Rider,Positive,0
+RV000411,Rider,Positive,0
+RV000412,Rider,Positive,0
+RV000413,Rider,Positive,0
+RV000414,Rider,Handover issue,0
+RV000415,Rider,Hub processing delay,0
+RV000416,Rider,Delivery attempt,0
+CV001755,Customer,Positive,0
+CV001756,Customer,Positive,0
+CV001757,Customer,Lost / damaged parcel,0
+CV001758,Customer,Positive,0
+CV001759,Customer,Unclear,0
+CV001760,Customer,Lost / damaged parcel,0
+CV001761,Customer,Positive,0
+CV001762,Customer,Failed delivery,0
+CV001763,Customer,Incorrect information,0
+CV001764,Customer,Positive,0
+CV001765,Customer,Positive,0
+CV001766,Customer,Positive,0
+CV001767,Customer,Positive,0
+CV001768,Customer,Positive,0
+CV001769,Customer,Positive,0
+CV001770,Customer,Positive,0
+CV001771,Customer,Lost / damaged parcel,0
+CV001772,Customer,Positive,0
+CV001773,Customer,Late delivery,0
+CV001774,Customer,Positive,0
+CV001775,Customer,No response,0
+CV001776,Customer,Positive,0
+CV001777,Customer,Positive,0
+CV001778,Customer,Positive,0
+CV001779,Customer,Unclear,0
+CV001780,Customer,Positive,0
+CV001781,Customer,Positive,0
+CV001782,Customer,Positive,0
+CV001783,Customer,Positive,0
+CV001784,Customer,Positive,0
+CV001785,Customer,Positive,0
+CV001786,Customer,No response,0
+CV001787,Customer,Tracking / status,0
+CV001788,Customer,Positive,0
+CV001789,Customer,Positive,0
+CV001790,Customer,Positive,0
+CV001791,Customer,Positive,0
+CV001792,Customer,Positive,0
+CV001793,Customer,Late delivery,0
+CV001794,Customer,Positive,0
+CV001795,Customer,Positive,0
+CV001796,Customer,Positive,0
+CV001797,Customer,Late delivery,0
+CV001798,Customer,Positive,0
+CV001799,Customer,Positive,0
+SV000833,Seller,Pickup delay,0
+SV000834,Seller,Positive,0
+SV000835,Seller,Tracking / status,0
+SV000836,Seller,Positive,0
+SV000837,Seller,Tracking / status,0
+SV000838,Seller,Positive,0
+SV000839,Seller,Positive,0
+SV000840,Seller,Positive,0
+SV000841,Seller,Fee,0
+SV000842,Seller,Failed delivery,0
+SV000843,Seller,Positive,0
+SV000844,Seller,Positive,0
+SV000845,Seller,Positive,0
+SV000846,Seller,Tracking / status,0
+SV000847,Seller,Positive,0
+SV000848,Seller,Unclear,0
+SV000849,Seller,Positive,0
+SV000850,Seller,Positive,0
+SV000851,Seller,Positive,0
+SV000852,Seller,Fee,0
+SV000853,Seller,Positive,0
+SV000854,Seller,Positive,0
+RV000417,Rider,Positive,0
+RV000418,Rider,Positive,0
+RV000419,Rider,Positive,0
+RV000420,Rider,Hub processing delay,0
+RV000421,Rider,Settlement,0
+RV000422,Rider,Positive,0
+RV000423,Rider,Unclear,0
+RV000424,Rider,Delivery attempt,0
+RV000425,Rider,Positive,0
+RV000426,Rider,Positive,0
+CV001800,Customer,Positive,0
+CV001801,Customer,Late delivery,0
+CV001802,Customer,App issue,0
+CV001803,Customer,Positive,0
+CV001804,Customer,Positive,0
+CV001805,Customer,Positive,0
+CV001806,Customer,Positive,0
+CV001807,Customer,Positive,0
+CV001808,Customer,Positive,0
+CV001809,Customer,Positive,0
+CV001810,Customer,Positive,0
+CV001811,Customer,Positive,0
+CV001812,Customer,Positive,0
+CV001813,Customer,Positive,0
+CV001814,Customer,Unclear,0
+CV001815,Customer,Positive,0
+CV001816,Customer,Tracking / status,0
+CV001817,Customer,Positive,0
+CV001818,Customer,Positive,0
+CV001819,Customer,Positive,0
+CV001820,Customer,Positive,0
+CV001821,Customer,Failed delivery,0
+CV001822,Customer,Positive,0
+CV001823,Customer,Positive,0
+CV001824,Customer,Positive,0
+CV001825,Customer,Positive,0
+CV001826,Customer,Positive,0
+CV001827,Customer,Positive,0
+CV001828,Customer,Failed delivery,0
+CV001829,Customer,Positive,0
+CV001830,Customer,Positive,0
+CV001831,Customer,Positive,0
+CV001832,Customer,Fee,0
+CV001833,Customer,Slow response,0
+CV001834,Customer,Late delivery,0
+CV001835,Customer,Positive,0
+CV001836,Customer,Positive,0
+CV001837,Customer,Positive,0
+CV001838,Customer,Positive,0
+CV001839,Customer,Positive,0
+CV001840,Customer,Positive,0
+CV001841,Customer,Positive,0
+CV001842,Customer,Positive,0
+SV000855,Seller,Positive,0
+SV000856,Seller,Positive,0
+SV000857,Seller,Positive,0
+SV000858,Seller,Return,0
+SV000859,Seller,Tracking / status,0
+SV000860,Seller,Positive,0
+SV000861,Seller,Positive,0
+SV000862,Seller,Positive,0
+SV000863,Seller,Failed delivery,0
+SV000864,Seller,Positive,0
+SV000865,Seller,Positive,0
+SV000866,Seller,Positive,0
+SV000867,Seller,Repeated contact,0
+SV000868,Seller,Compensation,0
+SV000869,Seller,Positive,0
+SV000870,Seller,Positive,0
+SV000871,Seller,Positive,0
+SV000872,Seller,Late delivery,0
+SV000873,Seller,Positive,0
+SV000874,Seller,Positive,0
+SV000875,Seller,Positive,0
+SV000876,Seller,Positive,0
+SV000877,Seller,Positive,0
+RV000427,Rider,Positive,0
+RV000428,Rider,Settlement,0
+RV000429,Rider,App issue,0
+RV000430,Rider,Positive,0
+RV000431,Rider,Settlement,0
+RV000432,Rider,Delivery attempt,0
+RV000433,Rider,App issue,0
+RV000434,Rider,Positive,0
+RV000435,Rider,Positive,0
+RV000436,Rider,Positive,0
+CV001843,Customer,Positive,0
+CV001844,Customer,Positive,0
+CV001845,Customer,Failed delivery,0
+CV001846,Customer,Tracking / status,0
+CV001847,Customer,Positive,0
+CV001848,Customer,Positive,0
+CV001849,Customer,Positive,0
+CV001850,Customer,Positive,0
+CV001851,Customer,Slow response,0
+CV001852,Customer,Positive,0
+CV001853,Customer,Slow response,0
+CV001854,Customer,Positive,0
+CV001855,Customer,Positive,0
+CV001856,Customer,Positive,0
+CV001857,Customer,Positive,0
+CV001858,Customer,Positive,0
+CV001859,Customer,Failed delivery,0
+CV001860,Customer,Unclear,0
+CV001861,Customer,Positive,0
+CV001862,Customer,Tracking / status,0
+CV001863,Customer,Positive,0
+CV001864,Customer,Positive,0
+CV001865,Customer,Positive,0
+CV001866,Customer,Positive,0
+CV001867,Customer,Positive,0
+CV001868,Customer,Positive,0
+CV001869,Customer,Positive,0
+CV001870,Customer,Positive,0
+CV001871,Customer,Positive,0
+CV001872,Customer,Fee,0
+CV001873,Customer,Positive,0
+CV001874,Customer,Positive,0
+CV001875,Customer,Late delivery,0
+CV001876,Customer,Incorrect information,0
+CV001877,Customer,Failed delivery,0
+CV001878,Customer,Positive,0
+CV001879,Customer,Positive,0
+CV001880,Customer,Positive,0
+CV001881,Customer,Failed delivery,0
+SV000878,Seller,Positive,0
+SV000879,Seller,Positive,0
+SV000880,Seller,Late delivery,0
+SV000881,Seller,Tracking / status,0
+SV000882,Seller,Pickup failure,0
+SV000883,Seller,Repeated contact,0
+SV000884,Seller,Tracking / status,0
+SV000885,Seller,Positive,0
+SV000886,Seller,Positive,0
+SV000887,Seller,Positive,0
+SV000888,Seller,Late delivery,0
+SV000889,Seller,Fee,0
+SV000890,Seller,Positive,0
+SV000891,Seller,Repeated contact,0
+SV000892,Seller,Positive,0
+SV000893,Seller,Positive,0
+SV000894,Seller,Positive,0
+SV000895,Seller,Positive,0
+SV000896,Seller,Positive,0
+RV000437,Rider,Positive,0
+RV000438,Rider,Wrong routing,0
+RV000439,Rider,Delivery attempt,0
+RV000440,Rider,App issue,0
+RV000441,Rider,Hub processing delay,0
+RV000442,Rider,Wrong routing,0
+RV000443,Rider,Positive,0
+RV000444,Rider,Delivery attempt,0
+CV001882,Customer,Positive,0
+CV001883,Customer,Positive,0
+CV001884,Customer,Late delivery,0
+CV001885,Customer,Positive,0
+CV001886,Customer,Unclear,0
+CV001887,Customer,Positive,0
+CV001888,Customer,Positive,0
+CV001889,Customer,Positive,0
+CV001890,Customer,Positive,0
+CV001891,Customer,Positive,0
+CV001892,Customer,Positive,0
+CV001893,Customer,Positive,0
+CV001894,Customer,Positive,0
+CV001895,Customer,No response,0
+CV001896,Customer,Positive,0
+CV001897,Customer,Late delivery,0
+CV001898,Customer,Positive,0
+CV001899,Customer,Positive,0
+CV001900,Customer,No response,0
+CV001901,Customer,Positive,0
+CV001902,Customer,Positive,0
+CV001903,Customer,Positive,0
+CV001904,Customer,Failed delivery,0
+CV001905,Customer,Positive,0
+CV001906,Customer,Positive,0
+CV001907,Customer,Positive,0
+CV001908,Customer,App issue,0
+CV001909,Customer,Positive,0
+CV001910,Customer,Lost / damaged parcel,0
+CV001911,Customer,Positive,0
+CV001912,Customer,Positive,0
+CV001913,Customer,Positive,0
+CV001914,Customer,Lost / damaged parcel,0
+CV001915,Customer,Positive,0
+CV001916,Customer,Positive,0
+CV001917,Customer,Positive,0
+CV001918,Customer,Positive,0
+SV000897,Seller,Positive,0
+SV000898,Seller,Pickup delay,0
+SV000899,Seller,Positive,0
+SV000900,Seller,Positive,0
+SV000901,Seller,Positive,0
+SV000902,Seller,Positive,0
+SV000903,Seller,Positive,0
+SV000904,Seller,COD,0
+SV000905,Seller,Positive,0
+SV000906,Seller,Positive,0
+SV000907,Seller,Positive,0
+SV000908,Seller,Positive,0
+SV000909,Seller,Compensation,0
+SV000910,Seller,Positive,0
+SV000911,Seller,Return,0
+SV000912,Seller,Unclear,0
+SV000913,Seller,Positive,0
+RV000445,Rider,Positive,0
+RV000446,Rider,Positive,0
+RV000447,Rider,Positive,0
+RV000448,Rider,App issue,0
+RV000449,Rider,Positive,0
+RV000450,Rider,Unclear,0
+RV000451,Rider,App issue,0
+RV000452,Rider,Positive,0
+RV000453,Rider,Positive,0
+CV001919,Customer,Positive,0
+CV001920,Customer,Late delivery,0
+CV001921,Customer,Positive,0
+CV001922,Customer,Positive,0
+CV001923,Customer,Positive,0
+CV001924,Customer,Positive,0
+CV001925,Customer,Positive,0
+CV001926,Customer,Positive,0
+CV001927,Customer,Positive,0
+CV001928,Customer,Positive,0
+CV001929,Customer,Positive,0
+CV001930,Customer,Incorrect information,0
+CV001931,Customer,Positive,0
+CV001932,Customer,Positive,0
+CV001933,Customer,Positive,0
+CV001934,Customer,Positive,0
+CV001935,Customer,Positive,0
+CV001936,Customer,Positive,0
+CV001937,Customer,Positive,0
+CV001938,Customer,Lost / damaged parcel,0
+CV001939,Customer,Positive,0
+CV001940,Customer,Positive,0
+CV001941,Customer,Positive,0
+CV001942,Customer,Positive,0
+CV001943,Customer,Positive,0
+CV001944,Customer,Unclear,0
+CV001945,Customer,Positive,0
+CV001946,Customer,Failed delivery,0
+CV001947,Customer,Positive,0
+CV001948,Customer,Fee,0
+CV001949,Customer,Late delivery,0
+CV001950,Customer,Positive,0
+CV001951,Customer,Positive,0
+CV001952,Customer,Slow response,0
+CV001953,Customer,Positive,0
+CV001954,Customer,Incorrect information,0
+CV001955,Customer,Positive,0
+CV001956,Customer,Positive,0
+CV001957,Customer,Positive,0
+CV001958,Customer,Positive,0
+CV001959,Customer,Positive,0
+SV000914,Seller,Positive,0
+SV000915,Seller,Positive,0
+SV000916,Seller,Positive,0
+SV000917,Seller,Positive,0
+SV000918,Seller,Positive,0
+SV000919,Seller,Positive,0
+SV000920,Seller,Late delivery,0
+SV000921,Seller,Unclear,0
+SV000922,Seller,Positive,0
+SV000923,Seller,Positive,0
+SV000924,Seller,COD,0
+SV000925,Seller,Positive,0
+SV000926,Seller,Positive,0
+SV000927,Seller,COD,0
+SV000928,Seller,Positive,0
+SV000929,Seller,Positive,0
+SV000930,Seller,Positive,0
+SV000931,Seller,Positive,0
+SV000932,Seller,Positive,0
+SV000933,Seller,Positive,0
+SV000934,Seller,Positive,0
+RV000454,Rider,Positive,0
+RV000455,Rider,Positive,0
+RV000456,Rider,Unclear,0
+RV000457,Rider,Positive,0
+RV000458,Rider,Positive,0
+RV000459,Rider,Positive,0
+RV000460,Rider,Positive,0
+RV000461,Rider,Handover issue,0
+RV000462,Rider,Settlement,0
+RV000463,Rider,Positive,0
+CV001960,Customer,Positive,0
+CV001961,Customer,Positive,0
+CV001962,Customer,Positive,0
+CV001963,Customer,Positive,0
+CV001964,Customer,Positive,0
+CV001965,Customer,Positive,0
+CV001966,Customer,Positive,0
+CV001967,Customer,Positive,0
+CV001968,Customer,Positive,0
+CV001969,Customer,Positive,0
+CV001970,Customer,Positive,0
+CV001971,Customer,Positive,0
+CV001972,Customer,Positive,0
+CV001973,Customer,Positive,0
+CV001974,Customer,Tracking / status,0
+CV001975,Customer,Lost / damaged parcel,0
+CV001976,Customer,Positive,0
+CV001977,Customer,Lost / damaged parcel,0
+CV001978,Customer,Lost / damaged parcel,0
+CV001979,Customer,Positive,0
+CV001980,Customer,Positive,0
+CV001981,Customer,Slow response,0
+CV001982,Customer,Positive,0
+CV001983,Customer,Lost / damaged parcel,0
+CV001984,Customer,Positive,0
+CV001985,Customer,Positive,0
+CV001986,Customer,Positive,0
+CV001987,Customer,Positive,0
+CV001988,Customer,Positive,0
+CV001989,Customer,Positive,0
+CV001990,Customer,Positive,0
+CV001991,Customer,Positive,0
+CV001992,Customer,Positive,0
+CV001993,Customer,Positive,0
+CV001994,Customer,Positive,0
+CV001995,Customer,Positive,0
+CV001996,Customer,Tracking / status,0
+CV001997,Customer,Positive,0
+CV001998,Customer,Positive,0
+CV001999,Customer,Positive,0
+CV002000,Customer,Positive,0
+CV002001,Customer,Lost / damaged parcel,0
+SV000935,Seller,Positive,0
+SV000936,Seller,Positive,0
+SV000937,Seller,Positive,0
+SV000938,Seller,Late delivery,0
+SV000939,Seller,Pickup delay,0
+SV000940,Seller,COD,0
+SV000941,Seller,Positive,0
+SV000942,Seller,Positive,0
+SV000943,Seller,Late delivery,0
+SV000944,Seller,Positive,0
+SV000945,Seller,Tracking / status,0
+SV000946,Seller,Late delivery,0
+SV000947,Seller,Positive,0
+SV000948,Seller,Positive,0
+SV000949,Seller,Unclear,0
+SV000950,Seller,Pickup delay,0
+SV000951,Seller,Positive,0
+SV000952,Seller,Tracking / status,0
+SV000953,Seller,COD,0
+SV000954,Seller,Positive,0
+SV000955,Seller,Positive,0
+SV000956,Seller,Positive,0
+RV000464,Rider,Positive,0
+RV000465,Rider,Positive,0
+RV000466,Rider,Positive,0
+RV000467,Rider,Positive,0
+RV000468,Rider,Handover issue,0
+RV000469,Rider,Settlement,0
+RV000470,Rider,Unclear,0
+RV000471,Rider,Settlement,0
+RV000472,Rider,Positive,0
+RV000473,Rider,Positive,0
+RV000474,Rider,Positive,0
+CV002002,Customer,Positive,0
+CV002003,Customer,Fee,0
+CV002004,Customer,Positive,0
+CV002005,Customer,Positive,0
+CV002006,Customer,Positive,0
+CV002007,Customer,Positive,0
+CV002008,Customer,App issue,0
+CV002009,Customer,Late delivery,0
+CV002010,Customer,Positive,0
+CV002011,Customer,Unclear,0
+CV002012,Customer,Positive,0
+CV002013,Customer,Positive,0
+CV002014,Customer,Positive,0
+CV002015,Customer,Unclear,0
+CV002016,Customer,Positive,0
+CV002017,Customer,Positive,0
+CV002018,Customer,Positive,0
+CV002019,Customer,Positive,0
+CV002020,Customer,Positive,0
+CV002021,Customer,Positive,0
+CV002022,Customer,Positive,0
+CV002023,Customer,Positive,0
+CV002024,Customer,No response,0
+CV002025,Customer,Positive,0
+CV002026,Customer,Positive,0
+CV002027,Customer,Positive,0
+CV002028,Customer,Positive,0
+CV002029,Customer,Tracking / status,0
+CV002030,Customer,Tracking / status,0
+CV002031,Customer,Positive,0
+CV002032,Customer,Late delivery,0
+CV002033,Customer,Positive,0
+CV002034,Customer,Slow response,0
+CV002035,Customer,Positive,0
+CV002036,Customer,Positive,0
+CV002037,Customer,Positive,0
+CV002038,Customer,Positive,0
+CV002039,Customer,Positive,0
+CV002040,Customer,Positive,0
+CV002041,Customer,Positive,0
+CV002042,Customer,Positive,0
+CV002043,Customer,Positive,0
+SV000957,Seller,Positive,0
+SV000958,Seller,Return,0
+SV000959,Seller,Positive,0
+SV000960,Seller,COD,0
+SV000961,Seller,Positive,0
+SV000962,Seller,Positive,0
+SV000963,Seller,Positive,0
+SV000964,Seller,Positive,0
+SV000965,Seller,Late delivery,0
+SV000966,Seller,Positive,0
+SV000967,Seller,Positive,0
+SV000968,Seller,Late delivery,0
+SV000969,Seller,Positive,0
+SV000970,Seller,Positive,0
+SV000971,Seller,Positive,0
+SV000972,Seller,Late delivery,0
+SV000973,Seller,Positive,0
+SV000974,Seller,Positive,0
+SV000975,Seller,Positive,0
+SV000976,Seller,Positive,0
+SV000977,Seller,Failed delivery,0
+SV000978,Seller,Failed delivery,0
+RV000475,Rider,Unclear,0
+RV000476,Rider,Settlement,0
+RV000477,Rider,Positive,0
+RV000478,Rider,Delivery attempt,0
+RV000479,Rider,Hub processing delay,0
+RV000480,Rider,Positive,0
+RV000481,Rider,Hub processing delay,0
+RV000482,Rider,Settlement,0
+RV000483,Rider,Positive,0
+RV000484,Rider,Positive,0
+CV002044,Customer,Positive,0
+CV002045,Customer,Positive,0
+CV002046,Customer,Tracking / status,0
+CV002047,Customer,App issue,0
+CV002048,Customer,Positive,0
+CV002049,Customer,Tracking / status,0
+CV002050,Customer,Failed delivery,0
+CV002051,Customer,Unclear,0
+CV002052,Customer,Positive,0
+CV002053,Customer,Lost / damaged parcel,0
+CV002054,Customer,Positive,0
+CV002055,Customer,Positive,0
+CV002056,Customer,Late delivery,0
+CV002057,Customer,Positive,0
+CV002058,Customer,Positive,0
+CV002059,Customer,Positive,0
+CV002060,Customer,Positive,0
+CV002061,Customer,Positive,0
+CV002062,Customer,Late delivery,0
+CV002063,Customer,No response,0
+CV002064,Customer,Positive,0
+CV002065,Customer,Lost / damaged parcel,0
+CV002066,Customer,Late delivery,0
+CV002067,Customer,Positive,0
+CV002068,Customer,Positive,0
+CV002069,Customer,Unclear,0
+CV002070,Customer,Tracking / status,0
+CV002071,Customer,Positive,0
+CV002072,Customer,Positive,0
+CV002073,Customer,Late delivery,0
+CV002074,Customer,Slow response,0
+CV002075,Customer,Positive,0
+CV002076,Customer,Positive,0
+CV002077,Customer,Lost / damaged parcel,0
+CV002078,Customer,Positive,0
+CV002079,Customer,Unclear,0
+CV002080,Customer,Unclear,0
+CV002081,Customer,Positive,0
+CV002082,Customer,Positive,0
+CV002083,Customer,Failed delivery,0
+CV002084,Customer,Late delivery,0
+CV002085,Customer,Lost / damaged parcel,0
+CV002086,Customer,Late delivery,0
+SV000979,Seller,Positive,0
+SV000980,Seller,COD,0
+SV000981,Seller,Compensation,0
+SV000982,Seller,Positive,0
+SV000983,Seller,Settlement,0
+SV000984,Seller,COD,0
+SV000985,Seller,Late delivery,0
+SV000986,Seller,Failed delivery,0
+SV000987,Seller,COD,0
+SV000988,Seller,Positive,0
+SV000989,Seller,Positive,0
+SV000990,Seller,Positive,0
+SV000991,Seller,Positive,0
+SV000992,Seller,Pickup delay,0
+SV000993,Seller,Positive,0
+SV000994,Seller,Positive,0
+SV000995,Seller,Positive,0
+RV000485,Rider,Positive,0
+RV000486,Rider,Positive,0
+RV000487,Rider,Positive,0
+RV000488,Rider,Positive,0
+RV000489,Rider,Positive,0
+RV000490,Rider,Positive,0
+RV000491,Rider,Positive,0
+RV000492,Rider,Positive,0
+RV000493,Rider,Positive,0
+RV000494,Rider,Delivery attempt,0
+CV002087,Customer,Late delivery,1
+CV002088,Customer,Tracking / status,1
+CV002089,Customer,Tracking / status,1
+SV000996,Seller,Tracking / status,1
+RV000495,Rider,Hub processing delay,1
+CV002090,Customer,Positive,0
+CV002091,Customer,Positive,0
+CV002092,Customer,Positive,0
+CV002093,Customer,Positive,0
+CV002094,Customer,Positive,0
+CV002095,Customer,Incorrect information,0
+CV002096,Customer,Positive,0
+CV002097,Customer,Positive,0
+CV002098,Customer,Positive,0
+CV002099,Customer,Positive,0
+CV002100,Customer,Positive,0
+CV002101,Customer,Positive,0
+CV002102,Customer,Late delivery,0
+CV002103,Customer,Unclear,0
+CV002104,Customer,Positive,0
+CV002105,Customer,Positive,0
+CV002106,Customer,Positive,0
+CV002107,Customer,Positive,0
+CV002108,Customer,Positive,0
+CV002109,Customer,Tracking / status,0
+CV002110,Customer,Positive,0
+CV002111,Customer,Positive,0
+CV002112,Customer,Slow response,0
+CV002113,Customer,Positive,0
+CV002114,Customer,Lost / damaged parcel,0
+CV002115,Customer,Positive,0
+CV002116,Customer,Positive,0
+CV002117,Customer,Incorrect information,0
+CV002118,Customer,Positive,0
+CV002119,Customer,Positive,0
+CV002120,Customer,Positive,0
+CV002121,Customer,Positive,0
+CV002122,Customer,Positive,0
+CV002123,Customer,Unclear,0
+CV002124,Customer,Positive,0
+CV002125,Customer,Positive,0
+CV002126,Customer,Positive,0
+CV002127,Customer,Positive,0
+CV002128,Customer,Positive,0
+CV002129,Customer,Positive,0
+CV002130,Customer,Positive,0
+CV002131,Customer,Positive,0
+CV002132,Customer,Positive,0
+SV000997,Seller,Positive,0
+SV000998,Seller,Positive,0
+SV000999,Seller,Unclear,0
+SV001000,Seller,Late delivery,0
+SV001001,Seller,Settlement,0
+SV001002,Seller,Compensation,0
+SV001003,Seller,Fee,0
+SV001004,Seller,COD,0
+SV001005,Seller,COD,0
+SV001006,Seller,Positive,0
+SV001007,Seller,Positive,0
+SV001008,Seller,COD,0
+SV001009,Seller,Positive,0
+SV001010,Seller,Positive,0
+SV001011,Seller,Repeated contact,0
+SV001012,Seller,Unclear,0
+SV001013,Seller,Positive,0
+SV001014,Seller,Positive,0
+SV001015,Seller,Positive,0
+SV001016,Seller,Positive,0
+SV001017,Seller,Positive,0
+SV001018,Seller,COD,0
+RV000496,Rider,Unclear,0
+RV000497,Rider,Positive,0
+RV000498,Rider,Positive,0
+RV000499,Rider,Positive,0
+RV000500,Rider,Positive,0
+RV000501,Rider,Positive,0
+RV000502,Rider,Wrong routing,0
+RV000503,Rider,Unclear,0
+RV000504,Rider,Positive,0
+RV000505,Rider,Positive,0
+RV000506,Rider,Positive,0
+CV002133,Customer,Late delivery,1
+CV002134,Customer,Tracking / status,1
+CV002135,Customer,Tracking / status,1
+CV002136,Customer,Late delivery,1
+CV002137,Customer,Late delivery,1
+SV001019,Seller,Late delivery,1
+SV001020,Seller,Repeated contact,1
+SV001021,Seller,Tracking / status,1
+SV001022,Seller,Late delivery,1
+RV000507,Rider,Hub processing delay,1
+RV000508,Rider,Hub processing delay,1
+RV000509,Rider,App issue,0
+RV000510,Rider,App issue,0
+RV000511,Rider,App issue,0
+CV002138,Customer,Positive,0
+CV002139,Customer,Fee,0
+CV002140,Customer,Positive,0
+CV002141,Customer,Positive,0
+CV002142,Customer,Positive,0
+CV002143,Customer,Positive,0
+CV002144,Customer,Tracking / status,0
+CV002145,Customer,Positive,0
+CV002146,Customer,Fee,0
+CV002147,Customer,Unclear,0
+CV002148,Customer,Positive,0
+CV002149,Customer,Positive,0
+CV002150,Customer,Incorrect information,0
+CV002151,Customer,Late delivery,0
+CV002152,Customer,Positive,0
+CV002153,Customer,Positive,0
+CV002154,Customer,Positive,0
+CV002155,Customer,Positive,0
+CV002156,Customer,Positive,0
+CV002157,Customer,Late delivery,0
+CV002158,Customer,Fee,0
+CV002159,Customer,Late delivery,0
+CV002160,Customer,App issue,0
+CV002161,Customer,Positive,0
+CV002162,Customer,Positive,0
+CV002163,Customer,Late delivery,0
+CV002164,Customer,Lost / damaged parcel,0
+CV002165,Customer,Positive,0
+CV002166,Customer,Positive,0
+CV002167,Customer,Positive,0
+CV002168,Customer,Positive,0
+CV002169,Customer,Positive,0
+CV002170,Customer,Late delivery,0
+CV002171,Customer,Positive,0
+CV002172,Customer,Positive,0
+CV002173,Customer,Positive,0
+CV002174,Customer,Tracking / status,0
+CV002175,Customer,Positive,0
+CV002176,Customer,Unclear,0
+CV002177,Customer,Positive,0
+CV002178,Customer,Positive,0
+CV002179,Customer,Positive,0
+CV002180,Customer,App issue,0
+CV002181,Customer,Positive,0
+CV002182,Customer,Positive,0
+SV001023,Seller,Positive,0
+SV001024,Seller,Positive,0
+SV001025,Seller,Positive,0
+SV001026,Seller,Repeated contact,0
+SV001027,Seller,Positive,0
+SV001028,Seller,Positive,0
+SV001029,Seller,Tracking / status,0
+SV001030,Seller,Positive,0
+SV001031,Seller,Positive,0
+SV001032,Seller,Positive,0
+SV001033,Seller,Positive,0
+SV001034,Seller,Positive,0
+SV001035,Seller,Positive,0
+SV001036,Seller,Positive,0
+SV001037,Seller,Pickup delay,0
+SV001038,Seller,Unclear,0
+SV001039,Seller,COD,0
+SV001040,Seller,Pickup delay,0
+SV001041,Seller,Settlement,0
+RV000512,Rider,Wrong routing,0
+RV000513,Rider,Positive,0
+RV000514,Rider,Positive,0
+RV000515,Rider,Positive,0
+RV000516,Rider,Positive,0
+RV000517,Rider,Positive,0
+RV000518,Rider,Positive,0
+RV000519,Rider,Positive,0
+CV002183,Customer,Late delivery,1
+CV002184,Customer,Late delivery,1
+CV002185,Customer,Tracking / status,1
+CV002186,Customer,Late delivery,1
+CV002187,Customer,Late delivery,1
+CV002188,Customer,Late delivery,1
+SV001042,Seller,Tracking / status,1
+SV001043,Seller,Tracking / status,1
+SV001044,Seller,Late delivery,1
+SV001045,Seller,Repeated contact,1
+RV000520,Rider,Hub processing delay,1
+RV000521,Rider,App issue,0
+RV000522,Rider,App issue,0
+RV000523,Rider,App issue,0
+RV000524,Rider,App issue,0
+CV002189,Customer,Positive,0
+CV002190,Customer,Positive,0
+CV002191,Customer,Tracking / status,0
+CV002192,Customer,Lost / damaged parcel,0
+CV002193,Customer,Unclear,0
+CV002194,Customer,Positive,0
+CV002195,Customer,Unclear,0
+CV002196,Customer,Positive,0
+CV002197,Customer,Positive,0
+CV002198,Customer,Unclear,0
+CV002199,Customer,Positive,0
+CV002200,Customer,Positive,0
+CV002201,Customer,Positive,0
+CV002202,Customer,Positive,0
+CV002203,Customer,Slow response,0
+CV002204,Customer,Late delivery,0
+CV002205,Customer,Positive,0
+CV002206,Customer,Positive,0
+CV002207,Customer,Late delivery,0
+CV002208,Customer,Unclear,0
+CV002209,Customer,Positive,0
+CV002210,Customer,Positive,0
+CV002211,Customer,Positive,0
+CV002212,Customer,Positive,0
+CV002213,Customer,Positive,0
+CV002214,Customer,Positive,0
+CV002215,Customer,Positive,0
+CV002216,Customer,Positive,0
+CV002217,Customer,Positive,0
+CV002218,Customer,Unclear,0
+CV002219,Customer,Positive,0
+CV002220,Customer,Positive,0
+CV002221,Customer,Positive,0
+CV002222,Customer,Positive,0
+CV002223,Customer,Positive,0
+CV002224,Customer,Tracking / status,0
+CV002225,Customer,Positive,0
+CV002226,Customer,Failed delivery,0
+CV002227,Customer,Positive,0
+CV002228,Customer,App issue,0
+CV002229,Customer,App issue,0
+CV002230,Customer,Positive,0
+CV002231,Customer,Positive,0
+CV002232,Customer,Unclear,0
+CV002233,Customer,Positive,0
+CV002234,Customer,Positive,0
+CV002235,Customer,Positive,0
+CV002236,Customer,Positive,0
+SV001046,Seller,Positive,0
+SV001047,Seller,COD,0
+SV001048,Seller,Positive,0
+SV001049,Seller,Positive,0
+SV001050,Seller,Positive,0
+SV001051,Seller,Pickup failure,0
+SV001052,Seller,Late delivery,0
+SV001053,Seller,Positive,0
+SV001054,Seller,Pickup failure,0
+SV001055,Seller,Failed delivery,0
+SV001056,Seller,Positive,0
+SV001057,Seller,Settlement,0
+SV001058,Seller,Unclear,0
+SV001059,Seller,COD,0
+SV001060,Seller,Positive,0
+SV001061,Seller,Positive,0
+SV001062,Seller,Unclear,0
+SV001063,Seller,Positive,0
+SV001064,Seller,Positive,0
+SV001065,Seller,Positive,0
+RV000525,Rider,Positive,0
+RV000526,Rider,Positive,0
+RV000527,Rider,Hub processing delay,0
+RV000528,Rider,Wrong routing,0
+RV000529,Rider,Positive,0
+RV000530,Rider,Positive,0
+RV000531,Rider,Positive,0
+RV000532,Rider,Positive,0
+RV000533,Rider,Positive,0
+CV002237,Customer,Late delivery,1
+CV002238,Customer,Late delivery,1
+CV002239,Customer,Late delivery,1
+CV002240,Customer,Tracking / status,1
+CV002241,Customer,Late delivery,1
+CV002242,Customer,Late delivery,1
+SV001066,Seller,Tracking / status,1
+SV001067,Seller,Tracking / status,1
+SV001068,Seller,Tracking / status,1
+RV000534,Rider,Hub processing delay,1
+RV000535,Rider,Hub processing delay,1
+RV000536,Rider,App issue,0
+RV000537,Rider,App issue,0
+RV000538,Rider,App issue,0
+CV002243,Customer,Positive,0
+CV002244,Customer,Tracking / status,0
+CV002245,Customer,Positive,0
+CV002246,Customer,Positive,0
+CV002247,Customer,Lost / damaged parcel,0
+CV002248,Customer,Positive,0
+CV002249,Customer,Positive,0
+CV002250,Customer,Positive,0
+CV002251,Customer,Positive,0
+CV002252,Customer,Positive,0
+CV002253,Customer,Positive,0
+CV002254,Customer,Positive,0
+CV002255,Customer,Unclear,0
+CV002256,Customer,Positive,0
+CV002257,Customer,Positive,0
+CV002258,Customer,No response,0
+CV002259,Customer,Positive,0
+CV002260,Customer,Positive,0
+CV002261,Customer,Positive,0
+CV002262,Customer,Positive,0
+CV002263,Customer,Positive,0
+CV002264,Customer,Positive,0
+CV002265,Customer,Positive,0
+CV002266,Customer,Positive,0
+CV002267,Customer,Positive,0
+CV002268,Customer,Positive,0
+CV002269,Customer,Late delivery,0
+CV002270,Customer,Positive,0
+CV002271,Customer,Positive,0
+CV002272,Customer,Positive,0
+CV002273,Customer,Positive,0
+CV002274,Customer,Positive,0
+CV002275,Customer,Positive,0
+CV002276,Customer,Positive,0
+CV002277,Customer,App issue,0
+CV002278,Customer,Positive,0
+CV002279,Customer,Late delivery,0
+CV002280,Customer,Positive,0
+CV002281,Customer,Positive,0
+CV002282,Customer,Positive,0
+CV002283,Customer,Positive,0
+CV002284,Customer,Positive,0
+CV002285,Customer,Positive,0
+SV001069,Seller,Failed delivery,0
+SV001070,Seller,Settlement,0
+SV001071,Seller,Late delivery,0
+SV001072,Seller,Positive,0
+SV001073,Seller,Positive,0
+SV001074,Seller,Positive,0
+SV001075,Seller,COD,0
+SV001076,Seller,Positive,0
+SV001077,Seller,Positive,0
+SV001078,Seller,Positive,0
+SV001079,Seller,Positive,0
+SV001080,Seller,Late delivery,0
+SV001081,Seller,Positive,0
+SV001082,Seller,Pickup delay,0
+SV001083,Seller,Positive,0
+SV001084,Seller,Positive,0
+SV001085,Seller,Unclear,0
+RV000539,Rider,Positive,0
+RV000540,Rider,Positive,0
+RV000541,Rider,Positive,0
+RV000542,Rider,Positive,0
+RV000543,Rider,Positive,0
+RV000544,Rider,Positive,0
+RV000545,Rider,Hub processing delay,0
+RV000546,Rider,Positive,0
+RV000547,Rider,Positive,0
+RV000548,Rider,Positive,0
+CV002286,Customer,Late delivery,1
+CV002287,Customer,Late delivery,1
+CV002288,Customer,Late delivery,1
+CV002289,Customer,Late delivery,1
+CV002290,Customer,Tracking / status,1
+CV002291,Customer,Late delivery,1
+CV002292,Customer,Late delivery,1
+SV001086,Seller,Tracking / status,1
+SV001087,Seller,Tracking / status,1
+SV001088,Seller,Repeated contact,1
+SV001089,Seller,Late delivery,1
+SV001090,Seller,Repeated contact,1
+RV000549,Rider,Hub processing delay,1
+RV000550,Rider,Hub processing delay,1
+RV000551,Rider,Hub processing delay,1
+RV000552,Rider,App issue,0
+RV000553,Rider,App issue,0
+RV000554,Rider,App issue,0
+RV000555,Rider,App issue,0
+CV002293,Customer,Positive,0
+CV002294,Customer,Incorrect information,0
+CV002295,Customer,App issue,0
+CV002296,Customer,Positive,0
+CV002297,Customer,Positive,0
+CV002298,Customer,Positive,0
+CV002299,Customer,Incorrect information,0
+CV002300,Customer,Positive,0
+CV002301,Customer,Positive,0
+CV002302,Customer,Positive,0
+CV002303,Customer,Positive,0
+CV002304,Customer,Slow response,0
+CV002305,Customer,Failed delivery,0
+CV002306,Customer,No response,0
+CV002307,Customer,Positive,0
+CV002308,Customer,Positive,0
+CV002309,Customer,Positive,0
+CV002310,Customer,Positive,0
+CV002311,Customer,Positive,0
+CV002312,Customer,Tracking / status,0
+CV002313,Customer,Positive,0
+CV002314,Customer,Positive,0
+CV002315,Customer,Positive,0
+CV002316,Customer,Late delivery,0
+CV002317,Customer,Positive,0
+CV002318,Customer,Positive,0
+CV002319,Customer,No response,0
+CV002320,Customer,Positive,0
+CV002321,Customer,Positive,0
+CV002322,Customer,Positive,0
+CV002323,Customer,Positive,0
+CV002324,Customer,Positive,0
+CV002325,Customer,Positive,0
+CV002326,Customer,Positive,0
+CV002327,Customer,Late delivery,0
+CV002328,Customer,Positive,0
+CV002329,Customer,Positive,0
+CV002330,Customer,Positive,0
+CV002331,Customer,Positive,0
+CV002332,Customer,Failed delivery,0
+CV002333,Customer,Slow response,0
+CV002334,Customer,Tracking / status,0
+SV001091,Seller,Positive,0
+SV001092,Seller,Positive,0
+SV001093,Seller,Positive,0
+SV001094,Seller,Positive,0
+SV001095,Seller,Positive,0
+SV001096,Seller,COD,0
+SV001097,Seller,Positive,0
+SV001098,Seller,Positive,0
+SV001099,Seller,Positive,0
+SV001100,Seller,Positive,0
+SV001101,Seller,Late delivery,0
+SV001102,Seller,Positive,0
+SV001103,Seller,Positive,0
+SV001104,Seller,Unclear,0
+SV001105,Seller,Compensation,0
+SV001106,Seller,Late delivery,0
+SV001107,Seller,Return,0
+SV001108,Seller,Positive,0
+SV001109,Seller,Positive,0
+SV001110,Seller,Unclear,0
+RV000556,Rider,Delivery attempt,0
+RV000557,Rider,Positive,0
+RV000558,Rider,Delivery attempt,0
+RV000559,Rider,Positive,0
+RV000560,Rider,Positive,0
+RV000561,Rider,Positive,0
+RV000562,Rider,Positive,0
+RV000563,Rider,Positive,0
+RV000564,Rider,Unclear,0
+CV002335,Customer,Late delivery,1
+CV002336,Customer,Late delivery,1
+CV002337,Customer,Late delivery,1
+CV002338,Customer,Late delivery,1
+CV002339,Customer,Late delivery,1
+CV002340,Customer,Late delivery,1
+SV001111,Seller,Tracking / status,1
+SV001112,Seller,Late delivery,1
+SV001113,Seller,Late delivery,1
+SV001114,Seller,Repeated contact,1
+RV000565,Rider,Hub processing delay,1
+RV000566,Rider,Hub processing delay,1
+RV000567,Rider,Hub processing delay,1
+RV000568,Rider,App issue,0
+RV000569,Rider,App issue,0
+RV000570,Rider,App issue,0
+RV000571,Rider,App issue,0
+CV002341,Customer,Positive,0
+CV002342,Customer,Positive,0
+CV002343,Customer,Fee,0
+CV002344,Customer,Unclear,0
+CV002345,Customer,Positive,0
+CV002346,Customer,Positive,0
+CV002347,Customer,Late delivery,0
+CV002348,Customer,App issue,0
+CV002349,Customer,Positive,0
+CV002350,Customer,Slow response,0
+CV002351,Customer,Positive,0
+CV002352,Customer,Late delivery,0
+CV002353,Customer,Positive,0
+CV002354,Customer,Positive,0
+CV002355,Customer,Positive,0
+CV002356,Customer,Late delivery,0
+CV002357,Customer,Late delivery,0
+CV002358,Customer,Positive,0
+CV002359,Customer,Late delivery,0
+CV002360,Customer,Tracking / status,0
+CV002361,Customer,Lost / damaged parcel,0
+CV002362,Customer,Positive,0
+CV002363,Customer,Positive,0
+CV002364,Customer,Positive,0
+CV002365,Customer,App issue,0
+CV002366,Customer,Late delivery,0
+CV002367,Customer,Positive,0
+CV002368,Customer,Failed delivery,0
+CV002369,Customer,Positive,0
+CV002370,Customer,Positive,0
+CV002371,Customer,Fee,0
+CV002372,Customer,Positive,0
+CV002373,Customer,Positive,0
+CV002374,Customer,Positive,0
+CV002375,Customer,Positive,0
+CV002376,Customer,Positive,0
+CV002377,Customer,Slow response,0
+CV002378,Customer,Positive,0
+CV002379,Customer,Positive,0
+CV002380,Customer,Positive,0
+SV001115,Seller,Positive,0
+SV001116,Seller,Positive,0
+SV001117,Seller,Positive,0
+SV001118,Seller,Unclear,0
+SV001119,Seller,Positive,0
+SV001120,Seller,Repeated contact,0
+SV001121,Seller,Positive,0
+SV001122,Seller,Positive,0
+SV001123,Seller,Positive,0
+SV001124,Seller,Late delivery,0
+SV001125,Seller,Positive,0
+SV001126,Seller,Pickup failure,0
+SV001127,Seller,Positive,0
+SV001128,Seller,Positive,0
+SV001129,Seller,Unclear,0
+SV001130,Seller,Failed delivery,0
+SV001131,Seller,COD,0
+SV001132,Seller,Positive,0
+SV001133,Seller,Positive,0
+RV000572,Rider,Positive,0
+RV000573,Rider,Positive,0
+RV000574,Rider,Positive,0
+RV000575,Rider,Delivery attempt,0
+RV000576,Rider,Positive,0
+RV000577,Rider,App issue,0
+RV000578,Rider,Positive,0
+RV000579,Rider,Positive,0
+RV000580,Rider,Settlement,0
+RV000581,Rider,Unclear,0
+CV002381,Customer,Late delivery,1
+CV002382,Customer,Late delivery,1
+CV002383,Customer,Late delivery,1
+CV002384,Customer,Late delivery,1
+CV002385,Customer,Late delivery,1
+SV001134,Seller,Late delivery,1
+SV001135,Seller,Late delivery,1
+SV001136,Seller,Tracking / status,1
+RV000582,Rider,Hub processing delay,1

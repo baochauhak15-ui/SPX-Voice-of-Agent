@@ -1,0 +1,583 @@
+feedback_id,stakeholder_type,rider_id,timestamp,rating,comment,issue_type,region,hub
+RV000001,Rider,R0042,2026-07-27 16:29:41,1,Hàng ra kho trễ nên giao không kịp,Hub processing delay,HCM,HCM-TanBinh-Hub
+RV000002,Rider,R0095,2026-07-27 13:27:28,1,"Kho chia hàng chậm, tài xế phải đợi 3 tiếng",Hub processing delay,HCM,HCM-Q7-Hub
+RV000003,Rider,R0236,2026-07-27 08:37:35,2,"app bi vang, khong cap nhat dc trang thai giao",App issue,DN,DN-HaiChau-Hub
+RV000004,Rider,R0108,2026-07-27 15:36:14,3,app tai xe khong dang nhap duoc,App issue,HCM,HCM-Q7-Hub
+RV000005,Rider,R0263,2026-07-27 16:58:21,5,hub chia hàng nhanh hôm nay,,CT,CT-NinhKieu-Hub
+RV000006,Rider,R0020,2026-07-27 17:10:23,5,App on dinh,,HCM,HCM-ThuDuc-SOC
+RV000007,Rider,R0168,2026-07-27 10:22:27,2,"Hub xử lý đơn wa chậm, 10h mới có hàng",Hub processing delay,HN,HN-CauGiay-Hub
+RV000008,Rider,R0023,2026-07-27 14:32:35,5,Tuyến giao hợp lý,,HCM,HCM-ThuDuc-SOC
+RV000009,Rider,R0037,2026-07-27 17:36:27,2,tệ,,HCM,HCM-ThuDuc-SOC
+RV000010,Rider,R0158,2026-07-27 10:15:27,4,App ổn định,,HN,HN-LongBien-SOC
+RV000011,Rider,R0019,2026-07-28 07:30:06,3,App ổn định,,HCM,HCM-ThuDuc-SOC
+RV000012,Rider,R0109,2026-07-28 21:46:44,5,App ổn định,,HCM,HCM-Q7-Hub
+RV000013,Rider,R0066,2026-07-28 21:14:51,3,"Shop chua dong goi xong, cho ban giao hang lau",Handover issue,HCM,HCM-TanBinh-Hub
+RV000014,Rider,R0035,2026-07-28 09:36:06,5,App on dinh,,HCM,HCM-ThuDuc-SOC
+RV000015,Rider,R0038,2026-07-28 16:58:39,3,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",,HCM,HCM-ThuDuc-SOC
+RV000016,Rider,R0012,2026-07-28 22:18:08,5,ok,,HCM,HCM-ThuDuc-SOC
+RV000017,Rider,R0069,2026-07-28 22:26:45,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-TanBinh-Hub
+RV000018,Rider,R0099,2026-07-28 15:14:34,1,ok,,HCM,HCM-Q7-Hub
+RV000019,Rider,R0143,2026-07-28 08:28:16,5,Hub chia hang nhanh hom nay,,HN,HN-LongBien-SOC
+RV000020,Rider,R0204,2026-07-28 13:52:13,1,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,DN,DN-HaiChau-Hub
+RV000021,Rider,R0138,2026-07-28 20:58:03,4,Tuyến giao hợp lý,,HN,HN-LongBien-SOC
+RV000022,Rider,R0120,2026-07-29 20:06:16,1,lỗi đăng nhập app từ sáng,App issue,HCM,HCM-Q7-Hub
+RV000023,Rider,R0164,2026-07-29 07:33:47,5,Hub chia hàng nhanh hôm nay,,HN,HN-CauGiay-Hub
+RV000024,Rider,R0145,2026-07-29 17:32:56,3,app ổn định,,HN,HN-LongBien-SOC
+RV000025,Rider,R0116,2026-07-29 17:45:47,3,"App bị văng, không cập nhật được trạng thái giao",App issue,HCM,HCM-Q7-Hub
+RV000026,Rider,R0038,2026-07-29 18:35:30,5,App ổn định,,HCM,HCM-ThuDuc-SOC
+RV000027,Rider,R0131,2026-07-29 08:12:17,5,tuyen giao hop ly,,HN,HN-LongBien-SOC
+RV000028,Rider,R0259,2026-07-29 19:15:32,3,"Thu nhap tuan nay tinh thieu don, chua doi soat dung",Settlement,CT,CT-NinhKieu-Hub
+RV000029,Rider,R0035,2026-07-29 18:48:37,5,Tuyen giao hop ly huhu,,HCM,HCM-ThuDuc-SOC
+RV000030,Rider,R0190,2026-07-29 15:00:21,1,"Khách ko nghe máy, phải giao lại nhiều lần",,HN,HN-CauGiay-Hub
+RV000031,Rider,R0069,2026-07-30 18:39:52,5,ok,,HCM,HCM-TanBinh-Hub
+RV000032,Rider,R0128,2026-07-30 16:00:21,1,"Thu nhap tuan nay tinh thieu don, chua doi soat dung",Settlement,HN,HN-LongBien-SOC
+RV000033,Rider,R0133,2026-07-30 12:03:18,3,App ổn định,,HN,HN-LongBien-SOC
+RV000034,Rider,R0185,2026-07-30 07:18:55,5,Hub chia hàng nhanh hôm nay,,HN,HN-CauGiay-Hub
+RV000035,Rider,R0066,2026-07-30 16:21:31,1,Lỗi đăng nhập app từ sáng,,HCM,HCM-TanBinh-Hub
+RV000036,Rider,R0022,2026-07-30 15:14:09,1,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",Handover issue,HCM,HCM-ThuDuc-SOC
+RV000037,Rider,R0129,2026-07-30 11:13:41,3,App ổn định,,HN,HN-LongBien-SOC
+RV000038,Rider,R0130,2026-07-30 10:11:20,1,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HN,HN-LongBien-SOC
+RV000039,Rider,R0162,2026-07-30 10:08:11,5,ok,,HN,HN-CauGiay-Hub
+RV000040,Rider,R0124,2026-07-31 18:18:49,5,ok,,HN,HN-LongBien-SOC
+RV000041,Rider,R0037,2026-07-31 10:02:20,5,App ổn định,,HCM,HCM-ThuDuc-SOC
+RV000042,Rider,R0026,2026-07-31 10:58:01,5,Hub chia hang nhanh hom nay,,HCM,HCM-ThuDuc-SOC
+RV000043,Rider,R0250,2026-07-31 16:48:36,5,App ổn định,,CT,CT-NinhKieu-Hub
+RV000044,Rider,R0173,2026-07-31 17:03:38,2,Hàng ra kho trễ nên giao ko kịp,Hub processing delay,HN,HN-CauGiay-Hub
+RV000045,Rider,R0064,2026-07-31 08:58:42,3,"Khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,HCM,HCM-TanBinh-Hub
+RV000046,Rider,R0187,2026-07-31 20:46:57,2,"App bị văng, không cập nhật được trạng thái giao :(",App issue,HN,HN-CauGiay-Hub
+RV000047,Rider,R0145,2026-07-31 11:12:11,3,ok,,HN,HN-LongBien-SOC
+RV000048,Rider,R0072,2026-07-31 16:26:11,2,"Khach khong nghe may, phai giao lai nhieu lanaaa",,HCM,HCM-TanBinh-Hub
+RV000049,Rider,R0171,2026-08-01 21:30:02,4,ok,,HN,HN-CauGiay-Hub
+RV000050,Rider,R0272,2026-08-01 18:19:18,4,ok,,CT,CT-NinhKieu-Hub
+RV000051,Rider,R0027,2026-08-01 09:55:02,4,Tuyến giao hợp lý,,HCM,HCM-ThuDuc-SOC
+RV000052,Rider,R0120,2026-08-01 17:05:51,2,Lỗi đăng nhập app từ sáng,,HCM,HCM-Q7-Hub
+RV000053,Rider,R0088,2026-08-01 16:35:41,3,ok,,HCM,HCM-Q7-Hub
+RV000054,Rider,R0134,2026-08-01 12:01:17,4,Hub chia hàng nhanh hôm nay,,HN,HN-LongBien-SOC
+RV000055,Rider,R0046,2026-08-01 17:24:16,4,Tuyến giao hợp lýaaa,,HCM,HCM-TanBinh-Hub
+RV000056,Rider,R0007,2026-08-01 08:19:24,1,"Hang bi chia sai tuyen, phai chay vong",,HCM,HCM-ThuDuc-SOC
+RV000057,Rider,R0202,2026-08-01 20:04:30,4,app ổn định,,DN,DN-HaiChau-Hub
+RV000058,Rider,R0050,2026-08-02 22:43:29,5,App on dinh :(,,HCM,HCM-TanBinh-Hub
+RV000059,Rider,R0145,2026-08-02 13:31:18,3,hub chia hàng nhanh hôm nay,,HN,HN-LongBien-SOC
+RV000060,Rider,R0026,2026-08-02 12:01:35,5,App ổn định!!!,,HCM,HCM-ThuDuc-SOC
+RV000061,Rider,R0078,2026-08-02 11:20:48,3,ok,,HCM,HCM-TanBinh-Hub
+RV000062,Rider,R0237,2026-08-02 07:23:46,1,"Khach khong nghe may, phai giao lai nhieu lan",Delivery attempt,DN,DN-HaiChau-Hub
+RV000063,Rider,R0052,2026-08-02 16:44:38,1,"khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,HCM,HCM-TanBinh-Hub
+RV000064,Rider,R0072,2026-08-02 10:05:07,5,ok,,HCM,HCM-TanBinh-Hub
+RV000065,Rider,R0129,2026-08-02 20:19:36,5,ok,,HN,HN-LongBien-SOC
+RV000066,Rider,R0014,2026-08-02 10:48:48,3,App ổn định,,HCM,HCM-ThuDuc-SOC
+RV000067,Rider,R0257,2026-08-02 12:05:35,3,app on dinh,,CT,CT-NinhKieu-Hub
+RV000068,Rider,R0164,2026-08-03 10:01:14,4,Tuyến giao hợp lý huhu,,HN,HN-CauGiay-Hub
+RV000069,Rider,R0203,2026-08-03 08:16:56,4,ok huhu,,DN,DN-HaiChau-Hub
+RV000070,Rider,R0008,2026-08-03 20:40:28,3,"Khach ko nghe may, phai giao lai nhieu lan",Delivery attempt,HCM,HCM-ThuDuc-SOC
+RV000071,Rider,R0045,2026-08-03 13:44:04,1,"Thu nhap tuan nay tinh thieu don, chua doi soat dung",Settlement,HCM,HCM-TanBinh-Hub
+RV000072,Rider,R0030,2026-08-03 17:48:19,3,Sáng nào cũng đứng chờ cả buổi mới được đi,Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000073,Rider,R0220,2026-08-03 20:10:43,5,ok,,DN,DN-HaiChau-Hub
+RV000074,Rider,R0248,2026-08-03 21:22:16,4,Hub chia hàng nhanh hôm nay,,CT,CT-NinhKieu-Hub
+RV000075,Rider,R0247,2026-08-03 22:33:27,2,"Khach ko nghe may, phai giao lai nhieu lan, them nua la app tai xe ko dang nhap duoc",Delivery attempt,CT,CT-NinhKieu-Hub
+RV000076,Rider,R0138,2026-08-03 10:14:46,2,"Kho chia hàng chậm, tài xế phải đợi 3 tiếng",Hub processing delay,HN,HN-LongBien-SOC
+RV000077,Rider,R0022,2026-08-03 09:10:11,5,Tuyến giao hợp lý :(,,HCM,HCM-ThuDuc-SOC
+RV000078,Rider,R0205,2026-08-03 12:16:56,2,...,,DN,DN-HaiChau-Hub
+RV000079,Rider,R0168,2026-08-04 17:19:32,5,Tuyen giao hop ly,,HN,HN-CauGiay-Hub
+RV000080,Rider,R0068,2026-08-04 15:45:09,5,Tuyến giao hợp lý,,HCM,HCM-TanBinh-Hub
+RV000081,Rider,R0133,2026-08-04 13:39:35,5,ok,,HN,HN-LongBien-SOC
+RV000082,Rider,R0066,2026-08-04 15:41:30,2,"khách không nghe máy, phải giao lại nhiều lần, thêm nữa là app tài xế không đăng nhập được",,HCM,HCM-TanBinh-Hub
+RV000083,Rider,R0172,2026-08-04 11:45:47,4,App ổn định,,HN,HN-CauGiay-Hub
+RV000084,Rider,R0202,2026-08-04 13:41:39,5,Hub chia hang nhanh hom nay,,DN,DN-HaiChau-Hub
+RV000085,Rider,R0073,2026-08-04 08:04:12,5,App ổn định,,HCM,HCM-TanBinh-Hub
+RV000086,Rider,R0006,2026-08-04 21:36:53,2,"Khach khong nghe may, phai giao lai nhieu lan",,HCM,HCM-ThuDuc-SOC
+RV000087,Rider,R0096,2026-08-04 18:29:05,4,App on dinh,,HCM,HCM-Q7-Hub
+RV000088,Rider,R0058,2026-08-04 14:53:12,3,App on dinh,,HCM,HCM-TanBinh-Hub
+RV000089,Rider,R0238,2026-08-04 12:02:53,3,Tuyến giao hợp lý,,DN,DN-HaiChau-Hub
+RV000090,Rider,R0127,2026-08-05 10:37:53,2,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",,HN,HN-LongBien-SOC
+RV000091,Rider,R0028,2026-08-05 08:25:52,5,ok,,HCM,HCM-ThuDuc-SOC
+RV000092,Rider,R0138,2026-08-05 18:22:15,2,Sáng nào cũng đứng chờ cả buổi mới được đi :(,Hub processing delay,HN,HN-LongBien-SOC
+RV000093,Rider,R0040,2026-08-05 09:21:22,1,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HCM,HCM-ThuDuc-SOC
+RV000094,Rider,R0189,2026-08-05 22:22:21,2,"Shop chua dong goi xong, cho ban giao hang lau",Handover issue,HN,HN-CauGiay-Hub
+RV000095,Rider,R0170,2026-08-05 19:54:16,1,"Khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,HN,HN-CauGiay-Hub
+RV000096,Rider,R0135,2026-08-05 15:01:31,1,"Shop chua dong goi xong, cho ban giao hang lau",Handover issue,HN,HN-LongBien-SOC
+RV000097,Rider,R0277,2026-08-05 20:35:35,5,App ổn định,,CT,CT-NinhKieu-Hub
+RV000098,Rider,R0016,2026-08-05 18:57:59,5,ok,,HCM,HCM-ThuDuc-SOC
+RV000099,Rider,R0077,2026-08-05 14:29:17,3,"shop chưa đóng gói xong, chờ bàn giao hàng lâu :(",Slow response,HCM,HCM-TanBinh-Hub
+RV000100,Rider,R0227,2026-08-06 21:13:39,2,"thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,DN,DN-HaiChau-Hub
+RV000101,Rider,R0039,2026-08-06 12:02:18,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000102,Rider,R0055,2026-08-06 08:19:11,5,App ổn định,,HCM,HCM-TanBinh-Hub
+RV000103,Rider,R0074,2026-08-06 20:01:45,2,"Khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,HCM,HCM-TanBinh-Hub
+RV000104,Rider,R0052,2026-08-06 12:05:36,1,"Khach khong nghe may, phai giao lai nhieu lan, them nua la kho chia hang cham, tai xe phai doi 3 tieng",,HCM,HCM-TanBinh-Hub
+RV000105,Rider,R0081,2026-08-06 08:32:50,2,"Hub xu ly don wa cham, 10h moi co hang",,HCM,HCM-Q7-Hub
+RV000106,Rider,R0009,2026-08-06 09:09:42,3,App on dinh,,HCM,HCM-ThuDuc-SOC
+RV000107,Rider,R0228,2026-08-06 15:26:03,5,Hub chia hàng nhanh hôm nay,,DN,DN-HaiChau-Hub
+RV000108,Rider,R0011,2026-08-06 20:41:55,3,"thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HCM,HCM-ThuDuc-SOC
+RV000109,Rider,R0151,2026-08-06 17:58:19,5,Hub chia hàng nhanh hôm nay,,HN,HN-LongBien-SOC
+RV000110,Rider,R0002,2026-08-07 10:40:36,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000111,Rider,R0134,2026-08-07 08:07:46,1,"Hub xử lý đơn quá chậm, 10h mới có hàng",Hub processing delay,HN,HN-LongBien-SOC
+RV000112,Rider,R0171,2026-08-07 20:06:05,4,Hub chia hàng nhanh hôm nay,,HN,HN-CauGiay-Hub
+RV000113,Rider,R0011,2026-08-07 17:56:28,3,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HCM,HCM-ThuDuc-SOC
+RV000114,Rider,R0139,2026-08-07 07:12:25,5,App on dinh,,HN,HN-LongBien-SOC
+RV000115,Rider,R0066,2026-08-07 10:35:30,3,Hub chia hang nhanh hom nay,,HCM,HCM-TanBinh-Hub
+RV000116,Rider,R0222,2026-08-07 09:16:16,2,"Khach khong nghe may, phai giao lai nhieu lanaaa",Delivery attempt,DN,DN-HaiChau-Hub
+RV000117,Rider,R0235,2026-08-07 20:46:40,3,App ổn định,,DN,DN-HaiChau-Hub
+RV000118,Rider,R0011,2026-08-07 07:05:20,4,Tuyến giao hợp lý,,HCM,HCM-ThuDuc-SOC
+RV000119,Rider,R0185,2026-08-07 11:22:20,3,"Hang bi chia sai tuyen, phai chay vong",,HN,HN-CauGiay-Hub
+RV000120,Rider,R0094,2026-08-08 22:46:07,3,App on dinh,,HCM,HCM-Q7-Hub
+RV000121,Rider,R0083,2026-08-08 12:02:56,4,App on dinhaaa,,HCM,HCM-Q7-Hub
+RV000122,Rider,R0063,2026-08-08 18:42:32,5,ok,,HCM,HCM-TanBinh-Hub
+RV000123,Rider,R0005,2026-08-08 17:07:29,3,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",Handover issue,HCM,HCM-ThuDuc-SOC
+RV000124,Rider,R0231,2026-08-08 09:19:12,2,Sáng nào cũng đứng chờ cả buổi mới được đi,Hub processing delay,DN,DN-HaiChau-Hub
+RV000125,Rider,R0128,2026-08-08 10:13:10,5,ok,,HN,HN-LongBien-SOC
+RV000126,Rider,R0212,2026-08-08 10:08:58,4,app ổn định,,DN,DN-HaiChau-Hub
+RV000127,Rider,R0013,2026-08-08 21:59:15,2,không hài lòng,,HCM,HCM-ThuDuc-SOC
+RV000128,Rider,R0166,2026-08-08 16:11:06,3,App tài xế không đăng nhập được,,HN,HN-CauGiay-Hub
+RV000129,Rider,R0015,2026-08-09 17:44:18,2,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",Handover issue,HCM,HCM-ThuDuc-SOC
+RV000130,Rider,R0006,2026-08-09 20:53:46,5,App on dinh,,HCM,HCM-ThuDuc-SOC
+RV000131,Rider,R0252,2026-08-09 19:14:43,1,"Khach khong nghe may, phai giao lai nhieu lan",,CT,CT-NinhKieu-Hub
+RV000132,Rider,R0140,2026-08-09 14:45:16,5,App ổn định huhu,,HN,HN-LongBien-SOC
+RV000133,Rider,R0262,2026-08-09 11:34:03,5,Tuyến giao hợp lý,,CT,CT-NinhKieu-Hub
+RV000134,Rider,R0061,2026-08-09 17:57:49,1,"Kho chia hang cham, tai xe phai doi 3 tieng :(",Hub processing delay,HCM,HCM-TanBinh-Hub
+RV000135,Rider,R0025,2026-08-09 16:45:28,4,ok,,HCM,HCM-ThuDuc-SOC
+RV000136,Rider,R0012,2026-08-09 09:42:08,1,"Thu nhap tuan nay tinh thieu don, chua doi soat dung",Settlement,HCM,HCM-ThuDuc-SOC
+RV000137,Rider,R0052,2026-08-09 10:21:13,4,Hub chia hàng nhanh hôm nay,,HCM,HCM-TanBinh-Hub
+RV000138,Rider,R0229,2026-08-09 22:06:48,4,Tuyến giao hợp lý,,DN,DN-HaiChau-Hub
+RV000139,Rider,R0021,2026-08-10 18:11:38,3,"shop chua dong goi xong, cho ban ship hang lau",Handover issue,HCM,HCM-ThuDuc-SOC
+RV000140,Rider,R0225,2026-08-10 10:24:11,2,"shop chua dong goi xong, cho ban giao hang lau",,DN,DN-HaiChau-Hub
+RV000141,Rider,R0149,2026-08-10 16:18:19,5,App on dinh,,HN,HN-LongBien-SOC
+RV000142,Rider,R0240,2026-08-10 07:55:23,4,ok,,DN,DN-HaiChau-Hub
+RV000143,Rider,R0159,2026-08-10 13:10:56,2,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HN,HN-LongBien-SOC
+RV000144,Rider,R0086,2026-08-10 19:22:34,5,Tuyến giao hợp lý,,HCM,HCM-Q7-Hub
+RV000145,Rider,R0019,2026-08-10 12:09:37,3,chán,,HCM,HCM-ThuDuc-SOC
+RV000146,Rider,R0012,2026-08-10 16:42:48,5,ok,,HCM,HCM-ThuDuc-SOC
+RV000147,Rider,R0011,2026-08-10 14:45:54,1,"Khách không nghe máy, phải giao lại nhiều lần",,HCM,HCM-ThuDuc-SOC
+RV000148,Rider,R0001,2026-08-10 19:19:57,3,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000149,Rider,R0034,2026-08-10 22:28:40,2,"khách không nghe máy, phải giao lại nhiều lần",,HCM,HCM-ThuDuc-SOC
+RV000150,Rider,R0037,2026-08-11 07:33:33,1,Hàng ra kho trễ nên giao không kịp,Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000151,Rider,R0133,2026-08-11 11:43:31,5,Hub chia hàng nhanh hôm nay,,HN,HN-LongBien-SOC
+RV000152,Rider,R0276,2026-08-11 09:54:55,5,ok,,CT,CT-NinhKieu-Hub
+RV000153,Rider,R0086,2026-08-11 10:33:56,2,"Kho chia hang cham, tai xe phai doi 3 tieng",,HCM,HCM-Q7-Hub
+RV000154,Rider,R0174,2026-08-11 07:04:23,2,bình thường,,HN,HN-CauGiay-Hub
+RV000155,Rider,R0122,2026-08-11 15:56:41,4,tuyen giao hop ly,,HN,HN-LongBien-SOC
+RV000156,Rider,R0234,2026-08-11 19:09:02,1,"Khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,DN,DN-HaiChau-Hub
+RV000157,Rider,R0087,2026-08-11 09:10:39,4,ok,,HCM,HCM-Q7-Hub
+RV000158,Rider,R0266,2026-08-11 07:18:42,5,Hub chia hàng nhanh hôm nay,,CT,CT-NinhKieu-Hub
+RV000159,Rider,R0030,2026-08-11 14:33:09,1,Sang nao cung dung cho ca buoi moi duoc di,,HCM,HCM-ThuDuc-SOC
+RV000160,Rider,R0021,2026-08-11 20:27:48,4,Tuyến giao hợp lý huhu,,HCM,HCM-ThuDuc-SOC
+RV000161,Rider,R0102,2026-08-12 14:32:55,4,App on dinh,,HCM,HCM-Q7-Hub
+RV000162,Rider,R0148,2026-08-12 09:16:43,1,"kho chia hàng chậm, tài xế phải đợi 3 tiếng",Hub processing delay,HN,HN-LongBien-SOC
+RV000163,Rider,R0105,2026-08-12 21:08:43,2,"Khách không nghe máy, phải giao lại nhiều lần",Return,HCM,HCM-Q7-Hub
+RV000164,Rider,R0109,2026-08-12 08:03:09,3,Tuyen giao hop ly,,HCM,HCM-Q7-Hub
+RV000165,Rider,R0108,2026-08-12 18:26:48,2,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HCM,HCM-Q7-Hub
+RV000166,Rider,R0092,2026-08-12 11:11:47,4,App ổn định,,HCM,HCM-Q7-Hub
+RV000167,Rider,R0102,2026-08-12 13:32:48,3,Tuyến giao hợp lý,,HCM,HCM-Q7-Hub
+RV000168,Rider,R0131,2026-08-12 13:19:43,1,...,,HN,HN-LongBien-SOC
+RV000169,Rider,R0169,2026-08-12 16:36:08,4,ok,,HN,HN-CauGiay-Hub
+RV000170,Rider,R0228,2026-08-13 22:18:34,2,"Hang bi chia sai tuyen, phai chay vong",Wrong routing,DN,DN-HaiChau-Hub
+RV000171,Rider,R0141,2026-08-13 11:53:38,3,"Khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,HN,HN-LongBien-SOC
+RV000172,Rider,R0145,2026-08-13 18:46:35,5,Hub chia hàng nhanh hôm nay,,HN,HN-LongBien-SOC
+RV000173,Rider,R0198,2026-08-13 19:25:11,5,ok,,HN,HN-CauGiay-Hub
+RV000174,Rider,R0036,2026-08-13 16:26:39,2,Cho o hub qua lau moi nhan duoc hang di giao,Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000175,Rider,R0037,2026-08-13 14:30:43,1,"thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HCM,HCM-ThuDuc-SOC
+RV000176,Rider,R0155,2026-08-13 09:52:56,1,"Khách không nghe máy, phải giao lại nhiều lần :(",Delivery attempt,HN,HN-LongBien-SOC
+RV000177,Rider,R0156,2026-08-13 19:10:25,5,Hub chia hàng nhanh hôm nay :(,,HN,HN-LongBien-SOC
+RV000178,Rider,R0012,2026-08-13 19:43:06,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000179,Rider,R0026,2026-08-14 11:38:27,2,"Khách không nghe máy, phải giao lại nhiều lần!!!",,HCM,HCM-ThuDuc-SOC
+RV000180,Rider,R0001,2026-08-14 13:30:54,5,App on dinh,,HCM,HCM-ThuDuc-SOC
+RV000181,Rider,R0090,2026-08-14 18:00:11,3,app on dinh,,HCM,HCM-Q7-Hub
+RV000182,Rider,R0038,2026-08-14 07:11:45,1,"Hàng bị chia sai tuyến, phải chạy vòng",,HCM,HCM-ThuDuc-SOC
+RV000183,Rider,R0099,2026-08-14 11:14:00,4,Tuyến giao hợp lý huhu,,HCM,HCM-Q7-Hub
+RV000184,Rider,R0179,2026-08-14 19:18:28,1,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HN,HN-CauGiay-Hub
+RV000185,Rider,R0102,2026-08-14 20:45:27,2,"Thu nhap tuan nay tinh thieu don, chua doi soat dung",Settlement,HCM,HCM-Q7-Hub
+RV000186,Rider,R0026,2026-08-14 09:43:07,5,Tuyến giao hợp lýaaa,,HCM,HCM-ThuDuc-SOC
+RV000187,Rider,R0089,2026-08-14 11:04:55,1,"Khach khong nghe may, phai giao lai nhieu lan",Delivery attempt,HCM,HCM-Q7-Hub
+RV000188,Rider,R0150,2026-08-14 07:47:15,5,App ổn định huhu,,HN,HN-LongBien-SOC
+RV000189,Rider,R0214,2026-08-14 19:24:39,5,app on dinh,,DN,DN-HaiChau-Hub
+RV000190,Rider,R0034,2026-08-14 17:57:13,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000191,Rider,R0083,2026-08-15 22:47:18,5,ok,,HCM,HCM-Q7-Hub
+RV000192,Rider,R0014,2026-08-15 20:13:46,5,Tuyen giao hop ly,,HCM,HCM-ThuDuc-SOC
+RV000193,Rider,R0026,2026-08-15 14:07:38,5,ok,,HCM,HCM-ThuDuc-SOC
+RV000194,Rider,R0254,2026-08-15 22:59:01,3,Tuyến giao hợp lý,,CT,CT-NinhKieu-Hub
+RV000195,Rider,R0079,2026-08-15 12:47:09,1,"Hàng bị chia sai tuyến, phải chạy vòng",Wrong routing,HCM,HCM-TanBinh-Hub
+RV000196,Rider,R0011,2026-08-15 09:34:28,1,bình thường,,HCM,HCM-ThuDuc-SOC
+RV000197,Rider,R0038,2026-08-15 22:57:18,3,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000198,Rider,R0148,2026-08-15 10:57:00,3,"Shop chưa đóng gói xong, chờ bàn ship hàng lâu",Handover issue,HN,HN-LongBien-SOC
+RV000199,Rider,R0083,2026-08-16 19:50:12,4,Hub chia hàng nhanh hôm nay,,HCM,HCM-Q7-Hub
+RV000200,Rider,R0039,2026-08-16 13:19:49,3,App on dinh,,HCM,HCM-ThuDuc-SOC
+RV000201,Rider,R0014,2026-08-16 15:00:50,3,Tuyến giao hợp lý,,HCM,HCM-ThuDuc-SOC
+RV000202,Rider,R0024,2026-08-16 21:47:15,2,ok,,HCM,HCM-ThuDuc-SOC
+RV000203,Rider,R0138,2026-08-16 20:31:54,1,"App bị văng, không cập nhật được trạng thái giao",App issue,HN,HN-LongBien-SOC
+RV000204,Rider,R0210,2026-08-16 09:06:38,5,Hub chia hàng nhanh hôm nay,,DN,DN-HaiChau-Hub
+RV000205,Rider,R0162,2026-08-16 13:35:15,5,App on dinh,,HN,HN-CauGiay-Hub
+RV000206,Rider,R0138,2026-08-16 22:41:32,3,Hub chia hàng nhanh hôm nay,,HN,HN-LongBien-SOC
+RV000207,Rider,R0045,2026-08-16 10:38:32,3,Hub chia hang nhanh hom nay,,HCM,HCM-TanBinh-Hub
+RV000208,Rider,R0120,2026-08-16 20:58:17,5,Tuyến giao hợp lý,,HCM,HCM-Q7-Hub
+RV000209,Rider,R0014,2026-08-17 09:19:12,3,"Kho chia hàng chậm, tài xế phải đợi 3 tiếng",Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000210,Rider,R0112,2026-08-17 13:38:09,4,Hub chia hàng nhanh hôm nay huhu,,HCM,HCM-Q7-Hub
+RV000211,Rider,R0231,2026-08-17 10:26:32,5,App ổn định,,DN,DN-HaiChau-Hub
+RV000212,Rider,R0196,2026-08-17 19:21:25,4,Tuyen giao hop ly,,HN,HN-CauGiay-Hub
+RV000213,Rider,R0133,2026-08-17 16:28:09,3,Hub chia hàng nhanh hôm nay,,HN,HN-LongBien-SOC
+RV000214,Rider,R0119,2026-08-17 21:56:33,4,App on dinh,,HCM,HCM-Q7-Hub
+RV000215,Rider,R0123,2026-08-17 22:16:36,4,Tuyen giao hop ly,,HN,HN-LongBien-SOC
+RV000216,Rider,R0263,2026-08-17 18:27:02,4,Tuyến giao hợp lý,,CT,CT-NinhKieu-Hub
+RV000217,Rider,R0143,2026-08-17 11:22:33,1,App tai xe khong dang nhap duoc,App issue,HN,HN-LongBien-SOC
+RV000218,Rider,R0167,2026-08-17 12:53:26,3,ok!!!,,HN,HN-CauGiay-Hub
+RV000219,Rider,R0043,2026-08-17 17:18:37,1,"Kho chia hàng chậm, tài xế phải đợi 3 tiếng",Hub processing delay,HCM,HCM-TanBinh-Hub
+RV000220,Rider,R0092,2026-08-18 08:01:33,1,"Thu nhap tuan nay tinh thieu don, chua doi soat dung",Return,HCM,HCM-Q7-Hub
+RV000221,Rider,R0202,2026-08-18 21:23:21,5,app ổn định,,DN,DN-HaiChau-Hub
+RV000222,Rider,R0094,2026-08-18 13:37:54,5,ok,,HCM,HCM-Q7-Hub
+RV000223,Rider,R0045,2026-08-18 14:37:47,5,App ổn định,,HCM,HCM-TanBinh-Hub
+RV000224,Rider,R0164,2026-08-18 20:02:55,5,App on dinh,,HN,HN-CauGiay-Hub
+RV000225,Rider,R0236,2026-08-18 21:50:10,3,"Khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,DN,DN-HaiChau-Hub
+RV000226,Rider,R0027,2026-08-18 16:16:26,3,Hub chia hang nhanh hom nay,,HCM,HCM-ThuDuc-SOC
+RV000227,Rider,R0057,2026-08-18 15:28:09,4,ok,,HCM,HCM-TanBinh-Hub
+RV000228,Rider,R0239,2026-08-18 21:00:51,3,ok,,DN,DN-HaiChau-Hub
+RV000229,Rider,R0049,2026-08-18 08:50:38,5,Hub chia hàng nhanh hôm nay :(,,HCM,HCM-TanBinh-Hub
+RV000230,Rider,R0123,2026-08-19 22:45:05,2,"Hàng bị chia sai tuyến, phải chạy vòng",Wrong routing,HN,HN-LongBien-SOC
+RV000231,Rider,R0019,2026-08-19 16:05:44,3,ok!!!,,HCM,HCM-ThuDuc-SOC
+RV000232,Rider,R0035,2026-08-19 13:30:10,3,App on dinh,,HCM,HCM-ThuDuc-SOC
+RV000233,Rider,R0166,2026-08-19 22:06:52,5,Hub chia hàng nhanh hôm nay!!!,,HN,HN-CauGiay-Hub
+RV000234,Rider,R0041,2026-08-19 15:04:59,3,Hub chia hàng nhanh hôm nay,,HCM,HCM-TanBinh-Hub
+RV000235,Rider,R0117,2026-08-19 14:03:48,4,Hub chia hang nhanh hom nay,,HCM,HCM-Q7-Hub
+RV000236,Rider,R0096,2026-08-19 17:45:11,3,ok,,HCM,HCM-Q7-Hub
+RV000237,Rider,R0116,2026-08-19 10:10:05,2,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Slow response,HCM,HCM-Q7-Hub
+RV000238,Rider,R0137,2026-08-20 16:05:31,5,ok,,HN,HN-LongBien-SOC
+RV000239,Rider,R0279,2026-08-20 13:12:38,5,Hub chia hàng nhanh hôm nay,,CT,CT-NinhKieu-Hub
+RV000240,Rider,R0032,2026-08-20 13:26:16,2,"shop chưa đóng gói xong, chờ bàn ship hàng lâu",,HCM,HCM-ThuDuc-SOC
+RV000241,Rider,R0199,2026-08-20 07:19:53,2,Hàng ra kho trễ nên giao không kịp,Hub processing delay,HN,HN-CauGiay-Hub
+RV000242,Rider,R0026,2026-08-20 12:02:37,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000243,Rider,R0018,2026-08-20 21:10:57,5,ok,,HCM,HCM-ThuDuc-SOC
+RV000244,Rider,R0222,2026-08-20 10:07:43,5,Tuyến giao hợp lý,,DN,DN-HaiChau-Hub
+RV000245,Rider,R0067,2026-08-20 20:32:21,4,ok,,HCM,HCM-TanBinh-Hub
+RV000246,Rider,R0118,2026-08-20 22:55:53,5,ok huhu,,HCM,HCM-Q7-Hub
+RV000247,Rider,R0057,2026-08-20 18:38:25,2,"Shop chua dong goi xong, cho ban giao hang lau",Handover issue,HCM,HCM-TanBinh-Hub
+RV000248,Rider,R0091,2026-08-21 10:37:52,3,Tuyến giao hợp lý,,HCM,HCM-Q7-Hub
+RV000249,Rider,R0004,2026-08-21 12:22:02,5,App ổn định,,HCM,HCM-ThuDuc-SOC
+RV000250,Rider,R0099,2026-08-21 15:32:28,2,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HCM,HCM-Q7-Hub
+RV000251,Rider,R0132,2026-08-21 22:48:07,3,Tuyến giao hợp lý,,HN,HN-LongBien-SOC
+RV000252,Rider,R0046,2026-08-21 22:07:36,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-TanBinh-Hub
+RV000253,Rider,R0151,2026-08-21 11:32:51,2,"Hàng bị chia sai tuyến, phải chạy vòng",Wrong routing,HN,HN-LongBien-SOC
+RV000254,Rider,R0076,2026-08-21 10:07:11,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-TanBinh-Hub
+RV000255,Rider,R0022,2026-08-21 21:32:27,1,"Thu nhap tuan nay tinh thieu don, chua doi soat dung",Settlement,HCM,HCM-ThuDuc-SOC
+RV000256,Rider,R0037,2026-08-21 22:46:30,5,ok,,HCM,HCM-ThuDuc-SOC
+RV000257,Rider,R0010,2026-08-21 08:54:37,2,"app bị văng, không cập nhật được trạng thái giao",App issue,HCM,HCM-ThuDuc-SOC
+RV000258,Rider,R0030,2026-08-22 21:22:07,3,"Hang bi chia sai tuyen, phai chay vong",Wrong routing,HCM,HCM-ThuDuc-SOC
+RV000259,Rider,R0182,2026-08-22 16:04:29,2,Sáng nào cũng đứng chờ cả buổi mới được đi,Hub processing delay,HN,HN-CauGiay-Hub
+RV000260,Rider,R0123,2026-08-22 10:19:21,3,ok,,HN,HN-LongBien-SOC
+RV000261,Rider,R0048,2026-08-22 17:06:34,3,ok,,HCM,HCM-TanBinh-Hub
+RV000262,Rider,R0061,2026-08-22 15:48:42,1,ok,,HCM,HCM-TanBinh-Hub
+RV000263,Rider,R0123,2026-08-22 19:28:16,2,"Khách không nghe máy, phải giao lại nhiều lần",,HN,HN-LongBien-SOC
+RV000264,Rider,R0210,2026-08-22 20:29:41,4,Tuyến giao hợp lý,,DN,DN-HaiChau-Hub
+RV000265,Rider,R0277,2026-08-22 09:10:17,5,App ổn định,,CT,CT-NinhKieu-Hub
+RV000266,Rider,R0038,2026-08-22 16:02:30,2,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HCM,HCM-ThuDuc-SOC
+RV000267,Rider,R0142,2026-08-22 12:30:13,5,App ổn định,,HN,HN-LongBien-SOC
+RV000268,Rider,R0168,2026-08-22 18:50:37,5,app on dinh,,HN,HN-CauGiay-Hub
+RV000269,Rider,R0277,2026-08-23 17:08:17,4,ok,,CT,CT-NinhKieu-Hub
+RV000270,Rider,R0083,2026-08-23 21:48:51,2,sang nao cung dung cho ca buoi moi dc di :(,Hub processing delay,HCM,HCM-Q7-Hub
+RV000271,Rider,R0274,2026-08-23 12:34:17,3,"Khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,CT,CT-NinhKieu-Hub
+RV000272,Rider,R0097,2026-08-23 07:10:44,5,ok,,HCM,HCM-Q7-Hub
+RV000273,Rider,R0030,2026-08-23 15:08:43,5,ok,,HCM,HCM-ThuDuc-SOC
+RV000274,Rider,R0050,2026-08-23 19:10:50,5,Tuyen giao hop ly,,HCM,HCM-TanBinh-Hub
+RV000275,Rider,R0088,2026-08-23 15:49:03,2,"hang bi chia sai tuyen, phai chay vong",,HCM,HCM-Q7-Hub
+RV000276,Rider,R0260,2026-08-23 10:47:58,2,"Hang bi chia sai tuyen, phai chay vong",Wrong routing,CT,CT-NinhKieu-Hub
+RV000277,Rider,R0205,2026-08-23 10:57:23,2,"Khach ko nghe may, phai giao lai nhieu lan",Delivery attempt,DN,DN-HaiChau-Hub
+RV000278,Rider,R0037,2026-08-23 22:23:48,3,"Khach khong nghe may, phai giao lai nhieu lan",Delivery attempt,HCM,HCM-ThuDuc-SOC
+RV000279,Rider,R0053,2026-08-24 07:52:40,2,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng, thêm nữa là kho chia hàng chậm, tài xế phải đợi 3 tiếng",,HCM,HCM-TanBinh-Hub
+RV000280,Rider,R0270,2026-08-24 19:37:59,5,ok,,CT,CT-NinhKieu-Hub
+RV000281,Rider,R0247,2026-08-24 12:26:33,3,App ổn định huhu,,CT,CT-NinhKieu-Hub
+RV000282,Rider,R0121,2026-08-24 14:08:32,5,App on dinh,,HN,HN-LongBien-SOC
+RV000283,Rider,R0234,2026-08-24 12:20:34,1,"Hang bi chia sai tuyen, phai chay vong",Wrong routing,DN,DN-HaiChau-Hub
+RV000284,Rider,R0201,2026-08-24 16:55:39,1,"Hàng bị chia sai tuyến, phải chạy vòng",Wrong routing,DN,DN-HaiChau-Hub
+RV000285,Rider,R0067,2026-08-24 12:54:34,4,ok!!!,,HCM,HCM-TanBinh-Hub
+RV000286,Rider,R0219,2026-08-24 12:33:38,5,Tuyen giao hop ly!!!,,DN,DN-HaiChau-Hub
+RV000287,Rider,R0090,2026-08-24 12:47:25,4,Hub chia hàng nhanh hôm nay,,HCM,HCM-Q7-Hub
+RV000288,Rider,R0126,2026-08-24 22:18:36,2,Sáng nào cũng đứng chờ cả buổi mới được đi,Hub processing delay,HN,HN-LongBien-SOC
+RV000289,Rider,R0108,2026-08-24 14:49:24,4,app on dinh,,HCM,HCM-Q7-Hub
+RV000290,Rider,R0117,2026-08-25 09:55:14,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-Q7-Hub
+RV000291,Rider,R0046,2026-08-25 17:40:03,1,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HCM,HCM-TanBinh-Hub
+RV000292,Rider,R0116,2026-08-25 09:45:30,2,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HCM,HCM-Q7-Hub
+RV000293,Rider,R0021,2026-08-25 09:20:31,2,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng, còn kho chia hàng chậm, tài xế phải đợi 3 tiếng",,HCM,HCM-ThuDuc-SOC
+RV000294,Rider,R0017,2026-08-25 07:00:45,4,ok,,HCM,HCM-ThuDuc-SOC
+RV000295,Rider,R0129,2026-08-25 19:27:22,5,Tuyến giao hợp lý,,HN,HN-LongBien-SOC
+RV000296,Rider,R0136,2026-08-25 15:13:48,1,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",Handover issue,HN,HN-LongBien-SOC
+RV000297,Rider,R0031,2026-08-25 09:16:00,3,"Thu nhap tuan nay tinh thieu don, chua doi soat dungaaa",Settlement,HCM,HCM-ThuDuc-SOC
+RV000298,Rider,R0027,2026-08-25 15:25:25,3,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000299,Rider,R0124,2026-08-25 14:50:47,5,Hub chia hang nhanh hom nay,,HN,HN-LongBien-SOC
+RV000300,Rider,R0124,2026-08-26 15:29:34,5,Tuyến giao hợp lý,,HN,HN-LongBien-SOC
+RV000301,Rider,R0024,2026-08-26 18:23:40,3,Tuyến giao hợp lý,,HCM,HCM-ThuDuc-SOC
+RV000302,Rider,R0130,2026-08-26 13:07:28,3,ok :(,,HN,HN-LongBien-SOC
+RV000303,Rider,R0004,2026-08-26 15:01:07,5,Hub chia hang nhanh hom nay,,HCM,HCM-ThuDuc-SOC
+RV000304,Rider,R0004,2026-08-26 12:51:24,5,app on dinh,,HCM,HCM-ThuDuc-SOC
+RV000305,Rider,R0130,2026-08-26 08:57:35,5,App ổn định,,HN,HN-LongBien-SOC
+RV000306,Rider,R0037,2026-08-26 10:38:42,2,Sáng nào cũng đứng chờ cả buổi mới dc đi,,HCM,HCM-ThuDuc-SOC
+RV000307,Rider,R0126,2026-08-26 18:38:23,2,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",Handover issue,HN,HN-LongBien-SOC
+RV000308,Rider,R0108,2026-08-26 20:20:47,1,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",,HCM,HCM-Q7-Hub
+RV000309,Rider,R0088,2026-08-26 18:10:25,2,"Khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,HCM,HCM-Q7-Hub
+RV000310,Rider,R0016,2026-08-27 22:37:56,3,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",Handover issue,HCM,HCM-ThuDuc-SOC
+RV000311,Rider,R0235,2026-08-27 15:31:50,3,Hub chia hàng nhanh hôm nay,,DN,DN-HaiChau-Hub
+RV000312,Rider,R0045,2026-08-27 17:31:14,2,App tài xế không đăng nhập được,,HCM,HCM-TanBinh-Hub
+RV000313,Rider,R0016,2026-08-27 15:15:50,3,Sang nao cung dung cho ca buoi moi duoc di,,HCM,HCM-ThuDuc-SOC
+RV000314,Rider,R0245,2026-08-27 18:13:57,4,Hub chia hàng nhanh hôm nay,,CT,CT-NinhKieu-Hub
+RV000315,Rider,R0151,2026-08-27 09:52:14,1,Sáng nào cũng đứng chờ cả buổi mới được đi,Hub processing delay,HN,HN-LongBien-SOC
+RV000316,Rider,R0189,2026-08-27 10:45:59,4,ok,,HN,HN-CauGiay-Hub
+RV000317,Rider,R0036,2026-08-27 20:10:04,5,Hub chia hang nhanh hom nay,,HCM,HCM-ThuDuc-SOC
+RV000318,Rider,R0124,2026-08-27 20:59:25,5,Tuyen giao hop lyaaa,,HN,HN-LongBien-SOC
+RV000319,Rider,R0002,2026-08-28 11:54:42,5,App ổn định,,HCM,HCM-ThuDuc-SOC
+RV000320,Rider,R0117,2026-08-28 15:20:43,3,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",Handover issue,HCM,HCM-Q7-Hub
+RV000321,Rider,R0187,2026-08-28 14:42:40,2,"Hàng bị chia sai tuyến, phải chạy vòng, với lại shop chưa đóng gói xong, chờ bàn giao hàng lâu",Wrong routing,HN,HN-CauGiay-Hub
+RV000322,Rider,R0023,2026-08-28 11:01:30,3,"khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,HCM,HCM-ThuDuc-SOC
+RV000323,Rider,R0058,2026-08-28 17:03:45,4,Hub chia hàng nhanh hôm nay,,HCM,HCM-TanBinh-Hub
+RV000324,Rider,R0049,2026-08-28 21:56:12,2,"Hàng bị chia sai tuyến, phải chạy vòng",Wrong routing,HCM,HCM-TanBinh-Hub
+RV000325,Rider,R0092,2026-08-28 20:48:44,3,"Kho chia hang cham, tai xe phai doi 3 tieng",Hub processing delay,HCM,HCM-Q7-Hub
+RV000326,Rider,R0234,2026-08-28 07:31:45,5,ok,,DN,DN-HaiChau-Hub
+RV000327,Rider,R0008,2026-08-28 08:27:25,4,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000328,Rider,R0108,2026-08-28 22:28:38,3,Hub chia hang nhanh hom nayaaa,,HCM,HCM-Q7-Hub
+RV000329,Rider,R0028,2026-08-29 09:41:40,3,ok,,HCM,HCM-ThuDuc-SOC
+RV000330,Rider,R0035,2026-08-29 13:29:15,2,Chờ ở hub quá lâu mới nhận được hàng đi giao,Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000331,Rider,R0075,2026-08-29 13:16:29,5,App ổn định huhu,,HCM,HCM-TanBinh-Hub
+RV000332,Rider,R0093,2026-08-29 21:57:59,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-Q7-Hub
+RV000333,Rider,R0013,2026-08-29 15:14:35,3,app ổn định,,HCM,HCM-ThuDuc-SOC
+RV000334,Rider,R0033,2026-08-29 15:57:04,4,Hub chia hang nhanh hom nay,,HCM,HCM-ThuDuc-SOC
+RV000335,Rider,R0155,2026-08-29 08:59:51,1,"hang bi chia sai tuyen, phai chay vong",Return,HN,HN-LongBien-SOC
+RV000336,Rider,R0161,2026-08-29 07:19:21,1,"Hàng bị chia sai tuyến, phải chạy vòng",Wrong routing,HN,HN-CauGiay-Hub
+RV000337,Rider,R0027,2026-08-29 22:12:35,5,Tuyến giao hợp lý,,HCM,HCM-ThuDuc-SOC
+RV000338,Rider,R0134,2026-08-29 09:23:22,3,ok,,HN,HN-LongBien-SOC
+RV000339,Rider,R0151,2026-08-29 16:04:58,5,Hub chia hàng nhanh hôm nay :(,,HN,HN-LongBien-SOC
+RV000340,Rider,R0131,2026-08-30 19:02:14,5,ok,,HN,HN-LongBien-SOC
+RV000341,Rider,R0247,2026-08-30 09:22:41,4,Hub chia hang nhanh hom nay,,CT,CT-NinhKieu-Hub
+RV000342,Rider,R0126,2026-08-30 20:04:44,5,App ổn định huhu,,HN,HN-LongBien-SOC
+RV000343,Rider,R0076,2026-08-30 07:27:11,5,app ổn định,,HCM,HCM-TanBinh-Hub
+RV000344,Rider,R0194,2026-08-30 18:05:40,3,ok,,HN,HN-CauGiay-Hub
+RV000345,Rider,R0010,2026-08-30 14:18:31,3,ok,,HCM,HCM-ThuDuc-SOC
+RV000346,Rider,R0049,2026-08-30 16:31:19,4,ok,,HCM,HCM-TanBinh-Hub
+RV000347,Rider,R0151,2026-08-30 19:08:28,3,"App bị văng, ko cập nhật dc trạng thái giao, với lại hàng bị chia sai tuyến, phải chạy vòng",App issue,HN,HN-LongBien-SOC
+RV000348,Rider,R0267,2026-08-31 22:13:48,2,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu, với lại hàng bị chia sai tuyến, phải chạy vòng",Handover issue,CT,CT-NinhKieu-Hub
+RV000349,Rider,R0124,2026-08-31 17:53:58,4,ok,,HN,HN-LongBien-SOC
+RV000350,Rider,R0139,2026-08-31 18:57:27,4,App ổn định,,HN,HN-LongBien-SOC
+RV000351,Rider,R0046,2026-08-31 08:28:25,3,"Hub xử lý đơn quá chậm, 10h mới có hàng",Hub processing delay,HCM,HCM-TanBinh-Hub
+RV000352,Rider,R0166,2026-08-31 15:36:53,4,App ổn định,,HN,HN-CauGiay-Hub
+RV000353,Rider,R0249,2026-08-31 21:22:41,1,Chờ ở hub quá lâu mới nhận được hàng đi giao,Hub processing delay,CT,CT-NinhKieu-Hub
+RV000354,Rider,R0144,2026-08-31 20:28:54,5,ok,,HN,HN-LongBien-SOC
+RV000355,Rider,R0234,2026-08-31 11:31:00,1,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,DN,DN-HaiChau-Hub
+RV000356,Rider,R0023,2026-08-31 07:36:29,2,"Hub xử lý đơn wa chậm, 10h mới có hàng",,HCM,HCM-ThuDuc-SOC
+RV000357,Rider,R0139,2026-08-31 14:50:37,3,ok :(,,HN,HN-LongBien-SOC
+RV000358,Rider,R0130,2026-09-01 18:27:20,2,"Kho chia hang cham, tai xe phai doi 3 tieng",Hub processing delay,HN,HN-LongBien-SOC
+RV000359,Rider,R0081,2026-09-01 08:17:04,4,App ổn định,,HCM,HCM-Q7-Hub
+RV000360,Rider,R0120,2026-09-01 21:26:03,4,ok,,HCM,HCM-Q7-Hub
+RV000361,Rider,R0084,2026-09-01 13:50:11,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-Q7-Hub
+RV000362,Rider,R0063,2026-09-01 15:17:42,2,Sáng nào cũng đứng chờ cả buổi mới được đi,Hub processing delay,HCM,HCM-TanBinh-Hub
+RV000363,Rider,R0024,2026-09-01 12:06:53,2,Sáng nào cũng đứng chờ cả buổi mới dc đi,,HCM,HCM-ThuDuc-SOC
+RV000364,Rider,R0219,2026-09-01 22:52:02,5,App ổn định,,DN,DN-HaiChau-Hub
+RV000365,Rider,R0017,2026-09-01 11:35:29,2,...,,HCM,HCM-ThuDuc-SOC
+RV000366,Rider,R0271,2026-09-01 19:56:44,4,ok,,CT,CT-NinhKieu-Hub
+RV000367,Rider,R0144,2026-09-01 13:33:14,3,Hub chia hang nhanh hom nay!!!,,HN,HN-LongBien-SOC
+RV000368,Rider,R0280,2026-09-01 15:17:35,5,Hub chia hàng nhanh hôm nay,,CT,CT-NinhKieu-Hub
+RV000369,Rider,R0026,2026-09-02 07:54:43,3,ok,,HCM,HCM-ThuDuc-SOC
+RV000370,Rider,R0024,2026-09-02 18:37:53,3,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HCM,HCM-ThuDuc-SOC
+RV000371,Rider,R0028,2026-09-02 15:38:01,5,app ổn định,,HCM,HCM-ThuDuc-SOC
+RV000372,Rider,R0225,2026-09-02 15:23:37,5,Hub chia hang nhanh hom nay,,DN,DN-HaiChau-Hub
+RV000373,Rider,R0126,2026-09-02 15:37:44,2,"Hàng bị chia sai tuyến, phải chạy vòng",Wrong routing,HN,HN-LongBien-SOC
+RV000374,Rider,R0011,2026-09-02 10:17:15,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000375,Rider,R0080,2026-09-02 22:48:52,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-TanBinh-Hub
+RV000376,Rider,R0128,2026-09-02 14:55:20,2,"shop chua dong goi xong, cho ban giao hang lau",Handover issue,HN,HN-LongBien-SOC
+RV000377,Rider,R0122,2026-09-02 17:39:37,5,tuyến giao hợp lý,,HN,HN-LongBien-SOC
+RV000378,Rider,R0064,2026-09-03 18:10:19,1,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",,HCM,HCM-TanBinh-Hub
+RV000379,Rider,R0219,2026-09-03 20:09:57,5,Hub chia hàng nhanh hôm nay,,DN,DN-HaiChau-Hub
+RV000380,Rider,R0233,2026-09-03 18:57:44,1,"Khách không nghe máy, phải giao lại nhiều lần",App issue,DN,DN-HaiChau-Hub
+RV000381,Rider,R0013,2026-09-03 13:43:49,5,App ổn định,,HCM,HCM-ThuDuc-SOC
+RV000382,Rider,R0207,2026-09-03 22:30:21,2,"Khách không nghe máy, phải giao lại nhiều lần",,DN,DN-HaiChau-Hub
+RV000383,Rider,R0237,2026-09-03 19:33:21,3,ok,,DN,DN-HaiChau-Hub
+RV000384,Rider,R0209,2026-09-03 07:10:24,3,App on dinh,,DN,DN-HaiChau-Hub
+RV000385,Rider,R0010,2026-09-03 17:55:10,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000386,Rider,R0139,2026-09-03 21:05:41,3,App ổn định :(,,HN,HN-LongBien-SOC
+RV000387,Rider,R0141,2026-09-04 13:34:07,5,Hub chia hàng nhanh hôm nay,,HN,HN-LongBien-SOC
+RV000388,Rider,R0084,2026-09-04 10:35:40,5,Tuyến giao hợp lý,,HCM,HCM-Q7-Hub
+RV000389,Rider,R0248,2026-09-04 10:22:42,3,Tuyen giao hop ly,,CT,CT-NinhKieu-Hub
+RV000390,Rider,R0266,2026-09-04 20:53:09,5,Tuyen giao hop ly,,CT,CT-NinhKieu-Hub
+RV000391,Rider,R0104,2026-09-04 22:27:27,5,Tuyến giao hợp lý,,HCM,HCM-Q7-Hub
+RV000392,Rider,R0153,2026-09-04 19:27:17,2,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",,HN,HN-LongBien-SOC
+RV000393,Rider,R0144,2026-09-04 13:05:42,2,App tài xế không đăng nhập được,App issue,HN,HN-LongBien-SOC
+RV000394,Rider,R0030,2026-09-04 13:19:19,3,...,,HCM,HCM-ThuDuc-SOC
+RV000395,Rider,R0142,2026-09-04 18:33:34,1,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HN,HN-LongBien-SOC
+RV000396,Rider,R0138,2026-09-04 21:19:28,5,Hub chia hang nhanh hom nay,,HN,HN-LongBien-SOC
+RV000397,Rider,R0048,2026-09-05 10:05:52,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-TanBinh-Hub
+RV000398,Rider,R0037,2026-09-05 13:48:23,1,kém,,HCM,HCM-ThuDuc-SOC
+RV000399,Rider,R0159,2026-09-05 14:12:22,4,App on dinh,,HN,HN-LongBien-SOC
+RV000400,Rider,R0170,2026-09-05 15:13:17,1,"Khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,HN,HN-CauGiay-Hub
+RV000401,Rider,R0020,2026-09-05 07:06:57,3,"Shop chưa đóng gói xong, chờ bàn ship hàng lâu, thêm nữa là chờ ở hub quá lâu mới nhận dc hàng đi giao",Handover issue,HCM,HCM-ThuDuc-SOC
+RV000402,Rider,R0146,2026-09-05 15:25:12,3,Hub chia hang nhanh hom nay,,HN,HN-LongBien-SOC
+RV000403,Rider,R0147,2026-09-05 13:24:08,3,Hub chia hàng nhanh hôm nay,,HN,HN-LongBien-SOC
+RV000404,Rider,R0157,2026-09-05 20:45:59,5,ok,,HN,HN-LongBien-SOC
+RV000405,Rider,R0177,2026-09-05 09:42:40,3,Hub chia hàng nhanh hôm nay,,HN,HN-CauGiay-Hub
+RV000406,Rider,R0035,2026-09-05 09:34:47,2,"Khach khong nghe may, phai giao lai nhieu lan, voi lai hang ra kho tre nen giao khong kip",Delivery attempt,HCM,HCM-ThuDuc-SOC
+RV000407,Rider,R0256,2026-09-06 22:03:05,2,kém,,CT,CT-NinhKieu-Hub
+RV000408,Rider,R0159,2026-09-06 09:58:33,1,"Kho chia hàng chậm, tài xế phải đợi 3 tiếng",Hub processing delay,HN,HN-LongBien-SOC
+RV000409,Rider,R0126,2026-09-06 16:24:06,1,sáng nào cũng đứng chờ cả buổi mới dc đi,,HN,HN-LongBien-SOC
+RV000410,Rider,R0054,2026-09-06 12:15:55,4,Hub chia hàng nhanh hôm nay,,HCM,HCM-TanBinh-Hub
+RV000411,Rider,R0260,2026-09-06 14:32:26,5,tuyến giao hợp lý :(,,CT,CT-NinhKieu-Hub
+RV000412,Rider,R0095,2026-09-06 09:26:23,4,Tuyến giao hợp lý,,HCM,HCM-Q7-Hub
+RV000413,Rider,R0100,2026-09-06 13:16:04,4,ok,,HCM,HCM-Q7-Hub
+RV000414,Rider,R0165,2026-09-06 18:47:48,2,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",,HN,HN-CauGiay-Hub
+RV000415,Rider,R0068,2026-09-06 10:55:11,1,"Kho chia hang cham, tai xe phai doi 3 tieng!!!",,HCM,HCM-TanBinh-Hub
+RV000416,Rider,R0254,2026-09-06 10:24:54,1,"Khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,CT,CT-NinhKieu-Hub
+RV000417,Rider,R0141,2026-09-07 10:19:06,3,ok,,HN,HN-LongBien-SOC
+RV000418,Rider,R0149,2026-09-07 20:21:15,5,Tuyến giao hợp lý,,HN,HN-LongBien-SOC
+RV000419,Rider,R0074,2026-09-07 10:06:25,5,Tuyến giao hợp lý,,HCM,HCM-TanBinh-Hub
+RV000420,Rider,R0046,2026-09-07 13:11:20,1,Hàng ra kho trễ nên giao không kịp,Hub processing delay,HCM,HCM-TanBinh-Hub
+RV000421,Rider,R0156,2026-09-07 21:16:44,2,"thu nhap tuan nay tinh thieu don, chua doi soat dung!!!",Settlement,HN,HN-LongBien-SOC
+RV000422,Rider,R0233,2026-09-07 22:47:00,5,App on dinh,,DN,DN-HaiChau-Hub
+RV000423,Rider,R0253,2026-09-07 18:28:17,2,không hài lòng,,CT,CT-NinhKieu-Hub
+RV000424,Rider,R0041,2026-09-07 11:58:55,2,"Khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,HCM,HCM-TanBinh-Hub
+RV000425,Rider,R0174,2026-09-07 20:44:15,4,App ổn định,,HN,HN-CauGiay-Hub
+RV000426,Rider,R0239,2026-09-07 17:24:44,4,ok,,DN,DN-HaiChau-Hub
+RV000427,Rider,R0065,2026-09-08 12:05:27,5,App on dinh,,HCM,HCM-TanBinh-Hub
+RV000428,Rider,R0029,2026-09-08 21:56:31,1,"thu nhap tuan nay tinh thieu don, chua doi soat dung",Settlement,HCM,HCM-ThuDuc-SOC
+RV000429,Rider,R0020,2026-09-08 21:12:40,2,App tài xế không đăng nhập được,,HCM,HCM-ThuDuc-SOC
+RV000430,Rider,R0265,2026-09-08 16:59:51,5,ok,,CT,CT-NinhKieu-Hub
+RV000431,Rider,R0220,2026-09-08 10:58:17,2,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,DN,DN-HaiChau-Hub
+RV000432,Rider,R0007,2026-09-08 18:23:51,2,"Khach ko nghe may, phai giao lai nhieu lan",Delivery attempt,HCM,HCM-ThuDuc-SOC
+RV000433,Rider,R0193,2026-09-08 12:56:26,1,Lỗi đăng nhập app từ sáng :(,App issue,HN,HN-CauGiay-Hub
+RV000434,Rider,R0026,2026-09-08 17:48:09,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000435,Rider,R0231,2026-09-08 10:02:52,5,Tuyến giao hợp lýaaa,,DN,DN-HaiChau-Hub
+RV000436,Rider,R0177,2026-09-08 08:20:26,5,App ổn định,,HN,HN-CauGiay-Hub
+RV000437,Rider,R0173,2026-09-09 15:52:22,5,Hub chia hàng nhanh hôm nay,,HN,HN-CauGiay-Hub
+RV000438,Rider,R0192,2026-09-09 16:14:15,3,"Hàng bị chia sai tuyến, phải chạy vòng",Wrong routing,HN,HN-CauGiay-Hub
+RV000439,Rider,R0023,2026-09-09 16:00:31,1,"Khach ko nghe may, phai giao lai nhieu lan",,HCM,HCM-ThuDuc-SOC
+RV000440,Rider,R0151,2026-09-09 15:59:48,2,App tai xe khong dang nhap duoc,,HN,HN-LongBien-SOC
+RV000441,Rider,R0206,2026-09-09 09:14:29,1,Sáng nào cũng đứng chờ cả buổi mới được đi,Hub processing delay,DN,DN-HaiChau-Hub
+RV000442,Rider,R0075,2026-09-09 20:13:48,3,"Hàng bị chia sai tuyến, phải chạy vòng",Wrong routing,HCM,HCM-TanBinh-Hub
+RV000443,Rider,R0025,2026-09-09 16:01:10,5,App on dinh,,HCM,HCM-ThuDuc-SOC
+RV000444,Rider,R0046,2026-09-09 07:52:20,2,"khach khong nghe may, phai giao lai nhieu lan",Delivery attempt,HCM,HCM-TanBinh-Hub
+RV000445,Rider,R0171,2026-09-10 11:27:06,4,Tuyến giao hợp lý :(,,HN,HN-CauGiay-Hub
+RV000446,Rider,R0043,2026-09-10 16:44:54,3,ok,,HCM,HCM-TanBinh-Hub
+RV000447,Rider,R0114,2026-09-10 13:09:20,5,ok,,HCM,HCM-Q7-Hub
+RV000448,Rider,R0252,2026-09-10 17:04:59,3,App tai xe khong dang nhap dc,App issue,CT,CT-NinhKieu-Hub
+RV000449,Rider,R0093,2026-09-10 11:42:15,4,hub chia hàng nhanh hôm nay,,HCM,HCM-Q7-Hub
+RV000450,Rider,R0071,2026-09-10 09:13:51,1,chán,,HCM,HCM-TanBinh-Hub
+RV000451,Rider,R0076,2026-09-10 20:14:45,3,App tài xế không đăng nhập được,App issue,HCM,HCM-TanBinh-Hub
+RV000452,Rider,R0121,2026-09-10 19:48:26,4,Tuyến giao hợp lý huhu,,HN,HN-LongBien-SOC
+RV000453,Rider,R0064,2026-09-10 14:10:09,3,tuyến giao hợp lý,,HCM,HCM-TanBinh-Hub
+RV000454,Rider,R0065,2026-09-11 08:36:55,5,Tuyen giao hop ly,,HCM,HCM-TanBinh-Hub
+RV000455,Rider,R0154,2026-09-11 13:36:21,4,Hub chia hàng nhanh hôm nay,,HN,HN-LongBien-SOC
+RV000456,Rider,R0071,2026-09-11 19:22:15,1,chán,,HCM,HCM-TanBinh-Hub
+RV000457,Rider,R0152,2026-09-11 18:16:40,5,Tuyen giao hop ly!!!,,HN,HN-LongBien-SOC
+RV000458,Rider,R0127,2026-09-11 08:09:56,3,Tuyến giao hợp lý,,HN,HN-LongBien-SOC
+RV000459,Rider,R0038,2026-09-11 13:58:19,4,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000460,Rider,R0037,2026-09-11 13:54:46,5,app ổn định,,HCM,HCM-ThuDuc-SOC
+RV000461,Rider,R0008,2026-09-11 08:35:07,1,"shop chưa đóng gói xong, chờ bàn giao hàng lâu",Handover issue,HCM,HCM-ThuDuc-SOC
+RV000462,Rider,R0269,2026-09-11 19:35:49,3,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",,CT,CT-NinhKieu-Hub
+RV000463,Rider,R0195,2026-09-11 13:14:57,4,Tuyến giao hợp lý,,HN,HN-CauGiay-Hub
+RV000464,Rider,R0114,2026-09-12 11:43:42,5,Hub chia hang nhanh hom nay,,HCM,HCM-Q7-Hub
+RV000465,Rider,R0079,2026-09-12 12:59:34,3,Hub chia hang nhanh hom nay,,HCM,HCM-TanBinh-Hub
+RV000466,Rider,R0135,2026-09-12 20:48:46,5,ok,,HN,HN-LongBien-SOC
+RV000467,Rider,R0105,2026-09-12 12:23:01,5,ok,,HCM,HCM-Q7-Hub
+RV000468,Rider,R0182,2026-09-12 21:39:42,3,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",Handover issue,HN,HN-CauGiay-Hub
+RV000469,Rider,R0051,2026-09-12 18:10:54,2,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,HCM,HCM-TanBinh-Hub
+RV000470,Rider,R0141,2026-09-12 16:22:35,3,chán,,HN,HN-LongBien-SOC
+RV000471,Rider,R0216,2026-09-12 19:28:15,3,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Settlement,DN,DN-HaiChau-Hub
+RV000472,Rider,R0151,2026-09-12 18:22:56,5,ok,,HN,HN-LongBien-SOC
+RV000473,Rider,R0196,2026-09-12 22:17:50,5,Hub chia hang nhanh hom nay,,HN,HN-CauGiay-Hub
+RV000474,Rider,R0193,2026-09-12 08:08:24,3,App ổn định,,HN,HN-CauGiay-Hub
+RV000475,Rider,R0055,2026-09-13 11:14:19,3,không hài lòng,,HCM,HCM-TanBinh-Hub
+RV000476,Rider,R0219,2026-09-13 12:34:35,1,"Thu nhap tuan nay tinh thieu don, chua doi soat dungaaa",Settlement,DN,DN-HaiChau-Hub
+RV000477,Rider,R0170,2026-09-13 10:11:59,5,Tuyến giao hợp lý,,HN,HN-CauGiay-Hub
+RV000478,Rider,R0013,2026-09-13 09:15:50,1,"khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,HCM,HCM-ThuDuc-SOC
+RV000479,Rider,R0203,2026-09-13 18:20:23,3,Sang nao cung dung cho ca buoi moi duoc di :(,Hub processing delay,DN,DN-HaiChau-Hub
+RV000480,Rider,R0145,2026-09-13 10:14:02,5,hub chia hang nhanh hom nay,,HN,HN-LongBien-SOC
+RV000481,Rider,R0225,2026-09-13 07:51:48,1,sang nao cung dung cho ca buoi moi duoc di,Hub processing delay,DN,DN-HaiChau-Hub
+RV000482,Rider,R0117,2026-09-13 10:13:36,1,"Thu nhap tuan nay tinh thieu don, chua doi soat dungaaa",Settlement,HCM,HCM-Q7-Hub
+RV000483,Rider,R0040,2026-09-13 15:50:59,5,hub chia hang nhanh hom nay,,HCM,HCM-ThuDuc-SOC
+RV000484,Rider,R0012,2026-09-13 16:42:50,5,Tuyen giao hop ly,,HCM,HCM-ThuDuc-SOC
+RV000485,Rider,R0151,2026-09-14 09:45:46,5,Hub chia hàng nhanh hôm nay,,HN,HN-LongBien-SOC
+RV000486,Rider,R0239,2026-09-14 20:08:15,4,Tuyen giao hop ly,,DN,DN-HaiChau-Hub
+RV000487,Rider,R0002,2026-09-14 07:03:53,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000488,Rider,R0069,2026-09-14 08:12:57,3,Tuyến giao hợp lý,,HCM,HCM-TanBinh-Hub
+RV000489,Rider,R0252,2026-09-14 21:40:18,4,Hub chia hàng nhanh hôm nay,,CT,CT-NinhKieu-Hub
+RV000490,Rider,R0002,2026-09-14 09:09:25,5,ok,,HCM,HCM-ThuDuc-SOC
+RV000491,Rider,R0179,2026-09-14 08:06:14,5,App ổn định,,HN,HN-CauGiay-Hub
+RV000492,Rider,R0002,2026-09-14 10:05:35,5,ok,,HCM,HCM-ThuDuc-SOC
+RV000493,Rider,R0034,2026-09-14 16:28:33,5,App ổn định huhu,,HCM,HCM-ThuDuc-SOC
+RV000494,Rider,R0211,2026-09-14 11:35:33,2,"Khach khong nghe may, phai giao lai nhieu lan",,DN,DN-HaiChau-Hub
+RV000495,Rider,R0017,2026-09-14 22:01:27,3,"Hub xử lý đơn quá chậm, 10h mới có hàng :(",Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000496,Rider,R0091,2026-09-15 13:45:34,2,kém,,HCM,HCM-Q7-Hub
+RV000497,Rider,R0110,2026-09-15 21:43:54,5,Tuyen giao hop ly,,HCM,HCM-Q7-Hub
+RV000498,Rider,R0216,2026-09-15 13:24:20,5,app ổn định huhu,,DN,DN-HaiChau-Hub
+RV000499,Rider,R0024,2026-09-15 11:49:29,5,App ổn định,,HCM,HCM-ThuDuc-SOC
+RV000500,Rider,R0026,2026-09-15 07:51:04,5,Tuyến giao hợp lý huhu,,HCM,HCM-ThuDuc-SOC
+RV000501,Rider,R0026,2026-09-15 15:33:15,5,ok :(,,HCM,HCM-ThuDuc-SOC
+RV000502,Rider,R0009,2026-09-15 17:33:27,1,"Hàng bị chia sai tuyến, phải chạy vòng, thêm nữa là shop chưa đóng gói xong, chờ bàn giao hàng lâu",Wrong routing,HCM,HCM-ThuDuc-SOC
+RV000503,Rider,R0001,2026-09-15 11:12:57,2,chán,,HCM,HCM-ThuDuc-SOC
+RV000504,Rider,R0208,2026-09-15 14:19:11,4,Hub chia hàng nhanh hôm nay,,DN,DN-HaiChau-Hub
+RV000505,Rider,R0001,2026-09-15 19:27:33,3,app on dinh,,HCM,HCM-ThuDuc-SOC
+RV000506,Rider,R0188,2026-09-15 20:42:45,5,ok,,HN,HN-CauGiay-Hub
+RV000507,Rider,R0039,2026-09-15 15:39:45,1,"Kho chia hàng chậm, tài xế phải đợi 3 tiếng",Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000508,Rider,R0003,2026-09-15 15:46:22,1,"Hub xử lý đơn quá chậm, 10h mới có hàng",Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000509,Rider,R0132,2026-09-15 16:20:50,1,lỗi đăng nhập app từ sáng :(,App issue,HN,HN-LongBien-SOC
+RV000510,Rider,R0158,2026-09-15 10:25:19,2,"App bị văng, không cập nhật được trạng thái giao",App issue,HN,HN-LongBien-SOC
+RV000511,Rider,R0150,2026-09-15 10:23:26,1,"App bị văng, không cập nhật được trạng thái giao",App issue,HN,HN-LongBien-SOC
+RV000512,Rider,R0205,2026-09-16 09:28:51,1,"Hang bi chia sai tuyen, phai chay vong",Wrong routing,DN,DN-HaiChau-Hub
+RV000513,Rider,R0032,2026-09-16 15:15:40,5,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000514,Rider,R0078,2026-09-16 13:24:59,3,Tuyến giao hợp lý,,HCM,HCM-TanBinh-Hub
+RV000515,Rider,R0139,2026-09-16 18:03:27,4,Hub chia hang nhanh hom nay,,HN,HN-LongBien-SOC
+RV000516,Rider,R0022,2026-09-16 12:29:09,3,hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000517,Rider,R0111,2026-09-16 09:05:30,5,App ổn định,,HCM,HCM-Q7-Hub
+RV000518,Rider,R0038,2026-09-16 11:06:49,4,App on dinh,,HCM,HCM-ThuDuc-SOC
+RV000519,Rider,R0246,2026-09-16 18:06:14,3,App ổn định,,CT,CT-NinhKieu-Hub
+RV000520,Rider,R0040,2026-09-16 21:18:51,1,"Hub xu ly don wa cham, 10h moi co hang",Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000521,Rider,R0134,2026-09-16 09:20:54,2,App tai xe khong dang nhap duoc,App issue,HN,HN-LongBien-SOC
+RV000522,Rider,R0138,2026-09-16 20:36:22,1,"App bi vang, khong cap nhat duoc trang thai giao",App issue,HN,HN-LongBien-SOC
+RV000523,Rider,R0134,2026-09-16 18:03:29,1,"App bị văng, không cập nhật được trạng thái giao",App issue,HN,HN-LongBien-SOC
+RV000524,Rider,R0146,2026-09-16 08:38:39,1,App tài xế không đăng nhập được,App issue,HN,HN-LongBien-SOC
+RV000525,Rider,R0254,2026-09-17 16:53:11,4,Hub chia hàng nhanh hôm nay,,CT,CT-NinhKieu-Hub
+RV000526,Rider,R0149,2026-09-17 17:44:08,5,Hub chia hàng nhanh hôm nayaaa,,HN,HN-LongBien-SOC
+RV000527,Rider,R0164,2026-09-17 11:31:30,1,Chờ ở hub quá lâu mới nhận dc hàng đi giao,,HN,HN-CauGiay-Hub
+RV000528,Rider,R0206,2026-09-17 07:04:02,1,"Hàng bị chia sai tuyến, phải chạy vòng",,DN,DN-HaiChau-Hub
+RV000529,Rider,R0258,2026-09-17 22:06:30,3,Tuyen giao hop ly,,CT,CT-NinhKieu-Hub
+RV000530,Rider,R0102,2026-09-17 11:12:01,5,ok,,HCM,HCM-Q7-Hub
+RV000531,Rider,R0182,2026-09-17 18:51:32,3,Hub chia hàng nhanh hôm nay,,HN,HN-CauGiay-Hub
+RV000532,Rider,R0009,2026-09-17 22:18:11,5,App ổn định,,HCM,HCM-ThuDuc-SOC
+RV000533,Rider,R0076,2026-09-17 16:16:19,5,App ổn định,,HCM,HCM-TanBinh-Hub
+RV000534,Rider,R0025,2026-09-17 10:39:34,2,"Chờ ở hub wa lâu mới nhận dc hàng đi giao, thêm nữa là hàng bị chia sai tuyến, phải chạy vòng",Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000535,Rider,R0002,2026-09-17 16:28:25,2,"kho chia hang cham, tai xe phai doi 3 tieng",Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000536,Rider,R0151,2026-09-17 16:05:10,2,App tai xe khong dang nhap duoc,,HN,HN-LongBien-SOC
+RV000537,Rider,R0144,2026-09-17 13:21:10,1,"App bi vang, khong cap nhat duoc trang thai giao",,HN,HN-LongBien-SOC
+RV000538,Rider,R0127,2026-09-17 21:02:52,2,"app bị văng, không cập nhật được trạng thái giao",App issue,HN,HN-LongBien-SOC
+RV000539,Rider,R0029,2026-09-18 15:26:04,4,App ổn định,,HCM,HCM-ThuDuc-SOC
+RV000540,Rider,R0034,2026-09-18 07:06:40,5,ok,,HCM,HCM-ThuDuc-SOC
+RV000541,Rider,R0170,2026-09-18 07:28:05,5,ok,,HN,HN-CauGiay-Hub
+RV000542,Rider,R0070,2026-09-18 12:43:19,5,Tuyến giao hợp lý,,HCM,HCM-TanBinh-Hub
+RV000543,Rider,R0021,2026-09-18 16:45:56,4,Hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000544,Rider,R0125,2026-09-18 11:10:52,3,Hub chia hang nhanh hom nay :(,,HN,HN-LongBien-SOC
+RV000545,Rider,R0085,2026-09-18 07:45:40,3,sáng nào cũng đứng chờ cả buổi mới được đi,Hub processing delay,HCM,HCM-Q7-Hub
+RV000546,Rider,R0158,2026-09-18 20:05:35,5,Tuyến giao hợp lý,,HN,HN-LongBien-SOC
+RV000547,Rider,R0020,2026-09-18 15:43:07,3,ok,,HCM,HCM-ThuDuc-SOC
+RV000548,Rider,R0230,2026-09-18 09:35:27,3,Hub chia hàng nhanh hôm nay,,DN,DN-HaiChau-Hub
+RV000549,Rider,R0040,2026-09-18 10:00:38,1,"Hub xử lý đơn quá chậm, 10h mới có hàng",Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000550,Rider,R0006,2026-09-18 10:27:21,1,Hàng ra kho trễ nên giao không kịp,Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000551,Rider,R0007,2026-09-18 18:00:41,2,"chờ ở hub quá lâu mới nhận được hàng đi giao, thêm nữa là lỗi đăng nhập app từ sángaaa",Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000552,Rider,R0137,2026-09-18 11:22:22,2,Lỗi đăng nhập app từ sáng huhu,,HN,HN-LongBien-SOC
+RV000553,Rider,R0121,2026-09-18 16:12:50,1,App tài xế không đăng nhập được,App issue,HN,HN-LongBien-SOC
+RV000554,Rider,R0135,2026-09-18 15:19:31,2,App tài xế không đăng nhập được,App issue,HN,HN-LongBien-SOC
+RV000555,Rider,R0133,2026-09-18 17:13:59,2,Lỗi đăng nhập app từ sáng,App issue,HN,HN-LongBien-SOC
+RV000556,Rider,R0131,2026-09-19 19:03:28,2,"Khách ko nghe máy, phải giao lại nhiều lần",Delivery attempt,HN,HN-LongBien-SOC
+RV000557,Rider,R0233,2026-09-19 07:20:13,5,App ổn địnhaaa,,DN,DN-HaiChau-Hub
+RV000558,Rider,R0054,2026-09-19 19:05:02,1,"Khach khong nghe may, phai giao lai nhieu lan",,HCM,HCM-TanBinh-Hub
+RV000559,Rider,R0039,2026-09-19 19:52:11,4,hub chia hàng nhanh hôm nay,,HCM,HCM-ThuDuc-SOC
+RV000560,Rider,R0072,2026-09-19 18:21:08,5,okaaa,,HCM,HCM-TanBinh-Hub
+RV000561,Rider,R0217,2026-09-19 07:16:20,5,Hub chia hàng nhanh hôm nay,,DN,DN-HaiChau-Hub
+RV000562,Rider,R0226,2026-09-19 19:51:27,3,ok,,DN,DN-HaiChau-Hub
+RV000563,Rider,R0006,2026-09-19 07:00:26,3,ok,,HCM,HCM-ThuDuc-SOC
+RV000564,Rider,R0150,2026-09-19 20:57:29,1,không hài lòng,,HN,HN-LongBien-SOC
+RV000565,Rider,R0014,2026-09-19 15:20:17,2,Cho o hub qua lau moi nhan dc hang di giao,Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000566,Rider,R0003,2026-09-19 08:57:41,1,chờ ở hub quá lâu mới nhận được hàng đi giao,,HCM,HCM-ThuDuc-SOC
+RV000567,Rider,R0028,2026-09-19 11:28:46,1,"Hub xử lý đơn quá chậm, 10h mới có hàng",Hub processing delay,HCM,HCM-ThuDuc-SOC
+RV000568,Rider,R0151,2026-09-19 13:10:39,1,Lỗi đăng nhập app từ sáng,App issue,HN,HN-LongBien-SOC
+RV000569,Rider,R0146,2026-09-19 18:19:14,3,App tài xế không đăng nhập được :(,,HN,HN-LongBien-SOC
+RV000570,Rider,R0153,2026-09-19 20:18:10,1,App tài xế không đăng nhập được,App issue,HN,HN-LongBien-SOC
+RV000571,Rider,R0160,2026-09-19 16:10:42,3,Lỗi đăng nhập app từ sáng,,HN,HN-LongBien-SOC
+RV000572,Rider,R0165,2026-09-20 08:59:33,5,hub chia hàng nhanh hôm nay,,HN,HN-CauGiay-Hub
+RV000573,Rider,R0090,2026-09-20 13:40:54,5,Tuyến giao hợp lý,,HCM,HCM-Q7-Hub
+RV000574,Rider,R0035,2026-09-20 12:45:46,4,App ổn định,,HCM,HCM-ThuDuc-SOC
+RV000575,Rider,R0280,2026-09-20 12:17:25,1,"Khách không nghe máy, phải giao lại nhiều lần",Delivery attempt,CT,CT-NinhKieu-Hub
+RV000576,Rider,R0145,2026-09-20 12:45:26,3,ok,,HN,HN-LongBien-SOC
+RV000577,Rider,R0126,2026-09-20 12:53:34,1,"App bi vang, khong cap nhat duoc trang thai giao",App issue,HN,HN-LongBien-SOC
+RV000578,Rider,R0230,2026-09-20 21:10:38,3,ok,,DN,DN-HaiChau-Hub
+RV000579,Rider,R0212,2026-09-20 08:07:45,4,ok,,DN,DN-HaiChau-Hub
+RV000580,Rider,R0080,2026-09-20 22:30:30,2,"Thu nhap tuan nay tinh thieu don, chua doi soat dung",,HCM,HCM-TanBinh-Hub
+RV000581,Rider,R0074,2026-09-20 16:31:47,2,kém,,HCM,HCM-TanBinh-Hub
+RV000582,Rider,R0023,2026-09-20 17:21:19,2,Chờ ở hub wa lâu mới nhận được hàng đi giao,,HCM,HCM-ThuDuc-SOC

@@ -1,0 +1,56 @@
+# Vietnamese normalisation for VOC text.
+# Applied AFTER lower-casing and accent stripping, on whole tokens.
+# Keys = what people type (teen code, abbreviations, typos); values = canonical accent-free form.
+abbreviations:
+  ko: khong
+  k: khong
+  kh: khong
+  hok: khong
+  hong: khong
+  khg: khong
+  kg: khong
+  dc: duoc
+  dk: duoc
+  duoc: duoc
+  j: gi
+  wa: qua
+  qa: qua
+  r: roi
+  vx: van
+  vs: voi
+  cskh: cham soc khach hang
+  cs: cham soc khach hang
+  tx: tai xe
+  shiper: shipper
+  shipprer: shipper
+  sip: ship
+  ship: giao
+  shop: shop
+  sp: san pham
+  ntn: nhu the nao
+  bt: binh thuong
+  mn: moi nguoi
+  vc: van chuyen
+  hub: kho
+  sot: kho          # sort center
+  soc: kho
+  cod: cod
+  app: app
+  ad: admin
+  đt: dien thoai
+  dt: dien thoai
+  sdt: so dien thoai
+  tg: thoi gian
+  ngay: ngay
+  h: gio
+  tieng: gio
+# Phrase-level synonyms, applied after token expansion (substring replace, accent-free).
+phrases:
+  "lau qa": "lau qua"
+  "cham qa": "cham qua"
+  "giao hang": "giao"
+  "ship hang": "giao"
+  "van don": "don"
+  "don hang": "don"
+  "tien thu ho": "cod"
+  "thu ho": "cod"

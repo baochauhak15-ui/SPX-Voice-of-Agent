@@ -1,0 +1,13 @@
+article_id,title,issue_type,content,owner_team,last_updated
+HC-001,Vì sao đơn hàng của tôi bị giao trễ?,Late delivery,"Đơn có thể giao trễ do thời tiết, cao điểm hoặc địa chỉ khó tìm. Bạn có thể theo dõi trạng thái đơn trên app. Nếu đơn quá thời gian dự kiến 2 ngày, vui lòng liên hệ CSKH để được hỗ trợ.",CS,2026-06-02
+HC-002,Cách tra cứu trạng thái vận đơn,Tracking / status,Nhập mã vận đơn trên app hoặc website để xem hành trình. Trạng thái được cập nhật tại mỗi lần quét ở kho.,CS,2026-05-10
+HC-003,Shop: đơn không cập nhật trạng thái thì làm sao?,Tracking / status,"Shop kiểm tra hành trình trên Seller Center. Nếu trạng thái đứng yên quá 48 giờ, shop tạo yêu cầu hỗ trợ kèm mã vận đơn.",SS,2026-04-18
+HC-004,Giao hàng không thành công,Failed delivery,"Đơn có thể giao không thành công khi người nhận vắng nhà, không nghe máy hoặc từ chối nhận. Tài xế sẽ ghi nhận lý do trên hệ thống. Shop có thể xem lý do trong chi tiết đơn.",SS,2026-03-21
+HC-005,Thời gian đối soát tiền thu hộ (COD),COD,Tiền COD được đối soát theo chu kỳ hàng tuần và chuyển về tài khoản ngân hàng của shop.,Finance,2025-09-15
+HC-006,Hẹn lấy hàng và thời gian lấy hàng,Pickup delay,"Tài xế sẽ đến lấy hàng trong khung giờ đã hẹn. Nếu quá khung giờ, shop có thể yêu cầu lấy lại trên Seller Center.",Operations,2026-07-01
+HC-007,Chính sách bồi thường hàng mất / hư hỏng,Compensation,SPX bồi thường theo giá trị khai báo. Thời gian xử lý bồi thường từ 7 đến 14 ngày làm việc.,CS,2026-02-11
+HC-008,Tài xế: quy trình nhận hàng tại hub,Hub processing delay,"Tài xế đến hub theo ca đã đăng ký, nhận hàng sau khi hub hoàn tất chia chọn. Liên hệ trưởng ca nếu thời gian chờ vượt quá 60 phút.",Operations,2026-01-20
+HC-009,Tài xế: không đăng nhập được app,App issue,"Kiểm tra kết nối mạng, cập nhật app lên bản mới nhất và đăng nhập lại. Nếu vẫn lỗi, gửi yêu cầu qua kênh hỗ trợ tài xế.",Product,2026-08-01
+HC-010,Phí vận chuyển được tính thế nào?,Fee,"Phí vận chuyển dựa trên khối lượng, kích thước và khu vực giao. Xem bảng giá chi tiết trên website.",Finance,2026-05-30
+HC-011,Hàng hoàn về shop mất bao lâu?,Return,Đơn hoàn sẽ được trả về shop trong 3-7 ngày tùy khu vực.,Operations,2026-04-02
+HC-012,Liên hệ bộ phận hỗ trợ,Slow response,Bạn có thể liên hệ qua hotline hoặc chat. Thời gian phản hồi mục tiêu là 4 giờ làm việc.,CS,2026-06-15

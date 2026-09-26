@@ -1,0 +1,518 @@
+ticket_id,stakeholder_type,stakeholder_id,created_time,first_response_time,resolution_time,issue_type,description,status,owner_team,hub,tracking_id
+TK000004,Customer,C617114,2026-07-27 08:39:47,2026-07-27 09:16:50,2026-07-28 16:03:15,Late delivery,"Giao chậm wa, wa hạn dự kiến r",Resolved,Operations,HCM-Q7-Hub,SPXVN260000044
+TK000007,Rider,R0236,2026-07-27 10:26:22,2026-07-27 13:32:05,,App issue,"app bi vang, khong cap nhat dc trang thai giao",Pending,Product,DN-HaiChau-Hub,
+TK000003,Customer,C203548,2026-07-27 12:19:00,2026-07-27 14:52:56,2026-07-27 18:58:33,Slow response,Chat voi CSKH phan hoi cham qua,Resolved,CS,HCM-TanBinh-Hub,SPXVN260000042
+TK000001,Customer,C902932,2026-07-27 12:50:43,2026-07-27 14:29:46,2026-07-28 10:03:02,No response,Gửi yêu cầu hỗ trợ mà không ai trả lời,Resolved,CS,DN-HaiChau-Hub,SPXVN260000006
+TK000002,Customer,C604597,2026-07-27 20:00:33,2026-07-27 23:16:15,2026-07-29 10:21:53,Fee,Phi ship cao qua so voi cho khac,Resolved,Finance,HN-LongBien-SOC,SPXVN260000024
+TK000005,Seller,S00192,2026-07-27 20:36:43,2026-07-27 23:26:52,2026-07-28 05:04:49,Late delivery,"Don cua shop bi giao tre, khach huy don lien tuc",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260000056
+TK000008,Rider,R0168,2026-07-27 22:33:42,2026-07-27 23:50:54,2026-07-29 23:07:59,Hub processing delay,"Hub xử lý đơn wa chậm, 10h mới có hàng",Resolved,Operations,HN-CauGiay-Hub,
+TK000006,Rider,R0042,2026-07-27 22:54:25,2026-07-28 00:34:15,2026-07-29 11:20:29,Hub processing delay,Hàng ra kho trễ nên giao không kịp,Resolved,Operations,HCM-TanBinh-Hub,
+TK000010,Customer,C017446,2026-07-28 10:26:37,2026-07-28 11:43:41,,Fee,Phi ship cao qua so voi cho khac,Open,Finance,HN-LongBien-SOC,SPXVN260000204
+TK000013,Rider,R0038,2026-07-28 11:20:07,2026-07-28 12:23:55,2026-07-29 07:34:14,Handover issue,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",Resolved,Operations,HCM-ThuDuc-SOC,
+TK000011,Seller,S00300,2026-07-28 13:21:14,2026-07-28 14:52:09,,Fee,phi van chuyen tinh sai so voi bang gia,Open,Finance,HCM-TanBinh-Hub,SPXVN260000228
+TK000012,Seller,S00070,2026-07-28 19:21:53,2026-07-28 21:38:57,,Tracking / status,Trạng thái đơn đứng im 2 ngày ở kho huhu,Open,Operations,HCM-ThuDuc-SOC,SPXVN260000239
+TK000009,Customer,C850917,2026-07-28 21:02:18,2026-07-28 21:59:00,2026-07-30 16:43:47,Lost / damaged parcel,"Mất hàng, đơn báo đã giao mà tôi không nhận được",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260000185
+TK000014,Rider,R0099,2026-07-28 21:36:47,2026-07-29 00:23:06,2026-07-30 01:52:56,,ok,Resolved,CS,HCM-Q7-Hub,
+TK000020,Rider,R0120,2026-07-29 10:59:54,2026-07-29 12:33:20,2026-07-31 02:30:03,App issue,lỗi đăng nhập app từ sáng,Resolved,Product,HCM-Q7-Hub,
+TK000019,Seller,S00136,2026-07-29 12:55:02,2026-07-29 15:56:39,2026-07-31 01:04:32,Late delivery,"Don cua shop bi giao tre, khach huy don lien tuc",Resolved,Operations,HN-LongBien-SOC,SPXVN260000407
+TK000016,Customer,C285167,2026-07-29 13:08:49,2026-07-29 15:54:41,2026-07-29 22:46:18,Incorrect information,"Nhan vien tu van sai, bao hom nay giao ma ko giao",Resolved,CS,CT-NinhKieu-Hub,SPXVN260000365
+TK000017,Customer,C094642,2026-07-29 14:01:33,2026-07-29 15:51:19,2026-07-30 22:06:20,Lost / damaged parcel,"Mất hàng, đơn báo đã giao mà tôi không nhận được",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260000373
+TK000015,Customer,C293419,2026-07-29 14:57:54,2026-07-29 16:55:41,2026-07-30 12:03:46,Lost / damaged parcel,Mo ra thi do ben trong khong con nguyen ven,Resolved,Operations,CT-NinhKieu-Hub,SPXVN260000364
+TK000018,Customer,C781550,2026-07-29 17:10:40,2026-07-29 20:18:38,2026-07-31 06:55:23,Late delivery,"Giao cham qua, qua han du kien roi",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260000376
+TK000025,Seller,S00037,2026-07-30 13:33:06,2026-07-30 14:10:32,2026-07-31 09:54:02,Return,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260000574
+TK000026,Seller,S00299,2026-07-30 16:05:36,2026-07-30 17:40:21,,Return,"hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Pending,Operations,HCM-TanBinh-Hub,SPXVN260000578
+TK000023,Seller,S00004,2026-07-30 20:25:15,2026-07-30 21:14:35,2026-07-31 17:10:14,Return,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về :(",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260000563
+TK000027,Rider,R0128,2026-07-30 22:01:21,2026-07-30 22:59:28,2026-07-31 10:21:58,Settlement,"Thu nhap tuan nay tinh thieu don, chua doi soat dung",Resolved,Finance,HN-LongBien-SOC,
+TK000024,Seller,S00317,2026-07-30 22:12:20,2026-07-30 22:34:03,2026-08-01 01:10:34,COD,Chưa nhận được tiền thu hộ tuần trước,Resolved,Finance,HCM-TanBinh-Hub,SPXVN260000564
+TK000021,Customer,C070635,2026-07-30 22:21:22,2026-07-30 23:03:59,2026-07-31 05:40:06,Late delivery,"Giao chậm quá, quá hạn dự kiến rồi",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260000526
+TK000022,Customer,C731532,2026-07-30 22:50:49,2026-07-31 00:22:00,2026-08-01 12:28:15,,ok,Resolved,CS,DN-HaiChau-Hub,SPXVN260000539
+TK000034,Seller,S00228,2026-07-31 09:01:55,2026-07-31 11:53:53,,COD,Chua nhan duoc tien thu ho tuan truoc,Open,Finance,HCM-TanBinh-Hub,SPXVN260000751
+TK000035,Rider,R0187,2026-07-31 09:09:13,2026-07-31 10:25:26,,App issue,"App bị văng, không cập nhật được trạng thái giao :(",Pending,Product,HN-CauGiay-Hub,
+TK000029,Customer,C425393,2026-07-31 09:50:19,2026-07-31 11:50:36,2026-08-01 08:51:42,Tracking / status,Không biết món hàng của tôi đang ở đâu nữa,Resolved,Operations,HCM-Q7-Hub,SPXVN260000710
+TK000033,Seller,S00017,2026-07-31 10:54:29,2026-07-31 12:40:31,2026-08-01 06:28:48,Pickup delay,"Tai xe den lay hang tre, hen sang ma chieu moi toi",Resolved,Operations,DN-HaiChau-Hub,SPXVN260000743
+TK000030,Customer,C676321,2026-07-31 11:56:37,2026-07-31 15:08:02,2026-07-31 17:08:33,Lost / damaged parcel,"mất hàng, đơn báo đã giao mà tôi không nhận được",Resolved,Operations,HN-CauGiay-Hub,SPXVN260000712
+TK000031,Customer,C387729,2026-07-31 14:31:11,2026-07-31 17:22:39,,Failed delivery,Don bi bao giao that bai du khong ai goi cho toi,Open,Operations,HN-CauGiay-Hub,SPXVN260000721
+TK000028,Customer,C377686,2026-07-31 16:20:23,2026-07-31 19:30:42,,Tracking / status,Tra cứu vận đơn thấy kẹt ở kho 2 ngày không nhúc nhích,Open,Operations,DN-HaiChau-Hub,SPXVN260000695
+TK000032,Customer,C455852,2026-07-31 21:24:43,2026-07-31 22:43:19,2026-08-02 20:41:31,Failed delivery,Đơn bị báo giao thất bại dù không ai gọi cho tôi,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260000723
+TK000037,Customer,C950931,2026-08-01 08:51:41,2026-08-01 10:04:00,2026-08-02 22:16:53,,tệ,Resolved,CS,CT-NinhKieu-Hub,SPXVN260000899
+TK000036,Customer,C754728,2026-08-01 09:13:55,2026-08-01 10:26:28,,Late delivery,Dat hang lau qua ma chua thay giao,Open,Operations,HCM-ThuDuc-SOC,SPXVN260000896
+TK000039,Seller,S00306,2026-08-01 19:31:32,2026-08-01 21:43:00,2026-08-03 06:56:08,Pickup failure,hen lay hang ma khong ai den lay,Resolved,Operations,HN-CauGiay-Hub,SPXVN260000908
+TK000040,Rider,R0007,2026-08-01 20:57:20,2026-08-01 22:04:51,,Wrong routing,"Hang bi chia sai tuyen, phai chay vong",Pending,Operations,HCM-ThuDuc-SOC,
+TK000038,Seller,S00276,2026-08-01 21:09:30,2026-08-01 22:48:30,2026-08-03 18:19:10,Late delivery,"Đơn của shop bị giao trễ, khách hủy đơn liên tục",Resolved,Operations,CT-NinhKieu-Hub,SPXVN260000907
+TK000045,Customer,C209701,2026-08-02 07:00:21,2026-08-02 09:55:53,2026-08-02 14:50:14,Lost / damaged parcel,"Hang bi mop meo, vo do ben trongaaa",Resolved,Operations,DN-HaiChau-Hub,SPXVN260001066
+TK000047,Seller,S00196,2026-08-02 07:04:55,2026-08-02 08:57:18,,Late delivery,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Pending,Operations,HN-LongBien-SOC,SPXVN260001072
+TK000043,Customer,C957045,2026-08-02 07:12:12,2026-08-02 08:24:44,2026-08-02 22:27:51,,tệ,Resolved,CS,HCM-TanBinh-Hub,SPXVN260001045
+TK000042,Customer,C113254,2026-08-02 09:37:50,2026-08-02 12:37:15,,Lost / damaged parcel,"hàng bị móp méo, vỡ đồ bên trong",Pending,Operations,HCM-TanBinh-Hub,SPXVN260001040
+TK000046,Customer,C562228,2026-08-02 10:38:20,2026-08-02 14:04:45,2026-08-03 23:15:46,Tracking / status,"đơn báo đang xử lý tại kho mãi không đi, thêm nữa là gọi tổng đài chờ mãi không ai nghe máy",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260001068
+TK000049,Rider,R0237,2026-08-02 11:24:27,2026-08-02 13:52:54,2026-08-02 18:28:22,Delivery attempt,"Khach khong nghe may, phai giao lai nhieu lan",Resolved,Operations,DN-HaiChau-Hub,
+TK000044,Customer,C907752,2026-08-02 13:19:27,2026-08-02 16:14:29,2026-08-03 01:32:43,Tracking / status,khong biet mon hang cua toi dang o dau nua,Resolved,Operations,HCM-TanBinh-Hub,SPXVN260001059
+TK000041,Customer,C463386,2026-08-02 20:04:06,2026-08-02 22:32:11,2026-08-03 14:06:09,,chán,Resolved,CS,HCM-ThuDuc-SOC,SPXVN260001039
+TK000048,Seller,S00091,2026-08-02 21:40:12,2026-08-02 22:50:23,2026-08-03 04:31:14,Tracking / status,Khach hoi don lien tuc vi trang thai khong doi,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260001073
+TK000060,Seller,S00274,2026-08-03 07:04:30,2026-08-03 07:40:45,,,...,Open,SS,HN-CauGiay-Hub,SPXVN260001266
+TK000061,Rider,R0205,2026-08-03 07:38:22,2026-08-03 11:02:31,2026-08-04 11:30:14,,...,Resolved,CS,DN-HaiChau-Hub,
+TK000054,Customer,C350521,2026-08-03 07:43:35,2026-08-03 10:29:30,2026-08-04 05:04:40,Lost / damaged parcel,Mở ra thì đồ bên trong không còn nguyên vẹn,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260001212
+TK000052,Customer,C159904,2026-08-03 10:55:16,2026-08-03 14:24:09,2026-08-05 06:09:02,Late delivery,"Giao cham qua, qua han du kien roi, con chat voi cskh phan hoi cham qua",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260001209
+TK000056,Customer,C871438,2026-08-03 12:30:47,2026-08-03 13:15:41,2026-08-05 10:54:16,App issue,"app spx bi loi khong tra cuu duoc don, voi lai trang thai don khong cap nhat, cu nam o kho mai",Resolved,Product,CT-NinhKieu-Hub,SPXVN260001232
+TK000055,Customer,C667528,2026-08-03 14:24:26,2026-08-03 16:27:54,2026-08-04 17:07:29,Lost / damaged parcel,"Mất hàng, đơn báo đã giao mà tôi không nhận được",Resolved,Operations,HN-CauGiay-Hub,SPXVN260001229
+TK000057,Customer,C476901,2026-08-03 16:10:04,2026-08-03 17:21:50,2026-08-03 23:28:07,App issue,app spx bi loi khong tra cuu duoc don,Resolved,Product,HCM-ThuDuc-SOC,SPXVN260001240
+TK000059,Seller,S00064,2026-08-03 17:37:24,2026-08-03 18:40:47,2026-08-03 21:30:01,Failed delivery,"Don giao that bai lan 2, shop khong biet buoc tiep theo la gi, voi lai chua nhan duoc tien thu ho tuan truoc",Resolved,Operations,HN-LongBien-SOC,SPXVN260001265
+TK000058,Seller,S00301,2026-08-03 18:25:01,2026-08-03 19:05:01,,Pickup delay,"Tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới",Open,Operations,HCM-Q7-Hub,SPXVN260001263
+TK000053,Customer,C282325,2026-08-03 18:45:26,2026-08-03 19:50:51,,Late delivery,Dat hang lau qua ma chua thay giao,Open,Operations,CT-NinhKieu-Hub,SPXVN260001211
+TK000050,Customer,C688160,2026-08-03 18:47:27,2026-08-03 19:06:33,,Lost / damaged parcel,Mở ra thì đồ bên trong không còn nguyên vẹn,Open,Operations,DN-HaiChau-Hub,SPXVN260001207
+TK000051,Customer,C749020,2026-08-03 19:32:46,2026-08-03 22:48:05,,Failed delivery,Đơn bị báo giao thất bại dù ko ai gọi cho tôi,Open,Operations,HN-CauGiay-Hub,SPXVN260001208
+TK000063,Customer,C429839,2026-08-04 09:58:23,2026-08-04 12:21:49,2026-08-05 11:00:58,Lost / damaged parcel,"Hang bi mop meo, vo do ben trong",Resolved,Operations,HN-LongBien-SOC,SPXVN260001411
+TK000067,Seller,S00243,2026-08-04 12:09:30,2026-08-04 12:40:22,,Failed delivery,"Đơn giao thất bại, khách bảo không ai gọi",Pending,Operations,HN-LongBien-SOC,SPXVN260001435
+TK000065,Seller,S00145,2026-08-04 14:02:17,2026-08-04 16:44:16,,,kém,Open,SS,CT-NinhKieu-Hub,SPXVN260001428
+TK000068,Rider,R0066,2026-08-04 15:17:40,2026-08-04 15:46:39,2026-08-04 19:10:37,Delivery attempt,"khách không nghe máy, phải giao lại nhiều lần, thêm nữa là app tài xế không đăng nhập được",Resolved,Operations,HCM-TanBinh-Hub,
+TK000062,Customer,C150030,2026-08-04 18:21:26,2026-08-04 21:31:43,2026-08-06 18:52:58,Failed delivery,Shipper báo giao không thành công nhưng tôi ở nhà cả ngày,Resolved,Operations,HN-LongBien-SOC,SPXVN260001408
+TK000064,Seller,S00005,2026-08-04 19:55:14,2026-08-04 22:22:30,2026-08-05 07:20:28,Failed delivery,"Đơn giao thất bại lần 2, shop ko biết bước tiếp theo là gìaaa",Resolved,Operations,HN-CauGiay-Hub,SPXVN260001421
+TK000066,Seller,S00243,2026-08-04 22:16:26,2026-08-04 23:34:13,2026-08-05 08:29:55,Repeated contact,Shop phai lien he ho tro 3 lan roi van chua duoc xu ly!!!,Resolved,SS,HN-CauGiay-Hub,SPXVN260001432
+TK000069,Customer,C046398,2026-08-05 09:21:24,2026-08-05 11:44:58,2026-08-06 02:51:28,Lost / damaged parcel,"Hàng bị móp méo, vỡ đồ bên trong",Resolved,Operations,HCM-Q7-Hub,SPXVN260001549
+TK000071,Customer,C088130,2026-08-05 11:40:31,2026-08-05 13:21:17,2026-08-07 12:03:36,Late delivery,"Hàng giao trễ hẹn 3 ngày, ko ai báo trước",Resolved,Operations,HCM-Q7-Hub,SPXVN260001553
+TK000073,Customer,C752228,2026-08-05 15:35:17,2026-08-05 16:10:49,2026-08-07 08:23:32,Lost / damaged parcel,"Hang bi mop meo, vo do ben trong",Resolved,Operations,HCM-Q7-Hub,SPXVN260001574
+TK000074,Seller,S00135,2026-08-05 15:41:49,2026-08-05 17:38:35,2026-08-07 17:29:27,Late delivery,Khách nhắn hỏi suốt mà hàng vẫn chưa tới tay họ,Resolved,Operations,HCM-Q7-Hub,SPXVN260001602
+TK000075,Seller,S00114,2026-08-05 18:33:38,2026-08-05 21:21:22,2026-08-06 23:45:43,COD,"tiền cod chưa được đối soát, chậm 5 ngày rồi",Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260001604
+TK000072,Customer,C558376,2026-08-05 19:31:48,2026-08-05 21:18:52,,No response,Gửi yêu cầu hỗ trợ mà không ai trả lời,Open,CS,CT-NinhKieu-Hub,SPXVN260001561
+TK000076,Seller,S00314,2026-08-05 20:08:09,2026-08-05 21:58:29,2026-08-07 20:41:28,Compensation,"đơn mất hàng mà bồi thường quá lâu, chưa thấy tiền đền bù",Resolved,SS,HCM-TanBinh-Hub,SPXVN260001606
+TK000070,Customer,C487340,2026-08-05 22:29:23,2026-08-05 22:56:59,2026-08-06 17:56:15,Failed delivery,Đơn bị báo giao thất bại dù ko ai gọi cho tôi,Resolved,Operations,DN-HaiChau-Hub,SPXVN260001552
+TK000080,Seller,S00085,2026-08-06 07:58:40,2026-08-06 10:39:33,2026-08-07 14:14:50,,bình thường,Resolved,SS,HCM-ThuDuc-SOC,SPXVN260001772
+TK000079,Customer,C367125,2026-08-06 08:25:24,2026-08-06 09:12:47,2026-08-06 14:08:28,,không hài lòng,Resolved,CS,HN-CauGiay-Hub,SPXVN260001731
+TK000081,Seller,S00244,2026-08-06 09:46:15,2026-08-06 11:31:39,,COD,Chua nhan duoc tien thu ho tuan truoc,Open,Finance,CT-NinhKieu-Hub,SPXVN260001777
+TK000083,Seller,S00013,2026-08-06 10:13:11,2026-08-06 13:10:05,2026-08-06 18:15:04,COD,"Tien COD chua duoc doi soat, cham 5 ngay roi",Resolved,Finance,DN-HaiChau-Hub,SPXVN260001785
+TK000084,Rider,R0227,2026-08-06 11:37:55,2026-08-06 14:05:33,2026-08-07 15:22:56,Settlement,"thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Resolved,Finance,DN-HaiChau-Hub,
+TK000078,Customer,C804391,2026-08-06 14:04:40,2026-08-06 14:44:37,2026-08-08 05:08:18,Tracking / status,Khong biet mon hang cua toi dang o dau nua,Resolved,Operations,HCM-Q7-Hub,SPXVN260001728
+TK000085,Rider,R0081,2026-08-06 15:37:33,2026-08-06 15:57:15,,Hub processing delay,"Hub xu ly don wa cham, 10h moi co hang",Open,Operations,HCM-Q7-Hub,
+TK000086,Rider,R0011,2026-08-06 16:31:49,2026-08-06 17:04:13,2026-08-07 14:16:01,Settlement,"thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Resolved,Finance,HCM-ThuDuc-SOC,
+TK000077,Customer,C581396,2026-08-06 18:09:15,2026-08-06 21:31:38,2026-08-08 12:03:13,Late delivery,"Giao hàng chậm, chờ gần 1 tuần mới tới",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260001721
+TK000082,Seller,S00204,2026-08-06 22:27:53,2026-08-07 00:15:17,2026-08-07 02:51:55,,kém,Resolved,SS,HN-CauGiay-Hub,SPXVN260001778
+TK000091,Seller,S00200,2026-08-07 14:28:57,2026-08-07 15:12:34,2026-08-08 22:53:23,Tracking / status,"Đơn của shop kẹt ở kho không cập nhật trạng thái, khách hỏi mà không biết trả lời :(",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260001952
+TK000092,Seller,S00100,2026-08-07 16:46:48,2026-08-07 18:26:22,2026-08-08 08:56:55,Return,"Hang hoan ve shop bi cham, hoan ca tuan chua veaaa",Resolved,Operations,HN-LongBien-SOC,SPXVN260001954
+TK000088,Customer,C169961,2026-08-07 19:08:00,2026-08-07 20:21:08,2026-08-08 20:53:25,Failed delivery,Shipper báo giao không thành công nhưng tôi ở nhà cả ngày,Resolved,Operations,HCM-Q7-Hub,SPXVN260001907
+TK000087,Customer,C465708,2026-08-07 19:54:39,2026-08-07 22:36:46,2026-08-09 11:48:20,Late delivery,"Giao hàng chậm, chờ gần 1 tuần mới tới",Resolved,Operations,HCM-Q7-Hub,SPXVN260001899
+TK000090,Seller,S00195,2026-08-07 20:04:33,2026-08-07 21:32:23,2026-08-09 09:31:00,Return,"hang hoan ve shop bi cham, hoan ca tuan chua ve",Resolved,Operations,HN-LongBien-SOC,SPXVN260001941
+TK000089,Customer,C171329,2026-08-07 22:50:04,2026-08-07 23:50:07,,Tracking / status,Tra cứu vận đơn thấy kẹt ở kho 2 ngày không nhúc nhích,Pending,Operations,HCM-ThuDuc-SOC,SPXVN260001915
+TK000093,Customer,C042302,2026-08-08 07:50:33,2026-08-08 11:17:41,2026-08-09 05:03:17,Lost / damaged parcel,"mất hàng, đơn báo đã giao mà tôi không nhận được",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260002081
+TK000095,Customer,C906099,2026-08-08 08:52:06,2026-08-08 10:32:52,2026-08-08 14:58:53,Late delivery,"Đơn giao trễ quá, hẹn hôm qua mà giờ vẫn chưa nhận được hàng",Resolved,Operations,HCM-Q7-Hub,SPXVN260002097
+TK000099,Rider,R0005,2026-08-08 12:13:55,2026-08-08 14:51:41,,Handover issue,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",Open,Operations,HCM-ThuDuc-SOC,
+TK000098,Seller,S00238,2026-08-08 12:49:30,2026-08-08 14:25:04,2026-08-09 23:00:54,Return,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa vềaaa",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260002124
+TK000100,Rider,R0231,2026-08-08 13:03:39,2026-08-08 15:59:42,,Hub processing delay,Sáng nào cũng đứng chờ cả buổi mới được đi,Pending,Operations,DN-HaiChau-Hub,
+TK000097,Seller,S00148,2026-08-08 13:19:40,2026-08-08 15:37:19,,COD,Chua nhan duoc tien thu ho tuan truoc,Open,Finance,HCM-ThuDuc-SOC,SPXVN260002113
+TK000096,Customer,C983769,2026-08-08 19:33:49,2026-08-08 22:26:52,,Lost / damaged parcel,Mở ra thì đồ bên trong không còn nguyên vẹn,Open,Operations,CT-NinhKieu-Hub,SPXVN260002101
+TK000101,Rider,R0166,2026-08-08 19:40:33,2026-08-08 20:25:32,2026-08-08 22:49:40,App issue,App tài xế không đăng nhập được,Resolved,Product,HN-CauGiay-Hub,
+TK000094,Customer,C000488,2026-08-08 20:15:52,2026-08-08 22:12:25,2026-08-09 06:17:43,Tracking / status,"Theo doi don khong thay thay doi gi, khong biet khi nao giaoaaa",Resolved,Operations,CT-NinhKieu-Hub,SPXVN260002096
+TK000102,Customer,C240323,2026-08-09 08:52:55,2026-08-09 10:06:09,,Late delivery,"don giao tre qua, hen hom qua ma gio van chua nhan duoc hang",Pending,Operations,DN-HaiChau-Hub,SPXVN260002240
+TK000106,Customer,C519666,2026-08-09 10:27:20,2026-08-09 12:50:11,,Late delivery,"Giao chậm quá, quá hạn dự kiến rồi",Open,Operations,DN-HaiChau-Hub,SPXVN260002259
+TK000110,Seller,S00122,2026-08-09 10:41:42,2026-08-09 12:45:14,2026-08-11 09:04:18,Return,"Hang hoan ve shop bi cham, hoan ca tuan chua ve",Resolved,Operations,DN-HaiChau-Hub,SPXVN260002281
+TK000108,Customer,C831339,2026-08-09 11:17:39,2026-08-09 14:27:15,2026-08-10 03:00:43,Lost / damaged parcel,Mở ra thì đồ bên trong không còn nguyên vẹn,Resolved,Operations,HCM-TanBinh-Hub,SPXVN260002277
+TK000114,Rider,R0252,2026-08-09 16:13:56,2026-08-09 19:02:23,2026-08-10 17:10:51,Delivery attempt,"Khach khong nghe may, phai giao lai nhieu lan",Resolved,Operations,CT-NinhKieu-Hub,
+TK000113,Seller,S00180,2026-08-09 18:00:39,2026-08-09 18:52:49,2026-08-11 10:00:52,COD,Chưa nhận dc tiền thu hộ tuần trước,Resolved,Finance,HN-LongBien-SOC,SPXVN260002296
+TK000105,Customer,C398721,2026-08-09 19:05:48,2026-08-09 21:28:12,2026-08-10 06:43:49,Late delivery,"Mình đợi mãi mà chẳng thấy đâu, lần sau chắc ko dùng nữa",Resolved,Operations,HCM-Q7-Hub,SPXVN260002251
+TK000111,Seller,S00002,2026-08-09 19:29:27,2026-08-09 21:00:17,2026-08-10 00:22:32,Return,"hang hoan ve shop bi cham, hoan ca tuan chua ve",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260002282
+TK000104,Customer,C566809,2026-08-09 20:03:53,2026-08-09 20:52:17,2026-08-10 00:07:59,Slow response,chat với cskh phản hồi chậm quá,Resolved,CS,DN-HaiChau-Hub,SPXVN260002247
+TK000107,Customer,C684533,2026-08-09 21:21:47,2026-08-09 22:07:44,2026-08-11 16:36:41,Lost / damaged parcel,"Hàng bị móp méo, vỡ đồ bên trong",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260002274
+TK000109,Seller,S00306,2026-08-09 21:32:32,2026-08-09 23:57:27,,Failed delivery,Shipper báo khách từ chối nhận nhưng khách nói không hề được gọi,Open,Operations,HN-LongBien-SOC,SPXVN260002279
+TK000103,Customer,C679506,2026-08-09 21:43:07,2026-08-10 00:37:20,2026-08-11 04:13:23,Late delivery,"Giao chậm quá, quá hạn dự kiến rồi",Resolved,Operations,HN-LongBien-SOC,SPXVN260002245
+TK000112,Seller,S00137,2026-08-09 22:21:32,2026-08-10 00:32:21,2026-08-11 15:51:10,Failed delivery,"Đơn giao thất bại 2 lần rồi, giờ shop phải làm gì? Có giao lần 3 không?",Resolved,Operations,HN-CauGiay-Hub,SPXVN260002292
+TK000115,Rider,R0061,2026-08-09 22:40:44,2026-08-09 23:58:09,2026-08-11 23:30:51,Hub processing delay,"Kho chia hang cham, tai xe phai doi 3 tieng :(",Resolved,Operations,HCM-TanBinh-Hub,
+TK000120,Customer,C161664,2026-08-10 07:38:41,2026-08-10 08:32:29,2026-08-12 01:54:53,Fee,Phí ship cao quá so với chỗ khác!!!,Resolved,Finance,HCM-TanBinh-Hub,SPXVN260002435
+TK000117,Customer,C790619,2026-08-10 08:11:35,2026-08-10 09:10:37,2026-08-10 17:02:24,Fee,Phí ship cao quá so với chỗ khác,Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260002413
+TK000118,Customer,C415103,2026-08-10 08:22:45,2026-08-10 11:13:00,2026-08-12 03:18:46,Incorrect information,"Nhân viên tư vấn sai, bảo hôm nay giao mà không giao",Resolved,CS,HN-CauGiay-Hub,SPXVN260002416
+TK000124,Rider,R0011,2026-08-10 09:11:54,2026-08-10 09:59:03,,Delivery attempt,"Khách không nghe máy, phải giao lại nhiều lần",Pending,Operations,HCM-ThuDuc-SOC,
+TK000116,Customer,C919033,2026-08-10 12:05:10,2026-08-10 14:17:06,2026-08-11 11:45:57,Fee,phí ship cao quá so với chỗ khác,Resolved,Finance,DN-HaiChau-Hub,SPXVN260002408
+TK000122,Seller,S00128,2026-08-10 16:11:16,2026-08-10 17:47:19,2026-08-10 20:38:59,Late delivery,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260002462
+TK000123,Rider,R0019,2026-08-10 17:59:55,2026-08-10 21:21:17,2026-08-11 09:23:58,,chán,Resolved,CS,HCM-ThuDuc-SOC,
+TK000121,Seller,S00125,2026-08-10 21:18:14,2026-08-10 23:26:37,2026-08-11 20:17:59,Compensation,"Don mat hang ma boi thuong qua lau, chua thay tien den bu",Resolved,SS,HCM-Q7-Hub,SPXVN260002456
+TK000119,Customer,C068905,2026-08-10 21:42:54,2026-08-11 01:02:24,2026-08-11 04:15:27,Fee,Phi ship cao qua so voi cho khac,Resolved,Finance,DN-HaiChau-Hub,SPXVN260002434
+TK000130,Customer,C219138,2026-08-11 08:45:00,2026-08-11 11:03:18,2026-08-13 09:55:29,Tracking / status,"Theo dõi đơn không thấy thay đổi gì, không biết khi nào giao",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260002617
+TK000136,Rider,R0234,2026-08-11 09:31:16,2026-08-11 12:01:31,,Delivery attempt,"Khách không nghe máy, phải giao lại nhiều lần",Pending,Operations,DN-HaiChau-Hub,
+TK000137,Rider,R0030,2026-08-11 09:46:56,2026-08-11 12:28:05,2026-08-13 11:42:51,Hub processing delay,Sang nao cung dung cho ca buoi moi duoc di,Resolved,Operations,HCM-ThuDuc-SOC,
+TK000133,Seller,S00058,2026-08-11 12:35:51,2026-08-11 16:04:28,2026-08-13 08:26:57,,ok,Resolved,SS,HCM-Q7-Hub,SPXVN260002634
+TK000135,Rider,R0174,2026-08-11 14:17:26,2026-08-11 15:54:22,2026-08-12 11:09:32,,bình thường,Resolved,CS,HN-CauGiay-Hub,
+TK000128,Customer,C342106,2026-08-11 14:34:14,2026-08-11 15:52:14,2026-08-11 21:38:06,Tracking / status,Khong biet mon hang cua toi dang o dau nua,Resolved,Operations,HCM-Q7-Hub,SPXVN260002599
+TK000131,Customer,C898856,2026-08-11 15:43:17,2026-08-11 17:28:18,2026-08-12 22:06:23,,không hài lòng,Resolved,CS,HCM-ThuDuc-SOC,SPXVN260002622
+TK000127,Customer,C843578,2026-08-11 16:42:52,2026-08-11 18:44:42,2026-08-13 00:06:55,Lost / damaged parcel,Mở ra thì đồ bên trong ko còn nguyên vẹn,Resolved,Operations,DN-HaiChau-Hub,SPXVN260002593
+TK000129,Customer,C598817,2026-08-11 16:54:57,2026-08-11 19:08:43,2026-08-12 07:47:18,No response,gửi yêu cầu hỗ trợ mà không ai trả lời,Resolved,CS,HCM-TanBinh-Hub,SPXVN260002603
+TK000126,Customer,C712734,2026-08-11 18:43:39,2026-08-11 21:44:58,2026-08-12 12:26:10,,tệ,Resolved,CS,HN-LongBien-SOC,SPXVN260002590
+TK000134,Rider,R0086,2026-08-11 18:44:16,2026-08-11 20:05:34,2026-08-13 00:27:58,Hub processing delay,"Kho chia hang cham, tai xe phai doi 3 tieng",Resolved,Operations,HCM-Q7-Hub,
+TK000125,Customer,C657879,2026-08-11 20:27:37,2026-08-11 23:55:24,2026-08-13 13:05:20,,...,Resolved,CS,HN-LongBien-SOC,SPXVN260002589
+TK000132,Seller,S00299,2026-08-11 21:30:38,2026-08-11 22:48:43,2026-08-12 23:34:44,Late delivery,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Resolved,Operations,HN-CauGiay-Hub,SPXVN260002632
+TK000140,Customer,C572661,2026-08-12 07:26:47,2026-08-12 09:19:51,2026-08-13 06:19:08,Slow response,Chat với CSKH phản hồi chậm quá,Resolved,CS,HN-LongBien-SOC,SPXVN260002785
+TK000146,Rider,R0108,2026-08-12 08:14:45,2026-08-12 09:20:21,2026-08-13 06:52:49,Settlement,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Resolved,Finance,HCM-Q7-Hub,
+TK000144,Seller,S00254,2026-08-12 12:02:56,2026-08-12 12:53:19,2026-08-13 11:22:20,Failed delivery,"Đơn giao thất bại 2 lần rồi, giờ shop phải làm gì? Có giao lần 3 không?",Resolved,Operations,DN-HaiChau-Hub,SPXVN260002807
+TK000143,Seller,S00294,2026-08-12 12:12:17,2026-08-12 13:51:37,2026-08-13 11:26:18,COD,Chưa nhận được tiền thu hộ tuần trước,Resolved,Finance,HN-LongBien-SOC,SPXVN260002804
+TK000141,Customer,C181774,2026-08-12 13:15:13,2026-08-12 14:06:29,,,chán,Pending,CS,DN-HaiChau-Hub,SPXVN260002787
+TK000138,Customer,C524814,2026-08-12 15:42:55,2026-08-12 16:57:12,2026-08-13 01:09:40,,bình thường,Resolved,CS,HCM-ThuDuc-SOC,SPXVN260002762
+TK000139,Customer,C165271,2026-08-12 15:53:35,2026-08-12 17:29:10,2026-08-12 20:58:33,Late delivery,Đặt hàng lâu quá mà chưa thấy giao,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260002779
+TK000142,Seller,S00164,2026-08-12 19:10:35,2026-08-12 19:59:06,2026-08-13 14:06:07,COD,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",Resolved,Finance,HCM-TanBinh-Hub,SPXVN260002799
+TK000145,Rider,R0148,2026-08-12 22:54:41,2026-08-13 01:14:37,2026-08-13 16:44:57,Hub processing delay,"kho chia hàng chậm, tài xế phải đợi 3 tiếng",Resolved,Operations,HN-LongBien-SOC,
+TK000152,Seller,S00240,2026-08-13 09:26:56,2026-08-13 12:04:19,2026-08-13 15:37:31,Return,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260002966
+TK000151,Customer,C371215,2026-08-13 09:46:47,2026-08-13 12:39:52,2026-08-15 05:04:56,Slow response,Gọi tổng đài chờ mãi không ai nghe máy huhu,Resolved,CS,HN-LongBien-SOC,SPXVN260002938
+TK000150,Customer,C366595,2026-08-13 09:48:36,2026-08-13 12:32:51,2026-08-13 16:37:01,Late delivery,"giao hang cham, cho gan 1 tuan moi toi",Resolved,Operations,HCM-Q7-Hub,SPXVN260002935
+TK000155,Seller,S00131,2026-08-13 12:57:16,2026-08-13 16:00:41,2026-08-15 05:25:26,Pickup delay,"lấy hàng chậm, đơn tồn ở shop 2 ngày",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260002977
+TK000156,Seller,S00033,2026-08-13 14:26:12,2026-08-13 14:52:57,2026-08-15 06:08:14,Return,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Resolved,Operations,HN-LongBien-SOC,SPXVN260002978
+TK000147,Customer,C962898,2026-08-13 17:08:54,2026-08-13 19:53:45,2026-08-13 23:49:45,Tracking / status,"Trạng thái đơn không cập nhật, cứ nằm ở kho mãi",Resolved,Operations,HN-LongBien-SOC,SPXVN260002924
+TK000149,Customer,C138107,2026-08-13 18:15:40,2026-08-13 21:33:13,2026-08-14 18:20:40,App issue,App SPX bị lỗi không tra cứu được đơn,Resolved,Product,CT-NinhKieu-Hub,SPXVN260002933
+TK000154,Seller,S00268,2026-08-13 18:56:31,2026-08-13 20:22:06,,Late delivery,"Nhiều đơn của shop giao chậm 3-4 ngày, khách phàn nàn",Pending,Operations,HCM-ThuDuc-SOC,SPXVN260002976
+TK000157,Rider,R0037,2026-08-13 20:20:52,2026-08-13 21:31:13,2026-08-15 00:27:34,Settlement,"thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Resolved,Finance,HCM-ThuDuc-SOC,
+TK000148,Customer,C944907,2026-08-13 20:41:20,2026-08-13 23:39:14,2026-08-14 09:00:11,No response,Nhắn CSKH 2 ngày rồi chưa được phản hồi,Resolved,CS,HCM-ThuDuc-SOC,SPXVN260002931
+TK000153,Seller,S00089,2026-08-13 21:47:32,2026-08-14 00:19:10,2026-08-15 01:56:08,Late delivery,"Đơn của shop bị giao trễ, khách hủy đơn liên tục",Resolved,Operations,HN-LongBien-SOC,SPXVN260002973
+TK000163,Seller,S00238,2026-08-14 07:54:04,2026-08-14 08:16:37,2026-08-15 14:53:30,Late delivery,Khách nhắn hỏi suốt mà hàng vẫn chưa tới tay họ,Resolved,Operations,CT-NinhKieu-Hub,SPXVN260003145
+TK000159,Customer,C503736,2026-08-14 09:16:20,2026-08-14 11:56:07,2026-08-14 14:48:49,Tracking / status,khong biet mon hang cua toi dang o dau nua,Resolved,Operations,DN-HaiChau-Hub,SPXVN260003113
+TK000165,Rider,R0026,2026-08-14 09:28:10,2026-08-14 10:05:12,2026-08-14 19:18:27,Delivery attempt,"Khách không nghe máy, phải giao lại nhiều lần!!!",Resolved,Operations,HCM-ThuDuc-SOC,
+TK000162,Seller,S00267,2026-08-14 10:08:53,2026-08-14 12:09:20,,,không hài lòng,Open,SS,HCM-TanBinh-Hub,SPXVN260003134
+TK000166,Rider,R0102,2026-08-14 12:42:30,2026-08-14 15:04:56,2026-08-14 20:09:34,Settlement,"Thu nhap tuan nay tinh thieu don, chua doi soat dung",Resolved,Finance,HCM-Q7-Hub,
+TK000158,Customer,C350773,2026-08-14 13:53:59,2026-08-14 16:42:05,2026-08-15 07:58:28,,không hài lòng,Resolved,CS,DN-HaiChau-Hub,SPXVN260003106
+TK000160,Customer,C225106,2026-08-14 15:21:53,2026-08-14 18:24:59,2026-08-15 11:44:46,Late delivery,"Giao hang cham, cho gan 1 tuan moi toi",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260003115
+TK000161,Customer,C231394,2026-08-14 19:06:10,2026-08-14 20:31:20,2026-08-14 23:47:21,Slow response,Chat với CSKH phản hồi chậm quá :(,Resolved,CS,HCM-Q7-Hub,SPXVN260003127
+TK000164,Seller,S00170,2026-08-14 19:38:06,2026-08-14 20:59:00,2026-08-15 20:04:33,,tệ,Resolved,SS,HCM-ThuDuc-SOC,SPXVN260003153
+TK000174,Seller,S00220,2026-08-15 08:01:22,2026-08-15 08:44:12,2026-08-16 19:43:52,Failed delivery,"Đơn giao thất bại, khách bảo không ai gọi",Resolved,Operations,HN-LongBien-SOC,SPXVN260003327
+TK000170,Customer,C093753,2026-08-15 08:37:03,2026-08-15 10:36:06,2026-08-15 23:24:08,Slow response,Gọi tổng đài chờ mãi không ai nghe máy,Resolved,CS,HCM-ThuDuc-SOC,SPXVN260003288
+TK000167,Customer,C769391,2026-08-15 09:03:18,2026-08-15 09:33:05,2026-08-16 03:35:09,Fee,Phí ship cao quá so với chỗ khác,Resolved,Finance,DN-HaiChau-Hub,SPXVN260003269
+TK000176,Rider,R0011,2026-08-15 12:17:30,2026-08-15 12:59:19,2026-08-15 19:00:50,,bình thường,Resolved,CS,HCM-ThuDuc-SOC,
+TK000175,Rider,R0079,2026-08-15 12:30:59,2026-08-15 13:00:03,2026-08-16 01:15:40,Wrong routing,"Hàng bị chia sai tuyến, phải chạy vòng",Resolved,Operations,HCM-TanBinh-Hub,
+TK000169,Customer,C564896,2026-08-15 12:46:31,2026-08-15 15:13:07,2026-08-15 19:01:51,Late delivery,"Minh doi mai ma chang thay dau, lan sau chac khong dung nua",Resolved,Operations,DN-HaiChau-Hub,SPXVN260003286
+TK000177,Rider,R0148,2026-08-15 13:40:51,2026-08-15 16:10:18,,Handover issue,"Shop chưa đóng gói xong, chờ bàn ship hàng lâu",Pending,Operations,HN-LongBien-SOC,
+TK000168,Customer,C816819,2026-08-15 18:09:10,2026-08-15 21:26:54,,,kém,Open,CS,HN-CauGiay-Hub,SPXVN260003281
+TK000173,Seller,S00104,2026-08-15 18:14:58,2026-08-15 21:05:42,,,chán,Open,SS,HN-CauGiay-Hub,SPXVN260003319
+TK000172,Seller,S00176,2026-08-15 20:02:51,2026-08-15 22:16:44,,Failed delivery,Shipper báo khách từ chối nhận nhưng khách nói không hề được gọi,Pending,Operations,HCM-Q7-Hub,SPXVN260003312
+TK000171,Customer,C532564,2026-08-15 20:49:51,2026-08-15 23:04:59,2026-08-17 15:13:21,,bình thường,Resolved,CS,HN-LongBien-SOC,SPXVN260003306
+TK000180,Customer,C635131,2026-08-16 07:59:57,2026-08-16 10:41:14,2026-08-18 06:50:17,Lost / damaged parcel,"Hang bi mop meo, vo do ben trong",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260003475
+TK000183,Seller,S00297,2026-08-16 09:40:32,2026-08-16 13:05:10,2026-08-17 06:17:17,Late delivery,Khach nhan hoi suot ma hang van chua toi tay ho,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260003490
+TK000181,Customer,C908223,2026-08-16 11:45:38,2026-08-16 15:12:10,2026-08-18 11:16:49,,tệ,Resolved,CS,HN-LongBien-SOC,SPXVN260003480
+TK000178,Customer,C186306,2026-08-16 13:12:51,2026-08-16 14:28:25,2026-08-17 20:16:52,Lost / damaged parcel,Mo ra thi do ben trong khong con nguyen ven,Resolved,Operations,HN-LongBien-SOC,SPXVN260003450
+TK000179,Customer,C088143,2026-08-16 16:41:58,2026-08-16 18:36:40,2026-08-18 14:18:45,Tracking / status,Don bao dang xu ly tai kho mai khong di,Resolved,Operations,HN-CauGiay-Hub,SPXVN260003461
+TK000182,Seller,S00076,2026-08-16 19:02:18,2026-08-16 21:06:21,2026-08-18 18:07:48,Failed delivery,"Don giao that bai 2 lan roi, gio shop phai lam gi? Co giao lan 3 khong?",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260003489
+TK000184,Seller,S00315,2026-08-16 19:42:03,2026-08-16 21:20:03,2026-08-18 17:59:53,Pickup delay,"Lấy hàng chậm, đơn tồn ở shop 2 ngày",Resolved,Operations,HCM-Q7-Hub,SPXVN260003491
+TK000188,Seller,S00177,2026-08-17 14:46:44,2026-08-17 16:04:15,,,...,Pending,SS,HCM-TanBinh-Hub,SPXVN260003673
+TK000187,Customer,C179108,2026-08-17 19:03:30,2026-08-17 21:04:08,2026-08-18 12:31:01,Fee,Phí ship cao quá so với chỗ khác,Resolved,Finance,HN-LongBien-SOC,SPXVN260003652
+TK000185,Customer,C154437,2026-08-17 19:35:03,2026-08-17 21:59:08,2026-08-18 17:55:21,Lost / damaged parcel,"Mất hàng, đơn báo đã giao mà tôi không nhận được",Resolved,Operations,CT-NinhKieu-Hub,SPXVN260003625
+TK000186,Customer,C235344,2026-08-17 21:43:40,2026-08-18 00:09:58,2026-08-18 05:50:51,Failed delivery,Đơn bị báo giao thất bại dù không ai gọi cho tôi,Resolved,Operations,HN-CauGiay-Hub,SPXVN260003634
+TK000194,Seller,S00023,2026-08-18 11:59:52,2026-08-18 14:29:04,2026-08-19 01:28:50,COD,Chưa nhận được tiền thu hộ tuần trước,Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260003842
+TK000191,Customer,C904759,2026-08-18 12:23:35,2026-08-18 13:37:34,,Failed delivery,Shipper bao giao khong thanh cong nhung toi o nha ca ngay,Open,Operations,HCM-TanBinh-Hub,SPXVN260003817
+TK000190,Customer,C881760,2026-08-18 18:38:43,2026-08-18 21:03:25,2026-08-20 10:31:10,,bình thường,Resolved,CS,HCM-TanBinh-Hub,SPXVN260003813
+TK000193,Customer,C743928,2026-08-18 20:53:57,2026-08-18 23:42:35,2026-08-20 16:10:21,Failed delivery,Shipper bao giao khong thanh cong nhung toi o nha ca ngay,Resolved,Operations,HN-LongBien-SOC,SPXVN260003823
+TK000189,Customer,C615773,2026-08-18 21:02:32,2026-08-18 22:29:52,2026-08-20 10:45:38,Late delivery,"giao chậm quá, quá hạn dự kiến rồi",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260003788
+TK000192,Customer,C577151,2026-08-18 22:16:53,2026-08-19 00:44:10,2026-08-20 11:41:38,,không hài lòng,Resolved,CS,HN-LongBien-SOC,SPXVN260003820
+TK000195,Customer,C353800,2026-08-19 08:43:22,2026-08-19 10:26:39,2026-08-19 13:40:38,Tracking / status,Don bao dang xu ly tai kho mai khong di,Resolved,Operations,HN-CauGiay-Hub,SPXVN260003961
+TK000196,Customer,C067112,2026-08-19 14:33:38,2026-08-19 14:56:51,2026-08-20 05:46:20,,chán,Resolved,CS,HCM-Q7-Hub,SPXVN260003970
+TK000197,Seller,S00236,2026-08-19 19:48:47,2026-08-19 20:46:54,2026-08-21 13:12:11,Pickup failure,Hen lay hang ma khong ai den lay,Resolved,Operations,CT-NinhKieu-Hub,SPXVN260004002
+TK000200,Seller,S00243,2026-08-19 20:11:51,2026-08-19 22:03:21,2026-08-21 08:49:56,Pickup delay,"Lay hang cham, don ton o shop 2 ngay",Resolved,Operations,DN-HaiChau-Hub,SPXVN260004016
+TK000199,Seller,S00004,2026-08-19 20:41:08,2026-08-19 21:28:21,2026-08-21 19:28:11,Repeated contact,Gọi đi gọi lại nhiều lần vẫn chưa ai giải quyết,Resolved,SS,HCM-Q7-Hub,SPXVN260004013
+TK000201,Rider,R0123,2026-08-19 21:00:29,2026-08-19 23:05:16,,Wrong routing,"Hàng bị chia sai tuyến, phải chạy vòng",Pending,Operations,HN-LongBien-SOC,
+TK000198,Seller,S00071,2026-08-19 21:03:01,2026-08-19 22:55:42,2026-08-20 15:34:08,Late delivery,Khách nhắn hỏi suốt mà hàng vẫn chưa tới tay họ,Resolved,Operations,DN-HaiChau-Hub,SPXVN260004004
+TK000202,Customer,C762823,2026-08-20 07:25:27,2026-08-20 09:06:51,,Slow response,Gọi tổng đài chờ mãi ko ai nghe máy,Pending,CS,HN-LongBien-SOC,SPXVN260004137
+TK000204,Customer,C688718,2026-08-20 12:10:46,2026-08-20 13:08:01,,Late delivery,"Mình đợi mãi mà chẳng thấy đâu, lần sau chắc không dùng nữa",Pending,Operations,DN-HaiChau-Hub,SPXVN260004141
+TK000208,Seller,S00237,2026-08-20 13:13:04,2026-08-20 15:25:20,2026-08-21 15:26:53,Fee,"Phí vận chuyển tính sai so với bảng giá, còn trạng thái đơn đứng im 2 ngày ở kho",Resolved,Finance,DN-HaiChau-Hub,SPXVN260004179
+TK000210,Seller,S00225,2026-08-20 13:43:07,2026-08-20 17:09:23,2026-08-22 11:33:42,Compensation,"Don mat hang ma boi thuong qua lau, chua thay tien den bu",Resolved,SS,HCM-Q7-Hub,SPXVN260004182
+TK000206,Seller,S00022,2026-08-20 16:10:26,2026-08-20 17:34:26,2026-08-22 07:06:08,Compensation,"Đơn mất hàng mà bồi thường quá lâu, chưa thấy tiền đền bù",Resolved,SS,HCM-TanBinh-Hub,SPXVN260004174
+TK000205,Customer,C572420,2026-08-20 16:26:39,2026-08-20 17:40:28,2026-08-22 13:17:28,Late delivery,Đặt hàng lâu wa mà chưa thấy giao,Resolved,Operations,HCM-TanBinh-Hub,SPXVN260004149
+TK000207,Seller,S00277,2026-08-20 21:05:46,2026-08-20 23:31:28,2026-08-21 23:15:57,Pickup delay,"Tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới huhu",Resolved,Operations,HN-LongBien-SOC,SPXVN260004177
+TK000203,Customer,C684635,2026-08-20 22:03:32,2026-08-20 23:55:43,2026-08-21 08:48:40,Lost / damaged parcel,"Mất hàng, đơn báo đã giao mà tôi không nhận được",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260004140
+TK000209,Seller,S00155,2026-08-20 22:23:47,2026-08-21 00:58:22,2026-08-22 16:24:15,Tracking / status,Trạng thái đơn đứng im 2 ngày ở kho,Resolved,Operations,DN-HaiChau-Hub,SPXVN260004180
+TK000212,Seller,S00258,2026-08-21 07:40:30,2026-08-21 09:30:29,,Settlement,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Open,Finance,HN-LongBien-SOC,SPXVN260004342
+TK000211,Seller,S00066,2026-08-21 10:00:25,2026-08-21 10:26:12,,Failed delivery,Shipper bao khach tu choi nhan nhung khach noi khong he duoc goi,Pending,Operations,HCM-TanBinh-Hub,SPXVN260004340
+TK000214,Seller,S00011,2026-08-21 14:27:53,2026-08-21 14:46:30,2026-08-22 19:53:42,COD,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260004357
+TK000213,Seller,S00311,2026-08-21 19:49:23,2026-08-21 22:26:16,2026-08-22 19:36:13,Settlement,Tien ban hang tuan truoc sao van chua thay ve tai khoan shop,Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260004350
+TK000219,Customer,C691655,2026-08-22 07:29:15,2026-08-22 08:13:05,,,không hài lòng,Open,CS,HCM-Q7-Hub,SPXVN260004509
+TK000215,Customer,C304290,2026-08-22 09:13:52,2026-08-22 11:10:24,2026-08-23 21:31:26,No response,nhắn cskh 2 ngày rồi chưa được phản hồi,Resolved,CS,HN-LongBien-SOC,SPXVN260004473
+TK000217,Customer,C214886,2026-08-22 10:02:26,2026-08-22 11:29:47,,,không hài lòng,Open,CS,HCM-ThuDuc-SOC,SPXVN260004496
+TK000223,Rider,R0182,2026-08-22 15:07:14,2026-08-22 18:24:19,2026-08-23 20:00:51,Hub processing delay,Sáng nào cũng đứng chờ cả buổi mới được đi,Resolved,Operations,HN-CauGiay-Hub,
+TK000220,Seller,S00248,2026-08-22 15:36:24,2026-08-22 16:45:11,2026-08-22 20:18:49,COD,Chưa nhận được tiền thu hộ tuần trước,Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260004520
+TK000224,Rider,R0038,2026-08-22 18:04:51,2026-08-22 20:00:34,2026-08-23 16:07:46,Settlement,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Resolved,Finance,HCM-ThuDuc-SOC,
+TK000222,Seller,S00297,2026-08-22 18:07:02,2026-08-22 18:27:19,2026-08-23 18:58:56,COD,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",Resolved,Finance,HCM-Q7-Hub,SPXVN260004530
+TK000216,Customer,C361408,2026-08-22 18:18:56,2026-08-22 18:49:21,2026-08-24 03:28:41,Late delivery,"Hàng giao trễ hẹn 3 ngày, ko ai báo trước",Resolved,Operations,DN-HaiChau-Hub,SPXVN260004481
+TK000218,Customer,C265199,2026-08-22 20:59:32,2026-08-22 23:52:45,2026-08-24 11:45:37,,kém,Resolved,CS,HN-LongBien-SOC,SPXVN260004500
+TK000221,Seller,S00280,2026-08-22 21:23:51,2026-08-22 22:51:55,2026-08-23 22:08:48,,tệ,Resolved,SS,HCM-Q7-Hub,SPXVN260004521
+TK000235,Rider,R0205,2026-08-23 10:07:58,2026-08-23 11:44:16,2026-08-24 19:15:19,Delivery attempt,"Khach ko nghe may, phai giao lai nhieu lan",Resolved,Operations,DN-HaiChau-Hub,
+TK000225,Customer,C020781,2026-08-23 10:51:55,2026-08-23 12:47:30,2026-08-24 09:12:50,Tracking / status,"theo doi don ko thay thay doi gi, ko biet khi nao giao",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260004650
+TK000233,Rider,R0088,2026-08-23 11:05:23,2026-08-23 12:39:52,2026-08-25 07:14:50,Wrong routing,"hang bi chia sai tuyen, phai chay vong",Resolved,Operations,HCM-Q7-Hub,
+TK000228,Customer,C231399,2026-08-23 11:07:01,2026-08-23 13:24:02,2026-08-24 20:45:57,Tracking / status,"trang thai don khong cap nhat, cu nam o kho mai",Resolved,Operations,DN-HaiChau-Hub,SPXVN260004675
+TK000232,Rider,R0083,2026-08-23 11:42:13,2026-08-23 13:46:47,2026-08-25 13:05:53,Hub processing delay,sang nao cung dung cho ca buoi moi dc di :(,Resolved,Operations,HCM-Q7-Hub,
+TK000229,Seller,S00127,2026-08-23 12:10:59,2026-08-23 15:02:32,2026-08-24 02:56:06,Late delivery,"Nhiều đơn của shop giao chậm 3-4 ngày, khách phàn nàn",Resolved,Operations,HN-CauGiay-Hub,SPXVN260004684
+TK000234,Rider,R0260,2026-08-23 16:59:09,2026-08-23 17:33:17,2026-08-24 11:10:24,Wrong routing,"Hang bi chia sai tuyen, phai chay vong",Resolved,Operations,CT-NinhKieu-Hub,
+TK000226,Customer,C296834,2026-08-23 18:03:31,2026-08-23 19:15:16,2026-08-25 17:10:25,Late delivery,"Giao hàng chậm, chờ gần 1 tuần mới tới, thêm nữa là app spx bị lỗi không tra cứu được đơn",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260004659
+TK000231,Seller,S00039,2026-08-23 18:11:45,2026-08-23 19:56:19,2026-08-24 04:43:34,COD,"tiền cod chưa được đối soát, chậm 5 ngày rồi",Resolved,Finance,DN-HaiChau-Hub,SPXVN260004690
+TK000227,Customer,C927685,2026-08-23 18:35:26,2026-08-23 19:16:35,2026-08-25 03:32:51,Lost / damaged parcel,"Hàng bị móp méo, vỡ đồ bên trong",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260004670
+TK000230,Seller,S00038,2026-08-23 19:40:48,2026-08-23 22:10:27,2026-08-24 13:33:51,,bình thường,Resolved,SS,HCM-Q7-Hub,SPXVN260004685
+TK000237,Customer,C198030,2026-08-24 12:41:24,2026-08-24 15:52:34,,Failed delivery,"Shipper bao giao ko thanh cong nhung toi o nha ca ngay, voi lai hang giao tre hen 3 ngay, ko ai bao truoc",Pending,Operations,HCM-ThuDuc-SOC,SPXVN260004821
+TK000238,Customer,C511491,2026-08-24 12:45:32,2026-08-24 15:20:09,2026-08-25 02:35:31,Tracking / status,không biết món hàng của tôi đang ở đâu nữa,Resolved,Operations,HN-LongBien-SOC,SPXVN260004835
+TK000236,Customer,C252081,2026-08-24 15:41:15,2026-08-24 17:29:36,2026-08-26 05:04:07,Late delivery,"Giao hàng chậm, chờ gần 1 tuần mới tới",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260004815
+TK000239,Seller,S00142,2026-08-24 17:36:24,2026-08-24 19:29:58,2026-08-25 04:05:54,Pickup failure,Hẹn lấy hàng mà không ai đến lấy,Resolved,Operations,HCM-Q7-Hub,SPXVN260004863
+TK000240,Seller,S00299,2026-08-24 18:38:19,2026-08-24 21:41:24,2026-08-25 13:12:18,Late delivery,Khách nhắn hỏi suốt mà hàng vx chưa tới tay họ,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260004864
+TK000241,Seller,S00239,2026-08-24 19:18:36,2026-08-24 22:18:10,2026-08-25 12:12:21,Pickup failure,Hẹn lấy hàng mà không ai đến lấy,Resolved,Operations,HCM-TanBinh-Hub,SPXVN260004870
+TK000242,Rider,R0201,2026-08-24 21:37:52,2026-08-25 00:20:49,,Wrong routing,"Hàng bị chia sai tuyến, phải chạy vòng",Pending,Operations,DN-HaiChau-Hub,
+TK000243,Customer,C178673,2026-08-25 08:30:16,2026-08-25 09:43:44,2026-08-26 19:30:33,,chán,Resolved,CS,HN-LongBien-SOC,SPXVN260004989
+TK000244,Seller,S00198,2026-08-25 14:49:23,2026-08-25 17:15:26,2026-08-27 16:58:49,,không hài lòng,Resolved,SS,HCM-Q7-Hub,SPXVN260005038
+TK000245,Rider,R0136,2026-08-25 20:29:23,2026-08-25 22:57:04,2026-08-26 23:50:45,Handover issue,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",Resolved,Operations,HN-LongBien-SOC,
+TK000249,Seller,S00002,2026-08-26 10:19:27,2026-08-26 11:27:39,2026-08-27 01:53:34,Failed delivery,"Đơn giao thất bại lần 2, shop không biết bước tiếp theo là gì",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260005196
+TK000246,Customer,C698807,2026-08-26 12:09:14,2026-08-26 14:40:14,2026-08-26 22:38:03,Lost / damaged parcel,"Hàng bị móp méo, vỡ đồ bên trong",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260005157
+TK000247,Customer,C475466,2026-08-26 13:54:02,2026-08-26 15:30:30,2026-08-27 01:51:55,Lost / damaged parcel,"hàng bị móp méo, vỡ đồ bên trong",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260005178
+TK000250,Rider,R0108,2026-08-26 16:37:10,2026-08-26 20:00:48,2026-08-27 18:31:04,Handover issue,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",Resolved,Operations,HCM-Q7-Hub,
+TK000248,Customer,C700326,2026-08-26 20:25:44,2026-08-26 21:31:18,2026-08-28 10:57:39,Late delivery,"Hàng giao trễ hẹn 3 ngày, không ai báo trước",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260005188
+TK000251,Rider,R0088,2026-08-26 21:58:33,2026-08-27 00:16:26,,Delivery attempt,"Khách không nghe máy, phải giao lại nhiều lần",Pending,Operations,HCM-Q7-Hub,
+TK000252,Customer,C730367,2026-08-27 07:47:39,2026-08-27 09:14:28,2026-08-28 02:18:30,App issue,"app spx bị lỗi không tra cứu được đơn, thêm nữa là phí ship cao quá so với chỗ khác!!!",Resolved,Product,HCM-ThuDuc-SOC,SPXVN260005328
+TK000260,Rider,R0151,2026-08-27 08:46:44,2026-08-27 11:22:10,,Hub processing delay,Sáng nào cũng đứng chờ cả buổi mới được đi,Pending,Operations,HN-LongBien-SOC,
+TK000255,Customer,C743346,2026-08-27 08:55:42,2026-08-27 10:16:55,2026-08-28 18:47:02,Tracking / status,Khong biet mon hang cua toi dang o dau nua,Resolved,Operations,HN-CauGiay-Hub,SPXVN260005334
+TK000258,Customer,C256800,2026-08-27 10:53:12,2026-08-27 12:00:16,2026-08-28 12:26:14,Fee,Phí ship cao quá so với chỗ khác :(,Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260005345
+TK000259,Seller,S00052,2026-08-27 11:54:34,2026-08-27 14:02:19,2026-08-28 12:03:31,,không hài lòng,Resolved,SS,CT-NinhKieu-Hub,SPXVN260005364
+TK000254,Customer,C360746,2026-08-27 12:44:29,2026-08-27 15:16:44,,Incorrect information,"Nhân viên tư vấn sai, bảo hôm nay giao mà không giao",Pending,CS,HN-LongBien-SOC,SPXVN260005332
+TK000256,Customer,C667568,2026-08-27 13:03:06,2026-08-27 13:26:44,2026-08-28 08:36:05,Failed delivery,shipper bao giao khong thanh cong nhung toi o nha ca ngay,Resolved,Operations,HCM-Q7-Hub,SPXVN260005336
+TK000257,Customer,C901887,2026-08-27 16:13:37,2026-08-27 19:11:09,2026-08-28 19:16:04,,...,Resolved,CS,HCM-TanBinh-Hub,SPXVN260005338
+TK000253,Customer,C446716,2026-08-27 18:55:17,2026-08-27 19:20:02,2026-08-29 06:37:23,,không hài lòng,Resolved,CS,HCM-ThuDuc-SOC,SPXVN260005330
+TK000263,Customer,C549075,2026-08-28 07:36:32,2026-08-28 10:01:17,,Lost / damaged parcel,Mo ra thi do ben trong khong con nguyen ven,Open,Operations,HN-LongBien-SOC,SPXVN260005516
+TK000262,Customer,C861634,2026-08-28 07:45:59,2026-08-28 10:42:20,2026-08-29 17:46:31,Tracking / status,Tra cứu vận đơn thấy kẹt ở kho 2 ngày không nhúc nhích,Resolved,Operations,HCM-Q7-Hub,SPXVN260005507
+TK000265,Seller,S00003,2026-08-28 11:20:14,2026-08-28 13:16:40,2026-08-30 07:30:32,Late delivery,"Đơn của shop bị giao trễ, khách hủy đơn liên tục",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260005552
+TK000261,Customer,C377433,2026-08-28 14:38:47,2026-08-28 17:01:41,2026-08-29 13:56:22,Late delivery,"đơn giao trễ quá, hẹn hôm qua mà giờ vẫn chưa nhận được hàng",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260005491
+TK000264,Seller,S00141,2026-08-28 14:40:08,2026-08-28 16:53:55,2026-08-30 03:19:28,COD,Chưa nhận được tiền thu hộ tuần trước,Resolved,Finance,CT-NinhKieu-Hub,SPXVN260005538
+TK000266,Rider,R0092,2026-08-28 22:40:01,2026-08-29 01:43:52,,Hub processing delay,"Kho chia hang cham, tai xe phai doi 3 tieng",Open,Operations,HCM-Q7-Hub,
+TK000268,Customer,C175600,2026-08-29 10:00:36,2026-08-29 11:24:40,2026-08-29 15:22:01,,chán,Resolved,CS,HCM-ThuDuc-SOC,SPXVN260005690
+TK000271,Rider,R0035,2026-08-29 13:04:33,2026-08-29 16:33:38,2026-08-29 22:00:50,Hub processing delay,Chờ ở hub quá lâu mới nhận được hàng đi giao,Resolved,Operations,HCM-ThuDuc-SOC,
+TK000269,Customer,C216856,2026-08-29 19:45:11,2026-08-29 21:24:03,2026-08-30 02:32:23,Failed delivery,Shipper báo giao không thành công nhưng tôi ở nhà cả ngàyaaa,Resolved,Operations,DN-HaiChau-Hub,SPXVN260005693
+TK000270,Seller,S00030,2026-08-29 20:42:19,2026-08-29 22:25:10,2026-08-30 09:31:57,,ok,Resolved,SS,HCM-ThuDuc-SOC,SPXVN260005704
+TK000267,Customer,C511238,2026-08-29 21:37:37,2026-08-29 23:38:44,2026-08-30 03:04:22,Fee,Phí ship cao quá so với chỗ khác,Resolved,Finance,CT-NinhKieu-Hub,SPXVN260005677
+TK000272,Customer,C136868,2026-08-30 07:11:22,2026-08-30 10:09:13,2026-08-31 17:36:49,Late delivery,"Giao chậm quá, quá hạn dự kiến rồi",Resolved,Operations,HN-LongBien-SOC,SPXVN260005828
+TK000278,Seller,S00065,2026-08-30 08:56:29,2026-08-30 12:22:48,2026-08-30 15:20:24,Failed delivery,Shipper báo khách từ chối nhận nhưng khách nói không hề được gọi,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260005869
+TK000274,Customer,C396851,2026-08-30 12:18:18,2026-08-30 14:49:28,2026-08-31 14:07:25,Tracking / status,Không biết món hàng của tôi đang ở đâu nữa,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260005834
+TK000275,Customer,C144823,2026-08-30 14:55:28,2026-08-30 17:11:03,,Failed delivery,Don bi bao giao that bai du ko ai goi cho toi,Open,Operations,HN-CauGiay-Hub,SPXVN260005837
+TK000273,Customer,C382145,2026-08-30 16:33:24,2026-08-30 17:32:08,2026-08-30 22:48:46,Lost / damaged parcel,Mo ra thi do ben trong khong con nguyen ven,Resolved,Operations,HN-LongBien-SOC,SPXVN260005832
+TK000276,Customer,C829082,2026-08-30 17:34:17,2026-08-30 19:04:58,2026-09-01 08:13:07,Late delivery,"Giao chậm quá, quá hạn dự kiến rồi, còn phí ship cao quá so với chỗ khác",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260005862
+TK000277,Customer,C520629,2026-08-30 17:43:12,2026-08-30 19:52:54,,Late delivery,"Hàng giao trễ hẹn 3 ngày, ko ai báo trước",Open,Operations,HN-CauGiay-Hub,SPXVN260005863
+TK000279,Seller,S00179,2026-08-30 18:12:51,2026-08-30 20:46:57,2026-09-01 11:48:36,Compensation,"Đơn mất hàng mà bồi thường quá lâu, chưa thấy tiền đền bù",Resolved,SS,HN-LongBien-SOC,SPXVN260005879
+TK000280,Seller,S00041,2026-08-30 18:32:01,2026-08-30 19:48:06,2026-08-31 08:27:30,Tracking / status,"Đơn của shop kẹt ở kho không cập nhật trạng thái, khách hỏi mà không biết trả lời",Resolved,Operations,HN-CauGiay-Hub,SPXVN260005881
+TK000283,Customer,C278403,2026-08-31 07:18:52,2026-08-31 07:59:34,2026-09-01 03:05:57,Tracking / status,"Theo dõi đơn ko thấy thay đổi j, ko biết khi nào giao",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260006015
+TK000281,Customer,C597607,2026-08-31 07:42:12,2026-08-31 08:05:43,,,kém,Open,CS,HCM-ThuDuc-SOC,SPXVN260005995
+TK000297,Rider,R0234,2026-08-31 08:29:34,2026-08-31 08:56:09,,Settlement,"Thu nhập tuần này tính thiếu đơn, chưa đối soát đúng",Open,Finance,DN-HaiChau-Hub,
+TK000288,Customer,C312420,2026-08-31 11:10:18,2026-08-31 12:14:21,2026-09-01 22:02:28,Incorrect information,"Nhân viên tư vấn sai, bảo hôm nay giao mà không giao",Resolved,CS,DN-HaiChau-Hub,SPXVN260006034
+TK000291,Customer,C984415,2026-08-31 12:13:21,2026-08-31 14:26:48,2026-08-31 23:05:46,Late delivery,"Giao hàng chậm, chờ gần 1 tuần mới tới",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260006039
+TK000295,Seller,S00296,2026-08-31 12:42:15,2026-08-31 15:32:12,2026-09-02 07:39:13,Settlement,tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop!!!,Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260006063
+TK000285,Customer,C821847,2026-08-31 13:24:03,2026-08-31 16:21:22,2026-09-02 15:04:20,Late delivery,"Giao cham qua, qua han du kien roi",Resolved,Operations,HN-LongBien-SOC,SPXVN260006017
+TK000282,Customer,C728301,2026-08-31 13:24:54,2026-08-31 14:12:09,2026-09-01 05:41:55,,bình thường,Resolved,CS,DN-HaiChau-Hub,SPXVN260006009
+TK000289,Customer,C704726,2026-08-31 14:21:03,2026-08-31 16:42:03,,,không hài lòng,Open,CS,HN-CauGiay-Hub,SPXVN260006035
+TK000284,Customer,C381653,2026-08-31 15:10:11,2026-08-31 17:18:33,,Late delivery,"Giao chậm quá, quá hạn dự kiến rồi",Pending,Operations,HCM-TanBinh-Hub,SPXVN260006016
+TK000292,Seller,S00056,2026-08-31 16:33:49,2026-08-31 16:53:35,2026-09-02 00:20:27,,kém,Resolved,SS,HCM-Q7-Hub,SPXVN260006052
+TK000294,Seller,S00131,2026-08-31 17:22:13,2026-08-31 18:03:32,2026-09-01 18:54:38,COD,"tien cod chua duoc doi soat, cham 5 ngay roi",Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260006056
+TK000287,Customer,C940139,2026-08-31 19:57:04,2026-08-31 23:19:37,,Slow response,goi tong dai cho mai khong ai nghe may,Pending,CS,HCM-ThuDuc-SOC,SPXVN260006027
+TK000296,Rider,R0267,2026-08-31 20:14:56,2026-08-31 23:07:21,2026-09-02 03:57:01,Handover issue,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu, với lại hàng bị chia sai tuyến, phải chạy vòng",Resolved,Operations,CT-NinhKieu-Hub,
+TK000293,Seller,S00005,2026-08-31 21:35:20,2026-08-31 22:00:48,2026-09-02 11:28:07,Fee,"Phi van chuyen tinh sai so voi bang gia, con hen lay hang ma ko ai den lay",Resolved,Finance,CT-NinhKieu-Hub,SPXVN260006054
+TK000286,Customer,C435957,2026-08-31 22:33:15,2026-09-01 00:17:50,2026-09-02 14:14:12,Lost / damaged parcel,"Mất hàng, đơn báo đã giao mà tôi không nhận được",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260006021
+TK000290,Customer,C616249,2026-08-31 22:45:28,2026-09-01 01:49:32,2026-09-02 13:14:04,Failed delivery,Shipper báo giao không thành công nhưng tôi ở nhà cả ngày,Resolved,Operations,HCM-Q7-Hub,SPXVN260006038
+TK000303,Seller,S00158,2026-09-01 08:38:25,2026-09-01 11:20:18,,Fee,"Phi van chuyen tinh sai so voi bang gia, voi lai don cua shop bi giao tre, khach huy don lien tuc",Pending,Finance,HCM-Q7-Hub,SPXVN260006219
+TK000302,Customer,C014951,2026-09-01 09:35:06,2026-09-01 10:39:42,,Late delivery,"hang giao tre hen 3 ngay, khong ai bao truoc!!!",Open,Operations,HN-LongBien-SOC,SPXVN260006216
+TK000304,Seller,S00315,2026-09-01 15:10:33,2026-09-01 17:31:38,2026-09-02 06:10:23,Return,"Hang hoan ve shop bi cham, hoan ca tuan chua ve",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260006222
+TK000300,Customer,C734777,2026-09-01 15:13:58,2026-09-01 16:18:05,2026-09-02 10:45:25,Lost / damaged parcel,"Mat hang, don bao da giao ma toi khong nhan duocaaa",Resolved,Operations,HCM-Q7-Hub,SPXVN260006206
+TK000305,Seller,S00021,2026-09-01 17:57:04,2026-09-01 20:47:05,2026-09-02 21:30:46,Pickup delay,"Tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới",Resolved,Operations,HN-CauGiay-Hub,SPXVN260006232
+TK000298,Customer,C515327,2026-09-01 18:01:29,2026-09-01 20:53:36,2026-09-02 23:06:22,App issue,"App SPX bị lỗi không tra cứu được đơn, với lại đơn bị báo giao thất bại dù không ai gọi cho tôi",Resolved,Product,HN-CauGiay-Hub,SPXVN260006178
+TK000299,Customer,C153874,2026-09-01 18:49:44,2026-09-01 20:47:07,2026-09-03 19:30:57,Lost / damaged parcel,"mất hàng, đơn báo đã giao mà tôi không nhận được",Resolved,Operations,CT-NinhKieu-Hub,SPXVN260006188
+TK000306,Rider,R0063,2026-09-01 19:16:37,2026-09-01 22:28:45,2026-09-03 18:07:51,Hub processing delay,Sáng nào cũng đứng chờ cả buổi mới được đi,Resolved,Operations,HCM-TanBinh-Hub,
+TK000301,Customer,C315026,2026-09-01 20:17:35,2026-09-01 23:25:12,2026-09-02 17:48:32,Lost / damaged parcel,"Hàng bị móp méo, vỡ đồ bên trong",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260006211
+TK000307,Rider,R0024,2026-09-01 21:20:07,2026-09-01 23:33:45,2026-09-03 14:01:33,Hub processing delay,Sáng nào cũng đứng chờ cả buổi mới dc đi,Resolved,Operations,HCM-ThuDuc-SOC,
+TK000309,Customer,C515270,2026-09-02 10:38:52,2026-09-02 11:24:28,2026-09-03 00:45:32,Late delivery,"Đơn giao trễ wa, hẹn hôm qua mà giờ vẫn chưa nhận dc hàng",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260006372
+TK000308,Customer,C281740,2026-09-02 11:11:30,2026-09-02 12:38:30,2026-09-03 08:34:05,,không hài lòng,Resolved,CS,HN-LongBien-SOC,SPXVN260006355
+TK000313,Seller,S00188,2026-09-02 16:22:38,2026-09-02 19:01:49,2026-09-02 21:47:18,Fee,Phí vận chuyển tính sai so với bảng giá,Resolved,Finance,CT-NinhKieu-Hub,SPXVN260006410
+TK000311,Customer,C598456,2026-09-02 16:35:12,2026-09-02 19:25:15,2026-09-03 10:58:19,Tracking / status,Tra cứu vận đơn thấy kẹt ở kho 2 ngày không nhúc nhích,Resolved,Operations,HCM-TanBinh-Hub,SPXVN260006385
+TK000314,Seller,S00281,2026-09-02 17:02:45,2026-09-02 18:32:25,2026-09-04 18:12:06,Late delivery,Khach nhan hoi suot ma hang van chua toi tay ho,Resolved,Operations,HCM-TanBinh-Hub,SPXVN260006411
+TK000312,Customer,C925633,2026-09-02 18:27:19,2026-09-02 19:37:14,2026-09-03 00:49:04,Failed delivery,Shipper báo giao không thành công nhưng tôi ở nhà cả ngày,Resolved,Operations,CT-NinhKieu-Hub,SPXVN260006389
+TK000310,Customer,C397030,2026-09-02 18:28:26,2026-09-02 21:23:35,2026-09-04 02:09:33,Tracking / status,"Trạng thái đơn không cập nhật, cứ nằm ở kho mãi",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260006373
+TK000315,Rider,R0126,2026-09-02 22:56:45,2026-09-03 00:56:16,,Wrong routing,"Hàng bị chia sai tuyến, phải chạy vòng",Open,Operations,HN-LongBien-SOC,
+TK000316,Customer,C390935,2026-09-03 07:33:21,2026-09-03 10:47:14,2026-09-04 18:14:04,Slow response,Chat với CSKH phản hồi chậm quá,Resolved,CS,HN-LongBien-SOC,SPXVN260006526
+TK000320,Customer,C829930,2026-09-03 12:35:09,2026-09-03 15:15:56,2026-09-04 19:22:00,No response,Gui yeu cau ho tro ma khong ai tra loi,Resolved,CS,HN-LongBien-SOC,SPXVN260006557
+TK000321,Seller,S00114,2026-09-03 14:51:40,2026-09-03 16:39:16,2026-09-05 07:06:07,Late delivery,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260006569
+TK000317,Customer,C170745,2026-09-03 18:11:02,2026-09-03 19:53:38,2026-09-05 02:48:19,Failed delivery,Đơn bị báo giao thất bại dù không ai gọi cho tôi huhu,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260006532
+TK000319,Customer,C453506,2026-09-03 18:57:38,2026-09-03 22:18:26,2026-09-04 18:00:42,App issue,App SPX bị lỗi không tra cứu được đơn,Resolved,Product,HN-LongBien-SOC,SPXVN260006538
+TK000322,Rider,R0207,2026-09-03 19:42:28,2026-09-03 22:32:10,2026-09-05 03:40:22,Delivery attempt,"Khách không nghe máy, phải giao lại nhiều lần",Resolved,Operations,DN-HaiChau-Hub,
+TK000318,Customer,C201328,2026-09-03 22:08:21,2026-09-04 01:04:49,2026-09-05 06:29:06,,không hài lòng,Resolved,CS,DN-HaiChau-Hub,SPXVN260006536
+TK000325,Seller,S00151,2026-09-04 08:31:31,2026-09-04 11:08:03,2026-09-05 18:23:26,Late delivery,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Resolved,Operations,HN-CauGiay-Hub,SPXVN260006732
+TK000324,Customer,C875500,2026-09-04 09:11:55,2026-09-04 12:38:59,2026-09-05 14:33:39,Late delivery,"Giao hàng chậm, chờ gần 1 tuần mới tới",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260006708
+TK000326,Rider,R0144,2026-09-04 13:04:43,2026-09-04 16:30:34,2026-09-04 23:44:20,App issue,App tài xế không đăng nhập được,Resolved,Product,HN-LongBien-SOC,
+TK000323,Customer,C827540,2026-09-04 22:05:14,2026-09-04 23:22:21,2026-09-06 11:36:31,Tracking / status,"Theo doi don khong thay thay doi gi, khong biet khi nao giao",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260006696
+TK000337,Seller,S00131,2026-09-05 07:40:35,2026-09-05 08:04:27,,Late delivery,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Pending,Operations,HN-LongBien-SOC,SPXVN260006916
+TK000339,Seller,S00054,2026-09-05 09:12:40,2026-09-05 09:39:04,2026-09-06 23:20:59,Settlement,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260006918
+TK000335,Seller,S00220,2026-09-05 10:12:31,2026-09-05 10:33:11,,COD,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",Pending,Finance,CT-NinhKieu-Hub,SPXVN260006910
+TK000340,Seller,S00138,2026-09-05 11:50:41,2026-09-05 15:15:40,,,bình thường,Pending,SS,DN-HaiChau-Hub,SPXVN260006919
+TK000334,Seller,S00225,2026-09-05 13:01:40,2026-09-05 14:24:29,2026-09-06 13:19:06,Settlement,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260006908
+TK000328,Customer,C794423,2026-09-05 13:03:50,2026-09-05 15:58:32,2026-09-06 03:35:58,Failed delivery,"Don bi bao giao that bai du khong ai goi cho toi, con chat voi cskh phan hoi cham qua",Resolved,Operations,HCM-Q7-Hub,SPXVN260006861
+TK000333,Seller,S00134,2026-09-05 15:12:01,2026-09-05 18:22:30,2026-09-05 21:26:36,Failed delivery,Shipper báo khách từ chối nhận nhưng khách nói không hề được gọi,Resolved,Operations,CT-NinhKieu-Hub,SPXVN260006906
+TK000330,Customer,C105297,2026-09-05 16:11:12,2026-09-05 19:23:13,2026-09-06 15:28:34,Lost / damaged parcel,"Mất hàng, đơn báo đã giao mà tôi không nhận được",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260006873
+TK000332,Customer,C594200,2026-09-05 16:39:06,2026-09-05 19:41:39,2026-09-06 11:52:17,,bình thường,Resolved,CS,DN-HaiChau-Hub,SPXVN260006899
+TK000343,Rider,R0020,2026-09-05 17:27:21,2026-09-05 20:06:37,2026-09-06 14:17:59,Handover issue,"Shop chưa đóng gói xong, chờ bàn ship hàng lâu, thêm nữa là chờ ở hub quá lâu mới nhận dc hàng đi giao",Resolved,Operations,HCM-ThuDuc-SOC,
+TK000338,Seller,S00302,2026-09-05 17:36:26,2026-09-05 18:36:52,2026-09-07 11:05:19,Repeated contact,shop phải liên hệ hỗ trợ 3 lần rồi vẫn chưa được xử lý huhu,Resolved,SS,HCM-ThuDuc-SOC,SPXVN260006917
+TK000341,Seller,S00157,2026-09-05 18:44:29,2026-09-05 19:19:26,,Pickup failure,Hẹn lấy hàng mà không ai đến lấy,Open,Operations,HCM-Q7-Hub,SPXVN260006923
+TK000327,Customer,C055323,2026-09-05 19:15:45,2026-09-05 22:44:43,,Tracking / status,không biết món hàng của tôi đang ở đâu nữa,Open,Operations,HCM-TanBinh-Hub,SPXVN260006860
+TK000329,Customer,C381041,2026-09-05 20:38:32,2026-09-05 21:39:37,2026-09-07 01:12:46,Late delivery,"Mình đợi mãi mà chẳng thấy đâu, lần sau chắc không dùng nữa!!!",Resolved,Operations,DN-HaiChau-Hub,SPXVN260006871
+TK000331,Customer,C659068,2026-09-05 20:59:19,2026-09-05 21:49:24,,Tracking / status,tra cuu van don thay ket o kho 2 ngay ko nhuc nhich,Pending,Operations,HCM-ThuDuc-SOC,SPXVN260006896
+TK000336,Seller,S00043,2026-09-05 22:33:04,2026-09-06 02:01:46,2026-09-06 17:02:30,Pickup failure,Hen lay hang ma khong ai den lay,Resolved,Operations,HCM-TanBinh-Hub,SPXVN260006911
+TK000342,Rider,R0170,2026-09-05 22:34:23,2026-09-05 23:34:01,,Delivery attempt,"Khách không nghe máy, phải giao lại nhiều lần",Open,Operations,HN-CauGiay-Hub,
+TK000345,Customer,C074328,2026-09-06 07:55:05,2026-09-06 09:07:59,,Late delivery,"giao chậm quá, quá hạn dự kiến rồi",Open,Operations,HCM-ThuDuc-SOC,SPXVN260007064
+TK000349,Rider,R0256,2026-09-06 10:23:55,2026-09-06 13:25:42,2026-09-06 18:16:26,,kém,Resolved,CS,CT-NinhKieu-Hub,
+TK000348,Seller,S00068,2026-09-06 10:36:30,2026-09-06 12:37:09,,Fee,Phi van chuyen tinh sai so voi bang gia,Open,Finance,HN-LongBien-SOC,SPXVN260007087
+TK000350,Rider,R0254,2026-09-06 11:42:15,2026-09-06 14:37:21,,Delivery attempt,"Khách không nghe máy, phải giao lại nhiều lần",Open,Operations,CT-NinhKieu-Hub,
+TK000347,Customer,C451698,2026-09-06 14:01:37,2026-09-06 15:54:16,2026-09-07 03:01:18,App issue,app spx bị lỗi không tra cứu được đơn!!!,Resolved,Product,HCM-ThuDuc-SOC,SPXVN260007077
+TK000344,Customer,C291528,2026-09-06 15:28:43,2026-09-06 16:47:12,,App issue,App SPX bi loi khong tra cuu duoc don,Open,Product,DN-HaiChau-Hub,SPXVN260007046
+TK000346,Customer,C121222,2026-09-06 22:31:25,2026-09-07 00:00:16,2026-09-07 21:23:43,Tracking / status,Tra cuu van don thay ket o kho 2 ngay khong nhuc nhich,Resolved,Operations,HCM-TanBinh-Hub,SPXVN260007070
+TK000359,Seller,S00169,2026-09-07 07:13:40,2026-09-07 07:48:14,2026-09-07 18:14:38,Tracking / status,"Don cua shop ket o kho khong cap nhat trang thai, khach hoi ma khong biet tra loi",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260007265
+TK000352,Customer,C539408,2026-09-07 08:37:52,2026-09-07 09:20:42,2026-09-07 16:38:09,,không hài lòng,Resolved,CS,DN-HaiChau-Hub,SPXVN260007211
+TK000360,Rider,R0046,2026-09-07 09:01:10,2026-09-07 11:25:30,,Hub processing delay,Hàng ra kho trễ nên giao không kịp,Open,Operations,HCM-TanBinh-Hub,
+TK000354,Customer,C753254,2026-09-07 10:05:41,2026-09-07 12:45:52,,,bình thường,Open,CS,HCM-ThuDuc-SOC,SPXVN260007231
+TK000357,Seller,S00091,2026-09-07 10:57:19,2026-09-07 12:06:59,2026-09-09 06:04:02,Fee,Phi van chuyen tinh sai so voi bang gia,Resolved,Finance,HCM-TanBinh-Hub,SPXVN260007260
+TK000353,Customer,C016210,2026-09-07 11:54:23,2026-09-07 14:53:11,2026-09-09 05:12:39,Lost / damaged parcel,"Mất hàng, đơn báo đã giao mà tôi ko nhận dc",Resolved,Operations,HN-LongBien-SOC,SPXVN260007212
+TK000356,Seller,S00243,2026-09-07 13:36:22,2026-09-07 16:59:11,,Pickup delay,"tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới",Pending,Operations,DN-HaiChau-Hub,SPXVN260007252
+TK000355,Customer,C455715,2026-09-07 15:08:52,2026-09-07 16:53:43,,Tracking / status,Khong biet mon hang cua toi dang o dau nua,Open,Operations,DN-HaiChau-Hub,SPXVN260007239
+TK000358,Seller,S00073,2026-09-07 16:35:06,2026-09-07 17:32:21,2026-09-07 22:00:28,Failed delivery,"Giao ko thành công 2 lần, ko biết đơn sẽ hoàn về shop hay dc giao lại",Resolved,Operations,CT-NinhKieu-Hub,SPXVN260007261
+TK000361,Rider,R0156,2026-09-07 17:43:30,2026-09-07 19:50:41,2026-09-09 00:53:40,Settlement,"thu nhap tuan nay tinh thieu don, chua doi soat dung!!!",Resolved,Finance,HN-LongBien-SOC,
+TK000351,Customer,C027554,2026-09-07 21:28:07,2026-09-07 22:35:51,,Lost / damaged parcel,"Hàng bị móp méo, vỡ đồ bên trong :(",Open,Operations,HCM-Q7-Hub,SPXVN260007209
+TK000365,Seller,S00251,2026-09-08 07:53:48,2026-09-08 11:17:24,2026-09-09 05:19:05,Failed delivery,"Don giao that bai, khach bao ko ai goi",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260007435
+TK000368,Rider,R0193,2026-09-08 10:22:48,2026-09-08 11:58:44,2026-09-09 01:58:35,App issue,Lỗi đăng nhập app từ sáng :(,Resolved,Product,HN-CauGiay-Hub,
+TK000363,Customer,C489418,2026-09-08 10:31:24,2026-09-08 11:42:03,2026-09-09 08:05:57,Late delivery,Dat hang lau qua ma chua thay giao,Resolved,Operations,CT-NinhKieu-Hub,SPXVN260007418
+TK000366,Seller,S00186,2026-09-08 12:29:53,2026-09-08 15:08:00,2026-09-09 03:54:28,Late delivery,Khách nhắn hỏi suốt mà hàng vẫn chưa tới tay họ,Resolved,Operations,HCM-Q7-Hub,SPXVN260007444
+TK000362,Customer,C781964,2026-09-08 13:56:30,2026-09-08 15:21:45,2026-09-09 12:29:33,Failed delivery,Đơn bị báo giao thất bại dù không ai gọi cho tôi,Resolved,Operations,HN-LongBien-SOC,SPXVN260007412
+TK000367,Rider,R0007,2026-09-08 16:51:38,2026-09-08 19:09:44,2026-09-09 21:08:14,Delivery attempt,"Khach ko nghe may, phai giao lai nhieu lan",Resolved,Operations,HCM-ThuDuc-SOC,
+TK000364,Seller,S00165,2026-09-08 21:58:44,2026-09-09 00:44:21,2026-09-09 03:43:03,Return,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Resolved,Operations,HN-LongBien-SOC,SPXVN260007430
+TK000371,Seller,S00226,2026-09-09 11:24:14,2026-09-09 12:13:09,,Repeated contact,goi di goi lai nhieu lan van chua ai giai quyet huhu,Open,SS,HCM-TanBinh-Hub,SPXVN260007604
+TK000372,Rider,R0046,2026-09-09 12:30:14,2026-09-09 14:21:56,2026-09-10 04:37:41,Delivery attempt,"khach khong nghe may, phai giao lai nhieu lan",Resolved,Operations,HCM-TanBinh-Hub,
+TK000370,Customer,C031409,2026-09-09 14:22:28,2026-09-09 16:51:41,2026-09-09 22:52:42,Failed delivery,Shipper báo giao ko thành công nhưng tôi ở nhà cả ngày,Resolved,Operations,HCM-TanBinh-Hub,SPXVN260007576
+TK000369,Customer,C381715,2026-09-09 15:36:58,2026-09-09 17:40:13,2026-09-11 07:15:38,Slow response,gọi tổng đài chờ mãi không ai nghe máy,Resolved,CS,DN-HaiChau-Hub,SPXVN260007570
+TK000376,Seller,S00036,2026-09-10 08:05:10,2026-09-10 10:18:23,2026-09-10 16:07:14,COD,"Chưa nhận dc tiền thu hộ tuần trước, còn hẹn lấy hàng mà ko ai đến lấy",Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260007772
+TK000378,Seller,S00075,2026-09-10 11:27:04,2026-09-10 14:32:16,2026-09-11 11:06:58,Return,"Hang hoan ve shop bi cham, hoan ca tuan chua ve",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260007779
+TK000374,Customer,C422287,2026-09-10 12:21:44,2026-09-10 13:39:51,2026-09-11 09:34:49,No response,Nhắn CSKH 2 ngày rồi chưa được phản hồi,Resolved,CS,HN-LongBien-SOC,SPXVN260007746
+TK000379,Rider,R0252,2026-09-10 15:07:22,2026-09-10 17:57:20,2026-09-12 05:30:03,App issue,App tai xe khong dang nhap dc,Resolved,Product,CT-NinhKieu-Hub,
+TK000375,Customer,C214223,2026-09-10 17:58:24,2026-09-10 19:56:22,2026-09-12 13:18:30,Lost / damaged parcel,"hàng bị móp méo, vỡ đồ bên trong",Resolved,Operations,DN-HaiChau-Hub,SPXVN260007756
+TK000377,Seller,S00148,2026-09-10 19:37:52,2026-09-10 22:50:48,,Compensation,"Don mat hang ma boi thuong qua lau, chua thay tien den bu",Pending,SS,HCM-ThuDuc-SOC,SPXVN260007777
+TK000373,Customer,C290414,2026-09-10 22:30:47,2026-09-10 23:23:00,2026-09-11 17:05:55,Late delivery,"Don giao tre qua, hen hom qua ma gio van chua nhan duoc hang",Resolved,Operations,CT-NinhKieu-Hub,SPXVN260007730
+TK000382,Seller,S00113,2026-09-11 07:17:29,2026-09-11 07:54:30,2026-09-12 23:16:13,COD,Chua nhan duoc tien thu ho tuan truoc,Resolved,Finance,CT-NinhKieu-Hub,SPXVN260007943
+TK000384,Rider,R0071,2026-09-11 15:30:26,2026-09-11 18:07:43,,,chán,Open,CS,HCM-TanBinh-Hub,
+TK000383,Seller,S00220,2026-09-11 16:29:48,2026-09-11 19:45:14,2026-09-12 00:20:52,COD,"Tien COD chua duoc doi soat, cham 5 ngay roi",Resolved,Finance,HCM-Q7-Hub,SPXVN260007946
+TK000381,Customer,C340896,2026-09-11 20:18:43,2026-09-11 23:14:54,2026-09-13 02:58:04,Slow response,chat với cskh phản hồi chậm quá!!!,Resolved,CS,HN-LongBien-SOC,SPXVN260007925
+TK000380,Customer,C148540,2026-09-11 20:30:06,2026-09-11 21:16:17,2026-09-12 17:11:31,Incorrect information,"Nhan vien tu van sai, bao hom nay giao ma khong giao",Resolved,CS,DN-HaiChau-Hub,SPXVN260007903
+TK000388,Seller,S00082,2026-09-12 16:59:08,2026-09-12 18:01:38,2026-09-12 22:04:13,Tracking / status,Khach hoi don lien tuc vi trang thai khong doi,Resolved,Operations,HN-CauGiay-Hub,SPXVN260008123
+TK000386,Seller,S00191,2026-09-12 20:17:02,2026-09-12 20:59:11,2026-09-14 15:55:40,Pickup delay,"tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260008110
+TK000389,Rider,R0182,2026-09-12 20:40:11,2026-09-12 23:12:59,2026-09-13 13:23:23,Handover issue,"Shop chưa đóng gói xong, chờ bàn giao hàng lâu",Resolved,Operations,HN-CauGiay-Hub,
+TK000387,Seller,S00279,2026-09-12 22:01:07,2026-09-13 00:27:29,2026-09-13 15:40:33,Pickup delay,"Lấy hàng chậm, đơn tồn ở shop 2 ngày",Resolved,Operations,HN-LongBien-SOC,SPXVN260008121
+TK000385,Customer,C428073,2026-09-12 22:05:52,2026-09-12 23:59:59,,Lost / damaged parcel,Mở ra thì đồ bên trong không còn nguyên vẹn,Open,Operations,HCM-ThuDuc-SOC,SPXVN260008105
+TK000390,Customer,C492747,2026-09-13 09:36:43,2026-09-13 12:25:32,2026-09-15 06:57:25,Late delivery,"Đơn giao trễ quá, hẹn hôm qua mà giờ vẫn chưa nhận được hàng",Resolved,Operations,HN-CauGiay-Hub,SPXVN260008245
+TK000394,Rider,R0225,2026-09-13 10:23:53,2026-09-13 11:02:49,,Hub processing delay,sang nao cung dung cho ca buoi moi duoc di,Open,Operations,DN-HaiChau-Hub,
+TK000392,Seller,S00098,2026-09-13 19:22:48,2026-09-13 21:18:37,2026-09-14 23:27:06,Return,"hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Resolved,Operations,HN-CauGiay-Hub,SPXVN260008281
+TK000393,Seller,S00261,2026-09-13 21:51:45,2026-09-13 23:34:11,2026-09-15 02:51:26,Late delivery,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Resolved,Operations,HCM-Q7-Hub,SPXVN260008291
+TK000391,Customer,C312870,2026-09-13 21:57:28,2026-09-13 22:47:15,2026-09-14 17:44:53,,tệ,Resolved,CS,HCM-ThuDuc-SOC,SPXVN260008247
+TK000395,Customer,C010227,2026-09-14 08:21:34,2026-09-14 11:14:38,2026-09-15 23:01:06,App issue,app spx bị lỗi không tra cứu được đơn,Resolved,Product,HCM-Q7-Hub,SPXVN260008415
+TK000401,Seller,S00050,2026-09-14 08:22:33,2026-09-14 11:31:12,2026-09-15 13:27:55,COD,"Tien COD chua duoc doi soat, cham 5 ngay roi",Resolved,Finance,HCM-TanBinh-Hub,SPXVN260008456
+TK000400,Customer,C618729,2026-09-14 10:33:48,2026-09-14 13:31:09,,Late delivery,"Hang giao tre hen 3 ngay, khong ai bao truoc",Open,Operations,HN-LongBien-SOC,SPXVN260008452
+TK000402,Seller,S00206,2026-09-14 11:26:57,2026-09-14 12:19:10,2026-09-15 00:21:10,Compensation,"Đơn mất hàng mà bồi thường quá lâu, chưa thấy tiền đền bùaaa",Resolved,SS,HN-CauGiay-Hub,SPXVN260008457
+TK000404,Seller,S00144,2026-09-14 11:27:41,2026-09-14 14:02:40,2026-09-15 15:38:07,COD,Chua nhan duoc tien thu ho tuan truoc,Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260008463
+TK000397,Customer,C436915,2026-09-14 12:10:25,2026-09-14 12:49:32,2026-09-16 00:54:46,No response,Nhắn CSKH 2 ngày rồi chưa được phản hồi,Resolved,CS,DN-HaiChau-Hub,SPXVN260008431
+TK000396,Customer,C070412,2026-09-14 12:32:42,2026-09-14 15:46:58,2026-09-16 02:57:13,,ok,Resolved,CS,HCM-TanBinh-Hub,SPXVN260008419
+TK000409,Seller,S00057,2026-09-14 12:59:56,2026-09-14 17:48:04,2026-09-16 07:31:15,Tracking / status,Trang thai don dung im 2 ngay o kho,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260008475
+TK000410,Rider,R0017,2026-09-14 13:55:31,2026-09-14 20:10:37,2026-09-16 12:30:33,Hub processing delay,"Hub xử lý đơn quá chậm, 10h mới có hàng :(",Resolved,Operations,HCM-ThuDuc-SOC,
+TK000399,Customer,C472865,2026-09-14 17:49:22,2026-09-14 18:56:04,2026-09-15 13:49:36,Failed delivery,"Don bi bao giao that bai du khong ai goi cho toi, them nua la app spx bi loi khong tra cuu duoc don",Resolved,Operations,HN-LongBien-SOC,SPXVN260008451
+TK000406,Customer,C351758,2026-09-14 18:12:11,2026-09-15 00:37:13,2026-09-15 11:53:14,Late delivery,Dat hang lau wa ma chua thay giao,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260008472
+TK000398,Customer,C422154,2026-09-14 18:26:47,2026-09-14 20:34:36,2026-09-16 13:19:44,Late delivery,"Giao hang cham, cho gan 1 tuan moi toi huhu",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260008434
+TK000403,Seller,S00113,2026-09-14 18:37:26,2026-09-14 18:57:35,2026-09-15 07:20:59,COD,"chưa nhận được tiền thu hộ tuần trước, thêm nữa là phí vận chuyển tính sai so với bảng giá",Resolved,Finance,CT-NinhKieu-Hub,SPXVN260008460
+TK000408,Customer,C225039,2026-09-14 19:54:58,2026-09-15 04:53:22,,Tracking / status,"Theo doi don khong thay thay doi gi, khong biet khi nao giao",Pending,Operations,HCM-ThuDuc-SOC,SPXVN260008474
+TK000405,Seller,S00007,2026-09-14 21:01:02,2026-09-14 21:42:06,2026-09-15 06:57:43,Pickup delay,"Lấy hàng chậm, đơn tồn ở shop 2 ngày",Resolved,Operations,HCM-TanBinh-Hub,SPXVN260008468
+TK000407,Customer,C492547,2026-09-14 21:32:36,2026-09-15 04:46:40,,Tracking / status,"Trang thai don khong cap nhat, cu nam o kho mai",Open,Operations,HCM-ThuDuc-SOC,SPXVN260008473
+TK000435,Rider,R0150,2026-09-15 07:40:31,2026-09-15 10:11:11,2026-09-16 14:27:34,App issue,"App bị văng, không cập nhật được trạng thái giao",Resolved,Product,HN-LongBien-SOC,
+TK000417,Seller,S00042,2026-09-15 08:03:50,2026-09-15 09:57:00,2026-09-15 18:32:46,Compensation,"don mat hang ma boi thuong wa lau, chua thay tien den bu",Resolved,SS,HCM-ThuDuc-SOC,SPXVN260008634
+TK000425,Customer,C964253,2026-09-15 08:11:35,2026-09-15 18:53:36,2026-09-17 16:11:01,Late delivery,Đặt hàng lâu quá mà chưa thấy giao,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260008651
+TK000427,Customer,C846273,2026-09-15 08:12:02,2026-09-15 14:26:44,2026-09-17 10:47:06,Late delivery,đặt hàng lâu quá mà chưa thấy giao,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260008654
+TK000431,Seller,S00058,2026-09-15 08:15:05,2026-09-15 15:34:29,,Late delivery,"Nhieu don cua shop giao cham 3-4 ngay, khach phan nan, con tien cod chua duoc doi soat, cham 5 ngay roi",Open,Operations,HCM-ThuDuc-SOC,SPXVN260008659
+TK000426,Customer,C135346,2026-09-15 08:18:26,2026-09-15 17:40:03,2026-09-17 11:56:48,Tracking / status,"Tra cứu vận đơn thấy kẹt ở kho 2 ngày không nhúc nhích, còn đơn bị báo giao thất bại dù không ai gọi cho tôi",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260008653
+TK000434,Rider,R0003,2026-09-15 08:27:24,2026-09-15 13:07:09,2026-09-16 03:20:20,Hub processing delay,"Hub xử lý đơn quá chậm, 10h mới có hàng",Resolved,Operations,HCM-ThuDuc-SOC,
+TK000429,Seller,S00046,2026-09-15 08:42:55,2026-09-15 19:33:37,,Late delivery,"Don shop gui giao tre hen, bi khach danh gia 1 sao huhu",Open,Operations,HCM-ThuDuc-SOC,SPXVN260008656
+TK000423,Rider,R0091,2026-09-15 10:02:06,2026-09-15 13:25:44,2026-09-15 15:41:25,,kém,Resolved,CS,HCM-Q7-Hub,
+TK000416,Seller,S00150,2026-09-15 10:18:05,2026-09-15 11:05:08,2026-09-16 11:25:07,Settlement,tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Resolved,Finance,CT-NinhKieu-Hub,SPXVN260008633
+TK000414,Customer,C381240,2026-09-15 10:58:20,2026-09-15 13:41:11,2026-09-17 11:08:33,,không hài lòng,Resolved,CS,HCM-Q7-Hub,SPXVN260008619
+TK000418,Seller,S00147,2026-09-15 11:10:57,2026-09-15 12:50:19,,Fee,Phi van chuyen tinh sai so voi bang gia,Pending,Finance,HCM-ThuDuc-SOC,SPXVN260008635
+TK000424,Rider,R0009,2026-09-15 11:42:08,2026-09-15 12:43:51,2026-09-17 01:45:41,Wrong routing,"Hàng bị chia sai tuyến, phải chạy vòng, thêm nữa là shop chưa đóng gói xong, chờ bàn giao hàng lâu",Resolved,Operations,HCM-ThuDuc-SOC,
+TK000420,Seller,S00175,2026-09-15 13:57:04,2026-09-15 14:35:37,,COD,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",Pending,Finance,CT-NinhKieu-Hub,SPXVN260008640
+TK000422,Seller,S00083,2026-09-15 15:10:32,2026-09-15 18:16:57,,COD,Chưa nhận được tiền thu hộ tuần trước,Open,Finance,DN-HaiChau-Hub,SPXVN260008650
+TK000419,Seller,S00182,2026-09-15 15:42:58,2026-09-15 16:14:43,2026-09-15 19:24:37,COD,"Tien COD chua duoc doi soat, cham 5 ngay r",Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260008636
+TK000411,Customer,C066286,2026-09-15 16:06:10,2026-09-15 19:02:48,2026-09-16 12:51:05,Incorrect information,"Nhan vien tu van sai, bao hom nay giao ma khong giao :(",Resolved,CS,HCM-ThuDuc-SOC,SPXVN260008591
+TK000412,Customer,C449709,2026-09-15 17:15:16,2026-09-15 19:50:22,2026-09-16 00:38:06,,...,Resolved,CS,CT-NinhKieu-Hub,SPXVN260008599
+TK000415,Seller,S00205,2026-09-15 17:18:24,2026-09-15 18:31:14,2026-09-16 11:33:02,Late delivery,"Don shop gui giao tre hen, bi khach danh gia 1 sao :(",Resolved,Operations,HN-LongBien-SOC,SPXVN260008632
+TK000428,Customer,C569662,2026-09-15 17:23:21,2026-09-15 21:57:10,,Late delivery,"giao cham qua, qua han du kien roi",Pending,Operations,HCM-ThuDuc-SOC,SPXVN260008655
+TK000433,Rider,R0039,2026-09-15 19:05:23,2026-09-16 03:36:14,2026-09-17 07:20:14,Hub processing delay,"Kho chia hàng chậm, tài xế phải đợi 3 tiếng",Resolved,Operations,HCM-ThuDuc-SOC,
+TK000421,Seller,S00001,2026-09-15 20:51:18,2026-09-15 22:53:44,2026-09-17 13:48:21,,ok,Resolved,SS,HN-LongBien-SOC,SPXVN260008644
+TK000432,Seller,S00058,2026-09-15 21:45:38,2026-09-16 02:21:08,,Late delivery,"Nhieu don cua shop giao cham 3-4 ngay, khach phan nan, con tien cod chua duoc doi soat, cham 5 ngay roi",Pending,Operations,HCM-ThuDuc-SOC,SPXVN260008659
+TK000413,Customer,C214075,2026-09-15 21:58:48,2026-09-16 00:44:57,2026-09-16 15:12:04,Slow response,Gọi tổng đài chờ mãi không ai nghe máy,Resolved,CS,DN-HaiChau-Hub,SPXVN260008608
+TK000446,Customer,C218518,2026-09-16 07:12:07,2026-09-16 12:42:19,,Late delivery,Đặt hàng lâu quá mà chưa thấy giao,Open,Operations,HCM-ThuDuc-SOC,SPXVN260008835
+TK000436,Customer,C745460,2026-09-16 08:20:52,2026-09-16 09:23:01,2026-09-17 23:53:17,Fee,"Phí ship cao quá so với chỗ khác, thêm nữa là gửi yêu cầu hỗ trợ mà không ai trả lời",Resolved,Finance,HCM-ThuDuc-SOC,SPXVN260008771
+TK000445,Seller,S00218,2026-09-16 08:39:42,2026-09-16 11:59:40,2026-09-17 20:09:34,Settlement,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Resolved,Finance,HCM-TanBinh-Hub,SPXVN260008833
+TK000443,Customer,C509396,2026-09-16 08:59:29,2026-09-16 09:31:23,2026-09-17 21:55:34,,chán,Resolved,CS,HN-CauGiay-Hub,SPXVN260008808
+TK000437,Customer,C932766,2026-09-16 09:29:08,2026-09-16 12:20:53,2026-09-17 01:06:48,Tracking / status,Đơn báo đang xử lý tại kho mãi không đi,Resolved,Operations,HCM-Q7-Hub,SPXVN260008776
+TK000453,Seller,S00179,2026-09-16 10:07:48,2026-09-16 20:14:37,,Late delivery,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Pending,Operations,HCM-ThuDuc-SOC,SPXVN260008842
+TK000444,Seller,S00175,2026-09-16 10:23:54,2026-09-16 11:29:31,2026-09-18 02:51:58,Pickup delay,"Tai xe den lay hang tre, hen sang ma chieu moi toi",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260008832
+TK000448,Customer,C864774,2026-09-16 13:08:40,2026-09-16 20:55:16,2026-09-17 07:46:24,Late delivery,"Đơn giao trễ quá, hẹn hôm qua mà giờ vẫn chưa nhận được hàng",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260008837
+TK000454,Seller,S00179,2026-09-16 13:09:47,2026-09-16 23:05:51,2026-09-17 09:40:11,Late delivery,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260008842
+TK000449,Customer,C043725,2026-09-16 15:43:15,2026-09-17 00:23:45,,Late delivery,"Đặt hàng lâu quá mà chưa thấy giao, còn app spx bị lỗi không tra cứu được đơn",Pending,Operations,HCM-ThuDuc-SOC,SPXVN260008839
+TK000440,Customer,C546779,2026-09-16 16:12:39,2026-09-16 17:55:07,,Late delivery,"giao hàng chậm, chờ gần 1 tuần mới tới",Pending,Operations,CT-NinhKieu-Hub,SPXVN260008789
+TK000439,Customer,C689335,2026-09-16 17:46:17,2026-09-16 20:49:44,2026-09-17 04:02:58,Late delivery,"Hàng giao trễ hẹn 3 ngày, không ai báo trước",Resolved,Operations,DN-HaiChau-Hub,SPXVN260008783
+TK000430,Seller,S00046,2026-09-16 18:05:08,2026-09-17 05:03:27,2026-09-18 22:59:59,Late delivery,"Don shop gui giao tre hen, bi khach danh gia 1 sao huhu",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260008656
+TK000452,Seller,S00016,2026-09-16 18:57:22,2026-09-17 01:43:47,2026-09-19 01:02:16,Tracking / status,Trạng thái đơn đứng im 2 ngày ở kho,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260008841
+TK000451,Seller,S00016,2026-09-16 18:58:18,2026-09-17 04:11:27,2026-09-18 00:07:16,Tracking / status,Trạng thái đơn đứng im 2 ngày ở kho,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260008841
+TK000447,Customer,C285035,2026-09-16 20:16:11,2026-09-17 01:46:43,2026-09-17 10:11:07,Tracking / status,Don bao dang xu ly tai kho mai khong di,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260008836
+TK000438,Customer,C884289,2026-09-16 20:25:20,2026-09-16 21:52:15,,,tệ,Open,CS,HCM-ThuDuc-SOC,SPXVN260008779
+TK000442,Customer,C480981,2026-09-16 20:30:13,2026-09-16 23:27:52,,Late delivery,"Giao hàng chậm, chờ gần 1 tuần mới tới",Pending,Operations,CT-NinhKieu-Hub,SPXVN260008802
+TK000441,Customer,C653168,2026-09-16 20:36:55,2026-09-16 22:51:50,2026-09-18 10:03:11,Late delivery,"Hàng giao trễ hẹn 3 ngày, ko ai báo trước",Resolved,Operations,DN-HaiChau-Hub,SPXVN260008791
+TK000450,Seller,S00114,2026-09-16 20:41:17,2026-09-17 07:25:00,2026-09-17 17:50:55,Tracking / status,Khach hoi don lien tuc vi trang thai khong doi,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260008840
+TK000456,Rider,R0134,2026-09-16 21:38:05,2026-09-16 23:14:33,2026-09-18 05:43:59,App issue,"App bị văng, không cập nhật được trạng thái giao",Resolved,Product,HN-LongBien-SOC,
+TK000455,Rider,R0040,2026-09-16 22:04:57,2026-09-17 02:38:40,2026-09-17 18:03:48,Hub processing delay,"Hub xu ly don wa cham, 10h moi co hang",Resolved,Operations,HCM-ThuDuc-SOC,
+TK000458,Customer,C683085,2026-09-17 07:30:27,2026-09-17 08:17:25,2026-09-19 02:52:04,Slow response,chat voi cskh phan hoi cham qua,Resolved,CS,HCM-TanBinh-Hub,SPXVN260008968
+TK000472,Rider,R0144,2026-09-17 07:39:33,2026-09-17 09:24:40,,App issue,"App bi vang, khong cap nhat duoc trang thai giao",Open,Product,HN-LongBien-SOC,
+TK000470,Customer,C424948,2026-09-17 07:49:45,2026-09-17 14:03:34,2026-09-19 10:20:47,Late delivery,"Hang giao tre hen 3 ngay, khong ai bao truoc",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009027
+TK000468,Customer,C945180,2026-09-17 07:53:16,2026-09-17 18:37:11,,Tracking / status,"Theo dõi đơn không thấy thay đổi gì, không biết khi nào giao",Pending,Operations,HCM-ThuDuc-SOC,SPXVN260009025
+TK000457,Customer,C564751,2026-09-17 09:03:57,2026-09-17 12:28:13,2026-09-18 22:12:39,,chán,Resolved,CS,HCM-Q7-Hub,SPXVN260008958
+TK000467,Customer,C413863,2026-09-17 09:44:13,2026-09-17 16:10:59,,Late delivery,"Don giao tre qua, hen hom qua ma gio van chua nhan duoc hang",Open,Operations,HCM-ThuDuc-SOC,SPXVN260009024
+TK000469,Customer,C989171,2026-09-17 09:47:38,2026-09-17 20:23:22,,Late delivery,Dat hang lau qua ma chua thay giao,Pending,Operations,HCM-ThuDuc-SOC,SPXVN260009026
+TK000465,Customer,C667846,2026-09-17 12:35:24,2026-09-17 23:30:56,2026-09-19 12:15:17,Late delivery,"Đơn giao trễ quá, hẹn hôm qua mà giờ vẫn chưa nhận được hàng",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009022
+TK000461,Customer,C494389,2026-09-17 13:31:33,2026-09-17 16:50:04,2026-09-19 14:41:29,Tracking / status,Tra cứu vận đơn thấy kẹt ở kho 2 ngày không nhúc nhích,Resolved,Operations,HCM-Q7-Hub,SPXVN260008989
+TK000464,Rider,R0164,2026-09-17 14:43:46,2026-09-17 15:15:24,2026-09-19 01:18:07,Hub processing delay,Chờ ở hub quá lâu mới nhận dc hàng đi giao,Resolved,Operations,HN-CauGiay-Hub,
+TK000460,Customer,C453130,2026-09-17 14:53:34,2026-09-17 15:45:24,2026-09-18 15:19:41,,chán,Resolved,CS,HCM-ThuDuc-SOC,SPXVN260008983
+TK000459,Customer,C353796,2026-09-17 15:48:04,2026-09-17 18:19:01,2026-09-18 07:58:50,Late delivery,"Đơn giao trễ quá, hẹn hôm qua mà giờ vẫn chưa nhận được hàng",Resolved,Operations,HCM-Q7-Hub,SPXVN260008969
+TK000471,Seller,S00008,2026-09-17 16:37:42,2026-09-18 02:04:29,,Tracking / status,Trang thai don dung im 2 ngay o kho,Open,Operations,HCM-ThuDuc-SOC,SPXVN260009030
+TK000462,Customer,C623694,2026-09-17 17:29:37,2026-09-17 20:39:28,2026-09-18 08:36:58,,chán,Resolved,CS,CT-NinhKieu-Hub,SPXVN260008997
+TK000466,Customer,C480268,2026-09-17 18:20:54,2026-09-17 23:05:30,2026-09-18 23:00:09,Late delivery,"Giao chậm quá, quá hạn dự kiến rồi",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009023
+TK000463,Seller,S00025,2026-09-17 22:08:18,2026-09-17 23:30:51,2026-09-18 12:25:05,Late delivery,"Nhiều đơn của shop giao chậm 3-4 ngày, khách phàn nàn",Resolved,Operations,HN-LongBien-SOC,SPXVN260009008
+TK000483,Rider,R0006,2026-09-18 08:01:17,2026-09-18 17:53:08,2026-09-19 10:54:38,Hub processing delay,Hàng ra kho trễ nên giao không kịp,Resolved,Operations,HCM-ThuDuc-SOC,
+TK000482,Seller,S00060,2026-09-18 08:26:25,2026-09-18 17:11:37,2026-09-20 10:14:14,Late delivery,"Don shop gui giao tre hen, bi khach danh gia 1 sao",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009211
+TK000477,Customer,C777327,2026-09-18 09:15:24,2026-09-18 14:00:36,,Tracking / status,"Trạng thái đơn ko cập nhật, cứ nằm ở kho mãi",Pending,Operations,HCM-ThuDuc-SOC,SPXVN260009205
+TK000481,Seller,S00060,2026-09-18 09:22:58,2026-09-18 14:04:19,2026-09-19 09:05:26,Late delivery,"Don shop gui giao tre hen, bi khach danh gia 1 sao",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009211
+TK000485,Rider,R0135,2026-09-18 10:07:53,2026-09-18 10:31:46,2026-09-20 06:21:41,App issue,App tài xế không đăng nhập được,Resolved,Product,HN-LongBien-SOC,
+TK000474,Seller,S00211,2026-09-18 11:03:07,2026-09-18 13:06:35,,Pickup delay,"Tai xe den lay hang tre, hen sang ma chieu moi toi",Open,Operations,CT-NinhKieu-Hub,SPXVN260009197
+TK000484,Rider,R0121,2026-09-18 13:15:44,2026-09-18 13:36:55,2026-09-18 18:58:24,App issue,App tài xế không đăng nhập được,Resolved,Product,HN-LongBien-SOC,
+TK000480,Seller,S00044,2026-09-18 13:20:10,2026-09-18 19:42:25,2026-09-19 02:26:23,Tracking / status,"Đơn của shop kẹt ở kho không cập nhật trạng thái, khách hỏi mà không biết trả lời :(",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009208
+TK000486,Rider,R0133,2026-09-18 13:46:15,2026-09-18 15:11:34,2026-09-19 16:45:37,App issue,Lỗi đăng nhập app từ sáng,Resolved,Product,HN-LongBien-SOC,
+TK000475,Customer,C693011,2026-09-18 13:49:09,2026-09-18 19:16:31,2026-09-20 07:11:12,Late delivery,Dat hang lau qua ma chua thay giao,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009201
+TK000478,Customer,C598777,2026-09-18 15:45:33,2026-09-19 02:12:41,2026-09-19 21:10:49,Late delivery,"Hàng giao trễ hẹn 3 ngày, không ai báo trước",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009206
+TK000473,Seller,S00193,2026-09-18 15:46:37,2026-09-18 18:47:09,,Late delivery,"đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Open,Operations,HCM-ThuDuc-SOC,SPXVN260009195
+TK000479,Customer,C642010,2026-09-18 19:13:15,2026-09-19 02:48:18,,Late delivery,đặt hàng lâu quá mà chưa thấy giao,Pending,Operations,HCM-ThuDuc-SOC,SPXVN260009207
+TK000476,Customer,C513836,2026-09-18 20:24:30,2026-09-19 03:08:59,,Late delivery,Đặt hàng lâu quá mà chưa thấy giao,Open,Operations,HCM-ThuDuc-SOC,SPXVN260009202
+TK000492,Customer,C318554,2026-09-19 07:15:45,2026-09-19 13:54:35,,Late delivery,"Don giao tre qua, hen hom qua ma gio van chua nhan duoc hang",Open,Operations,HCM-ThuDuc-SOC,SPXVN260009388
+TK000503,Rider,R0160,2026-09-19 08:14:39,2026-09-19 11:15:57,2026-09-19 15:10:30,App issue,Lỗi đăng nhập app từ sáng,Resolved,Product,HN-LongBien-SOC,
+TK000493,Customer,C055296,2026-09-19 09:23:53,2026-09-19 18:16:05,,Late delivery,"Giao hàng chậm, chờ gần 1 tuần mới tới!!!",Open,Operations,HCM-ThuDuc-SOC,SPXVN260009389
+TK000495,Seller,S00060,2026-09-19 09:44:51,2026-09-19 17:48:20,2026-09-20 19:07:23,Tracking / status,Trang thai don dung im 2 ngay o kho huhu,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009391
+TK000489,Customer,C190562,2026-09-19 10:07:17,2026-09-19 12:21:02,2026-09-19 20:41:36,Late delivery,Đặt hàng lâu wa mà chưa thấy giao,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009357
+TK000491,Customer,C253722,2026-09-19 10:48:18,2026-09-19 16:10:27,,Late delivery,"Giao cham wa, wa han du kien roi, con nhan cskh 2 ngay roi chua dc phan hoi",Pending,Operations,HCM-ThuDuc-SOC,SPXVN260009387
+TK000499,Rider,R0014,2026-09-19 12:36:03,2026-09-19 18:38:48,,Hub processing delay,Cho o hub qua lau moi nhan dc hang di giao,Pending,Operations,HCM-ThuDuc-SOC,
+TK000494,Customer,C904454,2026-09-19 13:02:50,2026-09-19 21:54:41,2026-09-21 13:13:07,Late delivery,Đặt hàng lâu quá mà chưa thấy giao,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009390
+TK000490,Seller,S00261,2026-09-19 13:50:01,2026-09-19 14:43:12,2026-09-20 07:38:10,COD,"Tiền COD chưa dc đối soát, chậm 5 ngày rồi",Resolved,Finance,HN-LongBien-SOC,SPXVN260009370
+TK000497,Seller,S00093,2026-09-19 15:42:17,2026-09-19 22:15:51,,Repeated contact,Goi di goi lai nhieu lan van chua ai giai quyet,Pending,SS,HCM-ThuDuc-SOC,SPXVN260009394
+TK000500,Rider,R0028,2026-09-19 15:49:09,2026-09-19 22:34:32,2026-09-21 18:25:57,Hub processing delay,"Hub xử lý đơn quá chậm, 10h mới có hàng",Resolved,Operations,HCM-ThuDuc-SOC,
+TK000496,Seller,S00133,2026-09-19 19:23:28,2026-09-20 01:44:59,,Late delivery,"đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Pending,Operations,HCM-ThuDuc-SOC,SPXVN260009393
+TK000502,Rider,R0153,2026-09-19 19:35:20,2026-09-19 20:17:11,2026-09-20 01:18:43,App issue,App tài xế không đăng nhập được,Resolved,Product,HN-LongBien-SOC,
+TK000488,Customer,C155428,2026-09-19 19:43:38,2026-09-19 22:54:24,2026-09-21 21:53:20,Tracking / status,Tra cứu vận đơn thấy kẹt ở kho 2 ngày không nhúc nhích,Resolved,Operations,HCM-TanBinh-Hub,SPXVN260009342
+TK000501,Rider,R0146,2026-09-19 21:41:17,2026-09-19 23:39:13,,App issue,App tài xế không đăng nhập được :(,Pending,Product,HN-LongBien-SOC,
+TK000487,Customer,C240487,2026-09-19 21:42:15,2026-09-19 23:56:50,,Incorrect information,"Nhan vien tu van sai, bao hom nay giao ma khong giao",Pending,CS,HCM-TanBinh-Hub,SPXVN260009324
+TK000513,Customer,C207853,2026-09-20 07:41:41,2026-09-20 14:26:53,2026-09-21 17:43:50,Late delivery,"Hang giao tre hen 3 ngay, khong ai bao truoc!!!",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009564
+TK000515,Customer,C142606,2026-09-20 07:55:13,2026-09-20 16:13:51,2026-09-20 23:53:45,Late delivery,"Giao hang cham, cho gan 1 tuan moi toi",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009566
+TK000505,Customer,C105005,2026-09-20 10:32:33,2026-09-20 11:55:16,2026-09-20 20:46:05,App issue,App SPX bị lỗi không tra cứu được đơn,Resolved,Product,HCM-Q7-Hub,SPXVN260009512
+TK000508,Seller,S00315,2026-09-20 11:13:19,2026-09-20 13:17:21,2026-09-21 21:06:29,Late delivery,"Đơn của shop bị giao trễ, khách hủy đơn liên tục :(",Resolved,Operations,HN-CauGiay-Hub,SPXVN260009554
+TK000509,Seller,S00249,2026-09-20 13:07:27,2026-09-20 15:18:47,2026-09-22 03:13:04,Pickup failure,Hen lay hang ma khong ai den lay!!!,Resolved,Operations,HN-LongBien-SOC,SPXVN260009556
+TK000514,Customer,C932684,2026-09-20 13:33:15,2026-09-20 19:46:35,2026-09-21 04:13:09,Late delivery,"Giao hang cham, cho gan 1 tuan moi toi, con phi ship cao qua so voi cho khac",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009565
+TK000516,Customer,C145571,2026-09-20 14:54:07,2026-09-20 22:45:40,2026-09-22 00:09:07,Late delivery,Đặt hàng lâu quá mà chưa thấy giao huhu,Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009567
+TK000498,Seller,S00093,2026-09-20 15:02:51,2026-09-20 22:27:15,,Repeated contact,Goi di goi lai nhieu lan van chua ai giai quyet,Open,SS,HCM-ThuDuc-SOC,SPXVN260009394
+TK000504,Customer,C832955,2026-09-20 15:47:28,2026-09-20 17:34:40,2026-09-21 23:50:47,Late delivery,"Hàng giao trễ hẹn 3 ngày, không ai báo trước",Resolved,Operations,HCM-Q7-Hub,SPXVN260009511
+TK000517,Rider,R0023,2026-09-20 17:06:21,2026-09-20 23:22:47,2026-09-21 14:10:52,Hub processing delay,Chờ ở hub wa lâu mới nhận được hàng đi giao,Resolved,Operations,HCM-ThuDuc-SOC,
+TK000510,Seller,S00114,2026-09-20 18:12:38,2026-09-20 19:56:51,2026-09-22 14:35:22,,ok,Resolved,SS,HN-LongBien-SOC,SPXVN260009559
+TK000512,Rider,R0080,2026-09-20 19:19:01,2026-09-20 20:27:16,,Settlement,"Thu nhap tuan nay tinh thieu don, chua doi soat dung",Open,Finance,HCM-TanBinh-Hub,
+TK000506,Customer,C483681,2026-09-20 20:32:23,2026-09-20 22:22:04,2026-09-22 03:50:05,Late delivery,"Hang giao tre hen 3 ngay, khong ai bao truoc",Resolved,Operations,HCM-ThuDuc-SOC,SPXVN260009521
+TK000507,Customer,C006883,2026-09-20 22:29:11,2026-09-21 01:47:37,,Tracking / status,Tra cuu van don thay ket o kho 2 ngay khong nhuc nhich,Open,Operations,HCM-ThuDuc-SOC,SPXVN260009524
+TK000511,Seller,S00157,2026-09-20 22:46:58,2026-09-20 23:54:46,2026-09-21 21:40:46,COD,"tiền cod chưa được đối soát, chậm 5 ngày rồi!!!",Resolved,Finance,HCM-Q7-Hub,SPXVN260009561

@@ -1,0 +1,1137 @@
+feedback_id,stakeholder_type,seller_id,timestamp,rating,comment,issue_type,region,hub,tracking_id
+SV000001,Seller,S00305,2026-07-27 12:50:19,5,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260000046
+SV000002,Seller,S00118,2026-07-27 15:01:05,5,ho tro nhiet tinh,,HCM,HCM-Q7-Hub,SPXVN260000047
+SV000003,Seller,S00171,2026-07-27 22:22:26,2,Chưa nhận được tiền thu hộ tuần trước,COD,CT,CT-NinhKieu-Hub,SPXVN260000048
+SV000004,Seller,S00278,2026-07-27 07:42:55,3,Phí vận chuyển tính sai so với bảng giá,Fee,DN,DN-HaiChau-Hub,SPXVN260000049
+SV000005,Seller,S00160,2026-07-27 14:45:10,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260000050
+SV000006,Seller,S00248,2026-07-27 15:26:53,5,ok,,HN,HN-LongBien-SOC,SPXVN260000051
+SV000007,Seller,S00153,2026-07-27 07:18:46,3,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260000052
+SV000008,Seller,S00243,2026-07-27 20:02:20,3,ok,,DN,DN-HaiChau-Hub,SPXVN260000053
+SV000009,Seller,S00234,2026-07-27 21:06:33,4,ok,,HCM,HCM-TanBinh-Hub,SPXVN260000054
+SV000010,Seller,S00250,2026-07-27 17:40:45,3,Hẹn lấy hàng mà không ai đến lấy,Pickup failure,HN,HN-CauGiay-Hub,SPXVN260000055
+SV000011,Seller,S00192,2026-07-27 08:18:22,1,"Don cua shop bi giao tre, khach huy don lien tuc",,HCM,HCM-TanBinh-Hub,SPXVN260000056
+SV000012,Seller,S00177,2026-07-27 12:04:28,5,"Đối soát nhanh, tốt",,DN,DN-HaiChau-Hub,SPXVN260000057
+SV000013,Seller,S00203,2026-07-27 16:01:53,5,"Doi soat nhanh, tot",,HN,HN-LongBien-SOC,SPXVN260000058
+SV000014,Seller,S00071,2026-07-27 13:39:16,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260000059
+SV000015,Seller,S00140,2026-07-27 18:33:32,5,Ho tro nhiet tinh huhu,,DN,DN-HaiChau-Hub,SPXVN260000060
+SV000016,Seller,S00286,2026-07-27 19:54:51,5,Ho tro nhiet tinh,,HCM,HCM-TanBinh-Hub,SPXVN260000061
+SV000017,Seller,S00114,2026-07-27 17:58:39,1,"Lay hang cham, don ton o shop 2 ngay",Pickup delay,HCM,HCM-ThuDuc-SOC,SPXVN260000062
+SV000018,Seller,S00051,2026-07-27 11:56:26,3,"Đơn của shop bị giao trễ, khách hủy đơn liên tục!!!",Late delivery,HCM,HCM-Q7-Hub,SPXVN260000063
+SV000019,Seller,S00233,2026-07-27 10:54:52,2,Hẹn lấy hàng mà ko ai đến lấy,Pickup failure,CT,CT-NinhKieu-Hub,SPXVN260000064
+SV000020,Seller,S00284,2026-07-27 13:04:53,2,ok,App issue,HN,HN-LongBien-SOC,SPXVN260000065
+SV000021,Seller,S00184,2026-07-27 07:08:00,5,"Lấy hàng đúng giờ, shop hài lòng",,DN,DN-HaiChau-Hub,SPXVN260000066
+SV000022,Seller,S00023,2026-07-28 08:15:47,3,"hang hoan ve shop bi cham, hoan ca tuan chua ve",,HCM,HCM-TanBinh-Hub,SPXVN260000222
+SV000023,Seller,S00141,2026-07-28 14:26:19,2,Phí vận chuyển tính sai so với bảng giá,App issue,HN,HN-LongBien-SOC,SPXVN260000223
+SV000024,Seller,S00154,2026-07-28 20:26:09,3,ok,,HN,HN-LongBien-SOC,SPXVN260000224
+SV000025,Seller,S00041,2026-07-28 15:13:21,1,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Return,HCM,HCM-ThuDuc-SOC,SPXVN260000225
+SV000026,Seller,S00008,2026-07-28 17:19:58,2,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",,HCM,HCM-ThuDuc-SOC,SPXVN260000226
+SV000027,Seller,S00184,2026-07-28 19:29:34,5,"Đối soát nhanh, tốt",,CT,CT-NinhKieu-Hub,SPXVN260000227
+SV000028,Seller,S00300,2026-07-28 07:16:35,1,phi van chuyen tinh sai so voi bang gia,Fee,HCM,HCM-TanBinh-Hub,SPXVN260000228
+SV000029,Seller,S00039,2026-07-28 08:33:02,1,"Hang hoan ve shop bi cham, hoan ca tuan chua ve",Return,HCM,HCM-Q7-Hub,SPXVN260000229
+SV000030,Seller,S00273,2026-07-28 22:01:00,3,"Lay hang dung gio, shop hai long",,HCM,HCM-Q7-Hub,SPXVN260000230
+SV000031,Seller,S00124,2026-07-28 10:33:09,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260000231
+SV000032,Seller,S00017,2026-07-28 09:41:54,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260000232
+SV000033,Seller,S00291,2026-07-28 08:14:13,4,"Đối soát nhanh, tốt",,HCM,HCM-Q7-Hub,SPXVN260000233
+SV000034,Seller,S00124,2026-07-28 16:10:36,2,"Đơn giao thất bại, khách bảo không ai gọi!!!",Failed delivery,HCM,HCM-TanBinh-Hub,SPXVN260000234
+SV000035,Seller,S00016,2026-07-28 19:49:20,4,"Lay hang dung gio, shop hai long",,HN,HN-LongBien-SOC,SPXVN260000235
+SV000036,Seller,S00043,2026-07-28 14:45:04,3,ok,,HN,HN-CauGiay-Hub,SPXVN260000236
+SV000037,Seller,S00286,2026-07-28 12:27:28,4,Hỗ trợ nhiệt tình huhu,,HCM,HCM-ThuDuc-SOC,SPXVN260000237
+SV000038,Seller,S00087,2026-07-28 14:36:33,3,hỗ trợ nhiệt tình :(,,HCM,HCM-ThuDuc-SOC,SPXVN260000238
+SV000039,Seller,S00070,2026-07-28 13:29:06,2,Trạng thái đơn đứng im 2 ngày ở kho huhu,Tracking / status,HCM,HCM-ThuDuc-SOC,SPXVN260000239
+SV000040,Seller,S00252,2026-07-28 17:18:47,5,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260000240
+SV000041,Seller,S00150,2026-07-28 13:28:51,5,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260000241
+SV000042,Seller,S00274,2026-07-28 22:37:25,4,Hỗ trợ nhiệt tình,,DN,DN-HaiChau-Hub,SPXVN260000242
+SV000043,Seller,S00221,2026-07-28 19:48:21,3,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260000243
+SV000044,Seller,S00308,2026-07-29 08:51:54,3,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260000395
+SV000045,Seller,S00114,2026-07-29 17:46:45,3,hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260000396
+SV000046,Seller,S00172,2026-07-29 12:43:57,3,"Đối soát nhanh, tốt",,DN,DN-HaiChau-Hub,SPXVN260000397
+SV000047,Seller,S00100,2026-07-29 09:30:56,4,hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260000398
+SV000048,Seller,S00250,2026-07-29 12:49:05,1,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Return,DN,DN-HaiChau-Hub,SPXVN260000399
+SV000049,Seller,S00082,2026-07-29 12:36:48,1,chán,,HCM,HCM-ThuDuc-SOC,SPXVN260000400
+SV000050,Seller,S00272,2026-07-29 17:48:53,5,ok,,HN,HN-CauGiay-Hub,SPXVN260000401
+SV000051,Seller,S00024,2026-07-29 12:04:52,3,tien ban hang tuan truoc sao van chua thay ve tai khoan shop,Settlement,HCM,HCM-ThuDuc-SOC,SPXVN260000402
+SV000052,Seller,S00109,2026-07-29 14:46:08,5,"Đối soát nhanh, tốt",,HCM,HCM-Q7-Hub,SPXVN260000403
+SV000053,Seller,S00011,2026-07-29 10:41:53,3,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260000404
+SV000054,Seller,S00071,2026-07-29 15:39:38,5,ok,,HN,HN-LongBien-SOC,SPXVN260000405
+SV000055,Seller,S00281,2026-07-29 16:10:02,2,"Đơn của shop bị giao trễ, khách hủy đơn liên tục",Late delivery,DN,DN-HaiChau-Hub,SPXVN260000406
+SV000056,Seller,S00136,2026-07-29 14:29:18,1,"Don cua shop bi giao tre, khach huy don lien tuc",Late delivery,HN,HN-LongBien-SOC,SPXVN260000407
+SV000057,Seller,S00048,2026-07-29 15:56:46,5,"Lay hang dung gio, shop hai long",,HCM,HCM-Q7-Hub,SPXVN260000408
+SV000058,Seller,S00054,2026-07-29 08:54:10,5,Hỗ trợ nhiệt tình,,DN,DN-HaiChau-Hub,SPXVN260000409
+SV000059,Seller,S00211,2026-07-29 22:07:56,5,ok,,DN,DN-HaiChau-Hub,SPXVN260000410
+SV000060,Seller,S00198,2026-07-29 14:30:22,3,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260000411
+SV000061,Seller,S00282,2026-07-29 08:32:14,2,"Don giao that bai 2 lan roi, gio shop phai lam gi? Co giao lan 3 khong?",Slow response,DN,DN-HaiChau-Hub,SPXVN260000412
+SV000062,Seller,S00001,2026-07-29 08:35:35,4,ok,,HCM,HCM-TanBinh-Hub,SPXVN260000413
+SV000063,Seller,S00318,2026-07-29 17:35:49,5,"Đối soát nhanh, tốt",,HN,HN-CauGiay-Hub,SPXVN260000414
+SV000064,Seller,S00004,2026-07-30 16:38:14,1,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về :(",Return,HCM,HCM-TanBinh-Hub,SPXVN260000563
+SV000065,Seller,S00317,2026-07-30 10:40:29,1,Chưa nhận được tiền thu hộ tuần trước,,HCM,HCM-TanBinh-Hub,SPXVN260000564
+SV000066,Seller,S00017,2026-07-30 22:23:29,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260000565
+SV000067,Seller,S00018,2026-07-30 21:15:47,1,"lấy hàng chậm, đơn tồn ở shop 2 ngày",Pickup delay,HCM,HCM-ThuDuc-SOC,SPXVN260000566
+SV000068,Seller,S00153,2026-07-30 15:30:40,3,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260000567
+SV000069,Seller,S00298,2026-07-30 14:00:02,4,"Doi soat nhanh, tot",,HCM,HCM-TanBinh-Hub,SPXVN260000568
+SV000070,Seller,S00163,2026-07-30 11:31:14,3,Hen lay hang ma khong ai den lay,Pickup failure,HN,HN-LongBien-SOC,SPXVN260000569
+SV000071,Seller,S00166,2026-07-30 12:34:22,5,"Đối soát nhanh, tốt :(",,HCM,HCM-Q7-Hub,SPXVN260000570
+SV000072,Seller,S00010,2026-07-30 19:46:11,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-TanBinh-Hub,SPXVN260000571
+SV000073,Seller,S00268,2026-07-30 17:07:06,5,ok,,HN,HN-CauGiay-Hub,SPXVN260000572
+SV000074,Seller,S00037,2026-07-30 14:38:45,3,"Đơn của shop bị giao trễ, khách hủy đơn liên tục",Slow response,HCM,HCM-ThuDuc-SOC,SPXVN260000573
+SV000075,Seller,S00037,2026-07-30 15:33:02,1,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Return,HCM,HCM-ThuDuc-SOC,SPXVN260000574
+SV000076,Seller,S00282,2026-07-30 12:50:11,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260000575
+SV000077,Seller,S00166,2026-07-30 20:52:46,5,Hỗ trợ nhiệt tình,,HCM,HCM-Q7-Hub,SPXVN260000576
+SV000078,Seller,S00155,2026-07-30 07:33:08,4,hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260000577
+SV000079,Seller,S00299,2026-07-30 11:16:23,2,"hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Return,HCM,HCM-TanBinh-Hub,SPXVN260000578
+SV000080,Seller,S00223,2026-07-30 17:22:56,1,"hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Return,HN,HN-CauGiay-Hub,SPXVN260000579
+SV000081,Seller,S00114,2026-07-30 11:20:32,5,"Lay hang dung gio, shop hai long",,HCM,HCM-ThuDuc-SOC,SPXVN260000580
+SV000082,Seller,S00135,2026-07-30 08:35:25,4,"lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260000581
+SV000083,Seller,S00137,2026-07-30 14:15:04,3,ok,,HCM,HCM-Q7-Hub,SPXVN260000582
+SV000084,Seller,S00029,2026-07-31 07:02:21,2,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Late delivery,DN,DN-HaiChau-Hub,SPXVN260000733
+SV000085,Seller,S00251,2026-07-31 08:47:09,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260000734
+SV000086,Seller,S00050,2026-07-31 08:57:19,1,bình thường,,HCM,HCM-Q7-Hub,SPXVN260000735
+SV000087,Seller,S00110,2026-07-31 11:20:53,2,"Đơn giao thất bại lần 2, shop không biết bước tiếp theo là gì",Failed delivery,DN,DN-HaiChau-Hub,SPXVN260000736
+SV000088,Seller,S00009,2026-07-31 19:49:10,4,hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260000737
+SV000089,Seller,S00139,2026-07-31 13:09:40,2,Tien ban hang tuan truoc sao van chua thay ve tai khoan shop,Settlement,HCM,HCM-ThuDuc-SOC,SPXVN260000738
+SV000090,Seller,S00155,2026-07-31 09:40:52,2,không hài lòng,,CT,CT-NinhKieu-Hub,SPXVN260000739
+SV000091,Seller,S00077,2026-07-31 13:07:50,5,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260000740
+SV000092,Seller,S00015,2026-07-31 12:10:50,1,"tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới",Pickup delay,HCM,HCM-Q7-Hub,SPXVN260000741
+SV000093,Seller,S00103,2026-07-31 14:47:26,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260000742
+SV000094,Seller,S00017,2026-07-31 13:21:08,2,"Tai xe den lay hang tre, hen sang ma chieu moi toi",Pickup delay,DN,DN-HaiChau-Hub,SPXVN260000743
+SV000095,Seller,S00237,2026-07-31 13:37:30,3,"Doi soat nhanh, tot",,DN,DN-HaiChau-Hub,SPXVN260000744
+SV000096,Seller,S00259,2026-07-31 22:46:49,1,"tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới",,HCM,HCM-ThuDuc-SOC,SPXVN260000745
+SV000097,Seller,S00236,2026-07-31 16:10:45,1,Hen lay hang ma khong ai den lay,,HCM,HCM-Q7-Hub,SPXVN260000746
+SV000098,Seller,S00314,2026-07-31 20:48:17,3,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",,HCM,HCM-Q7-Hub,SPXVN260000747
+SV000099,Seller,S00105,2026-07-31 09:35:45,1,Phí vận chuyển tính sai so với bảng giá,Fee,HCM,HCM-ThuDuc-SOC,SPXVN260000748
+SV000100,Seller,S00191,2026-07-31 15:03:04,3,"Doi soat nhanh, tot",,HCM,HCM-TanBinh-Hub,SPXVN260000749
+SV000101,Seller,S00201,2026-07-31 21:05:05,4,Hỗ trợ nhiệt tình,,HCM,HCM-Q7-Hub,SPXVN260000750
+SV000102,Seller,S00228,2026-07-31 22:22:26,3,Chua nhan duoc tien thu ho tuan truoc,COD,HCM,HCM-TanBinh-Hub,SPXVN260000751
+SV000103,Seller,S00263,2026-08-01 09:58:02,2,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Return,HN,HN-LongBien-SOC,SPXVN260000903
+SV000104,Seller,S00214,2026-08-01 19:02:05,5,Ho tro nhiet tinhaaa,,HCM,HCM-Q7-Hub,SPXVN260000904
+SV000105,Seller,S00055,2026-08-01 15:55:43,4,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260000905
+SV000106,Seller,S00316,2026-08-01 16:39:52,3,Tiền bán hàng tuần trước sao vx chưa thấy về tài khoản shop,Settlement,HN,HN-LongBien-SOC,SPXVN260000906
+SV000107,Seller,S00276,2026-08-01 20:53:40,1,"Đơn của shop bị giao trễ, khách hủy đơn liên tục",Late delivery,CT,CT-NinhKieu-Hub,SPXVN260000907
+SV000108,Seller,S00306,2026-08-01 22:47:37,2,hen lay hang ma khong ai den lay,Pickup failure,HN,HN-CauGiay-Hub,SPXVN260000908
+SV000109,Seller,S00224,2026-08-01 18:28:44,5,ok,,DN,DN-HaiChau-Hub,SPXVN260000909
+SV000110,Seller,S00200,2026-08-01 16:46:45,5,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260000910
+SV000111,Seller,S00052,2026-08-01 12:38:31,5,"Đối soát nhanh, tốt",,DN,DN-HaiChau-Hub,SPXVN260000911
+SV000112,Seller,S00059,2026-08-01 09:21:27,3,"Lấy hàng đúng giờ, shop hài lòng",,CT,CT-NinhKieu-Hub,SPXVN260000912
+SV000113,Seller,S00225,2026-08-01 10:45:03,3,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260000913
+SV000114,Seller,S00227,2026-08-01 12:46:18,5,"lay hang dung gio, shop hai longaaa",,CT,CT-NinhKieu-Hub,SPXVN260000914
+SV000115,Seller,S00259,2026-08-01 22:21:18,4,"Đối soát nhanh, tốt",,HN,HN-CauGiay-Hub,SPXVN260000915
+SV000116,Seller,S00265,2026-08-01 20:57:29,5,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260000916
+SV000117,Seller,S00078,2026-08-01 08:42:59,4,"Lấy hàng đúng giờ, shop hài lòng",,CT,CT-NinhKieu-Hub,SPXVN260000917
+SV000118,Seller,S00271,2026-08-01 07:52:17,5,Hỗ trợ nhiệt tình,,CT,CT-NinhKieu-Hub,SPXVN260000918
+SV000119,Seller,S00172,2026-08-01 09:02:34,5,ok,,HN,HN-CauGiay-Hub,SPXVN260000919
+SV000120,Seller,S00156,2026-08-01 15:15:53,5,Ho tro nhiet tinh,,HN,HN-CauGiay-Hub,SPXVN260000920
+SV000121,Seller,S00298,2026-08-01 21:21:15,3,Hỗ trợ nhiệt tình,,CT,CT-NinhKieu-Hub,SPXVN260000921
+SV000122,Seller,S00076,2026-08-01 18:29:06,3,"Doi soat nhanh, tot",,HCM,HCM-TanBinh-Hub,SPXVN260000922
+SV000123,Seller,S00226,2026-08-01 22:40:27,5,ok :(,,DN,DN-HaiChau-Hub,SPXVN260000923
+SV000124,Seller,S00196,2026-08-02 14:38:55,1,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Late delivery,HN,HN-LongBien-SOC,SPXVN260001072
+SV000125,Seller,S00091,2026-08-02 13:15:27,2,Khach hoi don lien tuc vi trang thai khong doi,,HCM,HCM-ThuDuc-SOC,SPXVN260001073
+SV000126,Seller,S00154,2026-08-02 09:48:58,5,ok,,CT,CT-NinhKieu-Hub,SPXVN260001074
+SV000127,Seller,S00257,2026-08-02 13:00:00,5,ho tro nhiet tinh,,HN,HN-LongBien-SOC,SPXVN260001075
+SV000128,Seller,S00290,2026-08-02 10:24:59,4,hỗ trợ nhiệt tình,,HCM,HCM-Q7-Hub,SPXVN260001076
+SV000129,Seller,S00018,2026-08-02 14:15:30,5,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260001077
+SV000130,Seller,S00048,2026-08-02 12:00:07,3,Ho tro nhiet tinh,,HN,HN-LongBien-SOC,SPXVN260001078
+SV000131,Seller,S00211,2026-08-02 19:37:19,3,"Đối soát nhanh, tốt",,HCM,HCM-Q7-Hub,SPXVN260001079
+SV000132,Seller,S00214,2026-08-02 07:06:04,5,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260001080
+SV000133,Seller,S00099,2026-08-02 08:47:11,5,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260001081
+SV000134,Seller,S00245,2026-08-02 07:37:15,5,"Lay hang dung gio, shop hai long",,CT,CT-NinhKieu-Hub,SPXVN260001082
+SV000135,Seller,S00243,2026-08-02 15:59:31,4,"Lay hang dung gio, shop hai long",,HN,HN-LongBien-SOC,SPXVN260001083
+SV000136,Seller,S00002,2026-08-02 17:51:06,4,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260001084
+SV000137,Seller,S00097,2026-08-02 22:32:26,5,"Lay hang dung gio, shop hai long",,DN,DN-HaiChau-Hub,SPXVN260001085
+SV000138,Seller,S00244,2026-08-02 18:27:59,3,"Tai xe den lay hang tre, hen sang ma chieu moi toi",Pickup delay,CT,CT-NinhKieu-Hub,SPXVN260001086
+SV000139,Seller,S00229,2026-08-02 21:10:57,3,"Lay hang dung gio, shop hai long",,HCM,HCM-TanBinh-Hub,SPXVN260001087
+SV000140,Seller,S00064,2026-08-02 22:57:42,1,Phí vận chuyển tính sai so với bảng giá huhu,Fee,HCM,HCM-Q7-Hub,SPXVN260001088
+SV000141,Seller,S00288,2026-08-02 19:41:41,5,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260001089
+SV000142,Seller,S00303,2026-08-02 07:19:03,2,"đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Late delivery,HN,HN-CauGiay-Hub,SPXVN260001090
+SV000143,Seller,S00153,2026-08-03 20:21:48,4,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260001246
+SV000144,Seller,S00297,2026-08-03 13:04:46,4,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260001247
+SV000145,Seller,S00002,2026-08-03 20:16:33,5,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260001248
+SV000146,Seller,S00098,2026-08-03 13:22:13,5,"Lay hang dung gio, shop hai long",,CT,CT-NinhKieu-Hub,SPXVN260001249
+SV000147,Seller,S00172,2026-08-03 20:33:48,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-TanBinh-Hub,SPXVN260001250
+SV000148,Seller,S00054,2026-08-03 10:05:51,5,"Đối soát nhanh, tốt",,CT,CT-NinhKieu-Hub,SPXVN260001251
+SV000149,Seller,S00059,2026-08-03 21:35:24,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260001252
+SV000150,Seller,S00138,2026-08-03 14:32:18,4,ok,,DN,DN-HaiChau-Hub,SPXVN260001253
+SV000151,Seller,S00293,2026-08-03 17:21:10,5,"Lay hang dung gio, shop hai long",,HCM,HCM-TanBinh-Hub,SPXVN260001254
+SV000152,Seller,S00224,2026-08-03 17:33:10,5,"Lay hang dung gio, shop hai long",,HCM,HCM-TanBinh-Hub,SPXVN260001255
+SV000153,Seller,S00006,2026-08-03 09:01:27,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260001256
+SV000154,Seller,S00194,2026-08-03 14:46:49,1,"Tai xe den lay hang tre, hen sang ma chieu moi toi",Pickup delay,HCM,HCM-ThuDuc-SOC,SPXVN260001257
+SV000155,Seller,S00186,2026-08-03 09:04:31,5,"lay hang dung gio, shop hai long",,HCM,HCM-TanBinh-Hub,SPXVN260001258
+SV000156,Seller,S00215,2026-08-03 09:13:43,2,tệ,,HCM,HCM-Q7-Hub,SPXVN260001259
+SV000157,Seller,S00099,2026-08-03 15:59:07,1,"Đơn mất hàng mà bồi thường quá lâu, chưa thấy tiền đền bù",,HN,HN-LongBien-SOC,SPXVN260001260
+SV000158,Seller,S00179,2026-08-03 22:12:05,5,"Doi soat nhanh, tot",,HN,HN-LongBien-SOC,SPXVN260001261
+SV000159,Seller,S00106,2026-08-03 16:10:50,5,"Đối soát nhanh, tốt",,HCM,HCM-Q7-Hub,SPXVN260001262
+SV000160,Seller,S00301,2026-08-03 08:32:16,1,"Tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới",Pickup delay,HCM,HCM-Q7-Hub,SPXVN260001263
+SV000161,Seller,S00288,2026-08-03 17:57:14,2,"Tai xe den lay hang tre, hen sang ma chieu moi toi",Pickup delay,HCM,HCM-Q7-Hub,SPXVN260001264
+SV000162,Seller,S00064,2026-08-03 15:26:07,2,"Don giao that bai lan 2, shop khong biet buoc tiep theo la gi, voi lai chua nhan duoc tien thu ho tuan truoc",,HN,HN-LongBien-SOC,SPXVN260001265
+SV000163,Seller,S00274,2026-08-03 19:02:57,2,...,,HN,HN-CauGiay-Hub,SPXVN260001266
+SV000164,Seller,S00021,2026-08-04 07:38:57,3,"Lay hang dung gio, shop hai long",,HCM,HCM-Q7-Hub,SPXVN260001418
+SV000165,Seller,S00267,2026-08-04 20:46:28,2,không hài lòng,,HCM,HCM-ThuDuc-SOC,SPXVN260001419
+SV000166,Seller,S00041,2026-08-04 10:22:51,5,ok,,HCM,HCM-TanBinh-Hub,SPXVN260001420
+SV000167,Seller,S00005,2026-08-04 08:40:40,2,"Đơn giao thất bại lần 2, shop ko biết bước tiếp theo là gìaaa",,HN,HN-CauGiay-Hub,SPXVN260001421
+SV000168,Seller,S00248,2026-08-04 14:40:22,3,"Don mat hang ma boi thuong qua lau, chua thay tien den bu, them nua la khach hoi don lien tuc vi trang thai khong doi",Compensation,DN,DN-HaiChau-Hub,SPXVN260001422
+SV000169,Seller,S00218,2026-08-04 21:20:15,5,ok,,DN,DN-HaiChau-Hub,SPXVN260001423
+SV000170,Seller,S00138,2026-08-04 14:01:18,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260001424
+SV000171,Seller,S00113,2026-08-04 15:31:46,5,Hỗ trợ nhiệt tình,,DN,DN-HaiChau-Hub,SPXVN260001425
+SV000172,Seller,S00171,2026-08-04 09:49:45,1,"Don mat hang ma boi thuong qua lau, chua thay tien den bu",Compensation,HN,HN-LongBien-SOC,SPXVN260001426
+SV000173,Seller,S00111,2026-08-04 18:21:26,5,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260001427
+SV000174,Seller,S00145,2026-08-04 22:02:10,1,kém,,CT,CT-NinhKieu-Hub,SPXVN260001428
+SV000175,Seller,S00302,2026-08-04 11:06:47,4,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-TanBinh-Hub,SPXVN260001429
+SV000176,Seller,S00114,2026-08-04 16:27:05,3,"Lay hang dung gio, shop hai long",,HCM,HCM-ThuDuc-SOC,SPXVN260001430
+SV000177,Seller,S00013,2026-08-04 21:14:36,3,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260001431
+SV000178,Seller,S00243,2026-08-04 19:39:53,3,Shop phai lien he ho tro 3 lan roi van chua duoc xu ly!!!,App issue,HN,HN-CauGiay-Hub,SPXVN260001432
+SV000179,Seller,S00218,2026-08-04 09:58:06,3,Chua nhan duoc tien thu ho tuan truoc,COD,HCM,HCM-TanBinh-Hub,SPXVN260001433
+SV000180,Seller,S00151,2026-08-04 16:07:27,2,"Hen lay hang ma khong ai den lay, them nua la tien cod chua duoc doi soat, cham 5 ngay roi",Pickup failure,HN,HN-CauGiay-Hub,SPXVN260001434
+SV000181,Seller,S00243,2026-08-04 11:10:33,1,"Đơn giao thất bại, khách bảo không ai gọi",Failed delivery,HN,HN-LongBien-SOC,SPXVN260001435
+SV000182,Seller,S00099,2026-08-04 18:40:00,3,hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260001436
+SV000183,Seller,S00111,2026-08-04 11:06:46,5,Ho tro nhiet tinh,,HCM,HCM-TanBinh-Hub,SPXVN260001437
+SV000184,Seller,S00002,2026-08-04 22:13:10,3,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260001438
+SV000185,Seller,S00076,2026-08-05 11:12:49,5,Ho tro nhiet tinh,,HCM,HCM-Q7-Hub,SPXVN260001590
+SV000186,Seller,S00084,2026-08-05 13:12:19,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-TanBinh-Hub,SPXVN260001591
+SV000187,Seller,S00229,2026-08-05 13:24:03,5,"Lấy hàng đúng giờ, shop hài lòng",,CT,CT-NinhKieu-Hub,SPXVN260001592
+SV000188,Seller,S00310,2026-08-05 10:31:47,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-Q7-Hub,SPXVN260001593
+SV000189,Seller,S00182,2026-08-05 19:54:06,5,hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260001594
+SV000190,Seller,S00166,2026-08-05 15:46:41,5,Hỗ trợ nhiệt tình,,CT,CT-NinhKieu-Hub,SPXVN260001595
+SV000191,Seller,S00090,2026-08-05 12:26:11,3,Khách hỏi đơn liên tục vì trạng thái ko đổi,Tracking / status,HCM,HCM-ThuDuc-SOC,SPXVN260001596
+SV000192,Seller,S00241,2026-08-05 17:01:56,1,Trạng thái đơn đứng im 2 ngày ở kho,Tracking / status,DN,DN-HaiChau-Hub,SPXVN260001597
+SV000193,Seller,S00275,2026-08-05 21:26:54,4,"Doi soat nhanh, tot!!!",,HCM,HCM-ThuDuc-SOC,SPXVN260001598
+SV000194,Seller,S00293,2026-08-05 10:30:31,3,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260001599
+SV000195,Seller,S00267,2026-08-05 21:42:37,2,"Tien COD chua duoc doi soat, cham 5 ngay roi",COD,HCM,HCM-ThuDuc-SOC,SPXVN260001600
+SV000196,Seller,S00122,2026-08-05 08:53:50,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260001601
+SV000197,Seller,S00135,2026-08-05 13:29:39,3,Khách nhắn hỏi suốt mà hàng vẫn chưa tới tay họ,Late delivery,HCM,HCM-Q7-Hub,SPXVN260001602
+SV000198,Seller,S00279,2026-08-05 20:41:01,4,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260001603
+SV000199,Seller,S00114,2026-08-05 13:09:53,3,"tiền cod chưa được đối soát, chậm 5 ngày rồi",,HCM,HCM-ThuDuc-SOC,SPXVN260001604
+SV000200,Seller,S00218,2026-08-05 11:34:39,3,"Doi soat nhanh, tot",,HCM,HCM-ThuDuc-SOC,SPXVN260001605
+SV000201,Seller,S00314,2026-08-05 16:13:59,2,"đơn mất hàng mà bồi thường quá lâu, chưa thấy tiền đền bù",Compensation,HCM,HCM-TanBinh-Hub,SPXVN260001606
+SV000202,Seller,S00073,2026-08-05 11:13:28,2,"tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới",,CT,CT-NinhKieu-Hub,SPXVN260001607
+SV000203,Seller,S00021,2026-08-05 17:56:17,1,"Giao không thành công 2 lần, không biết đơn sẽ hoàn về shop hay được giao lại",,HCM,HCM-ThuDuc-SOC,SPXVN260001608
+SV000204,Seller,S00254,2026-08-05 14:55:54,3,Chưa nhận được tiền thu hộ tuần trước,COD,HCM,HCM-TanBinh-Hub,SPXVN260001609
+SV000205,Seller,S00249,2026-08-05 09:00:06,5,Ho tro nhiet tinh,,HN,HN-LongBien-SOC,SPXVN260001610
+SV000206,Seller,S00116,2026-08-06 07:03:41,4,ok,,HCM,HCM-Q7-Hub,SPXVN260001770
+SV000207,Seller,S00021,2026-08-06 20:35:04,2,"Hang hoan ve shop bi cham, hoan ca tuan chua ve",,HCM,HCM-ThuDuc-SOC,SPXVN260001771
+SV000208,Seller,S00085,2026-08-06 18:32:57,1,bình thường,,HCM,HCM-ThuDuc-SOC,SPXVN260001772
+SV000209,Seller,S00058,2026-08-06 19:13:11,5,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260001773
+SV000210,Seller,S00130,2026-08-06 14:36:56,1,Chưa nhận được tiền thu hộ tuần trước,COD,HCM,HCM-TanBinh-Hub,SPXVN260001774
+SV000211,Seller,S00306,2026-08-06 22:30:35,3,ok,,HCM,HCM-TanBinh-Hub,SPXVN260001775
+SV000212,Seller,S00189,2026-08-06 12:06:03,2,"Đơn của shop bị giao trễ, khách hủy đơn liên tục",Late delivery,HN,HN-CauGiay-Hub,SPXVN260001776
+SV000213,Seller,S00244,2026-08-06 07:56:59,1,Chua nhan duoc tien thu ho tuan truoc,,CT,CT-NinhKieu-Hub,SPXVN260001777
+SV000214,Seller,S00204,2026-08-06 11:13:04,2,kém,,HN,HN-CauGiay-Hub,SPXVN260001778
+SV000215,Seller,S00023,2026-08-06 21:51:00,5,Ho tro nhiet tinh,,DN,DN-HaiChau-Hub,SPXVN260001779
+SV000216,Seller,S00277,2026-08-06 18:46:35,5,"Lấy hàng đúng giờ, shop hài lòng huhu",,HN,HN-LongBien-SOC,SPXVN260001780
+SV000217,Seller,S00045,2026-08-06 20:23:27,5,Ho tro nhiet tinh,,HCM,HCM-TanBinh-Hub,SPXVN260001781
+SV000218,Seller,S00294,2026-08-06 12:54:51,5,"Đối soát nhanh, tốt",,DN,DN-HaiChau-Hub,SPXVN260001782
+SV000219,Seller,S00172,2026-08-06 12:47:14,3,ok,,CT,CT-NinhKieu-Hub,SPXVN260001783
+SV000220,Seller,S00233,2026-08-06 10:14:40,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260001784
+SV000221,Seller,S00013,2026-08-06 10:52:12,2,"Tien COD chua duoc doi soat, cham 5 ngay roi",COD,DN,DN-HaiChau-Hub,SPXVN260001785
+SV000222,Seller,S00304,2026-08-06 22:40:39,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-Q7-Hub,SPXVN260001786
+SV000223,Seller,S00014,2026-08-06 18:43:31,4,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260001787
+SV000224,Seller,S00243,2026-08-07 10:37:08,4,ok huhu,,HCM,HCM-TanBinh-Hub,SPXVN260001940
+SV000225,Seller,S00195,2026-08-07 11:44:16,2,"hang hoan ve shop bi cham, hoan ca tuan chua ve",Return,HN,HN-LongBien-SOC,SPXVN260001941
+SV000226,Seller,S00049,2026-08-07 10:23:07,3,Khách nhắn hỏi suốt mà hàng vẫn chưa tới tay họ,Late delivery,HCM,HCM-Q7-Hub,SPXVN260001942
+SV000227,Seller,S00282,2026-08-07 09:51:45,3,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-TanBinh-Hub,SPXVN260001943
+SV000228,Seller,S00055,2026-08-07 10:37:00,4,"Lay hang dung gio, shop hai long",,DN,DN-HaiChau-Hub,SPXVN260001944
+SV000229,Seller,S00065,2026-08-07 07:30:13,1,Khach hoi don lien tuc vi trang thai khong doi,Tracking / status,HCM,HCM-ThuDuc-SOC,SPXVN260001945
+SV000230,Seller,S00199,2026-08-07 13:39:42,5,Hỗ trợ nhiệt tình,,DN,DN-HaiChau-Hub,SPXVN260001946
+SV000231,Seller,S00255,2026-08-07 15:41:38,4,ok,,DN,DN-HaiChau-Hub,SPXVN260001947
+SV000232,Seller,S00203,2026-08-07 08:46:04,1,"Don cua shop bi giao tre, khach huy don lien tuc",Late delivery,CT,CT-NinhKieu-Hub,SPXVN260001948
+SV000233,Seller,S00175,2026-08-07 07:26:06,1,không hài lòng,,HCM,HCM-TanBinh-Hub,SPXVN260001949
+SV000234,Seller,S00125,2026-08-07 18:12:55,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260001950
+SV000235,Seller,S00031,2026-08-07 08:50:56,2,tệ,,HCM,HCM-Q7-Hub,SPXVN260001951
+SV000236,Seller,S00200,2026-08-07 15:53:30,2,"Đơn của shop kẹt ở kho không cập nhật trạng thái, khách hỏi mà không biết trả lời :(",,HCM,HCM-ThuDuc-SOC,SPXVN260001952
+SV000237,Seller,S00011,2026-08-07 16:47:25,5,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260001953
+SV000238,Seller,S00100,2026-08-07 17:00:30,3,"Hang hoan ve shop bi cham, hoan ca tuan chua veaaa",Return,HN,HN-LongBien-SOC,SPXVN260001954
+SV000239,Seller,S00124,2026-08-07 18:30:48,4,Ho tro nhiet tinh,,HCM,HCM-ThuDuc-SOC,SPXVN260001955
+SV000240,Seller,S00281,2026-08-07 09:06:43,5,"lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-Q7-Hub,SPXVN260001956
+SV000241,Seller,S00122,2026-08-07 13:05:21,3,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-CauGiay-Hub,SPXVN260001957
+SV000242,Seller,S00211,2026-08-07 22:52:13,4,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260001958
+SV000243,Seller,S00168,2026-08-08 12:16:05,4,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260002111
+SV000244,Seller,S00312,2026-08-08 14:21:33,5,Ho tro nhiet tinh,,HN,HN-LongBien-SOC,SPXVN260002112
+SV000245,Seller,S00148,2026-08-08 17:48:31,3,Chua nhan duoc tien thu ho tuan truoc,COD,HCM,HCM-ThuDuc-SOC,SPXVN260002113
+SV000246,Seller,S00045,2026-08-08 15:50:02,5,ok,,DN,DN-HaiChau-Hub,SPXVN260002114
+SV000247,Seller,S00269,2026-08-08 20:30:46,3,Ho tro nhiet tinh,,HCM,HCM-ThuDuc-SOC,SPXVN260002115
+SV000248,Seller,S00197,2026-08-08 18:11:29,1,Phí vận chuyển tính sai so với bảng giá,,HCM,HCM-TanBinh-Hub,SPXVN260002116
+SV000249,Seller,S00071,2026-08-08 18:25:10,3,ok,,HN,HN-LongBien-SOC,SPXVN260002117
+SV000250,Seller,S00071,2026-08-08 16:55:10,3,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260002118
+SV000251,Seller,S00066,2026-08-08 16:11:32,5,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260002119
+SV000252,Seller,S00119,2026-08-08 14:37:41,5,okaaa,,CT,CT-NinhKieu-Hub,SPXVN260002120
+SV000253,Seller,S00218,2026-08-08 13:40:40,5,"lay hang dung gio, shop hai long",,CT,CT-NinhKieu-Hub,SPXVN260002121
+SV000254,Seller,S00212,2026-08-08 21:46:18,5,ok,,HN,HN-LongBien-SOC,SPXVN260002122
+SV000255,Seller,S00055,2026-08-08 12:45:34,5,"đối soát nhanh, tốt",,HN,HN-CauGiay-Hub,SPXVN260002123
+SV000256,Seller,S00238,2026-08-08 13:45:35,2,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa vềaaa",App issue,HCM,HCM-ThuDuc-SOC,SPXVN260002124
+SV000257,Seller,S00317,2026-08-08 08:20:09,5,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260002125
+SV000258,Seller,S00235,2026-08-08 22:11:04,5,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260002126
+SV000259,Seller,S00088,2026-08-08 13:47:26,3,"Doi soat nhanh, tot",,HCM,HCM-ThuDuc-SOC,SPXVN260002127
+SV000260,Seller,S00277,2026-08-08 14:50:36,5,Ho tro nhiet tinh,,HN,HN-CauGiay-Hub,SPXVN260002128
+SV000261,Seller,S00296,2026-08-08 15:55:16,1,Chưa nhận được tiền thu hộ tuần trước,COD,HCM,HCM-TanBinh-Hub,SPXVN260002129
+SV000262,Seller,S00306,2026-08-09 17:15:41,1,Shipper báo khách từ chối nhận nhưng khách nói không hề được gọi,,HN,HN-LongBien-SOC,SPXVN260002279
+SV000263,Seller,S00054,2026-08-09 11:53:30,5,"Đối soát nhanh, tốt",,HN,HN-CauGiay-Hub,SPXVN260002280
+SV000264,Seller,S00122,2026-08-09 12:33:15,1,"Hang hoan ve shop bi cham, hoan ca tuan chua ve",Return,DN,DN-HaiChau-Hub,SPXVN260002281
+SV000265,Seller,S00002,2026-08-09 14:11:56,1,"hang hoan ve shop bi cham, hoan ca tuan chua ve",,HCM,HCM-ThuDuc-SOC,SPXVN260002282
+SV000266,Seller,S00121,2026-08-09 09:18:03,5,ok,,DN,DN-HaiChau-Hub,SPXVN260002283
+SV000267,Seller,S00302,2026-08-09 16:26:55,1,"Đơn giao thất bại, khách bảo không ai gọi",,CT,CT-NinhKieu-Hub,SPXVN260002284
+SV000268,Seller,S00302,2026-08-09 15:21:47,1,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,,HN,HN-CauGiay-Hub,SPXVN260002285
+SV000269,Seller,S00154,2026-08-09 19:58:23,1,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,,HCM,HCM-ThuDuc-SOC,SPXVN260002286
+SV000270,Seller,S00315,2026-08-09 22:02:33,3,"Lay hang dung gio, shop hai long",,HN,HN-CauGiay-Hub,SPXVN260002287
+SV000271,Seller,S00008,2026-08-09 19:38:29,3,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260002288
+SV000272,Seller,S00303,2026-08-09 07:23:51,3,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260002289
+SV000273,Seller,S00268,2026-08-09 18:29:54,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260002290
+SV000274,Seller,S00234,2026-08-09 10:29:31,3,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260002291
+SV000275,Seller,S00137,2026-08-09 19:08:27,3,"Đơn giao thất bại 2 lần rồi, giờ shop phải làm gì? Có giao lần 3 không?",Failed delivery,HN,HN-CauGiay-Hub,SPXVN260002292
+SV000276,Seller,S00259,2026-08-09 08:20:27,5,Hỗ trợ nhiệt tình,,DN,DN-HaiChau-Hub,SPXVN260002293
+SV000277,Seller,S00176,2026-08-09 14:59:45,4,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260002294
+SV000278,Seller,S00046,2026-08-09 15:00:03,3,Ho tro nhiet tinh,,HCM,HCM-TanBinh-Hub,SPXVN260002295
+SV000279,Seller,S00180,2026-08-09 09:03:50,2,Chưa nhận dc tiền thu hộ tuần trước,,HN,HN-LongBien-SOC,SPXVN260002296
+SV000280,Seller,S00017,2026-08-09 11:12:02,4,"Lấy hàng đúng giờ, shop hài lòng",,CT,CT-NinhKieu-Hub,SPXVN260002297
+SV000281,Seller,S00190,2026-08-10 13:03:44,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260002454
+SV000282,Seller,S00179,2026-08-10 17:39:25,2,Trang thai don dung im 2 ngay o kho,Tracking / status,HN,HN-CauGiay-Hub,SPXVN260002455
+SV000283,Seller,S00125,2026-08-10 14:48:38,3,"Don mat hang ma boi thuong qua lau, chua thay tien den bu",,HCM,HCM-Q7-Hub,SPXVN260002456
+SV000284,Seller,S00273,2026-08-10 13:36:42,5,"đối soát nhanh, tốt huhu",,HCM,HCM-ThuDuc-SOC,SPXVN260002457
+SV000285,Seller,S00266,2026-08-10 16:57:54,4,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260002458
+SV000286,Seller,S00156,2026-08-10 15:36:27,4,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260002459
+SV000287,Seller,S00202,2026-08-10 21:21:54,4,"lấy hàng đúng giờ, shop hài lòng",,CT,CT-NinhKieu-Hub,SPXVN260002460
+SV000288,Seller,S00185,2026-08-10 09:16:45,3,ok,,HN,HN-LongBien-SOC,SPXVN260002461
+SV000289,Seller,S00128,2026-08-10 11:02:54,2,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",,HCM,HCM-ThuDuc-SOC,SPXVN260002462
+SV000290,Seller,S00144,2026-08-10 11:36:55,5,ok,,HCM,HCM-TanBinh-Hub,SPXVN260002463
+SV000291,Seller,S00164,2026-08-10 08:19:13,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-CauGiay-Hub,SPXVN260002464
+SV000292,Seller,S00082,2026-08-10 21:48:21,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260002465
+SV000293,Seller,S00113,2026-08-10 07:14:01,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260002466
+SV000294,Seller,S00178,2026-08-10 22:39:39,5,ok,,HCM,HCM-TanBinh-Hub,SPXVN260002467
+SV000295,Seller,S00088,2026-08-10 15:52:31,3,"Doi soat nhanh, tot",,HCM,HCM-TanBinh-Hub,SPXVN260002468
+SV000296,Seller,S00084,2026-08-10 07:05:29,3,"Lay hang dung gio, shop hai long",,HCM,HCM-ThuDuc-SOC,SPXVN260002469
+SV000297,Seller,S00244,2026-08-10 10:53:58,3,ok,,HN,HN-LongBien-SOC,SPXVN260002470
+SV000298,Seller,S00174,2026-08-10 22:40:09,5,"Đối soát nhanh, tốt huhu",,HCM,HCM-TanBinh-Hub,SPXVN260002471
+SV000299,Seller,S00260,2026-08-10 16:45:16,2,kém,,HCM,HCM-ThuDuc-SOC,SPXVN260002472
+SV000300,Seller,S00178,2026-08-10 08:15:44,3,"lay hang dung gio, shop hai longaaa",,HCM,HCM-Q7-Hub,SPXVN260002473
+SV000301,Seller,S00268,2026-08-11 13:37:32,4,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260002625
+SV000302,Seller,S00005,2026-08-11 15:06:14,5,Ho tro nhiet tinh,,HCM,HCM-Q7-Hub,SPXVN260002626
+SV000303,Seller,S00088,2026-08-11 15:04:41,1,"Hang hoan ve shop bi cham, hoan ca tuan chua ve",Return,HN,HN-LongBien-SOC,SPXVN260002627
+SV000304,Seller,S00111,2026-08-11 15:06:36,5,"Lay hang dung gio, shop hai long",,HN,HN-LongBien-SOC,SPXVN260002628
+SV000305,Seller,S00015,2026-08-11 15:34:29,5,"lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-TanBinh-Hub,SPXVN260002629
+SV000306,Seller,S00136,2026-08-11 12:18:00,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260002630
+SV000307,Seller,S00205,2026-08-11 07:09:34,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260002631
+SV000308,Seller,S00299,2026-08-11 13:26:34,1,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Late delivery,HN,HN-CauGiay-Hub,SPXVN260002632
+SV000309,Seller,S00242,2026-08-11 08:47:32,3,"tien cod chua duoc doi soat, cham 5 ngay r",COD,HCM,HCM-ThuDuc-SOC,SPXVN260002633
+SV000310,Seller,S00058,2026-08-11 15:47:26,2,ok,,HCM,HCM-Q7-Hub,SPXVN260002634
+SV000311,Seller,S00204,2026-08-11 11:05:41,5,"Doi soat nhanh, tot",,HCM,HCM-Q7-Hub,SPXVN260002635
+SV000312,Seller,S00107,2026-08-11 19:39:01,2,"Don shop gui giao tre hen, bi khach danh gia 1 sao huhu",Late delivery,HCM,HCM-ThuDuc-SOC,SPXVN260002636
+SV000313,Seller,S00180,2026-08-11 18:37:34,2,"Lấy hàng chậm, đơn tồn ở shop 2 ngày",Pickup delay,HN,HN-LongBien-SOC,SPXVN260002637
+SV000314,Seller,S00285,2026-08-11 20:16:30,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260002638
+SV000315,Seller,S00119,2026-08-11 15:01:32,5,"Đối soát nhanh, tốt",,HN,HN-CauGiay-Hub,SPXVN260002639
+SV000316,Seller,S00271,2026-08-11 19:36:47,5,"lấy hàng đúng giờ, shop hài lòng",,DN,DN-HaiChau-Hub,SPXVN260002640
+SV000317,Seller,S00061,2026-08-11 08:32:10,5,Ho tro nhiet tinh,,HCM,HCM-Q7-Hub,SPXVN260002641
+SV000318,Seller,S00184,2026-08-11 11:55:00,5,"Đối soát nhanh, tốtaaa",,HN,HN-LongBien-SOC,SPXVN260002642
+SV000319,Seller,S00093,2026-08-12 10:37:08,2,"Don mat hang ma boi thuong qua lau, chua thay tien den bu",Compensation,HCM,HCM-Q7-Hub,SPXVN260002792
+SV000320,Seller,S00053,2026-08-12 19:16:24,3,"Doi soat nhanh, tot",,HN,HN-CauGiay-Hub,SPXVN260002793
+SV000321,Seller,S00139,2026-08-12 17:55:08,3,"Doi soat nhanh, tot",,HN,HN-CauGiay-Hub,SPXVN260002794
+SV000322,Seller,S00026,2026-08-12 10:19:15,5,Ho tro nhiet tinh,,HCM,HCM-ThuDuc-SOC,SPXVN260002795
+SV000323,Seller,S00277,2026-08-12 17:44:59,3,"don giao that bai 2 lan roi, gio shop phai lam gi? co giao lan 3 khong?",Slow response,HCM,HCM-Q7-Hub,SPXVN260002796
+SV000324,Seller,S00286,2026-08-12 12:37:37,5,ok,,HN,HN-CauGiay-Hub,SPXVN260002797
+SV000325,Seller,S00278,2026-08-12 13:53:47,2,"Lấy hàng chậm, đơn tồn ở shop 2 ngày",Pickup delay,HCM,HCM-TanBinh-Hub,SPXVN260002798
+SV000326,Seller,S00164,2026-08-12 13:55:49,2,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",COD,HCM,HCM-TanBinh-Hub,SPXVN260002799
+SV000327,Seller,S00007,2026-08-12 15:56:11,5,ok,,HN,HN-CauGiay-Hub,SPXVN260002800
+SV000328,Seller,S00228,2026-08-12 20:25:10,3,"Lấy hàng đúng giờ, shop hài lòng",,DN,DN-HaiChau-Hub,SPXVN260002801
+SV000329,Seller,S00119,2026-08-12 08:01:45,5,Hỗ trợ nhiệt tình huhu,,HCM,HCM-ThuDuc-SOC,SPXVN260002802
+SV000330,Seller,S00271,2026-08-12 08:26:01,2,"Tien COD chua duoc doi soat, cham 5 ngay roi",COD,HCM,HCM-ThuDuc-SOC,SPXVN260002803
+SV000331,Seller,S00294,2026-08-12 18:00:00,3,Chưa nhận được tiền thu hộ tuần trước,COD,HN,HN-LongBien-SOC,SPXVN260002804
+SV000332,Seller,S00071,2026-08-12 09:27:19,5,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260002805
+SV000333,Seller,S00017,2026-08-12 22:26:57,5,"Lay hang dung gio, shop hai long",,HN,HN-CauGiay-Hub,SPXVN260002806
+SV000334,Seller,S00254,2026-08-12 21:01:05,1,"Đơn giao thất bại 2 lần rồi, giờ shop phải làm gì? Có giao lần 3 không?",Failed delivery,DN,DN-HaiChau-Hub,SPXVN260002807
+SV000335,Seller,S00151,2026-08-12 07:10:22,3,Gọi đi gọi lại nhiều lần vẫn chưa ai giải quyết,Repeated contact,HCM,HCM-TanBinh-Hub,SPXVN260002808
+SV000336,Seller,S00037,2026-08-13 16:31:42,1,Phi van chuyen tinh sai so voi bang gia,,HCM,HCM-TanBinh-Hub,SPXVN260002964
+SV000337,Seller,S00292,2026-08-13 21:20:27,4,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260002965
+SV000338,Seller,S00240,2026-08-13 22:28:29,1,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Return,HCM,HCM-ThuDuc-SOC,SPXVN260002966
+SV000339,Seller,S00148,2026-08-13 16:08:40,2,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",,HCM,HCM-Q7-Hub,SPXVN260002967
+SV000340,Seller,S00220,2026-08-13 18:32:10,5,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260002968
+SV000341,Seller,S00207,2026-08-13 18:40:54,3,okaaa,,HCM,HCM-Q7-Hub,SPXVN260002969
+SV000342,Seller,S00278,2026-08-13 22:47:36,5,Ho tro nhiet tinh,,CT,CT-NinhKieu-Hub,SPXVN260002970
+SV000343,Seller,S00214,2026-08-13 13:09:52,4,ok,,DN,DN-HaiChau-Hub,SPXVN260002971
+SV000344,Seller,S00054,2026-08-13 09:42:55,3,Ho tro nhiet tinh,,HCM,HCM-TanBinh-Hub,SPXVN260002972
+SV000345,Seller,S00089,2026-08-13 16:31:19,1,"Đơn của shop bị giao trễ, khách hủy đơn liên tục",Late delivery,HN,HN-LongBien-SOC,SPXVN260002973
+SV000346,Seller,S00240,2026-08-13 18:25:19,2,"Shipper báo khách từ chối nhận nhưng khách nói không hề được gọi, thêm nữa là đơn mất hàng mà bồi thường quá lâu, chưa thấy tiền đền bùaaa",Failed delivery,HCM,HCM-Q7-Hub,SPXVN260002974
+SV000347,Seller,S00203,2026-08-13 21:09:12,5,Ho tro nhiet tinh,,HN,HN-CauGiay-Hub,SPXVN260002975
+SV000348,Seller,S00268,2026-08-13 15:21:31,3,"Nhiều đơn của shop giao chậm 3-4 ngày, khách phàn nàn",Late delivery,HCM,HCM-ThuDuc-SOC,SPXVN260002976
+SV000349,Seller,S00131,2026-08-13 20:24:22,1,"lấy hàng chậm, đơn tồn ở shop 2 ngày",Pickup delay,HCM,HCM-ThuDuc-SOC,SPXVN260002977
+SV000350,Seller,S00033,2026-08-13 22:55:02,1,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Return,HN,HN-LongBien-SOC,SPXVN260002978
+SV000351,Seller,S00109,2026-08-13 15:47:04,3,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260002979
+SV000352,Seller,S00173,2026-08-13 11:53:17,3,Khách nhắn hỏi suốt mà hàng vẫn chưa tới tay họ,Late delivery,HN,HN-LongBien-SOC,SPXVN260002980
+SV000353,Seller,S00256,2026-08-13 07:36:20,5,Hỗ trợ nhiệt tình!!!,,HCM,HCM-ThuDuc-SOC,SPXVN260002981
+SV000354,Seller,S00047,2026-08-13 08:51:14,5,"Lay hang dung gio, shop hai long",,HN,HN-LongBien-SOC,SPXVN260002982
+SV000355,Seller,S00070,2026-08-14 10:13:56,1,"hàng hoàn về shop bị chậm, hoàn cả tuần chưa về huhu",Return,HCM,HCM-ThuDuc-SOC,SPXVN260003133
+SV000356,Seller,S00267,2026-08-14 07:10:59,2,không hài lòng,,HCM,HCM-TanBinh-Hub,SPXVN260003134
+SV000357,Seller,S00123,2026-08-14 13:38:04,5,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260003135
+SV000358,Seller,S00039,2026-08-14 16:56:03,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260003136
+SV000359,Seller,S00255,2026-08-14 17:11:48,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260003137
+SV000360,Seller,S00184,2026-08-14 15:33:33,3,Khach nhan hoi suot ma hang van chua toi tay ho,Late delivery,DN,DN-HaiChau-Hub,SPXVN260003138
+SV000361,Seller,S00152,2026-08-14 18:49:32,2,"Nhiều đơn của shop giao chậm 3-4 ngày, khách phàn nàn",,HCM,HCM-TanBinh-Hub,SPXVN260003139
+SV000362,Seller,S00114,2026-08-14 15:07:53,1,"lay hang cham, don ton o shop 2 ngay",,HCM,HCM-ThuDuc-SOC,SPXVN260003140
+SV000363,Seller,S00307,2026-08-14 20:26:34,4,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260003141
+SV000364,Seller,S00093,2026-08-14 11:35:09,1,"Đơn của shop bị giao trễ, khách hủy đơn liên tục, còn tiền cod chưa được đối soát, chậm 5 ngày rồi",,HN,HN-LongBien-SOC,SPXVN260003142
+SV000365,Seller,S00060,2026-08-14 15:28:38,5,"đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260003143
+SV000366,Seller,S00085,2026-08-14 21:59:09,5,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260003144
+SV000367,Seller,S00238,2026-08-14 08:38:48,2,Khách nhắn hỏi suốt mà hàng vẫn chưa tới tay họ,Late delivery,CT,CT-NinhKieu-Hub,SPXVN260003145
+SV000368,Seller,S00285,2026-08-14 15:18:30,4,Hỗ trợ nhiệt tình,,DN,DN-HaiChau-Hub,SPXVN260003146
+SV000369,Seller,S00238,2026-08-14 07:43:14,2,"Don cua shop bi giao tre, khach huy don lien tuc",Late delivery,HN,HN-CauGiay-Hub,SPXVN260003147
+SV000370,Seller,S00283,2026-08-14 17:52:21,3,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260003148
+SV000371,Seller,S00026,2026-08-14 20:36:40,4,Ho tro nhiet tinh huhu,,CT,CT-NinhKieu-Hub,SPXVN260003149
+SV000372,Seller,S00023,2026-08-14 15:23:28,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-TanBinh-Hub,SPXVN260003150
+SV000373,Seller,S00205,2026-08-14 13:30:46,4,okaaa,,HCM,HCM-Q7-Hub,SPXVN260003151
+SV000374,Seller,S00073,2026-08-14 12:15:47,3,ok,,HN,HN-LongBien-SOC,SPXVN260003152
+SV000375,Seller,S00170,2026-08-14 11:19:07,2,tệ,,HCM,HCM-ThuDuc-SOC,SPXVN260003153
+SV000376,Seller,S00143,2026-08-14 19:00:10,2,không hài lòng,,DN,DN-HaiChau-Hub,SPXVN260003154
+SV000377,Seller,S00141,2026-08-15 18:36:01,5,hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260003311
+SV000378,Seller,S00176,2026-08-15 18:22:18,2,Shipper báo khách từ chối nhận nhưng khách nói không hề được gọi,App issue,HCM,HCM-Q7-Hub,SPXVN260003312
+SV000379,Seller,S00096,2026-08-15 20:08:30,5,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260003313
+SV000380,Seller,S00132,2026-08-15 12:48:27,5,"Đối soát nhanh, tốt",,HCM,HCM-Q7-Hub,SPXVN260003314
+SV000381,Seller,S00121,2026-08-15 14:01:50,3,okaaa,,HCM,HCM-ThuDuc-SOC,SPXVN260003315
+SV000382,Seller,S00111,2026-08-15 10:11:48,2,"lấy hàng chậm, đơn tồn ở shop 2 ngày",Pickup delay,CT,CT-NinhKieu-Hub,SPXVN260003316
+SV000383,Seller,S00125,2026-08-15 18:38:52,5,Ho tro nhiet tinh,,DN,DN-HaiChau-Hub,SPXVN260003317
+SV000384,Seller,S00033,2026-08-15 12:38:39,5,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260003318
+SV000385,Seller,S00104,2026-08-15 09:33:54,2,chán,,HN,HN-CauGiay-Hub,SPXVN260003319
+SV000386,Seller,S00200,2026-08-15 21:38:08,3,ok,,HN,HN-LongBien-SOC,SPXVN260003320
+SV000387,Seller,S00127,2026-08-15 10:37:35,3,"Nhiều đơn của shop giao chậm 3-4 ngày, khách phàn nàn",,HN,HN-CauGiay-Hub,SPXVN260003321
+SV000388,Seller,S00305,2026-08-15 16:22:54,5,ok!!!,,HCM,HCM-ThuDuc-SOC,SPXVN260003322
+SV000389,Seller,S00018,2026-08-15 22:35:39,3,"Lay hang dung gio, shop hai long",,HCM,HCM-TanBinh-Hub,SPXVN260003323
+SV000390,Seller,S00153,2026-08-15 21:43:22,1,"Don giao that bai lan 2, shop khong biet buoc tiep theo la giaaa",Failed delivery,HN,HN-CauGiay-Hub,SPXVN260003324
+SV000391,Seller,S00126,2026-08-15 17:06:15,5,"lấy hàng đúng giờ, shop hài lòng",,HN,HN-CauGiay-Hub,SPXVN260003325
+SV000392,Seller,S00199,2026-08-15 09:56:48,1,"Don shop gui giao tre hen, bi khach danh gia 1 sao",Late delivery,HCM,HCM-TanBinh-Hub,SPXVN260003326
+SV000393,Seller,S00220,2026-08-15 16:41:31,2,"Đơn giao thất bại, khách bảo không ai gọi",Failed delivery,HN,HN-LongBien-SOC,SPXVN260003327
+SV000394,Seller,S00111,2026-08-15 17:06:11,3,ok,,HN,HN-CauGiay-Hub,SPXVN260003328
+SV000395,Seller,S00203,2026-08-15 22:09:39,5,"Lay hang dung gio, shop hai long",,HCM,HCM-ThuDuc-SOC,SPXVN260003329
+SV000396,Seller,S00124,2026-08-15 11:54:27,3,ok,,HCM,HCM-TanBinh-Hub,SPXVN260003330
+SV000397,Seller,S00098,2026-08-16 17:14:02,4,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260003482
+SV000398,Seller,S00209,2026-08-16 17:20:29,3,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-CauGiay-Hub,SPXVN260003483
+SV000399,Seller,S00029,2026-08-16 15:21:09,5,"Lay hang dung gio, shop hai long",,HCM,HCM-TanBinh-Hub,SPXVN260003484
+SV000400,Seller,S00270,2026-08-16 09:01:03,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-TanBinh-Hub,SPXVN260003485
+SV000401,Seller,S00196,2026-08-16 19:10:41,2,Shipper bao khach tu choi nhan nhung khach noi khong he duoc goi,Failed delivery,HCM,HCM-ThuDuc-SOC,SPXVN260003486
+SV000402,Seller,S00234,2026-08-16 11:35:40,5,"Lay hang dung gio, shop hai long!!!",,HCM,HCM-ThuDuc-SOC,SPXVN260003487
+SV000403,Seller,S00316,2026-08-16 15:35:21,2,bình thường,,HN,HN-CauGiay-Hub,SPXVN260003488
+SV000404,Seller,S00076,2026-08-16 07:45:59,3,"Don giao that bai 2 lan roi, gio shop phai lam gi? Co giao lan 3 khong?",Failed delivery,HCM,HCM-TanBinh-Hub,SPXVN260003489
+SV000405,Seller,S00297,2026-08-16 17:02:45,2,Khach nhan hoi suot ma hang van chua toi tay ho,Late delivery,HCM,HCM-ThuDuc-SOC,SPXVN260003490
+SV000406,Seller,S00315,2026-08-16 19:22:27,3,"Lấy hàng chậm, đơn tồn ở shop 2 ngày",Pickup delay,HCM,HCM-Q7-Hub,SPXVN260003491
+SV000407,Seller,S00142,2026-08-16 22:53:37,1,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Settlement,DN,DN-HaiChau-Hub,SPXVN260003492
+SV000408,Seller,S00132,2026-08-16 10:48:46,1,kém,,HCM,HCM-ThuDuc-SOC,SPXVN260003493
+SV000409,Seller,S00302,2026-08-16 11:35:15,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260003494
+SV000410,Seller,S00170,2026-08-16 20:53:51,3,"đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Return,DN,DN-HaiChau-Hub,SPXVN260003495
+SV000411,Seller,S00079,2026-08-16 10:33:13,4,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260003496
+SV000412,Seller,S00143,2026-08-16 07:39:25,5,ok,,HCM,HCM-TanBinh-Hub,SPXVN260003497
+SV000413,Seller,S00177,2026-08-16 22:20:57,5,Ho tro nhiet tinh,,HN,HN-CauGiay-Hub,SPXVN260003498
+SV000414,Seller,S00081,2026-08-16 16:33:24,4,Ho tro nhiet tinh,,HN,HN-LongBien-SOC,SPXVN260003499
+SV000415,Seller,S00224,2026-08-16 18:49:41,5,ok,,HCM,HCM-Q7-Hub,SPXVN260003500
+SV000416,Seller,S00248,2026-08-17 22:38:54,4,"lay hang dung gio, shop hai long",,HCM,HCM-Q7-Hub,SPXVN260003654
+SV000417,Seller,S00295,2026-08-17 07:53:17,3,"Don shop gui giao tre hen, bi khach danh gia 1 sao",Late delivery,HCM,HCM-ThuDuc-SOC,SPXVN260003655
+SV000418,Seller,S00239,2026-08-17 12:01:57,1,Shipper báo khách từ chối nhận nhưng khách nói không hề được gọi!!!,Failed delivery,HN,HN-LongBien-SOC,SPXVN260003656
+SV000419,Seller,S00308,2026-08-17 19:08:22,3,Hỗ trợ nhiệt tình,,HCM,HCM-Q7-Hub,SPXVN260003657
+SV000420,Seller,S00157,2026-08-17 15:19:12,2,Chưa nhận được tiền thu hộ tuần trước,,HN,HN-LongBien-SOC,SPXVN260003658
+SV000421,Seller,S00266,2026-08-17 16:14:57,5,"đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260003659
+SV000422,Seller,S00016,2026-08-17 20:03:40,5,"Doi soat nhanh, tot",,DN,DN-HaiChau-Hub,SPXVN260003660
+SV000423,Seller,S00071,2026-08-17 19:24:44,2,Tien ban hang tuan truoc sao van chua thay ve tai khoan shop,Settlement,HN,HN-LongBien-SOC,SPXVN260003661
+SV000424,Seller,S00124,2026-08-17 17:09:29,4,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260003662
+SV000425,Seller,S00034,2026-08-17 07:56:00,3,ok :(,,CT,CT-NinhKieu-Hub,SPXVN260003663
+SV000426,Seller,S00213,2026-08-17 17:39:26,5,Ho tro nhiet tinh,,HCM,HCM-ThuDuc-SOC,SPXVN260003664
+SV000427,Seller,S00006,2026-08-17 14:25:20,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-CauGiay-Hub,SPXVN260003665
+SV000428,Seller,S00128,2026-08-17 21:32:31,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-CauGiay-Hub,SPXVN260003666
+SV000429,Seller,S00138,2026-08-17 21:23:51,4,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260003667
+SV000430,Seller,S00241,2026-08-17 18:11:32,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260003668
+SV000431,Seller,S00118,2026-08-17 13:03:11,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-TanBinh-Hub,SPXVN260003669
+SV000432,Seller,S00023,2026-08-17 14:14:22,5,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260003670
+SV000433,Seller,S00137,2026-08-17 08:51:37,3,Hỗ trợ nhiệt tìnhaaa,,DN,DN-HaiChau-Hub,SPXVN260003671
+SV000434,Seller,S00068,2026-08-17 18:54:05,5,Ho tro nhiet tinh,,HCM,HCM-TanBinh-Hub,SPXVN260003672
+SV000435,Seller,S00177,2026-08-17 09:54:15,3,...,,HCM,HCM-TanBinh-Hub,SPXVN260003673
+SV000436,Seller,S00119,2026-08-17 19:27:51,4,"Lấy hàng đúng giờ, shop hài lòng",,CT,CT-NinhKieu-Hub,SPXVN260003674
+SV000437,Seller,S00068,2026-08-17 20:15:20,3,Trang thai don dung im 2 ngay o kho,Tracking / status,CT,CT-NinhKieu-Hub,SPXVN260003675
+SV000438,Seller,S00283,2026-08-18 11:42:50,5,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260003827
+SV000439,Seller,S00102,2026-08-18 19:11:21,5,ok,,HCM,HCM-TanBinh-Hub,SPXVN260003828
+SV000440,Seller,S00114,2026-08-18 12:25:02,5,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260003829
+SV000441,Seller,S00279,2026-08-18 22:07:53,3,"Lấy hàng đúng giờ, shop hài lòng",,CT,CT-NinhKieu-Hub,SPXVN260003830
+SV000442,Seller,S00187,2026-08-18 16:42:46,5,"Doi soat nhanh, tot",,HCM,HCM-ThuDuc-SOC,SPXVN260003831
+SV000443,Seller,S00157,2026-08-18 14:01:45,5,hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260003832
+SV000444,Seller,S00056,2026-08-18 08:51:48,3,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",COD,HCM,HCM-Q7-Hub,SPXVN260003833
+SV000445,Seller,S00254,2026-08-18 14:00:43,3,"Chua nhan duoc tien thu ho tuan truoc, con don mat hang ma boi thuong qua lau, chua thay tien den bu",COD,CT,CT-NinhKieu-Hub,SPXVN260003834
+SV000446,Seller,S00113,2026-08-18 08:58:50,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260003835
+SV000447,Seller,S00054,2026-08-18 19:32:41,3,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260003836
+SV000448,Seller,S00314,2026-08-18 16:39:37,5,"lay hang dung gio, shop hai long",,HN,HN-CauGiay-Hub,SPXVN260003837
+SV000449,Seller,S00070,2026-08-18 12:47:27,5,Ho tro nhiet tinh,,HN,HN-CauGiay-Hub,SPXVN260003838
+SV000450,Seller,S00265,2026-08-18 13:58:39,3,Chưa nhận dc tiền thu hộ tuần trước,COD,HN,HN-LongBien-SOC,SPXVN260003839
+SV000451,Seller,S00270,2026-08-18 09:24:30,5,ok,,HN,HN-LongBien-SOC,SPXVN260003840
+SV000452,Seller,S00002,2026-08-18 07:41:40,1,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về, với lại tiền cod chưa được đối soát, chậm 5 ngày rồi",Return,CT,CT-NinhKieu-Hub,SPXVN260003841
+SV000453,Seller,S00023,2026-08-18 17:43:49,1,Chưa nhận được tiền thu hộ tuần trước,COD,HCM,HCM-ThuDuc-SOC,SPXVN260003842
+SV000454,Seller,S00247,2026-08-18 11:15:17,5,"Lay hang dung gio, shop hai long",,HCM,HCM-Q7-Hub,SPXVN260003843
+SV000455,Seller,S00211,2026-08-18 11:02:02,4,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260003844
+SV000456,Seller,S00306,2026-08-18 14:59:42,5,hỗ trợ nhiệt tình,,HCM,HCM-Q7-Hub,SPXVN260003845
+SV000457,Seller,S00122,2026-08-18 11:58:34,5,"Lấy hàng đúng giờ, shop hài lòng",,CT,CT-NinhKieu-Hub,SPXVN260003846
+SV000458,Seller,S00109,2026-08-18 08:08:26,5,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260003847
+SV000459,Seller,S00128,2026-08-19 07:48:56,5,Ho tro nhiet tinh,,HCM,HCM-ThuDuc-SOC,SPXVN260004001
+SV000460,Seller,S00236,2026-08-19 11:22:45,2,Hen lay hang ma khong ai den lay,Pickup failure,CT,CT-NinhKieu-Hub,SPXVN260004002
+SV000461,Seller,S00106,2026-08-19 19:55:49,1,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",COD,HN,HN-LongBien-SOC,SPXVN260004003
+SV000462,Seller,S00071,2026-08-19 14:55:45,2,Khách nhắn hỏi suốt mà hàng vẫn chưa tới tay họ,Late delivery,DN,DN-HaiChau-Hub,SPXVN260004004
+SV000463,Seller,S00208,2026-08-19 07:51:48,5,"Lay hang dung gio, shop hai long :(",,DN,DN-HaiChau-Hub,SPXVN260004005
+SV000464,Seller,S00269,2026-08-19 22:11:09,4,"Doi soat nhanh, tot",,DN,DN-HaiChau-Hub,SPXVN260004006
+SV000465,Seller,S00110,2026-08-19 20:50:01,3,hỗ trợ nhiệt tình,,DN,DN-HaiChau-Hub,SPXVN260004007
+SV000466,Seller,S00017,2026-08-19 14:34:01,5,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260004008
+SV000467,Seller,S00046,2026-08-19 14:31:49,5,ok,,HN,HN-CauGiay-Hub,SPXVN260004009
+SV000468,Seller,S00138,2026-08-19 10:07:47,3,"Doi soat nhanh, tot",,HCM,HCM-ThuDuc-SOC,SPXVN260004010
+SV000469,Seller,S00265,2026-08-19 19:04:05,1,Shop phai lien he ho tro 3 lan roi van chua duoc xu ly :(,Repeated contact,HN,HN-CauGiay-Hub,SPXVN260004011
+SV000470,Seller,S00131,2026-08-19 19:32:48,3,Ho tro nhiet tinh,,HN,HN-CauGiay-Hub,SPXVN260004012
+SV000471,Seller,S00004,2026-08-19 07:00:14,2,Gọi đi gọi lại nhiều lần vẫn chưa ai giải quyết,Repeated contact,HCM,HCM-Q7-Hub,SPXVN260004013
+SV000472,Seller,S00029,2026-08-19 14:34:23,5,"Đối soát nhanh, tốt",,CT,CT-NinhKieu-Hub,SPXVN260004014
+SV000473,Seller,S00310,2026-08-19 07:49:45,3,ok,,DN,DN-HaiChau-Hub,SPXVN260004015
+SV000474,Seller,S00243,2026-08-19 13:55:47,2,"Lay hang cham, don ton o shop 2 ngay",Pickup delay,DN,DN-HaiChau-Hub,SPXVN260004016
+SV000475,Seller,S00244,2026-08-19 09:47:48,5,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260004017
+SV000476,Seller,S00157,2026-08-19 21:13:17,4,"Lấy hàng đúng giờ, shop hài lòng",,DN,DN-HaiChau-Hub,SPXVN260004018
+SV000477,Seller,S00033,2026-08-20 16:02:10,5,ok :(,,HCM,HCM-TanBinh-Hub,SPXVN260004169
+SV000478,Seller,S00268,2026-08-20 07:33:20,2,Phi van chuyen tinh sai so voi bang gia,Fee,DN,DN-HaiChau-Hub,SPXVN260004170
+SV000479,Seller,S00061,2026-08-20 09:12:46,5,"Lấy hàng đúng giờ, shop hài lòng",,DN,DN-HaiChau-Hub,SPXVN260004171
+SV000480,Seller,S00297,2026-08-20 09:56:09,4,"Doi soat nhanh, tot",,HCM,HCM-TanBinh-Hub,SPXVN260004172
+SV000481,Seller,S00247,2026-08-20 21:56:53,1,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",App issue,DN,DN-HaiChau-Hub,SPXVN260004173
+SV000482,Seller,S00022,2026-08-20 10:41:00,3,"Đơn mất hàng mà bồi thường quá lâu, chưa thấy tiền đền bù",,HCM,HCM-TanBinh-Hub,SPXVN260004174
+SV000483,Seller,S00273,2026-08-20 16:32:33,5,ok,,HN,HN-CauGiay-Hub,SPXVN260004175
+SV000484,Seller,S00286,2026-08-20 21:33:43,5,Ho tro nhiet tinh,,HCM,HCM-ThuDuc-SOC,SPXVN260004176
+SV000485,Seller,S00277,2026-08-20 08:34:08,2,"Tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới huhu",Pickup delay,HN,HN-LongBien-SOC,SPXVN260004177
+SV000486,Seller,S00018,2026-08-20 10:42:41,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260004178
+SV000487,Seller,S00237,2026-08-20 16:22:45,3,"Phí vận chuyển tính sai so với bảng giá, còn trạng thái đơn đứng im 2 ngày ở kho",Fee,DN,DN-HaiChau-Hub,SPXVN260004179
+SV000488,Seller,S00155,2026-08-20 08:47:13,1,Trạng thái đơn đứng im 2 ngày ở kho,,DN,DN-HaiChau-Hub,SPXVN260004180
+SV000489,Seller,S00131,2026-08-20 11:31:38,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-CauGiay-Hub,SPXVN260004181
+SV000490,Seller,S00225,2026-08-20 08:59:56,3,"Don mat hang ma boi thuong qua lau, chua thay tien den bu",Compensation,HCM,HCM-Q7-Hub,SPXVN260004182
+SV000491,Seller,S00181,2026-08-20 19:26:55,4,hỗ trợ nhiệt tình,,DN,DN-HaiChau-Hub,SPXVN260004183
+SV000492,Seller,S00109,2026-08-20 11:07:37,5,"đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260004184
+SV000493,Seller,S00185,2026-08-20 16:46:49,5,ok,,DN,DN-HaiChau-Hub,SPXVN260004185
+SV000494,Seller,S00140,2026-08-20 19:02:56,2,...,,HN,HN-LongBien-SOC,SPXVN260004186
+SV000495,Seller,S00015,2026-08-20 15:11:07,2,Phí vận chuyển tính sai so với bảng giá huhu,,HCM,HCM-ThuDuc-SOC,SPXVN260004187
+SV000496,Seller,S00297,2026-08-20 20:46:21,3,Ho tro nhiet tinh,,HCM,HCM-Q7-Hub,SPXVN260004188
+SV000497,Seller,S00210,2026-08-20 10:13:48,3,Ho tro nhiet tinh,,CT,CT-NinhKieu-Hub,SPXVN260004189
+SV000498,Seller,S00066,2026-08-21 08:49:17,3,Shipper bao khach tu choi nhan nhung khach noi khong he duoc goi,Failed delivery,HCM,HCM-TanBinh-Hub,SPXVN260004340
+SV000499,Seller,S00209,2026-08-21 16:37:53,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-CauGiay-Hub,SPXVN260004341
+SV000500,Seller,S00258,2026-08-21 16:13:20,1,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Settlement,HN,HN-LongBien-SOC,SPXVN260004342
+SV000501,Seller,S00072,2026-08-21 11:57:56,1,tệ,,HN,HN-CauGiay-Hub,SPXVN260004343
+SV000502,Seller,S00045,2026-08-21 16:15:51,3,Hen lay hang ma khong ai den lay,,HN,HN-LongBien-SOC,SPXVN260004344
+SV000503,Seller,S00262,2026-08-21 20:22:21,1,không hài lòng,,HCM,HCM-Q7-Hub,SPXVN260004345
+SV000504,Seller,S00004,2026-08-21 17:07:00,1,Hẹn lấy hàng mà không ai đến lấy,Pickup failure,HCM,HCM-ThuDuc-SOC,SPXVN260004346
+SV000505,Seller,S00233,2026-08-21 09:54:24,5,"Lấy hàng đúng giờ, shop hài lòng :(",,DN,DN-HaiChau-Hub,SPXVN260004347
+SV000506,Seller,S00215,2026-08-21 17:05:55,5,"Doi soat nhanh, tot",,DN,DN-HaiChau-Hub,SPXVN260004348
+SV000507,Seller,S00170,2026-08-21 17:40:59,2,"Don cua shop bi giao tre, khach huy don lien tuc",Late delivery,HCM,HCM-Q7-Hub,SPXVN260004349
+SV000508,Seller,S00311,2026-08-21 17:06:03,3,Tien ban hang tuan truoc sao van chua thay ve tai khoan shop,Settlement,HCM,HCM-ThuDuc-SOC,SPXVN260004350
+SV000509,Seller,S00135,2026-08-21 16:07:25,1,Khach nhan hoi suot ma hang van chua toi tay ho,,HN,HN-CauGiay-Hub,SPXVN260004351
+SV000510,Seller,S00115,2026-08-21 12:35:57,5,"lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-Q7-Hub,SPXVN260004352
+SV000511,Seller,S00182,2026-08-21 21:23:02,5,ok,,CT,CT-NinhKieu-Hub,SPXVN260004353
+SV000512,Seller,S00311,2026-08-21 09:49:24,5,"Đối soát nhanh, tốt",,HCM,HCM-Q7-Hub,SPXVN260004354
+SV000513,Seller,S00182,2026-08-21 16:59:55,2,"đơn mất hàng mà bồi thường wa lâu, chưa thấy tiền đền bù",Compensation,HCM,HCM-TanBinh-Hub,SPXVN260004355
+SV000514,Seller,S00165,2026-08-21 07:30:34,5,ok,,HCM,HCM-TanBinh-Hub,SPXVN260004356
+SV000515,Seller,S00011,2026-08-21 20:32:55,1,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",,HCM,HCM-ThuDuc-SOC,SPXVN260004357
+SV000516,Seller,S00269,2026-08-21 07:22:59,2,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop!!!,Settlement,DN,DN-HaiChau-Hub,SPXVN260004358
+SV000517,Seller,S00052,2026-08-21 19:32:08,3,chán,,HCM,HCM-Q7-Hub,SPXVN260004359
+SV000518,Seller,S00066,2026-08-22 08:23:55,3,"Doi soat nhanh, totaaa",,HN,HN-LongBien-SOC,SPXVN260004515
+SV000519,Seller,S00162,2026-08-22 15:42:08,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260004516
+SV000520,Seller,S00225,2026-08-22 17:20:13,5,hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260004517
+SV000521,Seller,S00069,2026-08-22 12:51:12,5,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260004518
+SV000522,Seller,S00254,2026-08-22 07:21:01,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-TanBinh-Hub,SPXVN260004519
+SV000523,Seller,S00248,2026-08-22 22:31:31,2,Chưa nhận được tiền thu hộ tuần trước,,HCM,HCM-ThuDuc-SOC,SPXVN260004520
+SV000524,Seller,S00280,2026-08-22 11:24:19,2,tệ,,HCM,HCM-Q7-Hub,SPXVN260004521
+SV000525,Seller,S00081,2026-08-22 15:01:29,4,hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260004522
+SV000526,Seller,S00226,2026-08-22 15:29:01,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-TanBinh-Hub,SPXVN260004523
+SV000527,Seller,S00119,2026-08-22 18:03:41,4,"Lay hang dung gio, shop hai long",,HCM,HCM-Q7-Hub,SPXVN260004524
+SV000528,Seller,S00136,2026-08-22 22:37:58,5,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260004525
+SV000529,Seller,S00253,2026-08-22 13:46:06,4,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260004526
+SV000530,Seller,S00067,2026-08-22 13:25:55,4,"Lay hang dung gio, shop hai long",,HN,HN-LongBien-SOC,SPXVN260004527
+SV000531,Seller,S00041,2026-08-22 19:14:32,1,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",,HCM,HCM-TanBinh-Hub,SPXVN260004528
+SV000532,Seller,S00216,2026-08-22 11:28:49,3,"Doi soat nhanh, tot",,HCM,HCM-TanBinh-Hub,SPXVN260004529
+SV000533,Seller,S00297,2026-08-22 13:38:26,1,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",COD,HCM,HCM-Q7-Hub,SPXVN260004530
+SV000534,Seller,S00255,2026-08-22 17:13:55,5,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260004531
+SV000535,Seller,S00319,2026-08-22 18:03:30,5,hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260004532
+SV000536,Seller,S00027,2026-08-22 16:33:21,5,"Lấy hàng đúng giờ, shop hài lòng",,DN,DN-HaiChau-Hub,SPXVN260004533
+SV000537,Seller,S00245,2026-08-22 12:01:35,4,"lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260004534
+SV000538,Seller,S00153,2026-08-23 18:06:59,5,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260004681
+SV000539,Seller,S00310,2026-08-23 12:17:16,3,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260004682
+SV000540,Seller,S00288,2026-08-23 16:17:03,4,Hỗ trợ nhiệt tình,,DN,DN-HaiChau-Hub,SPXVN260004683
+SV000541,Seller,S00127,2026-08-23 22:38:50,1,"Nhiều đơn của shop giao chậm 3-4 ngày, khách phàn nàn",Late delivery,HN,HN-CauGiay-Hub,SPXVN260004684
+SV000542,Seller,S00038,2026-08-23 18:09:13,1,bình thường,Fee,HCM,HCM-Q7-Hub,SPXVN260004685
+SV000543,Seller,S00310,2026-08-23 12:39:22,4,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260004686
+SV000544,Seller,S00041,2026-08-23 10:41:37,4,ok,,DN,DN-HaiChau-Hub,SPXVN260004687
+SV000545,Seller,S00253,2026-08-23 09:20:18,2,Chua nhan duoc tien thu ho tuan truoc,,HCM,HCM-TanBinh-Hub,SPXVN260004688
+SV000546,Seller,S00122,2026-08-23 08:02:39,4,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260004689
+SV000547,Seller,S00039,2026-08-23 13:11:16,2,"tiền cod chưa được đối soát, chậm 5 ngày rồi",COD,DN,DN-HaiChau-Hub,SPXVN260004690
+SV000548,Seller,S00043,2026-08-23 07:06:47,2,"Lấy hàng chậm, đơn tồn ở shop 2 ngày",Pickup delay,DN,DN-HaiChau-Hub,SPXVN260004691
+SV000549,Seller,S00087,2026-08-23 19:55:16,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260004692
+SV000550,Seller,S00102,2026-08-23 07:23:50,2,"Don giao that bai, khach bao khong ai goi",Failed delivery,HCM,HCM-Q7-Hub,SPXVN260004693
+SV000551,Seller,S00287,2026-08-23 08:46:00,2,"Lấy hàng chậm, đơn tồn ở shop 2 ngày, với lại shiper báo khách từ chối nhận nhưng khách nói ko hề được gọi",Pickup delay,HCM,HCM-TanBinh-Hub,SPXVN260004694
+SV000552,Seller,S00233,2026-08-23 12:28:10,4,Ho tro nhiet tinh,,HN,HN-LongBien-SOC,SPXVN260004695
+SV000553,Seller,S00099,2026-08-23 12:04:52,4,"lay hang dung gio, shop hai long",,HCM,HCM-TanBinh-Hub,SPXVN260004696
+SV000554,Seller,S00241,2026-08-23 09:04:43,4,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260004697
+SV000555,Seller,S00046,2026-08-23 13:40:42,3,"Nhiều đơn của shop giao chậm 3-4 ngày, khách phàn nàn",Late delivery,DN,DN-HaiChau-Hub,SPXVN260004698
+SV000556,Seller,S00064,2026-08-23 10:36:03,3,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-CauGiay-Hub,SPXVN260004699
+SV000557,Seller,S00073,2026-08-24 21:32:12,5,"Lay hang dung gio, shop hai long",,HCM,HCM-TanBinh-Hub,SPXVN260004855
+SV000558,Seller,S00055,2026-08-24 07:26:24,5,"Đối soát nhanh, tốtaaa",,HN,HN-LongBien-SOC,SPXVN260004856
+SV000559,Seller,S00052,2026-08-24 13:35:35,5,"lay hang dung gio, shop hai long",,HN,HN-LongBien-SOC,SPXVN260004857
+SV000560,Seller,S00193,2026-08-24 15:32:14,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260004858
+SV000561,Seller,S00100,2026-08-24 16:53:55,2,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Settlement,HCM,HCM-Q7-Hub,SPXVN260004859
+SV000562,Seller,S00026,2026-08-24 22:47:15,2,Trạng thái đơn đứng im 2 ngày ở kho,Tracking / status,HCM,HCM-ThuDuc-SOC,SPXVN260004860
+SV000563,Seller,S00025,2026-08-24 22:49:32,2,"Đơn của shop kẹt ở kho không cập nhật trạng thái, khách hỏi mà không biết trả lời",Tracking / status,HCM,HCM-Q7-Hub,SPXVN260004861
+SV000564,Seller,S00029,2026-08-24 09:58:37,4,ok,,HN,HN-LongBien-SOC,SPXVN260004862
+SV000565,Seller,S00142,2026-08-24 08:35:38,1,Hẹn lấy hàng mà không ai đến lấy,Pickup failure,HCM,HCM-Q7-Hub,SPXVN260004863
+SV000566,Seller,S00299,2026-08-24 10:05:57,2,Khách nhắn hỏi suốt mà hàng vx chưa tới tay họ,Late delivery,HCM,HCM-ThuDuc-SOC,SPXVN260004864
+SV000567,Seller,S00278,2026-08-24 11:15:35,5,ok,,HN,HN-LongBien-SOC,SPXVN260004865
+SV000568,Seller,S00109,2026-08-24 16:01:41,4,ok,,HN,HN-LongBien-SOC,SPXVN260004866
+SV000569,Seller,S00093,2026-08-24 21:45:00,3,"Đối soát nhanh, tốt!!!",,HN,HN-LongBien-SOC,SPXVN260004867
+SV000570,Seller,S00225,2026-08-24 20:03:21,1,"Nhieu don cua shop giao cham 3-4 ngay, khach phan nan",Late delivery,HN,HN-CauGiay-Hub,SPXVN260004868
+SV000571,Seller,S00184,2026-08-24 21:17:02,5,"Doi soat nhanh, tot",,HCM,HCM-Q7-Hub,SPXVN260004869
+SV000572,Seller,S00239,2026-08-24 17:48:56,1,Hẹn lấy hàng mà không ai đến lấy,Pickup failure,HCM,HCM-TanBinh-Hub,SPXVN260004870
+SV000573,Seller,S00215,2026-08-24 17:08:46,3,"Tai xe den lay hang tre, hen sang ma chieu moi toi",Pickup delay,HCM,HCM-TanBinh-Hub,SPXVN260004871
+SV000574,Seller,S00220,2026-08-24 09:20:29,3,"Lấy hàng đúng giờ, shop hài lòng",,DN,DN-HaiChau-Hub,SPXVN260004872
+SV000575,Seller,S00104,2026-08-24 07:38:34,1,chán,,HN,HN-CauGiay-Hub,SPXVN260004873
+SV000576,Seller,S00124,2026-08-24 18:24:12,5,"đối soát nhanh, tốt",,DN,DN-HaiChau-Hub,SPXVN260004874
+SV000577,Seller,S00138,2026-08-25 08:34:07,5,"Lấy hàng đúng giờ, shop hài lòng",,CT,CT-NinhKieu-Hub,SPXVN260005026
+SV000578,Seller,S00266,2026-08-25 14:21:41,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260005027
+SV000579,Seller,S00213,2026-08-25 09:06:26,1,không hài lòng,,DN,DN-HaiChau-Hub,SPXVN260005028
+SV000580,Seller,S00178,2026-08-25 11:45:43,5,Hỗ trợ nhiệt tình,,DN,DN-HaiChau-Hub,SPXVN260005029
+SV000581,Seller,S00115,2026-08-25 11:00:15,5,ho tro nhiet tinh,,HCM,HCM-Q7-Hub,SPXVN260005030
+SV000582,Seller,S00147,2026-08-25 10:13:01,5,Ho tro nhiet tinh,,HN,HN-CauGiay-Hub,SPXVN260005031
+SV000583,Seller,S00067,2026-08-25 17:12:50,5,ok,,DN,DN-HaiChau-Hub,SPXVN260005032
+SV000584,Seller,S00212,2026-08-25 10:58:11,2,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Settlement,DN,DN-HaiChau-Hub,SPXVN260005033
+SV000585,Seller,S00160,2026-08-25 13:36:15,4,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260005034
+SV000586,Seller,S00314,2026-08-25 12:00:27,3,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260005035
+SV000587,Seller,S00090,2026-08-25 14:05:51,5,ok,,HCM,HCM-TanBinh-Hub,SPXVN260005036
+SV000588,Seller,S00010,2026-08-25 11:57:32,1,Chưa nhận được tiền thu hộ tuần trước,,HCM,HCM-TanBinh-Hub,SPXVN260005037
+SV000589,Seller,S00198,2026-08-25 07:08:47,3,không hài lòng,,HCM,HCM-Q7-Hub,SPXVN260005038
+SV000590,Seller,S00217,2026-08-25 08:56:27,2,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",COD,DN,DN-HaiChau-Hub,SPXVN260005039
+SV000591,Seller,S00089,2026-08-25 21:54:35,3,"Lay hang dung gio, shop hai long",,HCM,HCM-TanBinh-Hub,SPXVN260005040
+SV000592,Seller,S00116,2026-08-25 17:13:37,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260005041
+SV000593,Seller,S00267,2026-08-25 10:42:51,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260005042
+SV000594,Seller,S00259,2026-08-25 22:34:53,3,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260005043
+SV000595,Seller,S00244,2026-08-25 16:28:48,3,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260005044
+SV000596,Seller,S00243,2026-08-25 09:54:26,5,"đối soát nhanh, tốt",,DN,DN-HaiChau-Hub,SPXVN260005045
+SV000597,Seller,S00238,2026-08-26 10:53:14,5,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260005195
+SV000598,Seller,S00002,2026-08-26 22:42:26,2,"Đơn giao thất bại lần 2, shop không biết bước tiếp theo là gì",Failed delivery,HCM,HCM-TanBinh-Hub,SPXVN260005196
+SV000599,Seller,S00046,2026-08-26 20:46:09,5,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260005197
+SV000600,Seller,S00189,2026-08-26 22:21:00,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260005198
+SV000601,Seller,S00095,2026-08-26 08:44:42,5,"Đối soát nhanh, tốt",,DN,DN-HaiChau-Hub,SPXVN260005199
+SV000602,Seller,S00172,2026-08-26 20:56:39,2,"Tai xe den lay hang tre, hen sang ma chieu moi toi",Pickup delay,HCM,HCM-Q7-Hub,SPXVN260005200
+SV000603,Seller,S00104,2026-08-26 13:50:04,5,ok,,DN,DN-HaiChau-Hub,SPXVN260005201
+SV000604,Seller,S00217,2026-08-26 17:14:25,4,ok,,HCM,HCM-Q7-Hub,SPXVN260005202
+SV000605,Seller,S00053,2026-08-26 14:12:12,1,"Tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới",Pickup delay,HN,HN-LongBien-SOC,SPXVN260005203
+SV000606,Seller,S00315,2026-08-26 14:32:33,1,"lay hang cham, don ton o shop 2 ngay",Pickup delay,HN,HN-LongBien-SOC,SPXVN260005204
+SV000607,Seller,S00044,2026-08-26 17:37:51,5,"Doi soat nhanh, tot",,HCM,HCM-ThuDuc-SOC,SPXVN260005205
+SV000608,Seller,S00204,2026-08-26 18:03:18,1,...,Return,HN,HN-LongBien-SOC,SPXVN260005206
+SV000609,Seller,S00219,2026-08-26 11:55:57,3,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Return,HCM,HCM-Q7-Hub,SPXVN260005207
+SV000610,Seller,S00314,2026-08-26 09:02:36,3,"Nhiều đơn của shop giao chậm 3-4 ngày, khách phàn nàn, thêm nữa là đơn giao thất bại lần 2, shop không biết bước tiếp theo là gì",Late delivery,HN,HN-CauGiay-Hub,SPXVN260005208
+SV000611,Seller,S00022,2026-08-26 12:07:18,5,hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260005209
+SV000612,Seller,S00027,2026-08-26 11:01:58,3,ok,,CT,CT-NinhKieu-Hub,SPXVN260005210
+SV000613,Seller,S00230,2026-08-26 17:57:41,5,"Lấy hàng đúng giờ, shop hài lòng",,DN,DN-HaiChau-Hub,SPXVN260005211
+SV000614,Seller,S00058,2026-08-26 17:16:02,1,"Tai xe den lay hang tre, hen sang ma chieu moi toi",Pickup delay,HCM,HCM-ThuDuc-SOC,SPXVN260005212
+SV000615,Seller,S00297,2026-08-27 19:15:56,3,Hỗ trợ nhiệt tình huhu,,DN,DN-HaiChau-Hub,SPXVN260005362
+SV000616,Seller,S00131,2026-08-27 22:26:51,5,ok,,HN,HN-LongBien-SOC,SPXVN260005363
+SV000617,Seller,S00052,2026-08-27 18:07:36,2,không hài lòng,,CT,CT-NinhKieu-Hub,SPXVN260005364
+SV000618,Seller,S00223,2026-08-27 13:07:28,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-Q7-Hub,SPXVN260005365
+SV000619,Seller,S00303,2026-08-27 13:50:57,5,ok,,DN,DN-HaiChau-Hub,SPXVN260005366
+SV000620,Seller,S00070,2026-08-27 21:59:03,5,ok,,HCM,HCM-Q7-Hub,SPXVN260005367
+SV000621,Seller,S00166,2026-08-27 17:29:51,3,Hỗ trợ nhiệt tình,,CT,CT-NinhKieu-Hub,SPXVN260005368
+SV000622,Seller,S00095,2026-08-27 17:44:17,2,"Đơn mất hàng mà bồi thường quá lâu, chưa thấy tiền đền bù",,HCM,HCM-TanBinh-Hub,SPXVN260005369
+SV000623,Seller,S00293,2026-08-27 11:30:24,2,Khách nhắn hỏi suốt mà hàng vẫn chưa tới tay họ,,CT,CT-NinhKieu-Hub,SPXVN260005370
+SV000624,Seller,S00217,2026-08-27 07:15:26,5,Hỗ trợ nhiệt tình,,DN,DN-HaiChau-Hub,SPXVN260005371
+SV000625,Seller,S00247,2026-08-27 18:02:03,5,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260005372
+SV000626,Seller,S00200,2026-08-27 09:37:07,5,ok,,HN,HN-CauGiay-Hub,SPXVN260005373
+SV000627,Seller,S00244,2026-08-27 18:27:39,5,ok,,CT,CT-NinhKieu-Hub,SPXVN260005374
+SV000628,Seller,S00154,2026-08-27 13:49:30,3,"Lấy hàng đúng giờ, shop hài lòng!!!",,HCM,HCM-Q7-Hub,SPXVN260005375
+SV000629,Seller,S00090,2026-08-27 10:07:41,3,Ho tro nhiet tinhaaa,,HCM,HCM-ThuDuc-SOC,SPXVN260005376
+SV000630,Seller,S00075,2026-08-27 10:05:41,5,"Đối soát nhanh, tốt",,HCM,HCM-Q7-Hub,SPXVN260005377
+SV000631,Seller,S00294,2026-08-27 15:09:13,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-CauGiay-Hub,SPXVN260005378
+SV000632,Seller,S00125,2026-08-27 17:03:47,5,Ho tro nhiet tinh,,DN,DN-HaiChau-Hub,SPXVN260005379
+SV000633,Seller,S00181,2026-08-27 08:53:21,5,"Đối soát nhanh, tốt :(",,DN,DN-HaiChau-Hub,SPXVN260005380
+SV000634,Seller,S00230,2026-08-28 10:02:47,5,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260005534
+SV000635,Seller,S00076,2026-08-28 20:17:11,4,"lay hang dung gio, shop hai long huhu",,HN,HN-LongBien-SOC,SPXVN260005535
+SV000636,Seller,S00256,2026-08-28 17:12:18,5,Ho tro nhiet tinh,,CT,CT-NinhKieu-Hub,SPXVN260005536
+SV000637,Seller,S00307,2026-08-28 22:21:22,3,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260005537
+SV000638,Seller,S00141,2026-08-28 10:25:59,1,Chưa nhận được tiền thu hộ tuần trước,,CT,CT-NinhKieu-Hub,SPXVN260005538
+SV000639,Seller,S00028,2026-08-28 16:56:45,5,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260005539
+SV000640,Seller,S00006,2026-08-28 16:06:36,3,"Giao không thành công 2 lần, không biết đơn sẽ hoàn về shop hay được giao lại",,CT,CT-NinhKieu-Hub,SPXVN260005540
+SV000641,Seller,S00260,2026-08-28 11:27:22,1,Shipper báo khách từ chối nhận nhưng khách nói ko hề dc gọi,,DN,DN-HaiChau-Hub,SPXVN260005541
+SV000642,Seller,S00271,2026-08-28 09:23:49,5,"Doi soat nhanh, tot",,HCM,HCM-Q7-Hub,SPXVN260005542
+SV000643,Seller,S00264,2026-08-28 21:44:01,5,"Lay hang dung gio, shop hai long",,HCM,HCM-TanBinh-Hub,SPXVN260005543
+SV000644,Seller,S00108,2026-08-28 07:47:30,5,Ho tro nhiet tinh,,HCM,HCM-Q7-Hub,SPXVN260005544
+SV000645,Seller,S00284,2026-08-28 15:49:31,4,"Doi soat nhanh, tot",,HCM,HCM-ThuDuc-SOC,SPXVN260005545
+SV000646,Seller,S00112,2026-08-28 11:24:42,4,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260005546
+SV000647,Seller,S00252,2026-08-28 08:16:47,5,"Doi soat nhanh, tot",,HCM,HCM-Q7-Hub,SPXVN260005547
+SV000648,Seller,S00319,2026-08-28 13:39:37,5,"Đối soát nhanh, tốt",,HCM,HCM-Q7-Hub,SPXVN260005548
+SV000649,Seller,S00205,2026-08-28 11:33:10,2,Shipper báo khách từ chối nhận nhưng khách nói ko hề dc gọi,Failed delivery,DN,DN-HaiChau-Hub,SPXVN260005549
+SV000650,Seller,S00115,2026-08-28 18:41:21,2,"Đơn giao thất bại lần 2, shop không biết bước tiếp theo là gì",Failed delivery,HCM,HCM-ThuDuc-SOC,SPXVN260005550
+SV000651,Seller,S00238,2026-08-28 20:47:06,5,"Lay hang dung gio, shop hai long",,HCM,HCM-ThuDuc-SOC,SPXVN260005551
+SV000652,Seller,S00003,2026-08-28 21:03:49,3,"Đơn của shop bị giao trễ, khách hủy đơn liên tục",Late delivery,HCM,HCM-TanBinh-Hub,SPXVN260005552
+SV000653,Seller,S00255,2026-08-28 12:45:55,3,"Don mat hang ma boi thuong qua lau, chua thay tien den bu",Compensation,HN,HN-CauGiay-Hub,SPXVN260005553
+SV000654,Seller,S00264,2026-08-29 12:42:09,1,...,,HCM,HCM-Q7-Hub,SPXVN260005700
+SV000655,Seller,S00117,2026-08-29 09:56:01,3,ok,,HN,HN-CauGiay-Hub,SPXVN260005701
+SV000656,Seller,S00112,2026-08-29 21:18:21,5,Ho tro nhiet tinh,,HN,HN-CauGiay-Hub,SPXVN260005702
+SV000657,Seller,S00230,2026-08-29 15:08:51,2,"Đơn giao thất bại, khách bảo không ai gọi, còn phí vận chuyển tính sai so với bảng giá",Failed delivery,DN,DN-HaiChau-Hub,SPXVN260005703
+SV000658,Seller,S00030,2026-08-29 12:16:20,3,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260005704
+SV000659,Seller,S00048,2026-08-29 09:12:16,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260005705
+SV000660,Seller,S00180,2026-08-29 21:39:02,5,ho tro nhiet tinh huhu,,HCM,HCM-Q7-Hub,SPXVN260005706
+SV000661,Seller,S00217,2026-08-29 12:51:37,4,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260005707
+SV000662,Seller,S00183,2026-08-29 21:35:52,5,ok,,HCM,HCM-Q7-Hub,SPXVN260005708
+SV000663,Seller,S00008,2026-08-29 11:22:29,3,"Lay hang dung gio, shop hai long huhu",,HCM,HCM-ThuDuc-SOC,SPXVN260005709
+SV000664,Seller,S00127,2026-08-29 17:09:00,5,Ho tro nhiet tinh,,HN,HN-LongBien-SOC,SPXVN260005710
+SV000665,Seller,S00096,2026-08-29 08:49:22,3,hỗ trợ nhiệt tình,,CT,CT-NinhKieu-Hub,SPXVN260005711
+SV000666,Seller,S00270,2026-08-29 08:14:35,3,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260005712
+SV000667,Seller,S00251,2026-08-29 17:00:54,4,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260005713
+SV000668,Seller,S00223,2026-08-29 14:32:29,4,Ho tro nhiet tinh,,HN,HN-LongBien-SOC,SPXVN260005714
+SV000669,Seller,S00093,2026-08-29 12:36:24,3,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260005715
+SV000670,Seller,S00056,2026-08-29 17:43:51,5,"Đối soát nhanh, tốtaaa",,HCM,HCM-TanBinh-Hub,SPXVN260005716
+SV000671,Seller,S00196,2026-08-30 18:45:22,5,"đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260005864
+SV000672,Seller,S00016,2026-08-30 16:13:04,5,Hỗ trợ nhiệt tình,,DN,DN-HaiChau-Hub,SPXVN260005865
+SV000673,Seller,S00261,2026-08-30 17:30:11,4,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260005866
+SV000674,Seller,S00302,2026-08-30 20:52:23,1,ok,,HN,HN-LongBien-SOC,SPXVN260005867
+SV000675,Seller,S00164,2026-08-30 20:10:42,2,...,,HN,HN-CauGiay-Hub,SPXVN260005868
+SV000676,Seller,S00065,2026-08-30 08:31:21,1,Shipper báo khách từ chối nhận nhưng khách nói không hề được gọi,Failed delivery,HCM,HCM-ThuDuc-SOC,SPXVN260005869
+SV000677,Seller,S00245,2026-08-30 15:00:43,5,ok,,HCM,HCM-Q7-Hub,SPXVN260005870
+SV000678,Seller,S00317,2026-08-30 09:47:25,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260005871
+SV000679,Seller,S00227,2026-08-30 14:22:11,5,ok,,CT,CT-NinhKieu-Hub,SPXVN260005872
+SV000680,Seller,S00170,2026-08-30 14:11:05,2,khách hỏi đơn liên tục vì trạng thái không đổi,,HCM,HCM-Q7-Hub,SPXVN260005873
+SV000681,Seller,S00121,2026-08-30 11:35:54,1,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Return,CT,CT-NinhKieu-Hub,SPXVN260005874
+SV000682,Seller,S00252,2026-08-30 21:41:15,5,ho tro nhiet tinh,,HCM,HCM-ThuDuc-SOC,SPXVN260005875
+SV000683,Seller,S00234,2026-08-30 10:41:06,3,"Đơn giao thất bại, khách bảo không ai gọi, với lại shop phải liên hệ hỗ trợ 3 lần rồi vẫn chưa được xử lý",Failed delivery,HN,HN-LongBien-SOC,SPXVN260005876
+SV000684,Seller,S00237,2026-08-30 14:25:40,4,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260005877
+SV000685,Seller,S00112,2026-08-30 19:20:10,3,"Lấy hàng đúng giờ, shop hài lòng!!!",,HN,HN-LongBien-SOC,SPXVN260005878
+SV000686,Seller,S00179,2026-08-30 19:49:29,1,"Đơn mất hàng mà bồi thường quá lâu, chưa thấy tiền đền bù",,HN,HN-LongBien-SOC,SPXVN260005879
+SV000687,Seller,S00046,2026-08-30 18:32:10,5,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260005880
+SV000688,Seller,S00041,2026-08-30 20:56:44,1,"Đơn của shop kẹt ở kho không cập nhật trạng thái, khách hỏi mà không biết trả lời",Tracking / status,HN,HN-CauGiay-Hub,SPXVN260005881
+SV000689,Seller,S00233,2026-08-30 10:54:42,4,ok :(,,HCM,HCM-Q7-Hub,SPXVN260005882
+SV000690,Seller,S00222,2026-08-30 20:33:41,1,"Lay hang cham, don ton o shop 2 ngay",Pickup delay,DN,DN-HaiChau-Hub,SPXVN260005883
+SV000691,Seller,S00089,2026-08-30 16:11:21,5,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260005884
+SV000692,Seller,S00247,2026-08-31 15:21:35,1,không hài lòng,,DN,DN-HaiChau-Hub,SPXVN260006043
+SV000693,Seller,S00036,2026-08-31 20:55:56,4,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260006044
+SV000694,Seller,S00195,2026-08-31 14:47:23,3,ok,,HN,HN-LongBien-SOC,SPXVN260006045
+SV000695,Seller,S00136,2026-08-31 18:51:51,1,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Return,HCM,HCM-ThuDuc-SOC,SPXVN260006046
+SV000696,Seller,S00292,2026-08-31 07:50:41,5,ok,,HN,HN-CauGiay-Hub,SPXVN260006047
+SV000697,Seller,S00164,2026-08-31 11:01:27,5,"Lay hang dung gio, shop hai long",,CT,CT-NinhKieu-Hub,SPXVN260006048
+SV000698,Seller,S00137,2026-08-31 18:09:56,5,"Lấy hàng đúng giờ, shop hài lòng",,DN,DN-HaiChau-Hub,SPXVN260006049
+SV000699,Seller,S00084,2026-08-31 09:47:11,5,ok,,HN,HN-CauGiay-Hub,SPXVN260006050
+SV000700,Seller,S00120,2026-08-31 12:32:26,5,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260006051
+SV000701,Seller,S00056,2026-08-31 09:46:02,1,kém,,HCM,HCM-Q7-Hub,SPXVN260006052
+SV000702,Seller,S00151,2026-08-31 13:44:04,4,"lay hang dung gio, shop hai long",,CT,CT-NinhKieu-Hub,SPXVN260006053
+SV000703,Seller,S00005,2026-08-31 18:23:50,1,"Phi van chuyen tinh sai so voi bang gia, con hen lay hang ma ko ai den lay",,CT,CT-NinhKieu-Hub,SPXVN260006054
+SV000704,Seller,S00059,2026-08-31 14:34:24,1,Shop phải liên hệ hỗ trợ 3 lần r vx chưa dc xử lý,,HCM,HCM-Q7-Hub,SPXVN260006055
+SV000705,Seller,S00131,2026-08-31 20:20:00,1,"tien cod chua duoc doi soat, cham 5 ngay roi",COD,HCM,HCM-ThuDuc-SOC,SPXVN260006056
+SV000706,Seller,S00224,2026-08-31 07:35:33,5,Hỗ trợ nhiệt tình,,HCM,HCM-Q7-Hub,SPXVN260006057
+SV000707,Seller,S00303,2026-08-31 14:50:04,3,"doi soat nhanh, tot",,HN,HN-CauGiay-Hub,SPXVN260006058
+SV000708,Seller,S00230,2026-08-31 12:33:33,3,"hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",,CT,CT-NinhKieu-Hub,SPXVN260006059
+SV000709,Seller,S00246,2026-08-31 15:41:11,5,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260006060
+SV000710,Seller,S00070,2026-08-31 12:36:40,4,ok,,HN,HN-LongBien-SOC,SPXVN260006061
+SV000711,Seller,S00234,2026-08-31 14:42:24,2,...,,HCM,HCM-ThuDuc-SOC,SPXVN260006062
+SV000712,Seller,S00296,2026-08-31 10:22:29,1,tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop!!!,,HCM,HCM-ThuDuc-SOC,SPXVN260006063
+SV000713,Seller,S00288,2026-08-31 19:03:56,5,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260006064
+SV000714,Seller,S00158,2026-09-01 10:07:06,2,"Phi van chuyen tinh sai so voi bang gia, voi lai don cua shop bi giao tre, khach huy don lien tuc",Fee,HCM,HCM-Q7-Hub,SPXVN260006219
+SV000715,Seller,S00107,2026-09-01 09:10:45,1,"Lấy hàng chậm, đơn tồn ở shop 2 ngày",,HCM,HCM-ThuDuc-SOC,SPXVN260006220
+SV000716,Seller,S00158,2026-09-01 13:24:32,5,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260006221
+SV000717,Seller,S00315,2026-09-01 07:21:46,3,"Hang hoan ve shop bi cham, hoan ca tuan chua ve",Return,HCM,HCM-TanBinh-Hub,SPXVN260006222
+SV000718,Seller,S00294,2026-09-01 18:47:29,2,Chưa nhận được tiền thu hộ tuần trước,COD,HCM,HCM-ThuDuc-SOC,SPXVN260006223
+SV000719,Seller,S00157,2026-09-01 13:08:35,5,Ho tro nhiet tinh,,HCM,HCM-TanBinh-Hub,SPXVN260006224
+SV000720,Seller,S00055,2026-09-01 19:20:49,5,"Lấy hàng đúng giờ, shop hài lòng!!!",,HCM,HCM-TanBinh-Hub,SPXVN260006225
+SV000721,Seller,S00191,2026-09-01 19:08:46,5,ok,,HN,HN-CauGiay-Hub,SPXVN260006226
+SV000722,Seller,S00128,2026-09-01 12:05:18,5,"Doi soat nhanh, tot",,HCM,HCM-ThuDuc-SOC,SPXVN260006227
+SV000723,Seller,S00157,2026-09-01 11:27:03,1,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Return,HN,HN-LongBien-SOC,SPXVN260006228
+SV000724,Seller,S00230,2026-09-01 13:22:00,5,ok,,CT,CT-NinhKieu-Hub,SPXVN260006229
+SV000725,Seller,S00025,2026-09-01 16:31:20,1,Hẹn lấy hàng mà không ai đến lấy,Pickup failure,HN,HN-CauGiay-Hub,SPXVN260006230
+SV000726,Seller,S00071,2026-09-01 14:15:41,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260006231
+SV000727,Seller,S00021,2026-09-01 20:37:31,2,"Tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới",Pickup delay,HN,HN-CauGiay-Hub,SPXVN260006232
+SV000728,Seller,S00207,2026-09-01 16:08:13,4,ok,,DN,DN-HaiChau-Hub,SPXVN260006233
+SV000729,Seller,S00014,2026-09-01 22:22:55,5,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260006234
+SV000730,Seller,S00158,2026-09-01 15:10:17,2,Phi van chuyen tinh sai so voi bang gia,Fee,HCM,HCM-TanBinh-Hub,SPXVN260006235
+SV000731,Seller,S00113,2026-09-01 22:45:28,1,gọi đi gọi lại nhiều lần vẫn chưa ai giải quyết,Repeated contact,DN,DN-HaiChau-Hub,SPXVN260006236
+SV000732,Seller,S00267,2026-09-01 10:40:33,5,Hỗ trợ nhiệt tình,,HCM,HCM-Q7-Hub,SPXVN260006237
+SV000733,Seller,S00308,2026-09-01 07:46:29,2,Trạng thái đơn đứng im 2 ngày ở kho,Tracking / status,HCM,HCM-TanBinh-Hub,SPXVN260006238
+SV000734,Seller,S00301,2026-09-01 22:11:22,5,Ho tro nhiet tinhaaa,,HCM,HCM-Q7-Hub,SPXVN260006239
+SV000735,Seller,S00058,2026-09-02 07:43:59,5,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260006393
+SV000736,Seller,S00069,2026-09-02 21:00:12,3,ok huhu,,HN,HN-LongBien-SOC,SPXVN260006394
+SV000737,Seller,S00091,2026-09-02 09:01:13,3,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260006395
+SV000738,Seller,S00230,2026-09-02 17:52:53,5,"Đối soát nhanh, tốt!!!",,HN,HN-CauGiay-Hub,SPXVN260006396
+SV000739,Seller,S00082,2026-09-02 07:50:11,5,ok :(,,CT,CT-NinhKieu-Hub,SPXVN260006397
+SV000740,Seller,S00178,2026-09-02 18:36:56,5,"Doi soat nhanh, tot",,HCM,HCM-ThuDuc-SOC,SPXVN260006398
+SV000741,Seller,S00291,2026-09-02 08:37:57,5,ok,,HN,HN-LongBien-SOC,SPXVN260006399
+SV000742,Seller,S00150,2026-09-02 12:22:26,3,"Doi soat nhanh, tot",,DN,DN-HaiChau-Hub,SPXVN260006400
+SV000743,Seller,S00027,2026-09-02 20:55:23,5,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260006401
+SV000744,Seller,S00234,2026-09-02 17:26:32,5,Hỗ trợ nhiệt tình,,HCM,HCM-Q7-Hub,SPXVN260006402
+SV000745,Seller,S00200,2026-09-02 07:44:40,5,okaaa,,HCM,HCM-TanBinh-Hub,SPXVN260006403
+SV000746,Seller,S00315,2026-09-02 12:01:40,4,"Lay hang dung gio, shop hai long",,HCM,HCM-Q7-Hub,SPXVN260006404
+SV000747,Seller,S00069,2026-09-02 19:56:53,5,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260006405
+SV000748,Seller,S00169,2026-09-02 11:43:38,5,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260006406
+SV000749,Seller,S00178,2026-09-02 09:27:37,5,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260006407
+SV000750,Seller,S00023,2026-09-02 07:36:44,4,Hỗ trợ nhiệt tình,,CT,CT-NinhKieu-Hub,SPXVN260006408
+SV000751,Seller,S00313,2026-09-02 07:36:34,5,"Doi soat nhanh, tot",,HN,HN-LongBien-SOC,SPXVN260006409
+SV000752,Seller,S00188,2026-09-02 18:39:31,2,Phí vận chuyển tính sai so với bảng giá,,CT,CT-NinhKieu-Hub,SPXVN260006410
+SV000753,Seller,S00281,2026-09-02 08:53:29,2,Khach nhan hoi suot ma hang van chua toi tay ho,Late delivery,HCM,HCM-TanBinh-Hub,SPXVN260006411
+SV000754,Seller,S00251,2026-09-03 12:11:32,2,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Settlement,HN,HN-LongBien-SOC,SPXVN260006562
+SV000755,Seller,S00194,2026-09-03 20:11:36,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260006563
+SV000756,Seller,S00153,2026-09-03 22:07:26,5,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260006564
+SV000757,Seller,S00102,2026-09-03 21:07:22,4,Hỗ trợ nhiệt tình,,DN,DN-HaiChau-Hub,SPXVN260006565
+SV000758,Seller,S00132,2026-09-03 19:27:20,5,"đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260006566
+SV000759,Seller,S00080,2026-09-03 07:46:01,4,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260006567
+SV000760,Seller,S00171,2026-09-03 14:19:50,5,Hỗ trợ nhiệt tình,,DN,DN-HaiChau-Hub,SPXVN260006568
+SV000761,Seller,S00114,2026-09-03 11:42:00,2,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Late delivery,HCM,HCM-ThuDuc-SOC,SPXVN260006569
+SV000762,Seller,S00109,2026-09-03 19:53:09,3,"lay hang dung gio, shop hai long",,HCM,HCM-ThuDuc-SOC,SPXVN260006570
+SV000763,Seller,S00187,2026-09-03 21:56:40,1,"lấy hàng chậm, đơn tồn ở shop 2 ngày",Pickup delay,HCM,HCM-TanBinh-Hub,SPXVN260006571
+SV000764,Seller,S00297,2026-09-03 08:01:41,3,"Lay hang dung gio, shop hai long",,HCM,HCM-Q7-Hub,SPXVN260006572
+SV000765,Seller,S00212,2026-09-03 16:09:28,2,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Settlement,HCM,HCM-TanBinh-Hub,SPXVN260006573
+SV000766,Seller,S00118,2026-09-03 08:29:21,1,trạng thái đơn đứng im 2 ngày ở kho,,DN,DN-HaiChau-Hub,SPXVN260006574
+SV000767,Seller,S00104,2026-09-03 16:12:32,2,Chưa nhận được tiền thu hộ tuần trước,COD,HCM,HCM-TanBinh-Hub,SPXVN260006575
+SV000768,Seller,S00173,2026-09-03 16:31:56,5,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260006576
+SV000769,Seller,S00148,2026-09-03 12:59:51,3,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260006577
+SV000770,Seller,S00165,2026-09-03 22:28:33,4,"Đối soát nhanh, tốt huhu",,HCM,HCM-TanBinh-Hub,SPXVN260006578
+SV000771,Seller,S00005,2026-09-03 14:59:59,1,"Lấy hàng chậm, đơn tồn ở shop 2 ngày",Slow response,HCM,HCM-TanBinh-Hub,SPXVN260006579
+SV000772,Seller,S00284,2026-09-04 07:29:08,3,Hẹn lấy hàng mà không ai đến lấy,Pickup failure,HCM,HCM-Q7-Hub,SPXVN260006730
+SV000773,Seller,S00138,2026-09-04 12:50:44,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-Q7-Hub,SPXVN260006731
+SV000774,Seller,S00151,2026-09-04 17:15:24,1,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Late delivery,HN,HN-CauGiay-Hub,SPXVN260006732
+SV000775,Seller,S00236,2026-09-04 22:00:08,4,ok huhu,,HCM,HCM-Q7-Hub,SPXVN260006733
+SV000776,Seller,S00184,2026-09-04 17:06:16,3,ok,,HN,HN-CauGiay-Hub,SPXVN260006734
+SV000777,Seller,S00272,2026-09-04 09:22:23,2,"đơn mất hàng mà bồi thường quá lâu, chưa thấy tiền đền bù huhu",Compensation,DN,DN-HaiChau-Hub,SPXVN260006735
+SV000778,Seller,S00315,2026-09-04 16:47:34,5,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260006736
+SV000779,Seller,S00163,2026-09-04 14:35:05,5,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260006737
+SV000780,Seller,S00034,2026-09-04 20:38:23,2,tệ,,HN,HN-LongBien-SOC,SPXVN260006738
+SV000781,Seller,S00098,2026-09-04 09:29:52,3,"lấy hàng đúng giờ, shop hài lòng",,DN,DN-HaiChau-Hub,SPXVN260006739
+SV000782,Seller,S00296,2026-09-04 19:08:32,3,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260006740
+SV000783,Seller,S00028,2026-09-04 11:41:26,1,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Late delivery,HCM,HCM-ThuDuc-SOC,SPXVN260006741
+SV000784,Seller,S00220,2026-09-04 14:34:53,4,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260006742
+SV000785,Seller,S00025,2026-09-04 11:14:01,2,Hen lay hang ma khong ai den lay,Pickup failure,CT,CT-NinhKieu-Hub,SPXVN260006743
+SV000786,Seller,S00192,2026-09-04 08:26:25,5,"Lay hang dung gio, shop hai long",,HCM,HCM-ThuDuc-SOC,SPXVN260006744
+SV000787,Seller,S00295,2026-09-04 22:34:57,5,Hỗ trợ nhiệt tình,,HCM,HCM-Q7-Hub,SPXVN260006745
+SV000788,Seller,S00043,2026-09-04 17:55:09,1,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Late delivery,DN,DN-HaiChau-Hub,SPXVN260006746
+SV000789,Seller,S00052,2026-09-04 14:10:05,5,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260006747
+SV000790,Seller,S00276,2026-09-04 14:00:39,4,"Đối soát nhanh, tốt",,DN,DN-HaiChau-Hub,SPXVN260006748
+SV000791,Seller,S00207,2026-09-04 18:26:20,2,"Đơn giao thất bại, khách bảo không ai gọi",App issue,HCM,HCM-ThuDuc-SOC,SPXVN260006749
+SV000792,Seller,S00114,2026-09-05 08:52:45,3,"lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260006902
+SV000793,Seller,S00170,2026-09-05 18:40:36,5,"Lay hang dung gio, shop hai long :(",,HN,HN-CauGiay-Hub,SPXVN260006903
+SV000794,Seller,S00296,2026-09-05 11:14:14,5,"Lay hang dung gio, shop hai long",,HN,HN-CauGiay-Hub,SPXVN260006904
+SV000795,Seller,S00200,2026-09-05 21:35:29,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260006905
+SV000796,Seller,S00134,2026-09-05 16:16:43,2,Shipper báo khách từ chối nhận nhưng khách nói không hề được gọi,Failed delivery,CT,CT-NinhKieu-Hub,SPXVN260006906
+SV000797,Seller,S00264,2026-09-05 12:53:37,5,Ho tro nhiet tinh,,HN,HN-LongBien-SOC,SPXVN260006907
+SV000798,Seller,S00225,2026-09-05 10:48:04,2,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Settlement,HCM,HCM-ThuDuc-SOC,SPXVN260006908
+SV000799,Seller,S00267,2026-09-05 07:09:45,3,Hỗ trợ nhiệt tình,,CT,CT-NinhKieu-Hub,SPXVN260006909
+SV000800,Seller,S00220,2026-09-05 17:55:07,2,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",COD,CT,CT-NinhKieu-Hub,SPXVN260006910
+SV000801,Seller,S00043,2026-09-05 13:33:22,1,Hen lay hang ma khong ai den lay,Pickup failure,HCM,HCM-TanBinh-Hub,SPXVN260006911
+SV000802,Seller,S00052,2026-09-05 12:53:38,4,ok,,HN,HN-CauGiay-Hub,SPXVN260006912
+SV000803,Seller,S00098,2026-09-05 19:02:08,4,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260006913
+SV000804,Seller,S00042,2026-09-05 17:27:14,5,"Đối soát nhanh, tốt huhu",,HCM,HCM-TanBinh-Hub,SPXVN260006914
+SV000805,Seller,S00285,2026-09-05 12:29:33,1,...,,HCM,HCM-Q7-Hub,SPXVN260006915
+SV000806,Seller,S00131,2026-09-05 09:00:41,1,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Late delivery,HN,HN-LongBien-SOC,SPXVN260006916
+SV000807,Seller,S00302,2026-09-05 21:34:40,2,shop phải liên hệ hỗ trợ 3 lần rồi vẫn chưa được xử lý huhu,Repeated contact,HCM,HCM-ThuDuc-SOC,SPXVN260006917
+SV000808,Seller,S00054,2026-09-05 07:03:16,1,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Settlement,HCM,HCM-ThuDuc-SOC,SPXVN260006918
+SV000809,Seller,S00138,2026-09-05 19:35:46,1,bình thường,,DN,DN-HaiChau-Hub,SPXVN260006919
+SV000810,Seller,S00029,2026-09-05 15:57:16,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260006920
+SV000811,Seller,S00299,2026-09-05 19:09:01,5,ok,,HCM,HCM-TanBinh-Hub,SPXVN260006921
+SV000812,Seller,S00029,2026-09-05 07:04:28,4,Hỗ trợ nhiệt tình,,HCM,HCM-Q7-Hub,SPXVN260006922
+SV000813,Seller,S00157,2026-09-05 08:51:51,3,Hẹn lấy hàng mà không ai đến lấy,Pickup failure,HCM,HCM-Q7-Hub,SPXVN260006923
+SV000814,Seller,S00163,2026-09-06 13:16:57,5,ok :(,,HCM,HCM-TanBinh-Hub,SPXVN260007078
+SV000815,Seller,S00271,2026-09-06 17:49:21,3,"Đối soát nhanh, tốt",,HN,HN-CauGiay-Hub,SPXVN260007079
+SV000816,Seller,S00179,2026-09-06 08:32:33,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260007080
+SV000817,Seller,S00255,2026-09-06 13:18:03,5,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260007081
+SV000818,Seller,S00252,2026-09-06 08:11:03,4,ok :(,,HCM,HCM-ThuDuc-SOC,SPXVN260007082
+SV000819,Seller,S00008,2026-09-06 08:01:48,3,Ho tro nhiet tinh,,HCM,HCM-Q7-Hub,SPXVN260007083
+SV000820,Seller,S00293,2026-09-06 14:53:50,4,"Lay hang dung gio, shop hai long",,HCM,HCM-TanBinh-Hub,SPXVN260007084
+SV000821,Seller,S00148,2026-09-06 21:45:26,5,"lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260007085
+SV000822,Seller,S00204,2026-09-06 13:13:58,3,Ho tro nhiet tinh,,HCM,HCM-TanBinh-Hub,SPXVN260007086
+SV000823,Seller,S00068,2026-09-06 14:14:33,3,Phi van chuyen tinh sai so voi bang gia,Fee,HN,HN-LongBien-SOC,SPXVN260007087
+SV000824,Seller,S00014,2026-09-06 21:55:28,3,ok,,HN,HN-LongBien-SOC,SPXVN260007088
+SV000825,Seller,S00238,2026-09-06 17:38:58,5,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260007089
+SV000826,Seller,S00121,2026-09-06 14:49:30,3,"Lay hang dung gio, shop hai long",,HCM,HCM-Q7-Hub,SPXVN260007090
+SV000827,Seller,S00207,2026-09-06 18:16:53,4,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260007091
+SV000828,Seller,S00261,2026-09-06 12:51:40,5,"Doi soat nhanh, tot",,HN,HN-CauGiay-Hub,SPXVN260007092
+SV000829,Seller,S00017,2026-09-06 13:31:52,5,Hỗ trợ nhiệt tình,,CT,CT-NinhKieu-Hub,SPXVN260007093
+SV000830,Seller,S00041,2026-09-06 16:18:39,5,"lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260007094
+SV000831,Seller,S00058,2026-09-06 19:31:07,2,kém,,HCM,HCM-TanBinh-Hub,SPXVN260007095
+SV000832,Seller,S00073,2026-09-06 15:06:26,4,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260007096
+SV000833,Seller,S00243,2026-09-07 20:22:29,2,"tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới",Pickup delay,DN,DN-HaiChau-Hub,SPXVN260007252
+SV000834,Seller,S00018,2026-09-07 09:04:25,5,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260007253
+SV000835,Seller,S00269,2026-09-07 16:34:19,2,"Đơn của shop kẹt ở kho không cập nhật trạng thái, khách hỏi mà không biết trả lời",Tracking / status,HN,HN-LongBien-SOC,SPXVN260007254
+SV000836,Seller,S00195,2026-09-07 09:16:08,5,Ho tro nhiet tinh,,HCM,HCM-Q7-Hub,SPXVN260007255
+SV000837,Seller,S00188,2026-09-07 18:20:16,1,Khách hỏi đơn liên tục vì trạng thái không đổi,,HCM,HCM-Q7-Hub,SPXVN260007256
+SV000838,Seller,S00124,2026-09-07 21:35:01,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-CauGiay-Hub,SPXVN260007257
+SV000839,Seller,S00081,2026-09-07 13:35:59,4,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260007258
+SV000840,Seller,S00261,2026-09-07 18:02:25,5,"Lay hang dung gio, shop hai long",,HN,HN-LongBien-SOC,SPXVN260007259
+SV000841,Seller,S00091,2026-09-07 21:56:45,2,Phi van chuyen tinh sai so voi bang gia,Fee,HCM,HCM-TanBinh-Hub,SPXVN260007260
+SV000842,Seller,S00073,2026-09-07 07:05:08,2,"Giao ko thành công 2 lần, ko biết đơn sẽ hoàn về shop hay dc giao lại",Failed delivery,CT,CT-NinhKieu-Hub,SPXVN260007261
+SV000843,Seller,S00159,2026-09-07 12:45:59,5,"Doi soat nhanh, tot",,HCM,HCM-TanBinh-Hub,SPXVN260007262
+SV000844,Seller,S00194,2026-09-07 12:35:10,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-CauGiay-Hub,SPXVN260007263
+SV000845,Seller,S00060,2026-09-07 18:37:01,5,ok,,HCM,HCM-Q7-Hub,SPXVN260007264
+SV000846,Seller,S00169,2026-09-07 20:30:40,1,"Don cua shop ket o kho khong cap nhat trang thai, khach hoi ma khong biet tra loi",Tracking / status,HCM,HCM-ThuDuc-SOC,SPXVN260007265
+SV000847,Seller,S00283,2026-09-07 19:51:59,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260007266
+SV000848,Seller,S00268,2026-09-07 18:00:22,3,...,,DN,DN-HaiChau-Hub,SPXVN260007267
+SV000849,Seller,S00259,2026-09-07 20:56:24,3,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260007268
+SV000850,Seller,S00053,2026-09-07 13:47:27,5,"Doi soat nhanh, tot",,HCM,HCM-ThuDuc-SOC,SPXVN260007269
+SV000851,Seller,S00179,2026-09-07 08:55:42,5,"Đối soát nhanh, tốt!!!",,DN,DN-HaiChau-Hub,SPXVN260007270
+SV000852,Seller,S00306,2026-09-07 10:22:49,2,phí vận chuyển tính sai so với bảng giá,Fee,HCM,HCM-ThuDuc-SOC,SPXVN260007271
+SV000853,Seller,S00263,2026-09-07 15:00:43,5,ok,,DN,DN-HaiChau-Hub,SPXVN260007272
+SV000854,Seller,S00299,2026-09-07 13:29:40,3,Hỗ trợ nhiệt tình,,HCM,HCM-Q7-Hub,SPXVN260007273
+SV000855,Seller,S00206,2026-09-08 19:10:24,5,ok,,HCM,HCM-TanBinh-Hub,SPXVN260007427
+SV000856,Seller,S00210,2026-09-08 15:59:45,4,"Doi soat nhanh, tot",,HN,HN-LongBien-SOC,SPXVN260007428
+SV000857,Seller,S00116,2026-09-08 13:46:51,3,"Đối soát nhanh, tốt",,HCM,HCM-Q7-Hub,SPXVN260007429
+SV000858,Seller,S00165,2026-09-08 19:27:27,1,"Hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Return,HN,HN-LongBien-SOC,SPXVN260007430
+SV000859,Seller,S00320,2026-09-08 15:19:44,3,"đơn của shop kẹt ở kho không cập nhật trạng thái, khách hỏi mà không biết trả lời",Tracking / status,HCM,HCM-ThuDuc-SOC,SPXVN260007431
+SV000860,Seller,S00294,2026-09-08 09:09:08,5,Hỗ trợ nhiệt tình,,CT,CT-NinhKieu-Hub,SPXVN260007432
+SV000861,Seller,S00098,2026-09-08 16:08:38,4,"Đối soát nhanh, tốt :(",,HCM,HCM-TanBinh-Hub,SPXVN260007433
+SV000862,Seller,S00152,2026-09-08 07:34:14,5,ok :(,,HN,HN-LongBien-SOC,SPXVN260007434
+SV000863,Seller,S00251,2026-09-08 19:11:06,2,"Don giao that bai, khach bao ko ai goi",Failed delivery,HCM,HCM-TanBinh-Hub,SPXVN260007435
+SV000864,Seller,S00228,2026-09-08 13:41:08,3,ok,,HCM,HCM-TanBinh-Hub,SPXVN260007436
+SV000865,Seller,S00291,2026-09-08 09:42:38,4,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260007437
+SV000866,Seller,S00292,2026-09-08 19:23:17,4,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260007438
+SV000867,Seller,S00220,2026-09-08 09:15:53,1,Shop phải liên hệ hỗ trợ 3 lần r vx chưa được xử lý,Repeated contact,HCM,HCM-ThuDuc-SOC,SPXVN260007439
+SV000868,Seller,S00090,2026-09-08 20:20:19,1,"đơn mất hàng mà bồi thường quá lâu, chưa thấy tiền đền bù",Compensation,CT,CT-NinhKieu-Hub,SPXVN260007440
+SV000869,Seller,S00010,2026-09-08 10:29:05,5,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260007441
+SV000870,Seller,S00129,2026-09-08 07:53:24,4,"Đối soát nhanh, tốt",,CT,CT-NinhKieu-Hub,SPXVN260007442
+SV000871,Seller,S00028,2026-09-08 18:40:08,5,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260007443
+SV000872,Seller,S00186,2026-09-08 14:56:10,1,Khách nhắn hỏi suốt mà hàng vẫn chưa tới tay họ,Late delivery,HCM,HCM-Q7-Hub,SPXVN260007444
+SV000873,Seller,S00002,2026-09-08 11:57:14,5,Ho tro nhiet tinh,,HN,HN-CauGiay-Hub,SPXVN260007445
+SV000874,Seller,S00300,2026-09-08 12:03:13,4,"Lấy hàng đúng giờ, shop hài lòng huhu",,HCM,HCM-TanBinh-Hub,SPXVN260007446
+SV000875,Seller,S00301,2026-09-08 08:52:37,4,"Lay hang dung gio, shop hai long",,HCM,HCM-ThuDuc-SOC,SPXVN260007447
+SV000876,Seller,S00267,2026-09-08 19:23:20,3,"Lấy hàng đúng giờ, shop hài lòng",,DN,DN-HaiChau-Hub,SPXVN260007448
+SV000877,Seller,S00254,2026-09-08 11:37:11,5,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260007449
+SV000878,Seller,S00123,2026-09-09 07:18:41,3,"Đối soát nhanh, tốt",,HCM,HCM-Q7-Hub,SPXVN260007599
+SV000879,Seller,S00029,2026-09-09 19:13:06,5,Hỗ trợ nhiệt tình!!!,,HN,HN-CauGiay-Hub,SPXVN260007600
+SV000880,Seller,S00274,2026-09-09 22:59:27,3,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Late delivery,HN,HN-CauGiay-Hub,SPXVN260007601
+SV000881,Seller,S00077,2026-09-09 07:33:46,2,Khach hoi don lien tuc vi trang thai khong doi,,HN,HN-LongBien-SOC,SPXVN260007602
+SV000882,Seller,S00214,2026-09-09 08:19:38,3,Hẹn lấy hàng mà không ai đến lấy,Pickup failure,HN,HN-LongBien-SOC,SPXVN260007603
+SV000883,Seller,S00226,2026-09-09 07:56:33,2,goi di goi lai nhieu lan van chua ai giai quyet huhu,Repeated contact,HCM,HCM-TanBinh-Hub,SPXVN260007604
+SV000884,Seller,S00110,2026-09-09 11:15:52,2,Khach hoi don lien tuc vi trang thai khong doi,,HN,HN-LongBien-SOC,SPXVN260007605
+SV000885,Seller,S00202,2026-09-09 13:10:32,3,ok huhu,,HCM,HCM-ThuDuc-SOC,SPXVN260007606
+SV000886,Seller,S00162,2026-09-09 16:52:22,3,hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260007607
+SV000887,Seller,S00185,2026-09-09 09:32:07,5,"Doi soat nhanh, totaaa",,HN,HN-CauGiay-Hub,SPXVN260007608
+SV000888,Seller,S00292,2026-09-09 15:39:04,3,khách nhắn hỏi suốt mà hàng vx chưa tới tay họ,Late delivery,HCM,HCM-TanBinh-Hub,SPXVN260007609
+SV000889,Seller,S00071,2026-09-09 08:54:10,3,Phí vận chuyển tính sai so với bảng giá,Fee,HCM,HCM-Q7-Hub,SPXVN260007610
+SV000890,Seller,S00190,2026-09-09 09:34:12,5,"Doi soat nhanh, tot",,HCM,HCM-ThuDuc-SOC,SPXVN260007611
+SV000891,Seller,S00052,2026-09-09 20:40:03,2,Goi di goi lai nhieu lan van chua ai giai quyet,Repeated contact,HCM,HCM-TanBinh-Hub,SPXVN260007612
+SV000892,Seller,S00124,2026-09-09 14:41:48,4,"Đối soát nhanh, tốt",,HN,HN-CauGiay-Hub,SPXVN260007613
+SV000893,Seller,S00025,2026-09-09 12:16:01,5,"đối soát nhanh, tốt",,DN,DN-HaiChau-Hub,SPXVN260007614
+SV000894,Seller,S00272,2026-09-09 15:00:42,3,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260007615
+SV000895,Seller,S00160,2026-09-09 12:51:27,4,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260007616
+SV000896,Seller,S00319,2026-09-09 12:31:41,5,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260007617
+SV000897,Seller,S00279,2026-09-10 16:39:40,3,ok,,CT,CT-NinhKieu-Hub,SPXVN260007765
+SV000898,Seller,S00001,2026-09-10 07:11:58,1,"Tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới",Pickup delay,HN,HN-CauGiay-Hub,SPXVN260007766
+SV000899,Seller,S00177,2026-09-10 21:28:03,5,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260007767
+SV000900,Seller,S00128,2026-09-10 11:23:14,4,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260007768
+SV000901,Seller,S00167,2026-09-10 10:05:47,4,"Lấy hàng đúng giờ, shop hài lòng!!!",,HN,HN-CauGiay-Hub,SPXVN260007769
+SV000902,Seller,S00254,2026-09-10 09:56:00,4,"lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260007770
+SV000903,Seller,S00098,2026-09-10 19:00:28,4,ok,,HCM,HCM-TanBinh-Hub,SPXVN260007771
+SV000904,Seller,S00036,2026-09-10 16:12:25,1,"Chưa nhận dc tiền thu hộ tuần trước, còn hẹn lấy hàng mà ko ai đến lấy",COD,HCM,HCM-ThuDuc-SOC,SPXVN260007772
+SV000905,Seller,S00106,2026-09-10 13:24:15,3,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260007773
+SV000906,Seller,S00035,2026-09-10 22:52:02,4,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260007774
+SV000907,Seller,S00199,2026-09-10 14:05:19,5,"đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260007775
+SV000908,Seller,S00230,2026-09-10 16:45:42,3,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260007776
+SV000909,Seller,S00148,2026-09-10 19:43:39,2,"Don mat hang ma boi thuong qua lau, chua thay tien den bu",,HCM,HCM-ThuDuc-SOC,SPXVN260007777
+SV000910,Seller,S00114,2026-09-10 10:12:17,5,ok,,HCM,HCM-TanBinh-Hub,SPXVN260007778
+SV000911,Seller,S00075,2026-09-10 15:06:18,1,"Hang hoan ve shop bi cham, hoan ca tuan chua ve",Return,HCM,HCM-ThuDuc-SOC,SPXVN260007779
+SV000912,Seller,S00006,2026-09-10 19:57:24,2,không hài lòng,,HCM,HCM-TanBinh-Hub,SPXVN260007780
+SV000913,Seller,S00095,2026-09-10 22:58:50,5,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260007781
+SV000914,Seller,S00281,2026-09-11 10:32:32,3,ok,,HN,HN-LongBien-SOC,SPXVN260007933
+SV000915,Seller,S00010,2026-09-11 12:33:16,3,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260007934
+SV000916,Seller,S00111,2026-09-11 16:09:21,3,Ho tro nhiet tinh,,CT,CT-NinhKieu-Hub,SPXVN260007935
+SV000917,Seller,S00085,2026-09-11 13:46:01,4,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260007936
+SV000918,Seller,S00220,2026-09-11 08:04:34,4,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260007937
+SV000919,Seller,S00039,2026-09-11 18:47:58,3,ok,,HN,HN-LongBien-SOC,SPXVN260007938
+SV000920,Seller,S00115,2026-09-11 17:22:26,1,"đơn của shop bị giao trễ, khách hủy đơn liên tục",,HCM,HCM-ThuDuc-SOC,SPXVN260007939
+SV000921,Seller,S00294,2026-09-11 09:31:40,1,ok,App issue,DN,DN-HaiChau-Hub,SPXVN260007940
+SV000922,Seller,S00267,2026-09-11 07:22:57,5,"lay hang dung gio, shop hai long",,HCM,HCM-ThuDuc-SOC,SPXVN260007941
+SV000923,Seller,S00231,2026-09-11 21:36:47,4,"Lay hang dung gio, shop hai long",,HCM,HCM-TanBinh-Hub,SPXVN260007942
+SV000924,Seller,S00113,2026-09-11 22:13:15,2,Chua nhan duoc tien thu ho tuan truoc,COD,CT,CT-NinhKieu-Hub,SPXVN260007943
+SV000925,Seller,S00056,2026-09-11 07:48:00,4,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260007944
+SV000926,Seller,S00231,2026-09-11 20:41:15,5,"Lay hang dung gio, shop hai long",,HCM,HCM-ThuDuc-SOC,SPXVN260007945
+SV000927,Seller,S00220,2026-09-11 18:47:16,1,"Tien COD chua duoc doi soat, cham 5 ngay roi",COD,HCM,HCM-Q7-Hub,SPXVN260007946
+SV000928,Seller,S00190,2026-09-11 16:06:34,4,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-Q7-Hub,SPXVN260007947
+SV000929,Seller,S00290,2026-09-11 17:57:24,5,ok huhu,,HCM,HCM-ThuDuc-SOC,SPXVN260007948
+SV000930,Seller,S00013,2026-09-11 07:56:18,5,"lay hang dung gio, shop hai long",,CT,CT-NinhKieu-Hub,SPXVN260007949
+SV000931,Seller,S00096,2026-09-11 14:16:11,4,Hỗ trợ nhiệt tìnhaaa,,HCM,HCM-TanBinh-Hub,SPXVN260007950
+SV000932,Seller,S00234,2026-09-11 11:13:02,5,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260007951
+SV000933,Seller,S00084,2026-09-11 18:58:59,5,ok,,HCM,HCM-TanBinh-Hub,SPXVN260007952
+SV000934,Seller,S00147,2026-09-11 22:08:56,4,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260007953
+SV000935,Seller,S00254,2026-09-12 19:42:27,5,ok,,HCM,HCM-TanBinh-Hub,SPXVN260008106
+SV000936,Seller,S00073,2026-09-12 13:10:19,5,"Lay hang dung gio, shop hai long",,HCM,HCM-Q7-Hub,SPXVN260008107
+SV000937,Seller,S00009,2026-09-12 19:06:00,5,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260008108
+SV000938,Seller,S00044,2026-09-12 08:20:38,2,"đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Late delivery,HN,HN-LongBien-SOC,SPXVN260008109
+SV000939,Seller,S00191,2026-09-12 13:20:17,3,"tài xế đến lấy hàng trễ, hẹn sáng mà chiều mới tới",Pickup delay,HCM,HCM-TanBinh-Hub,SPXVN260008110
+SV000940,Seller,S00189,2026-09-12 18:36:39,1,Chua nhan dc tien thu ho tuan truoc,COD,HCM,HCM-ThuDuc-SOC,SPXVN260008111
+SV000941,Seller,S00105,2026-09-12 22:49:00,4,hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260008112
+SV000942,Seller,S00215,2026-09-12 11:52:04,3,"Doi soat nhanh, tot",,HN,HN-LongBien-SOC,SPXVN260008113
+SV000943,Seller,S00107,2026-09-12 12:07:23,2,"nhieu don cua shop giao cham 3-4 ngay, khach phan nan",Fee,HCM,HCM-ThuDuc-SOC,SPXVN260008114
+SV000944,Seller,S00131,2026-09-12 12:19:12,4,ok,,DN,DN-HaiChau-Hub,SPXVN260008115
+SV000945,Seller,S00150,2026-09-12 19:00:04,2,Khách hỏi đơn liên tục vì trạng thái không đổi!!!,,HCM,HCM-TanBinh-Hub,SPXVN260008116
+SV000946,Seller,S00152,2026-09-12 08:01:30,3,Khách nhắn hỏi suốt mà hàng vẫn chưa tới tay họ,,HN,HN-CauGiay-Hub,SPXVN260008117
+SV000947,Seller,S00230,2026-09-12 07:43:00,5,"Doi soat nhanh, tot",,DN,DN-HaiChau-Hub,SPXVN260008118
+SV000948,Seller,S00175,2026-09-12 13:57:43,5,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260008119
+SV000949,Seller,S00066,2026-09-12 08:30:55,1,ok,,HN,HN-LongBien-SOC,SPXVN260008120
+SV000950,Seller,S00279,2026-09-12 19:15:13,1,"Lấy hàng chậm, đơn tồn ở shop 2 ngày",Pickup delay,HN,HN-LongBien-SOC,SPXVN260008121
+SV000951,Seller,S00214,2026-09-12 10:49:22,5,"Đối soát nhanh, tốt",,DN,DN-HaiChau-Hub,SPXVN260008122
+SV000952,Seller,S00082,2026-09-12 17:31:33,1,Khach hoi don lien tuc vi trang thai khong doi,,HN,HN-CauGiay-Hub,SPXVN260008123
+SV000953,Seller,S00132,2026-09-12 22:17:22,3,"Chưa nhận được tiền thu hộ tuần trước, thêm nữa là shop phải liên hệ hỗ trợ 3 lần rồi vẫn chưa được xử lý",COD,HN,HN-LongBien-SOC,SPXVN260008124
+SV000954,Seller,S00059,2026-09-12 16:59:33,3,ok,,HN,HN-LongBien-SOC,SPXVN260008125
+SV000955,Seller,S00301,2026-09-12 10:39:47,4,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260008126
+SV000956,Seller,S00060,2026-09-12 08:46:49,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260008127
+SV000957,Seller,S00075,2026-09-13 22:01:56,3,ok,,HCM,HCM-TanBinh-Hub,SPXVN260008280
+SV000958,Seller,S00098,2026-09-13 13:52:25,2,"hàng hoàn về shop bị chậm, hoàn cả tuần chưa về",Return,HN,HN-CauGiay-Hub,SPXVN260008281
+SV000959,Seller,S00089,2026-09-13 13:41:48,3,Ho tro nhiet tinh,,CT,CT-NinhKieu-Hub,SPXVN260008282
+SV000960,Seller,S00218,2026-09-13 16:19:42,1,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",COD,HCM,HCM-ThuDuc-SOC,SPXVN260008283
+SV000961,Seller,S00174,2026-09-13 12:42:13,4,hỗ trợ nhiệt tìnhaaa,,HN,HN-LongBien-SOC,SPXVN260008284
+SV000962,Seller,S00223,2026-09-13 16:18:13,4,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260008285
+SV000963,Seller,S00110,2026-09-13 11:27:41,5,okaaa,,HN,HN-CauGiay-Hub,SPXVN260008286
+SV000964,Seller,S00141,2026-09-13 08:29:29,5,ok,,HN,HN-LongBien-SOC,SPXVN260008287
+SV000965,Seller,S00117,2026-09-13 16:55:56,1,"đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",,HCM,HCM-Q7-Hub,SPXVN260008288
+SV000966,Seller,S00025,2026-09-13 10:52:43,5,ok huhu,,HCM,HCM-Q7-Hub,SPXVN260008289
+SV000967,Seller,S00264,2026-09-13 17:30:30,3,ok,,HCM,HCM-TanBinh-Hub,SPXVN260008290
+SV000968,Seller,S00261,2026-09-13 08:05:49,2,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Slow response,HCM,HCM-Q7-Hub,SPXVN260008291
+SV000969,Seller,S00287,2026-09-13 12:47:34,4,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260008292
+SV000970,Seller,S00242,2026-09-13 13:20:17,3,Hỗ trợ nhiệt tình,,HCM,HCM-Q7-Hub,SPXVN260008293
+SV000971,Seller,S00066,2026-09-13 07:28:04,5,ok,,DN,DN-HaiChau-Hub,SPXVN260008294
+SV000972,Seller,S00053,2026-09-13 07:17:43,3,"Nhieu don cua shop giao cham 3-4 ngay, khach phan nan",Late delivery,HCM,HCM-ThuDuc-SOC,SPXVN260008295
+SV000973,Seller,S00235,2026-09-13 11:56:32,4,"Doi soat nhanh, tot",,HCM,HCM-TanBinh-Hub,SPXVN260008296
+SV000974,Seller,S00003,2026-09-13 17:29:26,3,ho tro nhiet tinh!!!,,HCM,HCM-TanBinh-Hub,SPXVN260008297
+SV000975,Seller,S00017,2026-09-13 13:24:40,5,ok,,HN,HN-LongBien-SOC,SPXVN260008298
+SV000976,Seller,S00007,2026-09-13 14:33:04,5,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260008299
+SV000977,Seller,S00130,2026-09-13 22:18:55,2,"Đơn giao thất bại, khách bảo không ai gọi",Failed delivery,DN,DN-HaiChau-Hub,SPXVN260008300
+SV000978,Seller,S00285,2026-09-13 16:32:55,3,"Đơn giao thất bại lần 2, shop không biết bước tiếp theo là gì",Failed delivery,DN,DN-HaiChau-Hub,SPXVN260008301
+SV000979,Seller,S00228,2026-09-14 08:16:49,5,Ho tro nhiet tinh,,DN,DN-HaiChau-Hub,SPXVN260008455
+SV000980,Seller,S00050,2026-09-14 17:36:11,3,"Tien COD chua duoc doi soat, cham 5 ngay roi",COD,HCM,HCM-TanBinh-Hub,SPXVN260008456
+SV000981,Seller,S00206,2026-09-14 10:01:20,2,"Đơn mất hàng mà bồi thường quá lâu, chưa thấy tiền đền bùaaa",Compensation,HN,HN-CauGiay-Hub,SPXVN260008457
+SV000982,Seller,S00110,2026-09-14 19:29:57,3,ok,,CT,CT-NinhKieu-Hub,SPXVN260008458
+SV000983,Seller,S00141,2026-09-14 09:22:56,2,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Settlement,DN,DN-HaiChau-Hub,SPXVN260008459
+SV000984,Seller,S00113,2026-09-14 08:32:09,3,"chưa nhận được tiền thu hộ tuần trước, thêm nữa là phí vận chuyển tính sai so với bảng giá",COD,CT,CT-NinhKieu-Hub,SPXVN260008460
+SV000985,Seller,S00251,2026-09-14 13:44:58,1,Khách nhắn hỏi suốt mà hàng vẫn chưa tới tay họ,,HN,HN-LongBien-SOC,SPXVN260008461
+SV000986,Seller,S00060,2026-09-14 10:24:12,2,Shipper báo khách từ chối nhận nhưng khách nói không hề được gọi huhu,Failed delivery,HN,HN-CauGiay-Hub,SPXVN260008462
+SV000987,Seller,S00144,2026-09-14 14:43:45,1,Chua nhan duoc tien thu ho tuan truoc,COD,HCM,HCM-ThuDuc-SOC,SPXVN260008463
+SV000988,Seller,S00001,2026-09-14 16:10:54,3,ok,,DN,DN-HaiChau-Hub,SPXVN260008464
+SV000989,Seller,S00265,2026-09-14 20:26:35,5,ok,,HN,HN-LongBien-SOC,SPXVN260008465
+SV000990,Seller,S00097,2026-09-14 13:31:13,5,"Đối soát nhanh, tốt",,HCM,HCM-TanBinh-Hub,SPXVN260008466
+SV000991,Seller,S00240,2026-09-14 16:08:50,5,Hỗ trợ nhiệt tình,,CT,CT-NinhKieu-Hub,SPXVN260008467
+SV000992,Seller,S00007,2026-09-14 09:51:10,3,"Lấy hàng chậm, đơn tồn ở shop 2 ngày",Pickup delay,HCM,HCM-TanBinh-Hub,SPXVN260008468
+SV000993,Seller,S00079,2026-09-14 14:29:26,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-TanBinh-Hub,SPXVN260008469
+SV000994,Seller,S00226,2026-09-14 13:28:03,5,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260008470
+SV000995,Seller,S00232,2026-09-14 11:21:49,5,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260008471
+SV000996,Seller,S00057,2026-09-14 17:59:04,2,Trang thai don dung im 2 ngay o kho,Tracking / status,HCM,HCM-ThuDuc-SOC,SPXVN260008475
+SV000997,Seller,S00320,2026-09-15 17:12:08,5,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260008629
+SV000998,Seller,S00152,2026-09-15 15:26:52,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260008630
+SV000999,Seller,S00217,2026-09-15 08:44:01,2,không hài lòng,,HCM,HCM-ThuDuc-SOC,SPXVN260008631
+SV001000,Seller,S00205,2026-09-15 11:25:04,1,"Don shop gui giao tre hen, bi khach danh gia 1 sao :(",Late delivery,HN,HN-LongBien-SOC,SPXVN260008632
+SV001001,Seller,S00150,2026-09-15 18:23:01,1,tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,,CT,CT-NinhKieu-Hub,SPXVN260008633
+SV001002,Seller,S00042,2026-09-15 10:46:57,1,"don mat hang ma boi thuong wa lau, chua thay tien den bu",Compensation,HCM,HCM-ThuDuc-SOC,SPXVN260008634
+SV001003,Seller,S00147,2026-09-15 15:57:09,1,Phi van chuyen tinh sai so voi bang gia,Fee,HCM,HCM-ThuDuc-SOC,SPXVN260008635
+SV001004,Seller,S00182,2026-09-15 22:41:56,2,"Tien COD chua duoc doi soat, cham 5 ngay r",COD,HCM,HCM-ThuDuc-SOC,SPXVN260008636
+SV001005,Seller,S00116,2026-09-15 12:38:27,1,"Tien COD chua duoc doi soat, cham 5 ngay roi",COD,DN,DN-HaiChau-Hub,SPXVN260008637
+SV001006,Seller,S00311,2026-09-15 07:52:50,3,"Đối soát nhanh, tốt",,HCM,HCM-Q7-Hub,SPXVN260008638
+SV001007,Seller,S00308,2026-09-15 16:09:50,5,"Lay hang dung gio, shop hai long",,HN,HN-LongBien-SOC,SPXVN260008639
+SV001008,Seller,S00175,2026-09-15 14:31:34,2,"Tiền COD chưa được đối soát, chậm 5 ngày rồi",COD,CT,CT-NinhKieu-Hub,SPXVN260008640
+SV001009,Seller,S00055,2026-09-15 08:22:30,5,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260008641
+SV001010,Seller,S00283,2026-09-15 10:13:21,5,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260008642
+SV001011,Seller,S00277,2026-09-15 09:29:14,1,Shop phai lien he ho tro 3 lan roi van chua duoc xu ly,,HCM,HCM-ThuDuc-SOC,SPXVN260008643
+SV001012,Seller,S00001,2026-09-15 20:26:14,2,ok,,HN,HN-LongBien-SOC,SPXVN260008644
+SV001013,Seller,S00066,2026-09-15 09:05:01,3,ok!!!,,CT,CT-NinhKieu-Hub,SPXVN260008645
+SV001014,Seller,S00065,2026-09-15 19:12:55,5,"Doi soat nhanh, tot",,HN,HN-LongBien-SOC,SPXVN260008646
+SV001015,Seller,S00312,2026-09-15 19:58:53,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-CauGiay-Hub,SPXVN260008647
+SV001016,Seller,S00076,2026-09-15 17:38:55,5,"Lấy hàng đúng giờ, shop hài lòng",,DN,DN-HaiChau-Hub,SPXVN260008648
+SV001017,Seller,S00007,2026-09-15 20:02:47,5,"Doi soat nhanh, totaaa",,HN,HN-LongBien-SOC,SPXVN260008649
+SV001018,Seller,S00083,2026-09-15 14:06:48,1,Chưa nhận được tiền thu hộ tuần trước,COD,DN,DN-HaiChau-Hub,SPXVN260008650
+SV001019,Seller,S00046,2026-09-15 21:57:46,1,"Don shop gui giao tre hen, bi khach danh gia 1 sao huhu",Late delivery,HCM,HCM-ThuDuc-SOC,SPXVN260008656
+SV001020,Seller,S00253,2026-09-15 21:28:51,2,Shop phai lien he ho tro 3 lan roi van chua duoc xu ly,,HCM,HCM-ThuDuc-SOC,SPXVN260008657
+SV001021,Seller,S00153,2026-09-15 10:11:12,2,Khách hỏi đơn liên tục vì trạng thái không đổi!!!,App issue,HCM,HCM-ThuDuc-SOC,SPXVN260008658
+SV001022,Seller,S00058,2026-09-15 08:28:15,1,"Nhieu don cua shop giao cham 3-4 ngay, khach phan nan, con tien cod chua duoc doi soat, cham 5 ngay roi",Late delivery,HCM,HCM-ThuDuc-SOC,SPXVN260008659
+SV001023,Seller,S00285,2026-09-16 12:06:19,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-TanBinh-Hub,SPXVN260008815
+SV001024,Seller,S00219,2026-09-16 09:45:54,5,"Lấy hàng đúng giờ, shop hài lòng",,HN,HN-LongBien-SOC,SPXVN260008816
+SV001025,Seller,S00143,2026-09-16 16:14:54,5,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260008817
+SV001026,Seller,S00078,2026-09-16 16:26:39,3,Shop phải liên hệ hỗ trợ 3 lần rồi vẫn chưa được xử lý,Repeated contact,DN,DN-HaiChau-Hub,SPXVN260008818
+SV001027,Seller,S00129,2026-09-16 22:00:43,3,Ho tro nhiet tinh,,DN,DN-HaiChau-Hub,SPXVN260008819
+SV001028,Seller,S00267,2026-09-16 20:08:45,3,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260008820
+SV001029,Seller,S00110,2026-09-16 17:14:21,1,"Đơn của shop kẹt ở kho không cập nhật trạng thái, khách hỏi mà không biết trả lời",,HCM,HCM-TanBinh-Hub,SPXVN260008821
+SV001030,Seller,S00264,2026-09-16 07:45:09,4,"Đối soát nhanh, tốt huhu",,HCM,HCM-TanBinh-Hub,SPXVN260008822
+SV001031,Seller,S00131,2026-09-16 17:23:55,4,"Doi soat nhanh, tot",,HN,HN-CauGiay-Hub,SPXVN260008823
+SV001032,Seller,S00011,2026-09-16 20:32:32,5,Ho tro nhiet tinh huhu,,HCM,HCM-Q7-Hub,SPXVN260008824
+SV001033,Seller,S00197,2026-09-16 16:46:47,3,ok,,HN,HN-CauGiay-Hub,SPXVN260008825
+SV001034,Seller,S00259,2026-09-16 14:26:27,3,"Lay hang dung gio, shop hai long",,CT,CT-NinhKieu-Hub,SPXVN260008826
+SV001035,Seller,S00072,2026-09-16 08:22:26,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260008827
+SV001036,Seller,S00127,2026-09-16 20:11:39,4,"lay hang dung gio, shop hai long",,HCM,HCM-TanBinh-Hub,SPXVN260008828
+SV001037,Seller,S00005,2026-09-16 10:51:09,3,"Lay hang cham, don ton o shop 2 ngay",Pickup delay,HN,HN-CauGiay-Hub,SPXVN260008829
+SV001038,Seller,S00048,2026-09-16 17:28:59,2,bình thường,,CT,CT-NinhKieu-Hub,SPXVN260008830
+SV001039,Seller,S00192,2026-09-16 21:32:50,2,chưa nhận được tiền thu hộ tuần trước,COD,DN,DN-HaiChau-Hub,SPXVN260008831
+SV001040,Seller,S00175,2026-09-16 11:46:44,2,"Tai xe den lay hang tre, hen sang ma chieu moi toi",Pickup delay,HCM,HCM-ThuDuc-SOC,SPXVN260008832
+SV001041,Seller,S00218,2026-09-16 21:46:00,2,Tiền bán hàng tuần trước sao vẫn chưa thấy về tài khoản shop,Settlement,HCM,HCM-TanBinh-Hub,SPXVN260008833
+SV001042,Seller,S00114,2026-09-16 18:55:02,2,Khach hoi don lien tuc vi trang thai khong doi,Tracking / status,HCM,HCM-ThuDuc-SOC,SPXVN260008840
+SV001043,Seller,S00016,2026-09-16 09:24:18,2,Trạng thái đơn đứng im 2 ngày ở kho,Tracking / status,HCM,HCM-ThuDuc-SOC,SPXVN260008841
+SV001044,Seller,S00179,2026-09-16 15:17:47,2,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Late delivery,HCM,HCM-ThuDuc-SOC,SPXVN260008842
+SV001045,Seller,S00014,2026-09-16 09:48:50,2,Gọi đi gọi lại nhiều lần vẫn chưa ai giải quyết,,HCM,HCM-ThuDuc-SOC,SPXVN260008843
+SV001046,Seller,S00154,2026-09-17 12:24:29,4,"Doi soat nhanh, tot",,HN,HN-CauGiay-Hub,SPXVN260009002
+SV001047,Seller,S00083,2026-09-17 22:54:54,1,"Tiền COD chưa được đối soát, chậm 5 ngày rồi!!!",COD,DN,DN-HaiChau-Hub,SPXVN260009003
+SV001048,Seller,S00260,2026-09-17 10:50:31,5,ok,,HCM,HCM-ThuDuc-SOC,SPXVN260009004
+SV001049,Seller,S00103,2026-09-17 10:59:45,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260009005
+SV001050,Seller,S00088,2026-09-17 09:56:21,3,Hỗ trợ nhiệt tình,,HCM,HCM-Q7-Hub,SPXVN260009006
+SV001051,Seller,S00276,2026-09-17 07:01:27,1,Hẹn lấy hàng mà không ai đến lấy,Pickup failure,HCM,HCM-Q7-Hub,SPXVN260009007
+SV001052,Seller,S00025,2026-09-17 16:32:20,3,"Nhiều đơn của shop giao chậm 3-4 ngày, khách phàn nàn",Late delivery,HN,HN-LongBien-SOC,SPXVN260009008
+SV001053,Seller,S00011,2026-09-17 16:14:06,5,ok!!!,,HN,HN-CauGiay-Hub,SPXVN260009009
+SV001054,Seller,S00267,2026-09-17 20:08:00,2,Hen lay hang ma khong ai den lay,Pickup failure,HN,HN-LongBien-SOC,SPXVN260009010
+SV001055,Seller,S00017,2026-09-17 21:54:22,2,"đơn giao thất bại, khách bảo ko ai gọi :(",Failed delivery,HN,HN-LongBien-SOC,SPXVN260009011
+SV001056,Seller,S00014,2026-09-17 07:07:11,3,"Lấy hàng đúng giờ, shop hài lòng",,CT,CT-NinhKieu-Hub,SPXVN260009012
+SV001057,Seller,S00148,2026-09-17 17:18:55,2,Tien ban hang tuan truoc sao van chua thay ve tai khoan shop,Settlement,HCM,HCM-ThuDuc-SOC,SPXVN260009013
+SV001058,Seller,S00048,2026-09-17 13:01:19,2,ok,,HN,HN-LongBien-SOC,SPXVN260009014
+SV001059,Seller,S00201,2026-09-17 10:23:48,1,Chua nhan duoc tien thu ho tuan truoc,,HCM,HCM-TanBinh-Hub,SPXVN260009015
+SV001060,Seller,S00108,2026-09-17 16:30:19,3,ok,,HCM,HCM-TanBinh-Hub,SPXVN260009016
+SV001061,Seller,S00130,2026-09-17 18:44:59,4,ok,,HN,HN-CauGiay-Hub,SPXVN260009017
+SV001062,Seller,S00249,2026-09-17 14:08:36,2,...,,HCM,HCM-ThuDuc-SOC,SPXVN260009018
+SV001063,Seller,S00071,2026-09-17 11:40:52,4,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260009019
+SV001064,Seller,S00013,2026-09-17 16:06:56,4,"Lay hang dung gio, shop hai long",,HN,HN-CauGiay-Hub,SPXVN260009020
+SV001065,Seller,S00075,2026-09-17 19:46:18,5,ok,,HN,HN-CauGiay-Hub,SPXVN260009021
+SV001066,Seller,S00056,2026-09-17 19:12:54,1,"Đơn của shop kẹt ở kho không cập nhật trạng thái, khách hỏi mà không biết trả lời :(",Tracking / status,HCM,HCM-ThuDuc-SOC,SPXVN260009028
+SV001067,Seller,S00035,2026-09-17 09:11:01,2,Khách hỏi đơn liên tục vì trạng thái không đổi,,HCM,HCM-ThuDuc-SOC,SPXVN260009029
+SV001068,Seller,S00008,2026-09-17 16:59:29,2,Trang thai don dung im 2 ngay o kho,Tracking / status,HCM,HCM-ThuDuc-SOC,SPXVN260009030
+SV001069,Seller,S00213,2026-09-18 22:03:03,2,"đơn giao thất bại 2 lần rồi, giờ shop phải làm gì? có giao lần 3 không?",Failed delivery,HN,HN-LongBien-SOC,SPXVN260009184
+SV001070,Seller,S00133,2026-09-18 14:58:25,2,Tien ban hang tuan truoc sao van chua thay ve tai khoan shop,Settlement,HN,HN-CauGiay-Hub,SPXVN260009185
+SV001071,Seller,S00234,2026-09-18 19:48:34,2,"Đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Fee,HCM,HCM-Q7-Hub,SPXVN260009186
+SV001072,Seller,S00047,2026-09-18 12:53:33,4,"Lấy hàng đúng giờ, shop hài lòng",,CT,CT-NinhKieu-Hub,SPXVN260009187
+SV001073,Seller,S00279,2026-09-18 15:12:30,5,ok,,CT,CT-NinhKieu-Hub,SPXVN260009188
+SV001074,Seller,S00219,2026-09-18 18:13:06,3,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260009189
+SV001075,Seller,S00269,2026-09-18 14:09:08,2,Chua nhan duoc tien thu ho tuan truoc!!!,COD,HCM,HCM-Q7-Hub,SPXVN260009190
+SV001076,Seller,S00316,2026-09-18 22:29:22,5,"Doi soat nhanh, tot",,HCM,HCM-Q7-Hub,SPXVN260009191
+SV001077,Seller,S00054,2026-09-18 11:48:14,3,Hỗ trợ nhiệt tình,,HCM,HCM-ThuDuc-SOC,SPXVN260009192
+SV001078,Seller,S00265,2026-09-18 19:15:33,5,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260009193
+SV001079,Seller,S00231,2026-09-18 17:58:03,5,ok,,DN,DN-HaiChau-Hub,SPXVN260009194
+SV001080,Seller,S00193,2026-09-18 18:52:19,1,"đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",,HCM,HCM-ThuDuc-SOC,SPXVN260009195
+SV001081,Seller,S00077,2026-09-18 15:52:36,4,ok,,HN,HN-CauGiay-Hub,SPXVN260009196
+SV001082,Seller,S00211,2026-09-18 07:36:59,1,"Tai xe den lay hang tre, hen sang ma chieu moi toi",,CT,CT-NinhKieu-Hub,SPXVN260009197
+SV001083,Seller,S00053,2026-09-18 13:33:03,5,"Doi soat nhanh, tot",,HCM,HCM-TanBinh-Hub,SPXVN260009198
+SV001084,Seller,S00217,2026-09-18 07:25:20,5,"doi soat nhanh, tot",,HN,HN-CauGiay-Hub,SPXVN260009199
+SV001085,Seller,S00050,2026-09-18 18:43:10,3,kém,,HN,HN-CauGiay-Hub,SPXVN260009200
+SV001086,Seller,S00044,2026-09-18 10:29:03,1,"Đơn của shop kẹt ở kho không cập nhật trạng thái, khách hỏi mà không biết trả lời :(",Tracking / status,HCM,HCM-ThuDuc-SOC,SPXVN260009208
+SV001087,Seller,S00049,2026-09-18 15:40:55,2,"Đơn của shop kẹt ở kho không cập nhật trạng thái, khách hỏi mà không biết trả lời",,HCM,HCM-ThuDuc-SOC,SPXVN260009209
+SV001088,Seller,S00093,2026-09-18 12:12:30,3,gọi đi gọi lại nhiều lần vẫn chưa ai giải quyết,,HCM,HCM-ThuDuc-SOC,SPXVN260009210
+SV001089,Seller,S00060,2026-09-18 09:25:22,1,"Don shop gui giao tre hen, bi khach danh gia 1 sao",,HCM,HCM-ThuDuc-SOC,SPXVN260009211
+SV001090,Seller,S00277,2026-09-18 15:46:46,1,Goi di goi lai nhieu lan van chua ai giai quyet,Repeated contact,HCM,HCM-ThuDuc-SOC,SPXVN260009212
+SV001091,Seller,S00184,2026-09-19 13:11:49,4,Hỗ trợ nhiệt tình,,HCM,HCM-TanBinh-Hub,SPXVN260009365
+SV001092,Seller,S00304,2026-09-19 20:48:52,5,Hỗ trợ nhiệt tình,,HN,HN-LongBien-SOC,SPXVN260009366
+SV001093,Seller,S00161,2026-09-19 14:58:36,4,Ho tro nhiet tinh,,HN,HN-CauGiay-Hub,SPXVN260009367
+SV001094,Seller,S00162,2026-09-19 16:41:11,5,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260009368
+SV001095,Seller,S00276,2026-09-19 08:27:09,3,Ho tro nhiet tinh,,HN,HN-LongBien-SOC,SPXVN260009369
+SV001096,Seller,S00261,2026-09-19 09:50:16,2,"Tiền COD chưa dc đối soát, chậm 5 ngày rồi",COD,HN,HN-LongBien-SOC,SPXVN260009370
+SV001097,Seller,S00070,2026-09-19 18:22:02,5,ok,,HN,HN-LongBien-SOC,SPXVN260009371
+SV001098,Seller,S00164,2026-09-19 18:38:51,5,"Lấy hàng đúng giờ, shop hài lòng",,HCM,HCM-ThuDuc-SOC,SPXVN260009372
+SV001099,Seller,S00200,2026-09-19 13:30:12,3,ok,,HN,HN-LongBien-SOC,SPXVN260009373
+SV001100,Seller,S00254,2026-09-19 16:17:34,4,ok,,DN,DN-HaiChau-Hub,SPXVN260009374
+SV001101,Seller,S00081,2026-09-19 13:01:11,1,"Don cua shop bi giao tre, khach huy don lien tuc, them nua la lay hang cham, don ton o shop 2 ngay",Late delivery,HCM,HCM-TanBinh-Hub,SPXVN260009375
+SV001102,Seller,S00214,2026-09-19 07:51:06,5,"Lay hang dung gio, shop hai long",,HCM,HCM-Q7-Hub,SPXVN260009376
+SV001103,Seller,S00195,2026-09-19 09:39:34,5,hỗ trợ nhiệt tình,,CT,CT-NinhKieu-Hub,SPXVN260009377
+SV001104,Seller,S00134,2026-09-19 16:25:20,1,bình thường,,HCM,HCM-Q7-Hub,SPXVN260009378
+SV001105,Seller,S00011,2026-09-19 21:36:20,1,"Don mat hang ma boi thuong wa lau, chua thay tien den bu",Compensation,HN,HN-CauGiay-Hub,SPXVN260009379
+SV001106,Seller,S00239,2026-09-19 17:39:04,2,khách nhắn hỏi suốt mà hàng vẫn chưa tới tay họ,Late delivery,HN,HN-CauGiay-Hub,SPXVN260009380
+SV001107,Seller,S00253,2026-09-19 08:46:22,1,"hang hoan ve shop bi cham, hoan ca tuan chua ve",Return,HN,HN-LongBien-SOC,SPXVN260009381
+SV001108,Seller,S00044,2026-09-19 12:08:58,3,"Doi soat nhanh, tot",,HCM,HCM-ThuDuc-SOC,SPXVN260009382
+SV001109,Seller,S00267,2026-09-19 16:38:30,5,Ho tro nhiet tinh :(,,HN,HN-CauGiay-Hub,SPXVN260009383
+SV001110,Seller,S00124,2026-09-19 21:40:18,1,ok,,HCM,HCM-TanBinh-Hub,SPXVN260009384
+SV001111,Seller,S00060,2026-09-19 19:39:33,2,Trang thai don dung im 2 ngay o kho huhu,,HCM,HCM-ThuDuc-SOC,SPXVN260009391
+SV001112,Seller,S00060,2026-09-19 22:29:41,3,"đơn của shop bị giao trễ, khách hủy đơn liên tục :(",,HCM,HCM-ThuDuc-SOC,SPXVN260009392
+SV001113,Seller,S00133,2026-09-19 22:45:47,1,"đơn shop gửi giao trễ hẹn, bị khách đánh giá 1 sao",Late delivery,HCM,HCM-ThuDuc-SOC,SPXVN260009393
+SV001114,Seller,S00093,2026-09-19 10:32:00,1,Goi di goi lai nhieu lan van chua ai giai quyet,,HCM,HCM-ThuDuc-SOC,SPXVN260009394
+SV001115,Seller,S00160,2026-09-20 20:53:19,4,Ho tro nhiet tinh,,HN,HN-LongBien-SOC,SPXVN260009545
+SV001116,Seller,S00065,2026-09-20 15:36:42,3,"doi soat nhanh, tot",,DN,DN-HaiChau-Hub,SPXVN260009546
+SV001117,Seller,S00250,2026-09-20 07:12:45,3,ok,,HN,HN-CauGiay-Hub,SPXVN260009547
+SV001118,Seller,S00026,2026-09-20 22:30:38,2,tệ,,HCM,HCM-TanBinh-Hub,SPXVN260009548
+SV001119,Seller,S00222,2026-09-20 12:44:32,5,Ho tro nhiet tinh,,HN,HN-CauGiay-Hub,SPXVN260009549
+SV001120,Seller,S00207,2026-09-20 17:08:49,1,gọi đi gọi lại nhiều lần vẫn chưa ai giải quyết,Repeated contact,HN,HN-LongBien-SOC,SPXVN260009550
+SV001121,Seller,S00134,2026-09-20 18:04:11,5,Ho tro nhiet tinh,,CT,CT-NinhKieu-Hub,SPXVN260009551
+SV001122,Seller,S00027,2026-09-20 22:54:41,5,"Lay hang dung gio, shop hai long",,HCM,HCM-Q7-Hub,SPXVN260009552
+SV001123,Seller,S00054,2026-09-20 08:38:45,5,ok,,CT,CT-NinhKieu-Hub,SPXVN260009553
+SV001124,Seller,S00315,2026-09-20 13:10:03,2,"Đơn của shop bị giao trễ, khách hủy đơn liên tục :(",Late delivery,HN,HN-CauGiay-Hub,SPXVN260009554
+SV001125,Seller,S00108,2026-09-20 11:45:59,5,Ho tro nhiet tinh,,DN,DN-HaiChau-Hub,SPXVN260009555
+SV001126,Seller,S00249,2026-09-20 13:52:10,1,Hen lay hang ma khong ai den lay!!!,,HN,HN-LongBien-SOC,SPXVN260009556
+SV001127,Seller,S00073,2026-09-20 18:57:03,5,Hỗ trợ nhiệt tình,,HN,HN-CauGiay-Hub,SPXVN260009557
+SV001128,Seller,S00313,2026-09-20 09:35:41,5,"Đối soát nhanh, tốt",,HN,HN-LongBien-SOC,SPXVN260009558
+SV001129,Seller,S00114,2026-09-20 13:09:22,1,ok,,HN,HN-LongBien-SOC,SPXVN260009559
+SV001130,Seller,S00213,2026-09-20 14:39:52,2,"Đơn giao thất bại lần 2, shop không biết bước tiếp theo là gì",Failed delivery,HN,HN-CauGiay-Hub,SPXVN260009560
+SV001131,Seller,S00157,2026-09-20 12:15:22,1,"tiền cod chưa được đối soát, chậm 5 ngày rồi!!!",,HCM,HCM-Q7-Hub,SPXVN260009561
+SV001132,Seller,S00196,2026-09-20 17:37:58,3,Ho tro nhiet tinh,,DN,DN-HaiChau-Hub,SPXVN260009562
+SV001133,Seller,S00302,2026-09-20 08:38:57,5,"Đối soát nhanh, tốt",,HCM,HCM-ThuDuc-SOC,SPXVN260009563
+SV001134,Seller,S00011,2026-09-20 14:58:52,2,"nhieu don cua shop giao cham 3-4 ngay, khach phan nan",Late delivery,HCM,HCM-ThuDuc-SOC,SPXVN260009569
+SV001135,Seller,S00048,2026-09-20 12:20:57,3,"Đơn của shop bị giao trễ, khách hủy đơn liên tục huhu",Late delivery,HCM,HCM-ThuDuc-SOC,SPXVN260009570
+SV001136,Seller,S00048,2026-09-20 19:32:38,2,"Khách hỏi đơn liên tục vì trạng thái không đổi, thêm nữa là chưa nhận được tiền thu hộ tuần trước",Tracking / status,HCM,HCM-ThuDuc-SOC,SPXVN260009571

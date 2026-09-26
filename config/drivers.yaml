@@ -1,0 +1,111 @@
+# Operational drivers = things that can hurt SEVERAL stakeholders at the same time.
+# The cross-stakeholder engine groups classified VOC by driver (through sub-issues per stakeholder),
+# then looks for an operational signal that moved in the same place and at the same time.
+#
+#   voc_signals.<stakeholder>  sub-issues that are symptoms of this driver for that stakeholder
+#   ops_metric                 operational metric that can corroborate it (optional)
+#       source: ops | tickets ; event_type / status filter ; field ; agg: mean | rate
+#       higher_is_worse: true
+#   parcel_field               per-VOC journey column used for parcel-level linking (optional)
+#   actions                    recommended actions (primary first); owners
+#   impact_template            only measured quantities are filled in — no invented business impact
+
+hub_processing_delay:
+  label: Hub processing delay
+  owner: Operations
+  voc_signals:
+    Customer: [Late delivery, Tracking / status, Hub processing delay]
+    Seller: [Late delivery, Tracking / status, Repeated contact, Hub processing delay]
+    Rider: [Hub processing delay]
+  ops_metric:
+    source: ops
+    event_type: sort_complete
+    field: processing_time
+    agg: mean
+    unit: h
+    label: avg sort-complete processing time
+  parcel_field: hub_processing_hours
+  actions:
+    - {owner: Operations, action: "Operations investigation at {hub}: check inbound volume vs sorting capacity, staffing per shift and equipment downtime since {ops_first_date}"}
+    - {owner: CS / SS, action: "CS/SS communication update: proactive delay notice to affected buyers and shops served by {hub}; macro for 'order stuck at hub'"}
+    - {owner: Operations, action: "Rider dispatch: stagger rider check-in at {hub} until processing time is back to baseline"}
+
+last_mile_failed_delivery:
+  label: Last-mile failed delivery
+  owner: Operations
+  voc_signals:
+    Customer: [Failed delivery, Delivery attempt]
+    Seller: [Failed delivery, Delivery attempt, Return]
+    Rider: [Delivery attempt]
+  ops_metric:
+    source: ops
+    event_type: delivery_attempt
+    field: status
+    agg: rate
+    value: failed
+    unit: "%"
+    label: failed delivery-attempt rate
+  actions:
+    - {owner: Operations, action: "Review failed-attempt reasons and rider call-before-delivery compliance at {hub}"}
+    - {owner: SS, action: "Clarify the re-delivery / return rule for shops"}
+
+pickup_capacity:
+  label: Pickup capacity
+  owner: Operations
+  voc_signals:
+    Seller: [Pickup delay, Pickup failure]
+    Rider: [Handover issue]
+  ops_metric:
+    source: ops
+    event_type: pickup
+    field: processing_time
+    agg: mean
+    unit: h
+    label: avg pickup lead time
+  actions:
+    - {owner: Operations, action: "Check pickup route capacity and booking slots at {hub}"}
+
+payout_reconciliation:
+  label: Payout / reconciliation
+  owner: Finance
+  voc_signals:
+    Seller: [COD, Settlement]
+    Rider: [Settlement]
+  actions:
+    - {owner: Finance, action: "Check COD / settlement batch timeliness; publish payout calendar"}
+
+app_stability:
+  label: App stability / login
+  owner: Product
+  voc_signals:
+    Customer: [App issue, Account issue]
+    Seller: [App issue, Account issue]
+    Rider: [App issue, Account issue]
+  actions:
+    - {owner: Product, action: "Product/Tech triage of app login & crash reports around {hub}; check release and auth-service logs"}
+
+support_capacity:
+  label: Support responsiveness
+  owner: CS
+  voc_signals:
+    Customer: [Slow response, No response, Incorrect information]
+    Seller: [Slow response, No response, Incorrect information]
+    Rider: [Slow response, No response]
+  ops_metric:
+    source: tickets
+    field: first_response_hours
+    agg: mean
+    unit: h
+    label: avg ticket first-response time
+  actions:
+    - {owner: CS / SS, action: "Review staffing vs ticket inflow; audit macro accuracy"}
+
+parcel_integrity:
+  label: Parcel loss / damage
+  owner: Operations
+  voc_signals:
+    Customer: [Lost / damaged parcel]
+    Seller: [Lost / damaged parcel, Compensation]
+    Rider: [Lost / damaged parcel]
+  actions:
+    - {owner: Operations, action: "Audit handling at {hub}; fast-track compensation claims"}

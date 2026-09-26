@@ -1,0 +1,23 @@
+# Insight-level priority. Points are summed; every point awarded is listed as a reason in the output.
+significance:              # when is a stakeholder's change "significant"?
+  min_current: 8           # at least 8 negative VOC in the current window
+  min_growth: 0.20         # +20 %
+  min_delta: 5             # at least +5 records
+points:
+  volume:      [[50, 2], [20, 1]]             # current negative VOC >= threshold -> points
+  growth:      [[1.0, 3], [0.5, 2], [0.2, 1]] # growth ratio >= threshold -> points
+  stakeholders: {3: 3, 2: 2, 1: 0}            # number of significantly affected stakeholders
+  severity:    [[4, 2], [3, 1]]               # max taxonomy severity among the driver's sub-issues
+  ops_corroborated: 2
+  concentration: 1                            # >= 50 % of current VOC at one hub and >= 2x its baseline share
+  repeat_contacts: [[5, 1]]                   # stakeholders with >= 2 tickets in the window
+  sla_breach: [[0.30, 1]]                     # share of related tickets with first response > SLA
+thresholds: {P1: 8, P2: 4}                    # else P3
+sla_first_response_hours: 4
+ops_corroboration_min_change: 0.20            # ops metric must worsen >= 20 % at the hub
+parcel_link_min_share: 0.40
+help_center_stale_days: 180
+labels:
+  P1: Immediate investigation
+  P2: Review / investigate
+  P3: Monitor
