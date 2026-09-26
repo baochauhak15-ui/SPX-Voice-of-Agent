@@ -1,4 +1,4 @@
-# SPX Voice of Operations Agent
+# SPX Voice of Agent
 
 **An AI operations-intelligence agent that connects feedback from Customers, Sellers and Riders with
 support tickets, parcel-level operational events and Help Center knowledge — and turns it into
