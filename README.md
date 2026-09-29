@@ -58,7 +58,6 @@ Console output of the demo:
 
 ## Architecture
 
-Adapted from the [VOC Root-Cause Agent](https://github.com/nguyenngocvantrinh-nasha/voc-root-cause-agent-clawathon-2026)
 (Data Cleaner → Journey/Ticket Mapper → VOC Classifier → Root Cause Analyzer → Report Generator), redesigned
 for logistics and three stakeholders. Full reasoning in **[ARCHITECTURE_SPX.md](ARCHITECTURE_SPX.md)**.
 
